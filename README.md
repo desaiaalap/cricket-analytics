@@ -1,4 +1,15 @@
-cricket-analytics-lab/
+A central repo for all cricket-related projects:
+
+T20 scouting dashboard
+
+Match outcome prediction
+
+Player tracking (video)
+
+Bonus: sentiment analysis or injury tracking in future
+
+Folder Structure:
+cricket-analytics/
 ├── data/
 │   ├── raw/
 │   ├── processed/
