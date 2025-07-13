@@ -1,14 +1,16 @@
-A central repo for all cricket-related projects:
+# 🏏 Cricket Analytics Lab
 
-T20 scouting dashboard
+A unified portfolio of data-driven cricket analytics projects using Cricsheet data, machine learning, and computer vision. Built with a focus on T20 format analysis.
 
-Match outcome prediction
+## 🔍 Projects Included
 
-Player tracking (video)
+- **T20 Scouting Dashboard** – Compare players using batting/bowling KPIs
+- **Match Outcome Prediction** – Predict match results using ML
+- **Player Tracking with OpenCV** – Analyze bowler or fielder motion from video
+- **[Optional] Sentiment Analysis** – Fan reactions around major games
 
-Bonus: sentiment analysis or injury tracking in the future
 
-### Folder Structure:
+## Folder Structure:
 ```
 cricket-analytics/
 ├── data/
@@ -37,3 +39,7 @@ cricket-analytics/
 ├── README.md
 └── requirements.txt
 ```
+
+## 💡 Goal
+
+To showcase strong storytelling, modeling, and real-time analytics techniques applied to cricket, designed to be transferable to other team sports.
