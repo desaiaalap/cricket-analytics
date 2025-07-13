@@ -6,9 +6,10 @@ Match outcome prediction
 
 Player tracking (video)
 
-Bonus: sentiment analysis or injury tracking in future
+Bonus: sentiment analysis or injury tracking in the future
 
-Folder Structure:
+### Folder Structure:
+```
 cricket-analytics/
 ├── data/
 │   ├── raw/
@@ -35,3 +36,4 @@ cricket-analytics/
 │   └── scouting_blog.md
 ├── README.md
 └── requirements.txt
+```
