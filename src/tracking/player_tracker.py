@@ -4,7 +4,7 @@ Player tracking using OpenCV for video analysis.
 
 import cv2
 import numpy as np
-from typing import List, Tuple, Optional, Dict
+from typing import List, Tuple, Optional, Dict, Any
 import logging
 
 logger = logging.getLogger(__name__)
