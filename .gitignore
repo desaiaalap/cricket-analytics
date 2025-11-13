@@ -5,12 +5,17 @@ data/external/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !data/external/.gitkeep
+# Data file formats (but allow config files in root)
+data/**/*.csv
+data/**/*.json
+data/**/*.yaml
+data/**/*.yml
 *.csv
-*.json
-*.yaml
-*.yml
+!.github/**/*.yml
+!environment.yml
+!pytest.ini
 *.parquet
-*.pkl
+data/**/*.pkl
 *.db
 *.sqlite
 

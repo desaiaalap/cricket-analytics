@@ -1,0 +1,67 @@
+name: cricket-analytics
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyter
+  - jupyterlab
+  - notebook
+  - scikit-learn
+  - scipy
+  - statsmodels
+  - pip:
+    # Data Processing
+    - polars
+
+    # Machine Learning
+    - xgboost
+    - lightgbm
+    - catboost
+    - tensorflow>=2.10.0
+    - torch
+    - torchvision
+
+    # Computer Vision
+    - opencv-python
+    - opencv-contrib-python
+
+    # Visualization & Dashboards
+    - plotly
+    - streamlit
+    - altair
+
+    # Data Access & APIs
+    - requests
+    - beautifulsoup4
+    - lxml
+
+    # Utilities
+    - python-dotenv
+    - pyyaml
+    - tqdm
+    - joblib
+
+    # Testing
+    - pytest
+    - pytest-cov
+    - pytest-mock
+
+    # Code Quality
+    - black
+    - flake8
+    - pylint
+    - mypy
+
+    # Jupyter Extensions
+    - ipywidgets
+    - jupyter-dash
+
+    # Model Tracking (optional)
+    - mlflow
+    - wandb
