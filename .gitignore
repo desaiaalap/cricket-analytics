@@ -9,6 +9,7 @@ data/external/**/*.yaml
 data/external/**/*.yml
 data/raw/**/*.yaml
 data/raw/**/*.yml
+data/raw/**/*.csv
 
 # Processed data files (large CSVs)
 data/processed/*.csv
@@ -285,8 +286,6 @@ docs/_templates/
 !requirements.txt
 !requirements-dev.txt
 
-# Keep configuration files
-!*.yml
-!*.yaml
+# Keep configuration files (but not in data directories)
 !.gitignore
 !.gitattributes
