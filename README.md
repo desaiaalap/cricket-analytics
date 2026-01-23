@@ -307,7 +307,7 @@ This project is for educational and analytical purposes. Data sourced from Crics
 ## 👨‍💻 Author
 
 **Aalap Desai**
-- Email: adesai@altsportsdata.com
+- Email: aalapdesai0604@gmail.com
 - Project: T20 World Cup Analytics
 
 ---
