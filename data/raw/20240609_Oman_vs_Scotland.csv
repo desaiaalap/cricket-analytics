@@ -1,0 +1,204 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Oman,0.1,PS Athavale,MRJ Watt,0,{},{}
+1st innings,Oman,0.2,PS Athavale,MRJ Watt,0,{},{}
+1st innings,Oman,0.3,PS Athavale,MRJ Watt,0,{},{}
+1st innings,Oman,0.4,PS Athavale,MRJ Watt,1,{},{}
+1st innings,Oman,0.5,Naseem Khushi,MRJ Watt,1,{},{}
+1st innings,Oman,0.6,PS Athavale,MRJ Watt,1,{},{}
+1st innings,Oman,1.1,PS Athavale,BTJ Wheal,0,{},{}
+1st innings,Oman,1.2,PS Athavale,BTJ Wheal,1,{},{}
+1st innings,Oman,1.3,Naseem Khushi,BTJ Wheal,0,{},{}
+1st innings,Oman,1.4,Naseem Khushi,BTJ Wheal,0,{},{}
+1st innings,Oman,1.5,Naseem Khushi,BTJ Wheal,1,{},{}
+1st innings,Oman,1.6,PS Athavale,BTJ Wheal,0,{},{}
+1st innings,Oman,2.1,Naseem Khushi,CB Sole,0,{},{}
+1st innings,Oman,2.2,Naseem Khushi,CB Sole,0,{},{}
+1st innings,Oman,2.3,Naseem Khushi,CB Sole,6,{},{}
+1st innings,Oman,2.4,Naseem Khushi,CB Sole,2,{},{}
+1st innings,Oman,2.5,Naseem Khushi,CB Sole,0,{},"{'player_out': 'Naseem Khushi', 'fielders': ['MRJ Watt'], 'kind': 'caught'}"
+1st innings,Oman,2.6,Aqib Ilyas,CB Sole,4,{},{}
+1st innings,Oman,3.1,PS Athavale,BTJ Wheal,4,{},{}
+1st innings,Oman,3.2,PS Athavale,BTJ Wheal,0,{},{}
+1st innings,Oman,3.3,PS Athavale,BTJ Wheal,1,{'legbyes': 1},{}
+1st innings,Oman,3.4,Aqib Ilyas,BTJ Wheal,1,{},{}
+1st innings,Oman,3.5,PS Athavale,BTJ Wheal,2,{},{}
+1st innings,Oman,3.6,PS Athavale,BTJ Wheal,4,{},{}
+1st innings,Oman,4.1,Aqib Ilyas,CB Sole,6,{},{}
+1st innings,Oman,4.2,Aqib Ilyas,CB Sole,1,{},{}
+1st innings,Oman,4.3,PS Athavale,CB Sole,0,{},{}
+1st innings,Oman,4.4,PS Athavale,CB Sole,0,{},{}
+1st innings,Oman,4.5,PS Athavale,CB Sole,2,{},{}
+1st innings,Oman,4.6,PS Athavale,CB Sole,2,{},{}
+1st innings,Oman,5.1,Aqib Ilyas,SM Sharif,4,{},{}
+1st innings,Oman,5.2,Aqib Ilyas,SM Sharif,0,{},"{'player_out': 'Aqib Ilyas', 'kind': 'lbw'}"
+1st innings,Oman,5.3,Zeeshan Maqsood,SM Sharif,1,{},{}
+1st innings,Oman,5.4,PS Athavale,SM Sharif,4,{},{}
+1st innings,Oman,5.5,PS Athavale,SM Sharif,0,{},{}
+1st innings,Oman,5.6,PS Athavale,SM Sharif,4,{},{}
+1st innings,Oman,6.1,Zeeshan Maqsood,MRJ Watt,1,{},{}
+1st innings,Oman,6.2,PS Athavale,MRJ Watt,1,{},{}
+1st innings,Oman,6.3,Zeeshan Maqsood,MRJ Watt,1,{},{}
+1st innings,Oman,6.4,PS Athavale,MRJ Watt,4,{},{}
+1st innings,Oman,6.5,PS Athavale,MRJ Watt,1,{},{}
+1st innings,Oman,6.6,Zeeshan Maqsood,MRJ Watt,0,{},"{'player_out': 'Zeeshan Maqsood', 'fielders': ['MH Cross'], 'kind': 'caught'}"
+1st innings,Oman,7.1,PS Athavale,SM Sharif,1,{},{}
+1st innings,Oman,7.2,Khalid Kail,SM Sharif,0,{},{}
+1st innings,Oman,7.3,Khalid Kail,SM Sharif,0,{},{}
+1st innings,Oman,7.4,Khalid Kail,SM Sharif,2,{},{}
+1st innings,Oman,7.5,Khalid Kail,SM Sharif,1,{},{}
+1st innings,Oman,7.6,PS Athavale,SM Sharif,1,{},{}
+1st innings,Oman,8.1,PS Athavale,MRJ Watt,1,{},{}
+1st innings,Oman,8.2,Khalid Kail,MRJ Watt,1,{},{}
+1st innings,Oman,8.3,PS Athavale,MRJ Watt,1,{'wides': 1},{}
+1st innings,Oman,8.4,PS Athavale,MRJ Watt,1,{},{}
+1st innings,Oman,8.5,Khalid Kail,MRJ Watt,0,{},{}
+1st innings,Oman,8.6,Khalid Kail,MRJ Watt,1,{},"{'player_out': 'Khalid Kail', 'fielders': ['MRJ Watt', 'CB Sole'], 'kind': 'run out'}"
+1st innings,Oman,8.7,PS Athavale,MRJ Watt,1,{},{}
+1st innings,Oman,9.1,PS Athavale,MA Leask,1,{},{}
+1st innings,Oman,9.2,Ayan Khan,MA Leask,1,{},{}
+1st innings,Oman,9.3,PS Athavale,MA Leask,2,{},{}
+1st innings,Oman,9.4,PS Athavale,MA Leask,1,{},{}
+1st innings,Oman,9.5,Ayan Khan,MA Leask,1,{},{}
+1st innings,Oman,9.6,PS Athavale,MA Leask,0,{},{}
+1st innings,Oman,10.1,Ayan Khan,CB Sole,0,{},{}
+1st innings,Oman,10.2,Ayan Khan,CB Sole,1,{},{}
+1st innings,Oman,10.3,PS Athavale,CB Sole,0,{},{}
+1st innings,Oman,10.4,PS Athavale,CB Sole,1,{},{}
+1st innings,Oman,10.5,Ayan Khan,CB Sole,1,{},{}
+1st innings,Oman,10.6,PS Athavale,CB Sole,6,{},{}
+1st innings,Oman,11.1,Ayan Khan,MA Leask,0,{},{}
+1st innings,Oman,11.2,Ayan Khan,MA Leask,0,{},{}
+1st innings,Oman,11.3,Ayan Khan,MA Leask,0,{},{}
+1st innings,Oman,11.4,Ayan Khan,MA Leask,0,{},{}
+1st innings,Oman,11.5,Ayan Khan,MA Leask,0,{},{}
+1st innings,Oman,11.6,Ayan Khan,MA Leask,1,{'wides': 1},{}
+1st innings,Oman,11.7,Ayan Khan,MA Leask,1,{},{}
+1st innings,Oman,12.1,Ayan Khan,BTJ Wheal,0,{},{}
+1st innings,Oman,12.2,Ayan Khan,BTJ Wheal,0,{},{}
+1st innings,Oman,12.3,Ayan Khan,BTJ Wheal,1,{},{}
+1st innings,Oman,12.4,PS Athavale,BTJ Wheal,1,{},{}
+1st innings,Oman,12.5,Ayan Khan,BTJ Wheal,0,{},{}
+1st innings,Oman,12.6,Ayan Khan,BTJ Wheal,1,{},{}
+1st innings,Oman,13.1,Ayan Khan,MA Leask,4,{},{}
+1st innings,Oman,13.2,Ayan Khan,MA Leask,0,{},{}
+1st innings,Oman,13.3,Ayan Khan,MA Leask,2,{},{}
+1st innings,Oman,13.4,Ayan Khan,MA Leask,1,{},{}
+1st innings,Oman,13.5,PS Athavale,MA Leask,0,{},{}
+1st innings,Oman,13.6,PS Athavale,MA Leask,6,{},{}
+1st innings,Oman,14.1,Ayan Khan,MRJ Watt,0,{},{}
+1st innings,Oman,14.2,Ayan Khan,MRJ Watt,1,{'wides': 1},{}
+1st innings,Oman,14.3,Ayan Khan,MRJ Watt,0,{},{}
+1st innings,Oman,14.4,Ayan Khan,MRJ Watt,0,{},{}
+1st innings,Oman,14.5,Ayan Khan,MRJ Watt,4,{},{}
+1st innings,Oman,14.6,Ayan Khan,MRJ Watt,2,{},{}
+1st innings,Oman,14.7,Ayan Khan,MRJ Watt,1,{},{}
+1st innings,Oman,15.1,Ayan Khan,CN Greaves,0,{},{}
+1st innings,Oman,15.2,Ayan Khan,CN Greaves,1,{},{}
+1st innings,Oman,15.3,PS Athavale,CN Greaves,0,{},{}
+1st innings,Oman,15.4,PS Athavale,CN Greaves,0,{},"{'player_out': 'PS Athavale', 'fielders': ['BJ McMullen'], 'kind': 'caught'}"
+1st innings,Oman,15.5,Mehran Khan,CN Greaves,0,{},{}
+1st innings,Oman,15.6,Mehran Khan,CN Greaves,1,{},{}
+1st innings,Oman,16.1,Mehran Khan,CB Sole,1,{},{}
+1st innings,Oman,16.2,Ayan Khan,CB Sole,1,{},{}
+1st innings,Oman,16.3,Mehran Khan,CB Sole,1,{},{}
+1st innings,Oman,16.4,Ayan Khan,CB Sole,1,{},{}
+1st innings,Oman,16.5,Mehran Khan,CB Sole,4,{},{}
+1st innings,Oman,16.6,Mehran Khan,CB Sole,1,{},{}
+1st innings,Oman,17.1,Mehran Khan,SM Sharif,1,{'legbyes': 1},{}
+1st innings,Oman,17.2,Ayan Khan,SM Sharif,1,{},{}
+1st innings,Oman,17.3,Mehran Khan,SM Sharif,4,{},{}
+1st innings,Oman,17.4,Mehran Khan,SM Sharif,1,{},{}
+1st innings,Oman,17.5,Ayan Khan,SM Sharif,1,{},{}
+1st innings,Oman,17.6,Mehran Khan,SM Sharif,0,{},"{'player_out': 'Mehran Khan', 'fielders': ['MH Cross'], 'kind': 'caught'}"
+1st innings,Oman,18.1,Ayan Khan,BTJ Wheal,1,{},{}
+1st innings,Oman,18.2,Rafiullah,BTJ Wheal,0,{},{}
+1st innings,Oman,18.3,Rafiullah,BTJ Wheal,0,{},{}
+1st innings,Oman,18.4,Rafiullah,BTJ Wheal,0,{},"{'player_out': 'Rafiullah', 'fielders': ['SM Sharif'], 'kind': 'caught'}"
+1st innings,Oman,18.5,Shakeel Ahmed,BTJ Wheal,1,{},{}
+1st innings,Oman,18.6,Ayan Khan,BTJ Wheal,1,{},{}
+1st innings,Oman,19.1,Ayan Khan,SM Sharif,2,{},{}
+1st innings,Oman,19.2,Ayan Khan,SM Sharif,4,{},{}
+1st innings,Oman,19.3,Ayan Khan,SM Sharif,4,{},{}
+1st innings,Oman,19.4,Ayan Khan,SM Sharif,2,{},{}
+1st innings,Oman,19.5,Ayan Khan,SM Sharif,1,{},{}
+1st innings,Oman,19.6,Shakeel Ahmed,SM Sharif,2,{},{}
+2nd innings,Scotland,0.1,HG Munsey,Bilal Khan,1,{},{}
+2nd innings,Scotland,0.2,MA Jones,Bilal Khan,0,{},{}
+2nd innings,Scotland,0.3,MA Jones,Bilal Khan,0,{},{}
+2nd innings,Scotland,0.4,MA Jones,Bilal Khan,0,{},{}
+2nd innings,Scotland,0.5,MA Jones,Bilal Khan,0,{},{}
+2nd innings,Scotland,0.6,MA Jones,Bilal Khan,0,{},{}
+2nd innings,Scotland,1.1,HG Munsey,Shakeel Ahmed,0,{},{}
+2nd innings,Scotland,1.2,HG Munsey,Shakeel Ahmed,1,{},{}
+2nd innings,Scotland,1.3,MA Jones,Shakeel Ahmed,0,{},{}
+2nd innings,Scotland,1.4,MA Jones,Shakeel Ahmed,6,{},{}
+2nd innings,Scotland,1.5,MA Jones,Shakeel Ahmed,0,{},{}
+2nd innings,Scotland,1.6,MA Jones,Shakeel Ahmed,6,{},{}
+2nd innings,Scotland,2.1,HG Munsey,Bilal Khan,2,{},{}
+2nd innings,Scotland,2.2,HG Munsey,Bilal Khan,1,{},{}
+2nd innings,Scotland,2.3,MA Jones,Bilal Khan,0,{},{}
+2nd innings,Scotland,2.4,MA Jones,Bilal Khan,4,{},{}
+2nd innings,Scotland,2.5,MA Jones,Bilal Khan,0,{},{}
+2nd innings,Scotland,2.6,MA Jones,Bilal Khan,0,{},"{'player_out': 'MA Jones', 'fielders': ['Mehran Khan'], 'kind': 'caught'}"
+2nd innings,Scotland,3.1,HG Munsey,Kaleemullah,0,{},{}
+2nd innings,Scotland,3.2,HG Munsey,Kaleemullah,0,{},{}
+2nd innings,Scotland,3.3,HG Munsey,Kaleemullah,6,{},{}
+2nd innings,Scotland,3.4,HG Munsey,Kaleemullah,1,{},{}
+2nd innings,Scotland,3.5,BJ McMullen,Kaleemullah,0,{},{}
+2nd innings,Scotland,3.6,BJ McMullen,Kaleemullah,1,{},{}
+2nd innings,Scotland,4.1,BJ McMullen,Shakeel Ahmed,0,{},{}
+2nd innings,Scotland,4.2,BJ McMullen,Shakeel Ahmed,4,{},{}
+2nd innings,Scotland,4.3,BJ McMullen,Shakeel Ahmed,1,{},{}
+2nd innings,Scotland,4.4,HG Munsey,Shakeel Ahmed,2,{'byes': 2},{}
+2nd innings,Scotland,4.5,HG Munsey,Shakeel Ahmed,4,{},{}
+2nd innings,Scotland,4.6,HG Munsey,Shakeel Ahmed,1,{},{}
+2nd innings,Scotland,5.1,HG Munsey,Kaleemullah,1,{},{}
+2nd innings,Scotland,5.2,BJ McMullen,Kaleemullah,0,{},{}
+2nd innings,Scotland,5.3,BJ McMullen,Kaleemullah,0,{},{}
+2nd innings,Scotland,5.4,BJ McMullen,Kaleemullah,4,{},{}
+2nd innings,Scotland,5.5,BJ McMullen,Kaleemullah,4,{},{}
+2nd innings,Scotland,5.6,BJ McMullen,Kaleemullah,0,{},{}
+2nd innings,Scotland,6.1,HG Munsey,Aqib Ilyas,1,{},{}
+2nd innings,Scotland,6.2,BJ McMullen,Aqib Ilyas,4,{},{}
+2nd innings,Scotland,6.3,BJ McMullen,Aqib Ilyas,2,{},{}
+2nd innings,Scotland,6.4,BJ McMullen,Aqib Ilyas,1,{},{}
+2nd innings,Scotland,6.5,HG Munsey,Aqib Ilyas,6,{},{}
+2nd innings,Scotland,6.6,HG Munsey,Aqib Ilyas,6,{},{}
+2nd innings,Scotland,7.1,BJ McMullen,Mehran Khan,1,{},{}
+2nd innings,Scotland,7.2,HG Munsey,Mehran Khan,4,{},{}
+2nd innings,Scotland,7.3,HG Munsey,Mehran Khan,5,{'wides': 5},{}
+2nd innings,Scotland,7.4,HG Munsey,Mehran Khan,0,{},{}
+2nd innings,Scotland,7.5,HG Munsey,Mehran Khan,6,{},{}
+2nd innings,Scotland,7.6,HG Munsey,Mehran Khan,0,{},"{'player_out': 'HG Munsey', 'fielders': ['Shakeel Ahmed'], 'kind': 'caught'}"
+2nd innings,Scotland,7.7,RD Berrington,Mehran Khan,0,{},{}
+2nd innings,Scotland,8.1,BJ McMullen,Zeeshan Maqsood,4,{},{}
+2nd innings,Scotland,8.2,BJ McMullen,Zeeshan Maqsood,0,{},{}
+2nd innings,Scotland,8.3,BJ McMullen,Zeeshan Maqsood,1,{},{}
+2nd innings,Scotland,8.4,RD Berrington,Zeeshan Maqsood,3,{},{}
+2nd innings,Scotland,8.5,BJ McMullen,Zeeshan Maqsood,0,{},{}
+2nd innings,Scotland,8.6,BJ McMullen,Zeeshan Maqsood,6,{},{}
+2nd innings,Scotland,9.1,RD Berrington,Aqib Ilyas,4,{},{}
+2nd innings,Scotland,9.2,RD Berrington,Aqib Ilyas,0,{},{}
+2nd innings,Scotland,9.3,RD Berrington,Aqib Ilyas,6,{},{}
+2nd innings,Scotland,9.4,RD Berrington,Aqib Ilyas,0,{},{}
+2nd innings,Scotland,9.5,RD Berrington,Aqib Ilyas,0,{},"{'player_out': 'RD Berrington', 'kind': 'bowled'}"
+2nd innings,Scotland,9.6,MH Cross,Aqib Ilyas,0,{},{}
+2nd innings,Scotland,10.1,BJ McMullen,Zeeshan Maqsood,4,{},{}
+2nd innings,Scotland,10.2,BJ McMullen,Zeeshan Maqsood,2,{},{}
+2nd innings,Scotland,10.3,BJ McMullen,Zeeshan Maqsood,1,{},{}
+2nd innings,Scotland,10.4,MH Cross,Zeeshan Maqsood,0,{},{}
+2nd innings,Scotland,10.5,MH Cross,Zeeshan Maqsood,1,{},{}
+2nd innings,Scotland,10.6,BJ McMullen,Zeeshan Maqsood,0,{},{}
+2nd innings,Scotland,11.1,MH Cross,Aqib Ilyas,1,{},{}
+2nd innings,Scotland,11.2,BJ McMullen,Aqib Ilyas,2,{},{}
+2nd innings,Scotland,11.3,BJ McMullen,Aqib Ilyas,0,{},{}
+2nd innings,Scotland,11.4,BJ McMullen,Aqib Ilyas,4,{},{}
+2nd innings,Scotland,11.5,BJ McMullen,Aqib Ilyas,4,{},{}
+2nd innings,Scotland,11.6,BJ McMullen,Aqib Ilyas,0,{},{}
+2nd innings,Scotland,12.1,MH Cross,Ayan Khan,1,{},{}
+2nd innings,Scotland,12.2,BJ McMullen,Ayan Khan,6,{},{}
+2nd innings,Scotland,12.3,BJ McMullen,Ayan Khan,1,{},{}
+2nd innings,Scotland,12.4,MH Cross,Ayan Khan,6,{},{}
+2nd innings,Scotland,12.5,MH Cross,Ayan Khan,6,{},{}
+2nd innings,Scotland,12.6,MH Cross,Ayan Khan,0,{},{}
+2nd innings,Scotland,13.1,BJ McMullen,Bilal Khan,4,{},{}

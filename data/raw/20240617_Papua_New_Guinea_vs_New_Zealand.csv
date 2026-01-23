@@ -1,0 +1,197 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Papua New Guinea,0.1,TP Ura,TA Boult,1,{},{}
+1st innings,Papua New Guinea,0.2,A Vala,TA Boult,0,{},{}
+1st innings,Papua New Guinea,0.3,A Vala,TA Boult,0,{},{}
+1st innings,Papua New Guinea,0.4,A Vala,TA Boult,0,{},{}
+1st innings,Papua New Guinea,0.5,A Vala,TA Boult,0,{},{}
+1st innings,Papua New Guinea,0.6,A Vala,TA Boult,1,{'legbyes': 1},{}
+1st innings,Papua New Guinea,1.1,A Vala,TG Southee,0,{},{}
+1st innings,Papua New Guinea,1.2,A Vala,TG Southee,1,{'legbyes': 1},{}
+1st innings,Papua New Guinea,1.3,TP Ura,TG Southee,0,{},"{'player_out': 'TP Ura', 'fielders': ['GD Phillips'], 'kind': 'caught'}"
+1st innings,Papua New Guinea,1.4,CJA Amini,TG Southee,0,{},{}
+1st innings,Papua New Guinea,1.5,CJA Amini,TG Southee,4,{},{}
+1st innings,Papua New Guinea,1.6,CJA Amini,TG Southee,0,{},{}
+1st innings,Papua New Guinea,2.1,A Vala,TA Boult,0,{},{}
+1st innings,Papua New Guinea,2.2,A Vala,TA Boult,0,{},{}
+1st innings,Papua New Guinea,2.3,A Vala,TA Boult,0,{},{}
+1st innings,Papua New Guinea,2.4,A Vala,TA Boult,4,{},{}
+1st innings,Papua New Guinea,2.5,A Vala,TA Boult,1,{},{}
+1st innings,Papua New Guinea,2.6,CJA Amini,TA Boult,0,{},{}
+1st innings,Papua New Guinea,3.1,A Vala,TG Southee,0,{},{}
+1st innings,Papua New Guinea,3.2,A Vala,TG Southee,0,{},{}
+1st innings,Papua New Guinea,3.3,A Vala,TG Southee,1,{},{}
+1st innings,Papua New Guinea,3.4,CJA Amini,TG Southee,0,{},{}
+1st innings,Papua New Guinea,3.5,CJA Amini,TG Southee,1,{'wides': 1},{}
+1st innings,Papua New Guinea,3.6,CJA Amini,TG Southee,0,{},{}
+1st innings,Papua New Guinea,3.7,CJA Amini,TG Southee,0,{},{}
+1st innings,Papua New Guinea,4.1,A Vala,LH Ferguson,0,{},"{'player_out': 'A Vala', 'fielders': ['DJ Mitchell'], 'kind': 'caught'}"
+1st innings,Papua New Guinea,4.2,S Bau,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,4.3,S Bau,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,4.4,S Bau,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,4.5,S Bau,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,4.6,S Bau,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,5.1,CJA Amini,TG Southee,1,{},{}
+1st innings,Papua New Guinea,5.2,S Bau,TG Southee,1,{},{}
+1st innings,Papua New Guinea,5.3,CJA Amini,TG Southee,0,{},{}
+1st innings,Papua New Guinea,5.4,CJA Amini,TG Southee,0,{},{}
+1st innings,Papua New Guinea,5.5,CJA Amini,TG Southee,0,{},{}
+1st innings,Papua New Guinea,5.6,CJA Amini,TG Southee,0,{},{}
+1st innings,Papua New Guinea,6.1,S Bau,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,6.2,S Bau,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,6.3,S Bau,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,6.4,S Bau,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,6.5,S Bau,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,6.6,S Bau,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,7.1,CJA Amini,IS Sodhi,1,{},{}
+1st innings,Papua New Guinea,7.2,S Bau,IS Sodhi,0,{},{}
+1st innings,Papua New Guinea,7.3,S Bau,IS Sodhi,0,{},{}
+1st innings,Papua New Guinea,7.4,S Bau,IS Sodhi,1,{},{}
+1st innings,Papua New Guinea,7.5,CJA Amini,IS Sodhi,4,{},{}
+1st innings,Papua New Guinea,7.6,CJA Amini,IS Sodhi,1,{'wides': 1},{}
+1st innings,Papua New Guinea,7.7,CJA Amini,IS Sodhi,2,{},{}
+1st innings,Papua New Guinea,8.1,S Bau,MJ Santner,0,{},{}
+1st innings,Papua New Guinea,8.2,S Bau,MJ Santner,0,{},{}
+1st innings,Papua New Guinea,8.3,S Bau,MJ Santner,1,{},{}
+1st innings,Papua New Guinea,8.4,CJA Amini,MJ Santner,0,{},{}
+1st innings,Papua New Guinea,8.5,CJA Amini,MJ Santner,1,{},{}
+1st innings,Papua New Guinea,8.6,S Bau,MJ Santner,0,{},{}
+1st innings,Papua New Guinea,9.1,CJA Amini,IS Sodhi,0,{},{}
+1st innings,Papua New Guinea,9.2,CJA Amini,IS Sodhi,1,{},{}
+1st innings,Papua New Guinea,9.3,S Bau,IS Sodhi,1,{'legbyes': 1},{}
+1st innings,Papua New Guinea,9.4,CJA Amini,IS Sodhi,1,{},{}
+1st innings,Papua New Guinea,9.5,S Bau,IS Sodhi,4,{},{}
+1st innings,Papua New Guinea,9.6,S Bau,IS Sodhi,1,{},{}
+1st innings,Papua New Guinea,10.1,S Bau,MJ Santner,1,{},{}
+1st innings,Papua New Guinea,10.2,CJA Amini,MJ Santner,1,{},{}
+1st innings,Papua New Guinea,10.3,S Bau,MJ Santner,3,{},{}
+1st innings,Papua New Guinea,10.4,CJA Amini,MJ Santner,0,{},{}
+1st innings,Papua New Guinea,10.5,CJA Amini,MJ Santner,1,{},{}
+1st innings,Papua New Guinea,10.6,S Bau,MJ Santner,0,{},{}
+1st innings,Papua New Guinea,11.1,CJA Amini,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,11.2,CJA Amini,LH Ferguson,0,{},"{'player_out': 'CJA Amini', 'kind': 'lbw'}"
+1st innings,Papua New Guinea,11.3,H Hiri,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,11.4,H Hiri,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,11.5,H Hiri,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,11.6,H Hiri,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,12.1,S Bau,MJ Santner,0,{},{}
+1st innings,Papua New Guinea,12.2,S Bau,MJ Santner,0,{},"{'player_out': 'S Bau', 'fielders': ['FH Allen'], 'kind': 'caught'}"
+1st innings,Papua New Guinea,12.3,CA Soper,MJ Santner,0,{},{}
+1st innings,Papua New Guinea,12.4,CA Soper,MJ Santner,1,{'wides': 1},{}
+1st innings,Papua New Guinea,12.5,CA Soper,MJ Santner,0,{},{}
+1st innings,Papua New Guinea,12.6,CA Soper,MJ Santner,0,{},{}
+1st innings,Papua New Guinea,12.7,CA Soper,MJ Santner,1,{},{}
+1st innings,Papua New Guinea,13.1,CA Soper,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,13.2,CA Soper,LH Ferguson,0,{},"{'player_out': 'CA Soper', 'kind': 'bowled'}"
+1st innings,Papua New Guinea,13.3,K Doriga,LH Ferguson,2,{'legbyes': 2},{}
+1st innings,Papua New Guinea,13.4,K Doriga,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,13.5,K Doriga,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,13.6,K Doriga,LH Ferguson,0,{},{}
+1st innings,Papua New Guinea,14.1,H Hiri,MJ Santner,0,{},{}
+1st innings,Papua New Guinea,14.2,H Hiri,MJ Santner,0,{},{}
+1st innings,Papua New Guinea,14.3,H Hiri,MJ Santner,2,{},{}
+1st innings,Papua New Guinea,14.4,H Hiri,MJ Santner,0,{},{}
+1st innings,Papua New Guinea,14.5,H Hiri,MJ Santner,1,{},{}
+1st innings,Papua New Guinea,14.6,K Doriga,MJ Santner,4,{},{}
+1st innings,Papua New Guinea,15.1,H Hiri,TA Boult,4,{},{}
+1st innings,Papua New Guinea,15.2,H Hiri,TA Boult,0,{},"{'player_out': 'H Hiri', 'kind': 'bowled'}"
+1st innings,Papua New Guinea,15.3,N Vanua,TA Boult,0,{},{}
+1st innings,Papua New Guinea,15.4,N Vanua,TA Boult,1,{},{}
+1st innings,Papua New Guinea,15.5,K Doriga,TA Boult,1,{},{}
+1st innings,Papua New Guinea,15.6,N Vanua,TA Boult,1,{},{}
+1st innings,Papua New Guinea,16.1,N Vanua,TG Southee,0,{},{}
+1st innings,Papua New Guinea,16.2,N Vanua,TG Southee,1,{'legbyes': 1},{}
+1st innings,Papua New Guinea,16.3,K Doriga,TG Southee,1,{'wides': 1},{}
+1st innings,Papua New Guinea,16.4,K Doriga,TG Southee,0,{},"{'player_out': 'K Doriga', 'kind': 'bowled'}"
+1st innings,Papua New Guinea,16.5,A Nao,TG Southee,0,{},{}
+1st innings,Papua New Guinea,16.6,A Nao,TG Southee,1,{},{}
+1st innings,Papua New Guinea,16.7,N Vanua,TG Southee,1,{},{}
+1st innings,Papua New Guinea,17.1,N Vanua,IS Sodhi,4,{},{}
+1st innings,Papua New Guinea,17.2,N Vanua,IS Sodhi,0,{},{}
+1st innings,Papua New Guinea,17.3,N Vanua,IS Sodhi,6,{},{}
+1st innings,Papua New Guinea,17.4,N Vanua,IS Sodhi,0,{},{}
+1st innings,Papua New Guinea,17.5,N Vanua,IS Sodhi,1,{},{}
+1st innings,Papua New Guinea,17.6,A Nao,IS Sodhi,0,{},{}
+1st innings,Papua New Guinea,18.1,N Vanua,TA Boult,1,{'legbyes': 1},{}
+1st innings,Papua New Guinea,18.2,A Nao,TA Boult,0,{},{}
+1st innings,Papua New Guinea,18.3,A Nao,TA Boult,1,{},{}
+1st innings,Papua New Guinea,18.4,N Vanua,TA Boult,0,{},"{'player_out': 'N Vanua', 'fielders': ['DJ Mitchell'], 'kind': 'caught'}"
+1st innings,Papua New Guinea,18.5,KV Morea,TA Boult,0,{},{}
+1st innings,Papua New Guinea,18.6,KV Morea,TA Boult,0,{},{}
+1st innings,Papua New Guinea,19.1,A Nao,IS Sodhi,1,{},{}
+1st innings,Papua New Guinea,19.2,KV Morea,IS Sodhi,0,{},"{'player_out': 'KV Morea', 'fielders': ['DP Conway'], 'kind': 'stumped'}"
+1st innings,Papua New Guinea,19.3,SI Kamea,IS Sodhi,1,{},{}
+1st innings,Papua New Guinea,19.4,A Nao,IS Sodhi,0,{},"{'player_out': 'A Nao', 'fielders': ['DJ Mitchell'], 'kind': 'caught'}"
+2nd innings,New Zealand,0.1,FH Allen,KV Morea,0,{},{}
+2nd innings,New Zealand,0.2,FH Allen,KV Morea,0,{},"{'player_out': 'FH Allen', 'fielders': ['K Doriga'], 'kind': 'caught'}"
+2nd innings,New Zealand,0.3,R Ravindra,KV Morea,0,{},{}
+2nd innings,New Zealand,0.4,R Ravindra,KV Morea,0,{},{}
+2nd innings,New Zealand,0.5,R Ravindra,KV Morea,0,{},{}
+2nd innings,New Zealand,0.6,R Ravindra,KV Morea,1,{},{}
+2nd innings,New Zealand,1.1,R Ravindra,A Nao,1,{},{}
+2nd innings,New Zealand,1.2,DP Conway,A Nao,0,{},{}
+2nd innings,New Zealand,1.3,DP Conway,A Nao,0,{},{}
+2nd innings,New Zealand,1.4,DP Conway,A Nao,4,{},{}
+2nd innings,New Zealand,1.5,DP Conway,A Nao,0,{},{}
+2nd innings,New Zealand,1.6,DP Conway,A Nao,0,{},{}
+2nd innings,New Zealand,2.1,R Ravindra,A Vala,1,{},{}
+2nd innings,New Zealand,2.2,DP Conway,A Vala,1,{},{}
+2nd innings,New Zealand,2.3,R Ravindra,A Vala,1,{'byes': 1},{}
+2nd innings,New Zealand,2.4,DP Conway,A Vala,0,{},{}
+2nd innings,New Zealand,2.5,DP Conway,A Vala,1,{},{}
+2nd innings,New Zealand,2.6,R Ravindra,A Vala,1,{},{}
+2nd innings,New Zealand,3.1,R Ravindra,A Nao,1,{},{}
+2nd innings,New Zealand,3.2,DP Conway,A Nao,6,{},{}
+2nd innings,New Zealand,3.3,DP Conway,A Nao,1,{},{}
+2nd innings,New Zealand,3.4,R Ravindra,A Nao,1,{},{}
+2nd innings,New Zealand,3.5,DP Conway,A Nao,0,{},{}
+2nd innings,New Zealand,3.6,DP Conway,A Nao,0,{},{}
+2nd innings,New Zealand,4.1,R Ravindra,KV Morea,0,{},"{'player_out': 'R Ravindra', 'fielders': ['SI Kamea'], 'kind': 'caught'}"
+2nd innings,New Zealand,4.2,KS Williamson,KV Morea,1,{},{}
+2nd innings,New Zealand,4.3,DP Conway,KV Morea,0,{},{}
+2nd innings,New Zealand,4.4,DP Conway,KV Morea,0,{},{}
+2nd innings,New Zealand,4.5,DP Conway,KV Morea,0,{},{}
+2nd innings,New Zealand,4.6,DP Conway,KV Morea,0,{},{}
+2nd innings,New Zealand,5.1,KS Williamson,A Nao,0,{},{}
+2nd innings,New Zealand,5.2,KS Williamson,A Nao,1,{},{}
+2nd innings,New Zealand,5.3,DP Conway,A Nao,6,{},{}
+2nd innings,New Zealand,5.4,DP Conway,A Nao,1,{},{}
+2nd innings,New Zealand,5.5,KS Williamson,A Nao,0,{},{}
+2nd innings,New Zealand,5.6,KS Williamson,A Nao,0,{},{}
+2nd innings,New Zealand,6.1,DP Conway,CJA Amini,0,{},{}
+2nd innings,New Zealand,6.2,DP Conway,CJA Amini,1,{},{}
+2nd innings,New Zealand,6.3,KS Williamson,CJA Amini,1,{},{}
+2nd innings,New Zealand,6.4,DP Conway,CJA Amini,1,{},{}
+2nd innings,New Zealand,6.5,KS Williamson,CJA Amini,1,{},{}
+2nd innings,New Zealand,6.6,DP Conway,CJA Amini,1,{},{}
+2nd innings,New Zealand,7.1,DP Conway,SI Kamea,0,{},{}
+2nd innings,New Zealand,7.2,DP Conway,SI Kamea,0,{},{}
+2nd innings,New Zealand,7.3,DP Conway,SI Kamea,0,{},{}
+2nd innings,New Zealand,7.4,DP Conway,SI Kamea,1,{},{}
+2nd innings,New Zealand,7.5,KS Williamson,SI Kamea,4,{},{}
+2nd innings,New Zealand,7.6,KS Williamson,SI Kamea,0,{},{}
+2nd innings,New Zealand,8.1,DP Conway,CA Soper,0,{},{}
+2nd innings,New Zealand,8.2,DP Conway,CA Soper,4,{},{}
+2nd innings,New Zealand,8.3,DP Conway,CA Soper,1,{},{}
+2nd innings,New Zealand,8.4,KS Williamson,CA Soper,3,{},{}
+2nd innings,New Zealand,8.5,DP Conway,CA Soper,0,{},{}
+2nd innings,New Zealand,8.6,DP Conway,CA Soper,6,{},{}
+2nd innings,New Zealand,9.1,KS Williamson,SI Kamea,1,{},{}
+2nd innings,New Zealand,9.2,DP Conway,SI Kamea,0,{},"{'player_out': 'DP Conway', 'kind': 'lbw'}"
+2nd innings,New Zealand,9.3,DJ Mitchell,SI Kamea,0,{},{}
+2nd innings,New Zealand,9.4,DJ Mitchell,SI Kamea,0,{},{}
+2nd innings,New Zealand,9.5,DJ Mitchell,SI Kamea,0,{},{}
+2nd innings,New Zealand,9.6,DJ Mitchell,SI Kamea,2,{},{}
+2nd innings,New Zealand,10.1,KS Williamson,N Vanua,0,{},{}
+2nd innings,New Zealand,10.2,KS Williamson,N Vanua,0,{},{}
+2nd innings,New Zealand,10.3,KS Williamson,N Vanua,0,{},{}
+2nd innings,New Zealand,10.4,KS Williamson,N Vanua,4,{},{}
+2nd innings,New Zealand,10.5,KS Williamson,N Vanua,1,{},{}
+2nd innings,New Zealand,10.6,DJ Mitchell,N Vanua,1,{},{}
+2nd innings,New Zealand,11.1,DJ Mitchell,SI Kamea,4,{},{}
+2nd innings,New Zealand,11.2,DJ Mitchell,SI Kamea,1,{},{}
+2nd innings,New Zealand,11.3,KS Williamson,SI Kamea,1,{},{}
+2nd innings,New Zealand,11.4,DJ Mitchell,SI Kamea,4,{},{}
+2nd innings,New Zealand,11.5,DJ Mitchell,SI Kamea,4,{},{}
+2nd innings,New Zealand,11.6,DJ Mitchell,SI Kamea,1,{},{}
+2nd innings,New Zealand,12.1,DJ Mitchell,KV Morea,0,{},{}
+2nd innings,New Zealand,12.2,DJ Mitchell,KV Morea,2,{},{}

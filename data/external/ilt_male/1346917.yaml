@@ -1,0 +1,2155 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-27'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Abu Dhabi
+  competition: International League T20
+  dates:
+  - '2023-01-14'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: MI Emirates
+    by:
+      runs: 49
+  overs: 20
+  player_of_match:
+  - Waseem Muhammad
+  players:
+    MI Emirates:
+    - WCF Smeed
+    - Waseem Muhammad
+    - ADS Fletcher
+    - N Pooran
+    - KA Pollard
+    - Najibullah Zadran
+    - DJ Bravo
+    - TA Boult
+    - Imran Tahir
+    - Fazalhaq Farooqi
+    - Zahoor Khan
+    Sharjah Warriors:
+    - Rahmanullah Gurbaz
+    - E Lewis
+    - DJ Malan
+    - MM Ali
+    - T Kohler-Cadmore
+    - JL Denly
+    - Mohammad Nabi
+    - CR Woakes
+    - Junaid Siddique
+    - Naveen-ul-Haq
+    - KP Meiyappan
+  registry:
+    people:
+      ADS Fletcher: 1bae756b
+      Akbar Ali: e753931d
+      CR Woakes: 4c5d73db
+      DJ Bravo: 87e562a9
+      DJ Malan: ad9c32a2
+      E Lewis: 0ebfb1ad
+      Fazalhaq Farooqi: e9c7f0d0
+      Imran Tahir: acee4cc4
+      JL Denly: bdadf7da
+      Junaid Siddique: 84dc72db
+      KA Pollard: a757b0d8
+      KP Meiyappan: b91f2a31
+      MJ Saggers: 402d5937
+      MM Ali: bb351c23
+      Mohammad Nabi: 62af8546
+      N Pooran: 3241e3fd
+      Najibullah Zadran: 1212cbec
+      Naveen-ul-Haq: c0c411cb
+      RA Kettleborough: 4017868f
+      RSA Palliyaguruge: 4339c19d
+      Rahmanullah Gurbaz: 0bacade8
+      SJA Taufel: 4b43d5ac
+      T Kohler-Cadmore: f836b33d
+      TA Boult: a818c1be
+      WCF Smeed: 4e18e961
+      Waseem Muhammad: 6f02fe2a
+      Zahoor Khan: f0e293b0
+  teams:
+  - MI Emirates
+  - Sharjah Warriors
+  toss:
+    winner: Sharjah Warriors
+    decision: field
+  umpires:
+  - Akbar Ali
+  - RA Kettleborough
+  venue: Zayed Cricket Stadium, Abu Dhabi
+innings:
+- 1st innings:
+    team: MI Emirates
+    deliveries:
+    - 0.1:
+        non_striker: Waseem Muhammad
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WCF Smeed
+    - 0.2:
+        non_striker: Waseem Muhammad
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 0.3:
+        non_striker: Waseem Muhammad
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 0.4:
+        non_striker: Waseem Muhammad
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 0.5:
+        non_striker: Waseem Muhammad
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 0.6:
+        non_striker: Waseem Muhammad
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 1.1:
+        non_striker: WCF Smeed
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.2:
+        non_striker: WCF Smeed
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.3:
+        non_striker: WCF Smeed
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Waseem Muhammad
+    - 1.4:
+        non_striker: WCF Smeed
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 1.5:
+        non_striker: WCF Smeed
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 1.6:
+        non_striker: WCF Smeed
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Waseem Muhammad
+    - 1.7:
+        non_striker: WCF Smeed
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 2.1:
+        non_striker: WCF Smeed
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 2.2:
+        non_striker: WCF Smeed
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 2.3:
+        non_striker: Waseem Muhammad
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+        wicket:
+          player_out: WCF Smeed
+          fielders:
+          - Rahmanullah Gurbaz
+          kind: caught
+    - 2.4:
+        non_striker: Waseem Muhammad
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.5:
+        non_striker: Waseem Muhammad
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.6:
+        non_striker: Waseem Muhammad
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 3.1:
+        non_striker: Waseem Muhammad
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 3.2:
+        non_striker: Waseem Muhammad
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 3.3:
+        non_striker: Waseem Muhammad
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ADS Fletcher
+    - 3.4:
+        non_striker: ADS Fletcher
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 3.5:
+        non_striker: Waseem Muhammad
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 3.6:
+        non_striker: Waseem Muhammad
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ADS Fletcher
+    - 3.7:
+        non_striker: Waseem Muhammad
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.1:
+        non_striker: ADS Fletcher
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 4.2:
+        non_striker: Waseem Muhammad
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: ADS Fletcher
+    - 4.3:
+        non_striker: Waseem Muhammad
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.4:
+        non_striker: Waseem Muhammad
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.5:
+        non_striker: Waseem Muhammad
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 4.6:
+        non_striker: ADS Fletcher
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 5.1:
+        non_striker: Waseem Muhammad
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 5.2:
+        non_striker: Waseem Muhammad
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 5.3:
+        non_striker: Waseem Muhammad
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 5.4:
+        non_striker: Waseem Muhammad
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 5.5:
+        non_striker: Waseem Muhammad
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 5.6:
+        non_striker: Waseem Muhammad
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 6.1:
+        non_striker: Waseem Muhammad
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 6.2:
+        non_striker: ADS Fletcher
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 6.3:
+        non_striker: ADS Fletcher
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 6.4:
+        non_striker: ADS Fletcher
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 6.5:
+        non_striker: ADS Fletcher
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 6.6:
+        non_striker: ADS Fletcher
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 7.1:
+        non_striker: ADS Fletcher
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 7.2:
+        non_striker: ADS Fletcher
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 7.3:
+        non_striker: ADS Fletcher
+        bowler: CR Woakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Muhammad
+    - 7.4:
+        non_striker: ADS Fletcher
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 7.5:
+        non_striker: ADS Fletcher
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 7.6:
+        non_striker: Waseem Muhammad
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: ADS Fletcher
+          fielders:
+          - Rahmanullah Gurbaz
+          kind: caught
+    - 7.7:
+        non_striker: Waseem Muhammad
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 8.1:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 8.2:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 8.3:
+        non_striker: N Pooran
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 8.4:
+        non_striker: N Pooran
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 8.5:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 8.6:
+        non_striker: N Pooran
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 9.1:
+        non_striker: Waseem Muhammad
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 9.2:
+        non_striker: N Pooran
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 9.3:
+        non_striker: Waseem Muhammad
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 9.4:
+        non_striker: N Pooran
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 9.5:
+        non_striker: Waseem Muhammad
+        bowler: JL Denly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: N Pooran
+    - 9.6:
+        non_striker: N Pooran
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 10.1:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 10.2:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 10.3:
+        non_striker: N Pooran
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 10.4:
+        non_striker: N Pooran
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 10.5:
+        non_striker: N Pooran
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 10.6:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Nabi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 10.7:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 11.1:
+        non_striker: Waseem Muhammad
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 11.2:
+        non_striker: Waseem Muhammad
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 11.3:
+        non_striker: N Pooran
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 11.4:
+        non_striker: Waseem Muhammad
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 11.5:
+        non_striker: Waseem Muhammad
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 11.6:
+        non_striker: Waseem Muhammad
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 12.1:
+        non_striker: N Pooran
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 12.2:
+        non_striker: N Pooran
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 12.3:
+        non_striker: N Pooran
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 12.4:
+        non_striker: N Pooran
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 12.5:
+        non_striker: Waseem Muhammad
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 12.6:
+        non_striker: Waseem Muhammad
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 13.1:
+        non_striker: Waseem Muhammad
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 13.2:
+        non_striker: N Pooran
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 13.3:
+        non_striker: N Pooran
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 13.4:
+        non_striker: Waseem Muhammad
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 13.5:
+        non_striker: Waseem Muhammad
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 13.6:
+        non_striker: Waseem Muhammad
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 14.1:
+        non_striker: N Pooran
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 14.2:
+        non_striker: N Pooran
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 14.3:
+        non_striker: N Pooran
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          fielders:
+          - E Lewis
+          kind: caught
+    - 14.4:
+        non_striker: N Pooran
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 14.5:
+        non_striker: KA Pollard
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 14.6:
+        non_striker: KA Pollard
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 15.1:
+        non_striker: KA Pollard
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 15.2:
+        non_striker: KA Pollard
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 15.3:
+        non_striker: KA Pollard
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 15.4:
+        non_striker: N Pooran
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 15.5:
+        non_striker: N Pooran
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 15.6:
+        non_striker: KA Pollard
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 15.7:
+        non_striker: KA Pollard
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 16.1:
+        non_striker: KA Pollard
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 16.2:
+        non_striker: KA Pollard
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 16.3:
+        non_striker: KA Pollard
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          fielders:
+          - JL Denly
+          kind: caught
+    - 16.4:
+        non_striker: KA Pollard
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+        wicket:
+          player_out: Najibullah Zadran
+          fielders:
+          - Rahmanullah Gurbaz
+          kind: caught
+    - 16.5:
+        non_striker: KA Pollard
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 16.6:
+        non_striker: KA Pollard
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 17.1:
+        non_striker: DJ Bravo
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 17.2:
+        non_striker: KA Pollard
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 17.3:
+        non_striker: DJ Bravo
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 17.4:
+        non_striker: DJ Bravo
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 17.5:
+        non_striker: KA Pollard
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 17.6:
+        non_striker: DJ Bravo
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 18.1:
+        non_striker: KA Pollard
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 18.2:
+        non_striker: KA Pollard
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 18.3:
+        non_striker: DJ Bravo
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 18.4:
+        non_striker: KA Pollard
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Bravo
+    - 18.5:
+        non_striker: KA Pollard
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Bravo
+    - 18.6:
+        non_striker: KA Pollard
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Bravo
+    - 19.1:
+        non_striker: DJ Bravo
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 19.2:
+        non_striker: DJ Bravo
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 19.3:
+        non_striker: DJ Bravo
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 19.4:
+        non_striker: DJ Bravo
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 19.5:
+        non_striker: DJ Bravo
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 19.6:
+        non_striker: KA Pollard
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Bravo
+- 2nd innings:
+    team: Sharjah Warriors
+    deliveries:
+    - 0.1:
+        non_striker: E Lewis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.2:
+        non_striker: E Lewis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.3:
+        non_striker: E Lewis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.4:
+        non_striker: E Lewis
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 0.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 0.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 1.1:
+        non_striker: E Lewis
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Rahmanullah Gurbaz
+    - 1.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 1.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+        wicket:
+          player_out: E Lewis
+          kind: bowled
+    - 1.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+        wicket:
+          player_out: DJ Malan
+          kind: lbw
+    - 1.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 1.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 2.1:
+        non_striker: MM Ali
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 2.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 2.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Ali
+    - 2.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 2.5:
+        non_striker: MM Ali
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rahmanullah Gurbaz
+    - 2.6:
+        non_striker: MM Ali
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 2.7:
+        non_striker: MM Ali
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 3.1:
+        non_striker: MM Ali
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 3.2:
+        non_striker: MM Ali
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 3.3:
+        non_striker: MM Ali
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 3.4:
+        non_striker: MM Ali
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 3.5:
+        non_striker: MM Ali
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 3.6:
+        non_striker: MM Ali
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 4.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 4.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 4.3:
+        non_striker: MM Ali
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 4.4:
+        non_striker: MM Ali
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 4.5:
+        non_striker: MM Ali
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 4.6:
+        non_striker: MM Ali
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 5.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 5.2:
+        non_striker: MM Ali
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 5.3:
+        non_striker: MM Ali
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 5.4:
+        non_striker: MM Ali
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 5.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MM Ali
+    - 5.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 6.1:
+        non_striker: MM Ali
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 6.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 6.3:
+        non_striker: MM Ali
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 6.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 6.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 6.6:
+        non_striker: MM Ali
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 7.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 7.2:
+        non_striker: MM Ali
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 7.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 7.4:
+        non_striker: MM Ali
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 7.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+        wicket:
+          player_out: MM Ali
+          fielders:
+          - ADS Fletcher
+          kind: caught
+    - 7.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 8.1:
+        non_striker: T Kohler-Cadmore
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 8.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 8.3:
+        non_striker: T Kohler-Cadmore
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 8.4:
+        non_striker: T Kohler-Cadmore
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 8.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kohler-Cadmore
+    - 8.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 9.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Kohler-Cadmore
+    - 9.2:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 9.3:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          kind: bowled
+    - 9.4:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Denly
+    - 9.5:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 9.6:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL Denly
+    - 9.7:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 10.1:
+        non_striker: JL Denly
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 10.2:
+        non_striker: T Kohler-Cadmore
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 10.3:
+        non_striker: T Kohler-Cadmore
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: JL Denly
+    - 10.4:
+        non_striker: T Kohler-Cadmore
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 10.5:
+        non_striker: JL Denly
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 10.6:
+        non_striker: JL Denly
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 11.1:
+        non_striker: JL Denly
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 11.2:
+        non_striker: JL Denly
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+        wicket:
+          player_out: T Kohler-Cadmore
+          kind: bowled
+    - 11.3:
+        non_striker: JL Denly
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 11.4:
+        non_striker: Mohammad Nabi
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Denly
+    - 11.5:
+        non_striker: Mohammad Nabi
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 11.6:
+        non_striker: JL Denly
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 12.1:
+        non_striker: JL Denly
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 12.2:
+        non_striker: Mohammad Nabi
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 12.3:
+        non_striker: Mohammad Nabi
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 12.4:
+        non_striker: Mohammad Nabi
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 12.5:
+        non_striker: Mohammad Nabi
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 12.6:
+        non_striker: Mohammad Nabi
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 13.1:
+        non_striker: Mohammad Nabi
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+        wicket:
+          player_out: JL Denly
+          fielders:
+          - KA Pollard
+          kind: caught
+    - 13.2:
+        non_striker: Mohammad Nabi
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 13.3:
+        non_striker: Mohammad Nabi
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Woakes
+    - 13.4:
+        non_striker: Mohammad Nabi
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 13.5:
+        non_striker: CR Woakes
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+        wicket:
+          player_out: Mohammad Nabi
+          fielders:
+          - N Pooran
+          kind: caught
+    - 13.6:
+        non_striker: CR Woakes
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+    - 14.1:
+        non_striker: Junaid Siddique
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 14.2:
+        non_striker: CR Woakes
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+    - 14.3:
+        non_striker: CR Woakes
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+    - 14.4:
+        non_striker: CR Woakes
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Junaid Siddique
+    - 14.5:
+        non_striker: CR Woakes
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+    - 14.6:
+        non_striker: CR Woakes
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+    - 15.1:
+        non_striker: Junaid Siddique
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Woakes
+    - 15.2:
+        non_striker: Junaid Siddique
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 15.3:
+        non_striker: Junaid Siddique
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Woakes
+    - 15.4:
+        non_striker: Junaid Siddique
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 15.5:
+        non_striker: CR Woakes
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+        wicket:
+          player_out: Junaid Siddique
+          fielders:
+          - ADS Fletcher
+          kind: caught
+    - 15.6:
+        non_striker: CR Woakes
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naveen-ul-Haq
+    - 16.1:
+        non_striker: Naveen-ul-Haq
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 16.2:
+        non_striker: Naveen-ul-Haq
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Woakes
+    - 16.3:
+        non_striker: Naveen-ul-Haq
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Woakes
+    - 16.4:
+        non_striker: Naveen-ul-Haq
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 16.5:
+        non_striker: CR Woakes
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naveen-ul-Haq
+    - 16.6:
+        non_striker: Naveen-ul-Haq
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 17.1:
+        non_striker: Naveen-ul-Haq
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 17.2:
+        non_striker: Naveen-ul-Haq
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Woakes
+    - 17.3:
+        non_striker: Naveen-ul-Haq
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CR Woakes
+    - 17.4:
+        non_striker: Naveen-ul-Haq
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Woakes
+    - 17.5:
+        non_striker: Naveen-ul-Haq
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 17.6:
+        non_striker: Naveen-ul-Haq
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 18.1:
+        non_striker: Naveen-ul-Haq
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 18.2:
+        non_striker: Naveen-ul-Haq
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Woakes
+    - 18.3:
+        non_striker: Naveen-ul-Haq
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 18.4:
+        non_striker: CR Woakes
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naveen-ul-Haq
+    - 18.5:
+        non_striker: Naveen-ul-Haq
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 18.6:
+        non_striker: CR Woakes
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naveen-ul-Haq
+    - 19.1:
+        non_striker: Naveen-ul-Haq
+        bowler: ADS Fletcher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CR Woakes
+    - 19.2:
+        non_striker: Naveen-ul-Haq
+        bowler: ADS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Woakes
+    - 19.3:
+        non_striker: Naveen-ul-Haq
+        bowler: ADS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Woakes
+    - 19.4:
+        non_striker: Naveen-ul-Haq
+        bowler: ADS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Woakes
+    - 19.5:
+        non_striker: Naveen-ul-Haq
+        bowler: ADS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Woakes
+    - 19.6:
+        non_striker: Naveen-ul-Haq
+        bowler: ADS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+        wicket:
+          player_out: CR Woakes
+          fielders:
+          - Waseem Muhammad
+          kind: caught

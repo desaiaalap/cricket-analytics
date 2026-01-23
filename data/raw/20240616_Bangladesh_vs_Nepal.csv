@@ -1,0 +1,242 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Bangladesh,0.1,Tanzid Hasan,Sompal Kami,0,{},"{'player_out': 'Tanzid Hasan', 'kind': 'caught and bowled'}"
+1st innings,Bangladesh,0.2,Nazmul Hossain Shanto,Sompal Kami,0,{},{}
+1st innings,Bangladesh,0.3,Nazmul Hossain Shanto,Sompal Kami,2,{},{}
+1st innings,Bangladesh,0.4,Nazmul Hossain Shanto,Sompal Kami,1,{},{}
+1st innings,Bangladesh,0.5,Liton Das,Sompal Kami,0,{},{}
+1st innings,Bangladesh,0.6,Liton Das,Sompal Kami,0,{},{}
+1st innings,Bangladesh,1.1,Nazmul Hossain Shanto,DS Airee,1,{},{}
+1st innings,Bangladesh,1.2,Liton Das,DS Airee,3,{},{}
+1st innings,Bangladesh,1.3,Nazmul Hossain Shanto,DS Airee,0,{},"{'player_out': 'Nazmul Hossain Shanto', 'kind': 'bowled'}"
+1st innings,Bangladesh,1.4,Shakib Al Hasan,DS Airee,4,{},{}
+1st innings,Bangladesh,1.5,Shakib Al Hasan,DS Airee,0,{},{}
+1st innings,Bangladesh,1.6,Shakib Al Hasan,DS Airee,0,{},{}
+1st innings,Bangladesh,2.1,Liton Das,Sompal Kami,1,{},{}
+1st innings,Bangladesh,2.2,Shakib Al Hasan,Sompal Kami,0,{},{}
+1st innings,Bangladesh,2.3,Shakib Al Hasan,Sompal Kami,0,{},{}
+1st innings,Bangladesh,2.4,Shakib Al Hasan,Sompal Kami,1,{},{}
+1st innings,Bangladesh,2.5,Liton Das,Sompal Kami,0,{},{}
+1st innings,Bangladesh,2.6,Liton Das,Sompal Kami,0,{},{}
+1st innings,Bangladesh,3.1,Shakib Al Hasan,DS Airee,1,{},{}
+1st innings,Bangladesh,3.2,Liton Das,DS Airee,0,{},{}
+1st innings,Bangladesh,3.3,Liton Das,DS Airee,0,{},{}
+1st innings,Bangladesh,3.4,Liton Das,DS Airee,0,{},{}
+1st innings,Bangladesh,3.5,Liton Das,DS Airee,2,{},{}
+1st innings,Bangladesh,3.6,Liton Das,DS Airee,4,{},{}
+1st innings,Bangladesh,4.1,Shakib Al Hasan,Sompal Kami,0,{},{}
+1st innings,Bangladesh,4.2,Shakib Al Hasan,Sompal Kami,1,{'legbyes': 1},{}
+1st innings,Bangladesh,4.3,Liton Das,Sompal Kami,0,{},"{'player_out': 'Liton Das', 'fielders': ['Aasif Sheikh'], 'kind': 'caught'}"
+1st innings,Bangladesh,4.4,Towhid Hridoy,Sompal Kami,4,{},{}
+1st innings,Bangladesh,4.5,Towhid Hridoy,Sompal Kami,0,{},{}
+1st innings,Bangladesh,4.6,Towhid Hridoy,Sompal Kami,1,{},{}
+1st innings,Bangladesh,5.1,Towhid Hridoy,RK Paudel,0,{},{}
+1st innings,Bangladesh,5.2,Towhid Hridoy,RK Paudel,0,{},{}
+1st innings,Bangladesh,5.3,Towhid Hridoy,RK Paudel,4,{},{}
+1st innings,Bangladesh,5.4,Towhid Hridoy,RK Paudel,0,{},"{'player_out': 'Towhid Hridoy', 'fielders': ['S Lamichhane'], 'kind': 'caught'}"
+1st innings,Bangladesh,5.5,Mahmudullah,RK Paudel,0,{},{}
+1st innings,Bangladesh,5.6,Mahmudullah,RK Paudel,1,{},{}
+1st innings,Bangladesh,6.1,Mahmudullah,S Lamichhane,0,{},{}
+1st innings,Bangladesh,6.2,Mahmudullah,S Lamichhane,0,{},{}
+1st innings,Bangladesh,6.3,Mahmudullah,S Lamichhane,4,{},{}
+1st innings,Bangladesh,6.4,Mahmudullah,S Lamichhane,1,{},{}
+1st innings,Bangladesh,6.5,Shakib Al Hasan,S Lamichhane,1,{'byes': 1},{}
+1st innings,Bangladesh,6.6,Mahmudullah,S Lamichhane,1,{},{}
+1st innings,Bangladesh,7.1,Mahmudullah,RK Paudel,1,{},{}
+1st innings,Bangladesh,7.2,Shakib Al Hasan,RK Paudel,0,{},{}
+1st innings,Bangladesh,7.3,Shakib Al Hasan,RK Paudel,4,{},{}
+1st innings,Bangladesh,7.4,Shakib Al Hasan,RK Paudel,1,{},{}
+1st innings,Bangladesh,7.5,Mahmudullah,RK Paudel,0,{},{}
+1st innings,Bangladesh,7.6,Mahmudullah,RK Paudel,0,{},{}
+1st innings,Bangladesh,8.1,Shakib Al Hasan,S Lamichhane,2,{},{}
+1st innings,Bangladesh,8.2,Shakib Al Hasan,S Lamichhane,1,{},{}
+1st innings,Bangladesh,8.3,Mahmudullah,S Lamichhane,0,{},{}
+1st innings,Bangladesh,8.4,Mahmudullah,S Lamichhane,4,{},{}
+1st innings,Bangladesh,8.5,Mahmudullah,S Lamichhane,1,{},{}
+1st innings,Bangladesh,8.6,Shakib Al Hasan,S Lamichhane,0,{},"{'player_out': 'Mahmudullah', 'fielders': ['Gulsan Jha', 'S Lamichhane'], 'kind': 'run out'}"
+1st innings,Bangladesh,9.1,Jaker Ali,RK Paudel,0,{},{}
+1st innings,Bangladesh,9.2,Jaker Ali,RK Paudel,1,{},{}
+1st innings,Bangladesh,9.3,Shakib Al Hasan,RK Paudel,1,{},{}
+1st innings,Bangladesh,9.4,Jaker Ali,RK Paudel,0,{},{}
+1st innings,Bangladesh,9.5,Jaker Ali,RK Paudel,2,{},{}
+1st innings,Bangladesh,9.6,Jaker Ali,RK Paudel,1,{},{}
+1st innings,Bangladesh,10.1,Jaker Ali,K Bhurtel,0,{},{}
+1st innings,Bangladesh,10.2,Jaker Ali,K Bhurtel,1,{},{}
+1st innings,Bangladesh,10.3,Shakib Al Hasan,K Bhurtel,0,{},{}
+1st innings,Bangladesh,10.4,Shakib Al Hasan,K Bhurtel,1,{},{}
+1st innings,Bangladesh,10.5,Jaker Ali,K Bhurtel,0,{},{}
+1st innings,Bangladesh,10.6,Jaker Ali,K Bhurtel,0,{},{}
+1st innings,Bangladesh,11.1,Shakib Al Hasan,RK Paudel,0,{},{}
+1st innings,Bangladesh,11.2,Shakib Al Hasan,RK Paudel,1,{},{}
+1st innings,Bangladesh,11.3,Jaker Ali,RK Paudel,1,{},{}
+1st innings,Bangladesh,11.4,Shakib Al Hasan,RK Paudel,0,{},"{'player_out': 'Shakib Al Hasan', 'kind': 'lbw'}"
+1st innings,Bangladesh,11.5,Tanzim Hasan Sakib,RK Paudel,1,{},{}
+1st innings,Bangladesh,11.6,Jaker Ali,RK Paudel,1,{},{}
+1st innings,Bangladesh,12.1,Jaker Ali,K Bhurtel,1,{'wides': 1},{}
+1st innings,Bangladesh,12.2,Jaker Ali,K Bhurtel,1,{},{}
+1st innings,Bangladesh,12.3,Tanzim Hasan Sakib,K Bhurtel,1,{},{}
+1st innings,Bangladesh,12.4,Jaker Ali,K Bhurtel,0,{},{}
+1st innings,Bangladesh,12.5,Jaker Ali,K Bhurtel,0,{},{}
+1st innings,Bangladesh,12.6,Jaker Ali,K Bhurtel,1,{'wides': 1},{}
+1st innings,Bangladesh,12.7,Jaker Ali,K Bhurtel,1,{},{}
+1st innings,Bangladesh,12.8,Tanzim Hasan Sakib,K Bhurtel,1,{},{}
+1st innings,Bangladesh,13.1,Tanzim Hasan Sakib,S Lamichhane,0,{},{}
+1st innings,Bangladesh,13.2,Tanzim Hasan Sakib,S Lamichhane,0,{},"{'player_out': 'Tanzim Hasan Sakib', 'kind': 'bowled'}"
+1st innings,Bangladesh,13.3,Rishad Hossain,S Lamichhane,1,{},{}
+1st innings,Bangladesh,13.4,Jaker Ali,S Lamichhane,1,{'wides': 1},{}
+1st innings,Bangladesh,13.5,Jaker Ali,S Lamichhane,0,{},{}
+1st innings,Bangladesh,13.6,Jaker Ali,S Lamichhane,0,{},{}
+1st innings,Bangladesh,13.7,Jaker Ali,S Lamichhane,1,{},{}
+1st innings,Bangladesh,14.1,Jaker Ali,K Bhurtel,0,{},{}
+1st innings,Bangladesh,14.2,Jaker Ali,K Bhurtel,0,{},{}
+1st innings,Bangladesh,14.3,Jaker Ali,K Bhurtel,0,{},{}
+1st innings,Bangladesh,14.4,Jaker Ali,K Bhurtel,1,{},{}
+1st innings,Bangladesh,14.5,Rishad Hossain,K Bhurtel,1,{'byes': 1},{}
+1st innings,Bangladesh,14.6,Jaker Ali,K Bhurtel,1,{},{}
+1st innings,Bangladesh,15.1,Jaker Ali,S Lamichhane,0,{},{}
+1st innings,Bangladesh,15.2,Jaker Ali,S Lamichhane,0,{},{}
+1st innings,Bangladesh,15.3,Jaker Ali,S Lamichhane,0,{},"{'player_out': 'Jaker Ali', 'kind': 'bowled'}"
+1st innings,Bangladesh,15.4,Taskin Ahmed,S Lamichhane,0,{},{}
+1st innings,Bangladesh,15.5,Taskin Ahmed,S Lamichhane,0,{},{}
+1st innings,Bangladesh,15.6,Taskin Ahmed,S Lamichhane,0,{},{}
+1st innings,Bangladesh,16.1,Rishad Hossain,K Bhurtel,6,{},{}
+1st innings,Bangladesh,16.2,Rishad Hossain,K Bhurtel,4,{},{}
+1st innings,Bangladesh,16.3,Rishad Hossain,K Bhurtel,1,{},{}
+1st innings,Bangladesh,16.4,Taskin Ahmed,K Bhurtel,1,{'legbyes': 1},{}
+1st innings,Bangladesh,16.5,Rishad Hossain,K Bhurtel,1,{},{}
+1st innings,Bangladesh,16.6,Taskin Ahmed,K Bhurtel,0,{},{}
+1st innings,Bangladesh,17.1,Rishad Hossain,DS Airee,0,{},"{'player_out': 'Rishad Hossain', 'fielders': ['AK Sah'], 'kind': 'caught'}"
+1st innings,Bangladesh,17.2,Mustafizur Rahman,DS Airee,1,{},{}
+1st innings,Bangladesh,17.3,Taskin Ahmed,DS Airee,0,{},{}
+1st innings,Bangladesh,17.4,Taskin Ahmed,DS Airee,0,{},{}
+1st innings,Bangladesh,17.5,Taskin Ahmed,DS Airee,1,{},{}
+1st innings,Bangladesh,17.6,Mustafizur Rahman,DS Airee,0,{},{}
+1st innings,Bangladesh,18.1,Taskin Ahmed,A Bohara,0,{},{}
+1st innings,Bangladesh,18.2,Taskin Ahmed,A Bohara,1,{'wides': 1},{}
+1st innings,Bangladesh,18.3,Taskin Ahmed,A Bohara,1,{'wides': 1},{}
+1st innings,Bangladesh,18.4,Taskin Ahmed,A Bohara,2,{},{}
+1st innings,Bangladesh,18.5,Taskin Ahmed,A Bohara,4,{},{}
+1st innings,Bangladesh,18.6,Taskin Ahmed,A Bohara,0,{},{}
+1st innings,Bangladesh,18.7,Taskin Ahmed,A Bohara,1,{'byes': 1},{}
+1st innings,Bangladesh,18.8,Mustafizur Rahman,A Bohara,2,{},{}
+1st innings,Bangladesh,19.1,Taskin Ahmed,DS Airee,4,{},{}
+1st innings,Bangladesh,19.2,Taskin Ahmed,DS Airee,1,{},{}
+1st innings,Bangladesh,19.3,Mustafizur Rahman,DS Airee,0,{},"{'player_out': 'Mustafizur Rahman', 'fielders': ['RK Paudel', 'DS Airee'], 'kind': 'run out'}"
+2nd innings,Nepal,0.1,K Bhurtel,Tanzim Hasan Sakib,4,{},{}
+2nd innings,Nepal,0.2,K Bhurtel,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,0.3,K Bhurtel,Tanzim Hasan Sakib,1,{'wides': 1},{}
+2nd innings,Nepal,0.4,K Bhurtel,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,0.5,K Bhurtel,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,0.6,K Bhurtel,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,0.7,K Bhurtel,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,1.1,Aasif Sheikh,Taskin Ahmed,0,{},{}
+2nd innings,Nepal,1.2,Aasif Sheikh,Taskin Ahmed,0,{},{}
+2nd innings,Nepal,1.3,Aasif Sheikh,Taskin Ahmed,0,{},{}
+2nd innings,Nepal,1.4,Aasif Sheikh,Taskin Ahmed,0,{},{}
+2nd innings,Nepal,1.5,Aasif Sheikh,Taskin Ahmed,0,{},{}
+2nd innings,Nepal,1.6,Aasif Sheikh,Taskin Ahmed,4,{},{}
+2nd innings,Nepal,2.1,K Bhurtel,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,2.2,K Bhurtel,Tanzim Hasan Sakib,0,{},"{'player_out': 'K Bhurtel', 'kind': 'bowled'}"
+2nd innings,Nepal,2.3,AK Sah,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,2.4,AK Sah,Tanzim Hasan Sakib,0,{},"{'player_out': 'AK Sah', 'fielders': ['Nazmul Hossain Shanto'], 'kind': 'caught'}"
+2nd innings,Nepal,2.5,RK Paudel,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,2.6,RK Paudel,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,3.1,Aasif Sheikh,Taskin Ahmed,1,{'wides': 1},{}
+2nd innings,Nepal,3.2,Aasif Sheikh,Taskin Ahmed,4,{},{}
+2nd innings,Nepal,3.3,Aasif Sheikh,Taskin Ahmed,1,{},{}
+2nd innings,Nepal,3.4,RK Paudel,Taskin Ahmed,0,{},{}
+2nd innings,Nepal,3.5,RK Paudel,Taskin Ahmed,1,{},{}
+2nd innings,Nepal,3.6,Aasif Sheikh,Taskin Ahmed,4,{},{}
+2nd innings,Nepal,3.7,Aasif Sheikh,Taskin Ahmed,0,{},{}
+2nd innings,Nepal,4.1,RK Paudel,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,4.2,RK Paudel,Tanzim Hasan Sakib,0,{},"{'player_out': 'RK Paudel', 'fielders': ['Rishad Hossain'], 'kind': 'caught'}"
+2nd innings,Nepal,4.3,S Jora,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,4.4,S Jora,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,4.5,S Jora,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,4.6,S Jora,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,5.1,Aasif Sheikh,Mustafizur Rahman,4,{},{}
+2nd innings,Nepal,5.2,Aasif Sheikh,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,5.3,Aasif Sheikh,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,5.4,Aasif Sheikh,Mustafizur Rahman,0,{},"{'player_out': 'Aasif Sheikh', 'fielders': ['Shakib Al Hasan'], 'kind': 'caught'}"
+2nd innings,Nepal,5.5,Kushal Malla,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,5.6,Kushal Malla,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,6.1,S Jora,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,6.2,S Jora,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,6.3,S Jora,Tanzim Hasan Sakib,1,{},{}
+2nd innings,Nepal,6.4,Kushal Malla,Tanzim Hasan Sakib,0,{},{}
+2nd innings,Nepal,6.5,Kushal Malla,Tanzim Hasan Sakib,1,{},{}
+2nd innings,Nepal,6.6,S Jora,Tanzim Hasan Sakib,0,{},"{'player_out': 'S Jora', 'fielders': ['Rishad Hossain'], 'kind': 'caught'}"
+2nd innings,Nepal,7.1,Kushal Malla,Rishad Hossain,5,{'wides': 5},{}
+2nd innings,Nepal,7.2,Kushal Malla,Rishad Hossain,2,{},{}
+2nd innings,Nepal,7.3,Kushal Malla,Rishad Hossain,0,{},{}
+2nd innings,Nepal,7.4,Kushal Malla,Rishad Hossain,0,{},{}
+2nd innings,Nepal,7.5,Kushal Malla,Rishad Hossain,1,{},{}
+2nd innings,Nepal,7.6,DS Airee,Rishad Hossain,0,{},{}
+2nd innings,Nepal,7.7,DS Airee,Rishad Hossain,0,{},{}
+2nd innings,Nepal,8.1,Kushal Malla,Shakib Al Hasan,2,{},{}
+2nd innings,Nepal,8.2,Kushal Malla,Shakib Al Hasan,1,{},{}
+2nd innings,Nepal,8.3,DS Airee,Shakib Al Hasan,1,{},{}
+2nd innings,Nepal,8.4,Kushal Malla,Shakib Al Hasan,1,{},{}
+2nd innings,Nepal,8.5,DS Airee,Shakib Al Hasan,1,{},{}
+2nd innings,Nepal,8.6,Kushal Malla,Shakib Al Hasan,0,{},{}
+2nd innings,Nepal,9.1,DS Airee,Mustafizur Rahman,1,{},{}
+2nd innings,Nepal,9.2,Kushal Malla,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,9.3,Kushal Malla,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,9.4,Kushal Malla,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,9.5,Kushal Malla,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,9.6,Kushal Malla,Mustafizur Rahman,1,{},{}
+2nd innings,Nepal,10.1,Kushal Malla,Rishad Hossain,1,{},{}
+2nd innings,Nepal,10.2,DS Airee,Rishad Hossain,0,{},{}
+2nd innings,Nepal,10.3,DS Airee,Rishad Hossain,0,{},{}
+2nd innings,Nepal,10.4,DS Airee,Rishad Hossain,0,{},{}
+2nd innings,Nepal,10.5,DS Airee,Rishad Hossain,0,{},{}
+2nd innings,Nepal,10.6,DS Airee,Rishad Hossain,4,{},{}
+2nd innings,Nepal,11.1,Kushal Malla,Mahmudullah,1,{},{}
+2nd innings,Nepal,11.2,DS Airee,Mahmudullah,1,{},{}
+2nd innings,Nepal,11.3,Kushal Malla,Mahmudullah,0,{},{}
+2nd innings,Nepal,11.4,Kushal Malla,Mahmudullah,1,{},{}
+2nd innings,Nepal,11.5,DS Airee,Mahmudullah,0,{},{}
+2nd innings,Nepal,11.6,DS Airee,Mahmudullah,0,{},{}
+2nd innings,Nepal,12.1,Kushal Malla,Rishad Hossain,0,{},{}
+2nd innings,Nepal,12.2,Kushal Malla,Rishad Hossain,2,{},{}
+2nd innings,Nepal,12.3,Kushal Malla,Rishad Hossain,0,{},{}
+2nd innings,Nepal,12.4,Kushal Malla,Rishad Hossain,0,{},{}
+2nd innings,Nepal,12.5,Kushal Malla,Rishad Hossain,2,{'byes': 2},{}
+2nd innings,Nepal,12.6,Kushal Malla,Rishad Hossain,0,{},{}
+2nd innings,Nepal,13.1,DS Airee,Taskin Ahmed,1,{},{}
+2nd innings,Nepal,13.2,Kushal Malla,Taskin Ahmed,0,{},{}
+2nd innings,Nepal,13.3,Kushal Malla,Taskin Ahmed,1,{},{}
+2nd innings,Nepal,13.4,DS Airee,Taskin Ahmed,4,{},{}
+2nd innings,Nepal,13.5,DS Airee,Taskin Ahmed,1,{},{}
+2nd innings,Nepal,13.6,Kushal Malla,Taskin Ahmed,0,{},{}
+2nd innings,Nepal,14.1,DS Airee,Shakib Al Hasan,0,{},{}
+2nd innings,Nepal,14.2,DS Airee,Shakib Al Hasan,2,{},{}
+2nd innings,Nepal,14.3,DS Airee,Shakib Al Hasan,0,{},{}
+2nd innings,Nepal,14.4,DS Airee,Shakib Al Hasan,1,{},{}
+2nd innings,Nepal,14.5,Kushal Malla,Shakib Al Hasan,0,{},{}
+2nd innings,Nepal,14.6,Kushal Malla,Shakib Al Hasan,1,{'legbyes': 1},{}
+2nd innings,Nepal,15.1,Kushal Malla,Mahmudullah,0,{},{}
+2nd innings,Nepal,15.2,Kushal Malla,Mahmudullah,0,{},{}
+2nd innings,Nepal,15.3,Kushal Malla,Mahmudullah,6,{},{}
+2nd innings,Nepal,15.4,Kushal Malla,Mahmudullah,2,{},{}
+2nd innings,Nepal,15.5,Kushal Malla,Mahmudullah,4,{},{}
+2nd innings,Nepal,15.6,Kushal Malla,Mahmudullah,0,{},{}
+2nd innings,Nepal,16.1,DS Airee,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,16.2,DS Airee,Mustafizur Rahman,1,{},{}
+2nd innings,Nepal,16.3,Kushal Malla,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,16.4,Kushal Malla,Mustafizur Rahman,0,{},"{'player_out': 'Kushal Malla', 'fielders': ['Nazmul Hossain Shanto'], 'kind': 'caught'}"
+2nd innings,Nepal,16.5,Gulsan Jha,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,16.6,Gulsan Jha,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,17.1,DS Airee,Taskin Ahmed,6,{},{}
+2nd innings,Nepal,17.2,DS Airee,Taskin Ahmed,0,{},{}
+2nd innings,Nepal,17.3,DS Airee,Taskin Ahmed,1,{},{}
+2nd innings,Nepal,17.4,Gulsan Jha,Taskin Ahmed,0,{},{}
+2nd innings,Nepal,17.5,Gulsan Jha,Taskin Ahmed,0,{},"{'player_out': 'Gulsan Jha', 'fielders': ['Towhid Hridoy'], 'kind': 'caught'}"
+2nd innings,Nepal,17.6,Sompal Kami,Taskin Ahmed,0,{},{}
+2nd innings,Nepal,18.1,DS Airee,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,18.2,DS Airee,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,18.3,DS Airee,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,18.4,DS Airee,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,18.5,DS Airee,Mustafizur Rahman,0,{},{}
+2nd innings,Nepal,18.6,DS Airee,Mustafizur Rahman,0,{},"{'player_out': 'DS Airee', 'fielders': ['Liton Das'], 'kind': 'caught'}"
+2nd innings,Nepal,19.1,Sompal Kami,Shakib Al Hasan,0,{},"{'player_out': 'Sompal Kami', 'fielders': ['Liton Das'], 'kind': 'stumped'}"
+2nd innings,Nepal,19.2,A Bohara,Shakib Al Hasan,0,{},"{'player_out': 'A Bohara', 'kind': 'lbw'}"

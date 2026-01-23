@@ -1,0 +1,250 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Bangladesh,0.1,Mohammad Naim,KV Morea,0,{},{}
+1st innings,Bangladesh,0.2,Mohammad Naim,KV Morea,0,{},"{'player_out': 'Mohammad Naim', 'fielders': ['S Bau'], 'kind': 'caught'}"
+1st innings,Bangladesh,0.3,Liton Das,KV Morea,1,{},{}
+1st innings,Bangladesh,0.4,Shakib Al Hasan,KV Morea,1,{},{}
+1st innings,Bangladesh,0.5,Liton Das,KV Morea,1,{},{}
+1st innings,Bangladesh,0.6,Shakib Al Hasan,KV Morea,0,{},{}
+1st innings,Bangladesh,1.1,Liton Das,D Ravu,0,{},{}
+1st innings,Bangladesh,1.2,Liton Das,D Ravu,1,{},{}
+1st innings,Bangladesh,1.3,Shakib Al Hasan,D Ravu,1,{},{}
+1st innings,Bangladesh,1.4,Liton Das,D Ravu,1,{},{}
+1st innings,Bangladesh,1.5,Shakib Al Hasan,D Ravu,0,{},{}
+1st innings,Bangladesh,1.6,Shakib Al Hasan,D Ravu,0,{},{}
+1st innings,Bangladesh,2.1,Liton Das,CA Soper,1,{},{}
+1st innings,Bangladesh,2.2,Shakib Al Hasan,CA Soper,0,{},{}
+1st innings,Bangladesh,2.3,Shakib Al Hasan,CA Soper,1,{},{}
+1st innings,Bangladesh,2.4,Liton Das,CA Soper,0,{},{}
+1st innings,Bangladesh,2.5,Liton Das,CA Soper,6,{},{}
+1st innings,Bangladesh,2.6,Liton Das,CA Soper,1,{},{}
+1st innings,Bangladesh,3.1,Liton Das,D Ravu,1,{},{}
+1st innings,Bangladesh,3.2,Shakib Al Hasan,D Ravu,6,{},{}
+1st innings,Bangladesh,3.3,Shakib Al Hasan,D Ravu,1,{},{}
+1st innings,Bangladesh,3.4,Liton Das,D Ravu,1,{'wides': 1},{}
+1st innings,Bangladesh,3.5,Liton Das,D Ravu,4,{},{}
+1st innings,Bangladesh,3.6,Liton Das,D Ravu,1,{},{}
+1st innings,Bangladesh,3.7,Shakib Al Hasan,D Ravu,1,{'wides': 1},{}
+1st innings,Bangladesh,3.8,Shakib Al Hasan,D Ravu,1,{},{}
+1st innings,Bangladesh,4.1,Shakib Al Hasan,KV Morea,1,{},{}
+1st innings,Bangladesh,4.2,Liton Das,KV Morea,1,{},{}
+1st innings,Bangladesh,4.3,Shakib Al Hasan,KV Morea,1,{},{}
+1st innings,Bangladesh,4.4,Liton Das,KV Morea,0,{},{}
+1st innings,Bangladesh,4.5,Liton Das,KV Morea,1,{'wides': 1},{}
+1st innings,Bangladesh,4.6,Liton Das,KV Morea,1,{},{}
+1st innings,Bangladesh,4.7,Shakib Al Hasan,KV Morea,1,{},{}
+1st innings,Bangladesh,5.1,Shakib Al Hasan,S Bau,1,{},{}
+1st innings,Bangladesh,5.2,Liton Das,S Bau,2,{},{}
+1st innings,Bangladesh,5.3,Liton Das,S Bau,0,{},{}
+1st innings,Bangladesh,5.4,Liton Das,S Bau,2,{},{}
+1st innings,Bangladesh,5.5,Liton Das,S Bau,2,{},{}
+1st innings,Bangladesh,5.6,Liton Das,S Bau,1,{},{}
+1st innings,Bangladesh,6.1,Liton Das,CA Soper,1,{},{}
+1st innings,Bangladesh,6.2,Shakib Al Hasan,CA Soper,0,{},{}
+1st innings,Bangladesh,6.3,Shakib Al Hasan,CA Soper,2,{},{}
+1st innings,Bangladesh,6.4,Shakib Al Hasan,CA Soper,0,{},{}
+1st innings,Bangladesh,6.5,Shakib Al Hasan,CA Soper,1,{},{}
+1st innings,Bangladesh,6.6,Liton Das,CA Soper,1,{},{}
+1st innings,Bangladesh,7.1,Liton Das,A Vala,0,{},"{'player_out': 'Liton Das', 'fielders': ['S Bau'], 'kind': 'caught'}"
+1st innings,Bangladesh,7.2,Shakib Al Hasan,A Vala,1,{},{}
+1st innings,Bangladesh,7.3,Mushfiqur Rahim,A Vala,0,{},{}
+1st innings,Bangladesh,7.4,Mushfiqur Rahim,A Vala,1,{},{}
+1st innings,Bangladesh,7.5,Shakib Al Hasan,A Vala,1,{},{}
+1st innings,Bangladesh,7.6,Mushfiqur Rahim,A Vala,1,{},{}
+1st innings,Bangladesh,8.1,Mushfiqur Rahim,CJA Amini,1,{},{}
+1st innings,Bangladesh,8.2,Shakib Al Hasan,CJA Amini,0,{},{}
+1st innings,Bangladesh,8.3,Shakib Al Hasan,CJA Amini,1,{},{}
+1st innings,Bangladesh,8.4,Mushfiqur Rahim,CJA Amini,0,{},{}
+1st innings,Bangladesh,8.5,Mushfiqur Rahim,CJA Amini,1,{},{}
+1st innings,Bangladesh,8.6,Shakib Al Hasan,CJA Amini,1,{},{}
+1st innings,Bangladesh,9.1,Shakib Al Hasan,A Vala,6,{},{}
+1st innings,Bangladesh,9.2,Shakib Al Hasan,A Vala,1,{},{}
+1st innings,Bangladesh,9.3,Mushfiqur Rahim,A Vala,1,{},{}
+1st innings,Bangladesh,9.4,Shakib Al Hasan,A Vala,2,{},{}
+1st innings,Bangladesh,9.5,Shakib Al Hasan,A Vala,2,{},{}
+1st innings,Bangladesh,9.6,Shakib Al Hasan,A Vala,1,{},{}
+1st innings,Bangladesh,10.1,Shakib Al Hasan,SK Atai,1,{},{}
+1st innings,Bangladesh,10.2,Mushfiqur Rahim,SK Atai,0,{},"{'player_out': 'Mushfiqur Rahim', 'fielders': ['H Hiri'], 'kind': 'caught'}"
+1st innings,Bangladesh,10.3,Mahmudullah,SK Atai,2,{},{}
+1st innings,Bangladesh,10.4,Mahmudullah,SK Atai,1,{},{}
+1st innings,Bangladesh,10.5,Shakib Al Hasan,SK Atai,1,{},{}
+1st innings,Bangladesh,10.6,Mahmudullah,SK Atai,1,{},{}
+1st innings,Bangladesh,11.1,Mahmudullah,S Bau,6,{},{}
+1st innings,Bangladesh,11.2,Mahmudullah,S Bau,1,{},{}
+1st innings,Bangladesh,11.3,Shakib Al Hasan,S Bau,1,{'wides': 1},{}
+1st innings,Bangladesh,11.4,Shakib Al Hasan,S Bau,1,{},{}
+1st innings,Bangladesh,11.5,Mahmudullah,S Bau,1,{},{}
+1st innings,Bangladesh,11.6,Shakib Al Hasan,S Bau,1,{},{}
+1st innings,Bangladesh,11.7,Mahmudullah,S Bau,1,{},{}
+1st innings,Bangladesh,12.1,Mahmudullah,CJA Amini,1,{},{}
+1st innings,Bangladesh,12.2,Shakib Al Hasan,CJA Amini,1,{},{}
+1st innings,Bangladesh,12.3,Mahmudullah,CJA Amini,1,{},{}
+1st innings,Bangladesh,12.4,Shakib Al Hasan,CJA Amini,1,{},{}
+1st innings,Bangladesh,12.5,Mahmudullah,CJA Amini,0,{},{}
+1st innings,Bangladesh,12.6,Mahmudullah,CJA Amini,1,{},{}
+1st innings,Bangladesh,13.1,Mahmudullah,A Vala,1,{'legbyes': 1},{}
+1st innings,Bangladesh,13.2,Shakib Al Hasan,A Vala,6,{},{}
+1st innings,Bangladesh,13.3,Shakib Al Hasan,A Vala,0,{},{}
+1st innings,Bangladesh,13.4,Shakib Al Hasan,A Vala,0,{},"{'player_out': 'Shakib Al Hasan', 'fielders': ['CJA Amini'], 'kind': 'caught'}"
+1st innings,Bangladesh,13.5,Mahmudullah,A Vala,2,{},{}
+1st innings,Bangladesh,13.6,Mahmudullah,A Vala,1,{},{}
+1st innings,Bangladesh,14.1,Mahmudullah,KV Morea,1,{},{}
+1st innings,Bangladesh,14.2,Afif Hossain,KV Morea,0,{},{}
+1st innings,Bangladesh,14.3,Afif Hossain,KV Morea,2,{},{}
+1st innings,Bangladesh,14.4,Afif Hossain,KV Morea,1,{},{}
+1st innings,Bangladesh,14.5,Mahmudullah,KV Morea,4,{},{}
+1st innings,Bangladesh,14.6,Mahmudullah,KV Morea,1,{},{}
+1st innings,Bangladesh,15.1,Mahmudullah,D Ravu,4,{},{}
+1st innings,Bangladesh,15.2,Mahmudullah,D Ravu,1,{},{}
+1st innings,Bangladesh,15.3,Afif Hossain,D Ravu,1,{'wides': 1},{}
+1st innings,Bangladesh,15.4,Afif Hossain,D Ravu,0,{},{}
+1st innings,Bangladesh,15.5,Afif Hossain,D Ravu,1,{},{}
+1st innings,Bangladesh,15.6,Mahmudullah,D Ravu,2,{},{}
+1st innings,Bangladesh,15.7,Mahmudullah,D Ravu,1,{},{}
+1st innings,Bangladesh,16.1,Mahmudullah,CA Soper,6,{},{}
+1st innings,Bangladesh,16.2,Mahmudullah,CA Soper,1,{},{}
+1st innings,Bangladesh,16.3,Afif Hossain,CA Soper,1,{},{}
+1st innings,Bangladesh,16.4,Mahmudullah,CA Soper,1,{'noballs': 1},{}
+1st innings,Bangladesh,16.5,Mahmudullah,CA Soper,0,{},{}
+1st innings,Bangladesh,16.6,Mahmudullah,CA Soper,6,{},{}
+1st innings,Bangladesh,16.7,Mahmudullah,CA Soper,4,{},{}
+1st innings,Bangladesh,17.1,Afif Hossain,D Ravu,1,{'wides': 1},{}
+1st innings,Bangladesh,17.2,Afif Hossain,D Ravu,1,{},{}
+1st innings,Bangladesh,17.3,Mahmudullah,D Ravu,0,{},"{'player_out': 'Mahmudullah', 'fielders': ['CA Soper'], 'kind': 'caught'}"
+1st innings,Bangladesh,17.4,Afif Hossain,D Ravu,4,{},{}
+1st innings,Bangladesh,17.5,Afif Hossain,D Ravu,4,{},{}
+1st innings,Bangladesh,17.6,Afif Hossain,D Ravu,1,{},{}
+1st innings,Bangladesh,17.7,Nurul Hasan,D Ravu,0,{},"{'player_out': 'Nurul Hasan', 'fielders': ['S Bau'], 'kind': 'caught'}"
+1st innings,Bangladesh,18.1,Afif Hossain,KV Morea,1,{},{}
+1st innings,Bangladesh,18.2,Mohammad Saifuddin,KV Morea,1,{},{}
+1st innings,Bangladesh,18.3,Afif Hossain,KV Morea,1,{},{}
+1st innings,Bangladesh,18.4,Mohammad Saifuddin,KV Morea,1,{},{}
+1st innings,Bangladesh,18.5,Afif Hossain,KV Morea,4,{},{}
+1st innings,Bangladesh,18.6,Afif Hossain,KV Morea,0,{},"{'player_out': 'Afif Hossain', 'fielders': ['D Ravu'], 'kind': 'caught'}"
+1st innings,Bangladesh,19.1,Mahedi Hasan,CA Soper,1,{},{}
+1st innings,Bangladesh,19.2,Mohammad Saifuddin,CA Soper,1,{},{}
+1st innings,Bangladesh,19.3,Mahedi Hasan,CA Soper,0,{},{}
+1st innings,Bangladesh,19.4,Mahedi Hasan,CA Soper,1,{},{}
+1st innings,Bangladesh,19.5,Mohammad Saifuddin,CA Soper,6,{},{}
+1st innings,Bangladesh,19.6,Mohammad Saifuddin,CA Soper,7,{'noballs': 1},{}
+1st innings,Bangladesh,19.7,Mohammad Saifuddin,CA Soper,4,{},{}
+2nd innings,Papua New Guinea,0.1,L Siaka,Mohammad Saifuddin,2,{},{}
+2nd innings,Papua New Guinea,0.2,L Siaka,Mohammad Saifuddin,1,{},{}
+2nd innings,Papua New Guinea,0.3,A Vala,Mohammad Saifuddin,1,{},{}
+2nd innings,Papua New Guinea,0.4,L Siaka,Mohammad Saifuddin,0,{},{}
+2nd innings,Papua New Guinea,0.5,L Siaka,Mohammad Saifuddin,1,{},{}
+2nd innings,Papua New Guinea,0.6,A Vala,Mohammad Saifuddin,1,{},{}
+2nd innings,Papua New Guinea,1.1,A Vala,Mustafizur Rahman,1,{},{}
+2nd innings,Papua New Guinea,1.2,L Siaka,Mustafizur Rahman,0,{},{}
+2nd innings,Papua New Guinea,1.3,L Siaka,Mustafizur Rahman,0,{},{}
+2nd innings,Papua New Guinea,1.4,L Siaka,Mustafizur Rahman,0,{},{}
+2nd innings,Papua New Guinea,1.5,L Siaka,Mustafizur Rahman,1,{},{}
+2nd innings,Papua New Guinea,1.6,A Vala,Mustafizur Rahman,1,{},{}
+2nd innings,Papua New Guinea,2.1,A Vala,Mohammad Saifuddin,1,{},{}
+2nd innings,Papua New Guinea,2.2,L Siaka,Mohammad Saifuddin,1,{'wides': 1},{}
+2nd innings,Papua New Guinea,2.3,L Siaka,Mohammad Saifuddin,0,{},{}
+2nd innings,Papua New Guinea,2.4,L Siaka,Mohammad Saifuddin,0,{},"{'player_out': 'L Siaka', 'kind': 'lbw'}"
+2nd innings,Papua New Guinea,2.5,CJA Amini,Mohammad Saifuddin,1,{},{}
+2nd innings,Papua New Guinea,2.6,A Vala,Mohammad Saifuddin,0,{},{}
+2nd innings,Papua New Guinea,2.7,A Vala,Mohammad Saifuddin,1,{},{}
+2nd innings,Papua New Guinea,3.1,A Vala,Taskin Ahmed,0,{},{}
+2nd innings,Papua New Guinea,3.2,A Vala,Taskin Ahmed,0,{},"{'player_out': 'A Vala', 'fielders': ['Nurul Hasan'], 'kind': 'caught'}"
+2nd innings,Papua New Guinea,3.3,S Bau,Taskin Ahmed,0,{},{}
+2nd innings,Papua New Guinea,3.4,S Bau,Taskin Ahmed,0,{},{}
+2nd innings,Papua New Guinea,3.5,S Bau,Taskin Ahmed,0,{},{}
+2nd innings,Papua New Guinea,3.6,S Bau,Taskin Ahmed,0,{},{}
+2nd innings,Papua New Guinea,4.1,CJA Amini,Shakib Al Hasan,0,{},"{'player_out': 'CJA Amini', 'fielders': ['Mohammad Naim'], 'kind': 'caught'}"
+2nd innings,Papua New Guinea,4.2,S Bau,Shakib Al Hasan,1,{},{}
+2nd innings,Papua New Guinea,4.3,SK Atai,Shakib Al Hasan,0,{},{}
+2nd innings,Papua New Guinea,4.4,SK Atai,Shakib Al Hasan,0,{},"{'player_out': 'SK Atai', 'fielders': ['Mahedi Hasan'], 'kind': 'caught'}"
+2nd innings,Papua New Guinea,4.5,S Bau,Shakib Al Hasan,0,{},{}
+2nd innings,Papua New Guinea,4.6,S Bau,Shakib Al Hasan,1,{},{}
+2nd innings,Papua New Guinea,5.1,S Bau,Taskin Ahmed,2,{},{}
+2nd innings,Papua New Guinea,5.2,S Bau,Taskin Ahmed,0,{},{}
+2nd innings,Papua New Guinea,5.3,S Bau,Taskin Ahmed,0,{},{}
+2nd innings,Papua New Guinea,5.4,S Bau,Taskin Ahmed,0,{},{}
+2nd innings,Papua New Guinea,5.5,S Bau,Taskin Ahmed,0,{},{}
+2nd innings,Papua New Guinea,5.6,S Bau,Taskin Ahmed,0,{},{}
+2nd innings,Papua New Guinea,6.1,H Hiri,Shakib Al Hasan,1,{},{}
+2nd innings,Papua New Guinea,6.2,S Bau,Shakib Al Hasan,1,{},{}
+2nd innings,Papua New Guinea,6.3,H Hiri,Shakib Al Hasan,1,{},{}
+2nd innings,Papua New Guinea,6.4,S Bau,Shakib Al Hasan,0,{},{}
+2nd innings,Papua New Guinea,6.5,S Bau,Shakib Al Hasan,1,{},{}
+2nd innings,Papua New Guinea,6.6,H Hiri,Shakib Al Hasan,0,{},{}
+2nd innings,Papua New Guinea,7.1,S Bau,Mahedi Hasan,0,{},{}
+2nd innings,Papua New Guinea,7.2,S Bau,Mahedi Hasan,1,{},{}
+2nd innings,Papua New Guinea,7.3,H Hiri,Mahedi Hasan,0,{},{}
+2nd innings,Papua New Guinea,7.4,H Hiri,Mahedi Hasan,1,{},{}
+2nd innings,Papua New Guinea,7.5,S Bau,Mahedi Hasan,0,{},{}
+2nd innings,Papua New Guinea,7.6,S Bau,Mahedi Hasan,0,{},{}
+2nd innings,Papua New Guinea,8.1,H Hiri,Shakib Al Hasan,0,{},{}
+2nd innings,Papua New Guinea,8.2,H Hiri,Shakib Al Hasan,0,{},{}
+2nd innings,Papua New Guinea,8.3,H Hiri,Shakib Al Hasan,0,{},{}
+2nd innings,Papua New Guinea,8.4,H Hiri,Shakib Al Hasan,1,{},{}
+2nd innings,Papua New Guinea,8.5,S Bau,Shakib Al Hasan,0,{},"{'player_out': 'S Bau', 'fielders': ['Mohammad Naim'], 'kind': 'caught'}"
+2nd innings,Papua New Guinea,8.6,H Hiri,Shakib Al Hasan,0,{},{}
+2nd innings,Papua New Guinea,9.1,N Vanua,Mahedi Hasan,0,{},{}
+2nd innings,Papua New Guinea,9.2,N Vanua,Mahedi Hasan,0,{},"{'player_out': 'N Vanua', 'fielders': ['Mushfiqur Rahim'], 'kind': 'caught'}"
+2nd innings,Papua New Guinea,9.3,H Hiri,Mahedi Hasan,0,{},{}
+2nd innings,Papua New Guinea,9.4,H Hiri,Mahedi Hasan,0,{},{}
+2nd innings,Papua New Guinea,9.5,H Hiri,Mahedi Hasan,4,{},{}
+2nd innings,Papua New Guinea,9.6,H Hiri,Mahedi Hasan,0,{},{}
+2nd innings,Papua New Guinea,10.1,K Doriga,Shakib Al Hasan,0,{},{}
+2nd innings,Papua New Guinea,10.2,K Doriga,Shakib Al Hasan,1,{},{}
+2nd innings,Papua New Guinea,10.3,H Hiri,Shakib Al Hasan,0,{},"{'player_out': 'H Hiri', 'fielders': ['Nurul Hasan'], 'kind': 'caught'}"
+2nd innings,Papua New Guinea,10.4,K Doriga,Shakib Al Hasan,0,{},{}
+2nd innings,Papua New Guinea,10.5,K Doriga,Shakib Al Hasan,0,{},{}
+2nd innings,Papua New Guinea,10.6,K Doriga,Shakib Al Hasan,1,{},{}
+2nd innings,Papua New Guinea,11.1,K Doriga,Mahedi Hasan,1,{},{}
+2nd innings,Papua New Guinea,11.2,CA Soper,Mahedi Hasan,1,{},{}
+2nd innings,Papua New Guinea,11.3,K Doriga,Mahedi Hasan,2,{},{}
+2nd innings,Papua New Guinea,11.4,K Doriga,Mahedi Hasan,1,{},{}
+2nd innings,Papua New Guinea,11.5,CA Soper,Mahedi Hasan,0,{},{}
+2nd innings,Papua New Guinea,11.6,CA Soper,Mahedi Hasan,0,{},{}
+2nd innings,Papua New Guinea,12.1,K Doriga,Mustafizur Rahman,1,{},{}
+2nd innings,Papua New Guinea,12.2,CA Soper,Mustafizur Rahman,1,{},{}
+2nd innings,Papua New Guinea,12.3,K Doriga,Mustafizur Rahman,2,{},{}
+2nd innings,Papua New Guinea,12.4,K Doriga,Mustafizur Rahman,2,{},{}
+2nd innings,Papua New Guinea,12.5,K Doriga,Mustafizur Rahman,1,{},{}
+2nd innings,Papua New Guinea,12.6,CA Soper,Mustafizur Rahman,0,{},{}
+2nd innings,Papua New Guinea,13.1,K Doriga,Mahedi Hasan,1,{},{}
+2nd innings,Papua New Guinea,13.2,CA Soper,Mahedi Hasan,6,{},{}
+2nd innings,Papua New Guinea,13.3,CA Soper,Mahedi Hasan,2,{},{}
+2nd innings,Papua New Guinea,13.4,CA Soper,Mahedi Hasan,0,{},{}
+2nd innings,Papua New Guinea,13.5,CA Soper,Mahedi Hasan,0,{},{}
+2nd innings,Papua New Guinea,13.6,CA Soper,Mahedi Hasan,0,{},{}
+2nd innings,Papua New Guinea,14.1,K Doriga,Mohammad Saifuddin,0,{},{}
+2nd innings,Papua New Guinea,14.2,K Doriga,Mohammad Saifuddin,1,{},{}
+2nd innings,Papua New Guinea,14.3,CA Soper,Mohammad Saifuddin,1,{},{}
+2nd innings,Papua New Guinea,14.4,K Doriga,Mohammad Saifuddin,1,{},{}
+2nd innings,Papua New Guinea,14.5,CA Soper,Mohammad Saifuddin,0,{},"{'player_out': 'CA Soper', 'kind': 'bowled'}"
+2nd innings,Papua New Guinea,14.6,KV Morea,Mohammad Saifuddin,0,{},{}
+2nd innings,Papua New Guinea,15.1,K Doriga,Taskin Ahmed,0,{},{}
+2nd innings,Papua New Guinea,15.2,K Doriga,Taskin Ahmed,0,{},{}
+2nd innings,Papua New Guinea,15.3,K Doriga,Taskin Ahmed,4,{},{}
+2nd innings,Papua New Guinea,15.4,K Doriga,Taskin Ahmed,4,{},{}
+2nd innings,Papua New Guinea,15.5,K Doriga,Taskin Ahmed,1,{},{}
+2nd innings,Papua New Guinea,15.6,KV Morea,Taskin Ahmed,0,{},{}
+2nd innings,Papua New Guinea,16.1,K Doriga,Mustafizur Rahman,6,{},{}
+2nd innings,Papua New Guinea,16.2,K Doriga,Mustafizur Rahman,1,{},{}
+2nd innings,Papua New Guinea,16.3,KV Morea,Mustafizur Rahman,1,{},{}
+2nd innings,Papua New Guinea,16.4,K Doriga,Mustafizur Rahman,1,{},{}
+2nd innings,Papua New Guinea,16.5,KV Morea,Mustafizur Rahman,1,{},{}
+2nd innings,Papua New Guinea,16.6,K Doriga,Mustafizur Rahman,1,{},{}
+2nd innings,Papua New Guinea,17.1,K Doriga,Mohammad Saifuddin,3,{'noballs': 1},{}
+2nd innings,Papua New Guinea,17.2,K Doriga,Mohammad Saifuddin,0,{},{}
+2nd innings,Papua New Guinea,17.3,K Doriga,Mohammad Saifuddin,1,{'wides': 1},{}
+2nd innings,Papua New Guinea,17.4,K Doriga,Mohammad Saifuddin,1,{},{}
+2nd innings,Papua New Guinea,17.5,KV Morea,Mohammad Saifuddin,0,{},{}
+2nd innings,Papua New Guinea,17.6,KV Morea,Mohammad Saifuddin,1,{},"{'player_out': 'KV Morea', 'fielders': ['Afif Hossain', 'Nurul Hasan'], 'kind': 'run out'}"
+2nd innings,Papua New Guinea,17.7,D Ravu,Mohammad Saifuddin,1,{},{}
+2nd innings,Papua New Guinea,17.8,K Doriga,Mohammad Saifuddin,1,{},{}
+2nd innings,Papua New Guinea,18.1,K Doriga,Mustafizur Rahman,1,{'wides': 1},{}
+2nd innings,Papua New Guinea,18.2,K Doriga,Mustafizur Rahman,6,{},{}
+2nd innings,Papua New Guinea,18.3,K Doriga,Mustafizur Rahman,1,{},{}
+2nd innings,Papua New Guinea,18.4,D Ravu,Mustafizur Rahman,4,{},{}
+2nd innings,Papua New Guinea,18.5,D Ravu,Mustafizur Rahman,1,{'legbyes': 1},{}
+2nd innings,Papua New Guinea,18.6,K Doriga,Mustafizur Rahman,0,{},{}
+2nd innings,Papua New Guinea,18.7,K Doriga,Mustafizur Rahman,1,{},{}
+2nd innings,Papua New Guinea,19.1,K Doriga,Taskin Ahmed,1,{},{}
+2nd innings,Papua New Guinea,19.2,D Ravu,Taskin Ahmed,0,{},{}
+2nd innings,Papua New Guinea,19.3,D Ravu,Taskin Ahmed,0,{},"{'player_out': 'D Ravu', 'fielders': ['Nurul Hasan'], 'kind': 'caught'}"

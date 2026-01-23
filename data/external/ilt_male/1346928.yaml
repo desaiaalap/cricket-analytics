@@ -1,0 +1,2219 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abu Dhabi
+  competition: International League T20
+  dates:
+  - '2023-01-22'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Dubai Capitals
+    by:
+      runs: 16
+  overs: 20
+  player_of_match:
+  - R Powell
+  players:
+    Dubai Capitals:
+    - RV Uthappa
+    - JE Root
+    - R Powell
+    - YK Pathan
+    - DW Lawrence
+    - MD Shanaka
+    - C Karunaratne
+    - Mujeeb Ur Rahman
+    - Akif Raja
+    - FJ Klaassen
+    - Hazrat Luqman
+    MI Emirates:
+    - WCF Smeed
+    - Waseem Muhammad
+    - N Pooran
+    - ADS Fletcher
+    - KA Pollard
+    - Najibullah Zadran
+    - SR Patel
+    - TA Boult
+    - Imran Tahir
+    - Fazalhaq Farooqi
+    - Zahoor Khan
+  registry:
+    people:
+      ADS Fletcher: 1bae756b
+      AG Wharf: 2e0fcc58
+      Akif Raja: 9d0344f3
+      C Karunaratne: fb3e0d39
+      DW Lawrence: 4b685e2d
+      FJ Klaassen: c042b412
+      Fazalhaq Farooqi: e9c7f0d0
+      Hazrat Luqman: fdc1ac0f
+      Imran Tahir: acee4cc4
+      JE Root: a343262c
+      KA Pollard: a757b0d8
+      LS Reifer: 5dee559a
+      MD Shanaka: 3ff033bb
+      Mujeeb Ur Rahman: 7d92277a
+      N Pooran: 3241e3fd
+      Najibullah Zadran: 1212cbec
+      R Powell: 650d5e49
+      RJ Tucker: 38810cfc
+      RS Mahanama: '57910393'
+      RV Uthappa: 1c17e270
+      SR Patel: 18fac429
+      Shiju Sam: 1e2f3eae
+      TA Boult: a818c1be
+      WCF Smeed: 4e18e961
+      Waseem Muhammad: 6f02fe2a
+      YK Pathan: 3c6ffae8
+      Zahoor Khan: f0e293b0
+  teams:
+  - Dubai Capitals
+  - MI Emirates
+  toss:
+    winner: MI Emirates
+    decision: field
+  umpires:
+  - AG Wharf
+  - LS Reifer
+  venue: Zayed Cricket Stadium, Abu Dhabi
+innings:
+- 1st innings:
+    team: Dubai Capitals
+    deliveries:
+    - 0.1:
+        non_striker: JE Root
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RV Uthappa
+    - 0.2:
+        non_striker: JE Root
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 0.3:
+        non_striker: JE Root
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 0.4:
+        non_striker: RV Uthappa
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 0.5:
+        non_striker: RV Uthappa
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Root
+    - 0.6:
+        non_striker: RV Uthappa
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 1.1:
+        non_striker: RV Uthappa
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: JE Root
+    - 1.2:
+        non_striker: RV Uthappa
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 1.3:
+        non_striker: JE Root
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RV Uthappa
+    - 1.4:
+        non_striker: JE Root
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RV Uthappa
+    - 1.5:
+        non_striker: RV Uthappa
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 1.6:
+        non_striker: RV Uthappa
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 1.7:
+        non_striker: RV Uthappa
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 2.1:
+        non_striker: JE Root
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 2.2:
+        non_striker: JE Root
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RV Uthappa
+    - 2.3:
+        non_striker: JE Root
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RV Uthappa
+    - 2.4:
+        non_striker: JE Root
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 2.5:
+        non_striker: JE Root
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 2.6:
+        non_striker: JE Root
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RV Uthappa
+    - 2.7:
+        non_striker: JE Root
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 3.1:
+        non_striker: RV Uthappa
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Root
+    - 3.2:
+        non_striker: RV Uthappa
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 3.3:
+        non_striker: RV Uthappa
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Root
+    - 3.4:
+        non_striker: RV Uthappa
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 3.5:
+        non_striker: JE Root
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 3.6:
+        non_striker: JE Root
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 4.1:
+        non_striker: JE Root
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 4.2:
+        non_striker: RV Uthappa
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Root
+    - 4.3:
+        non_striker: RV Uthappa
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JE Root
+    - 4.4:
+        non_striker: RV Uthappa
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Root
+    - 4.5:
+        non_striker: RV Uthappa
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JE Root
+    - 4.6:
+        non_striker: RV Uthappa
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 5.1:
+        non_striker: RV Uthappa
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 5.2:
+        non_striker: JE Root
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 5.3:
+        non_striker: RV Uthappa
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 5.4:
+        non_striker: RV Uthappa
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 5.5:
+        non_striker: RV Uthappa
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Root
+    - 5.6:
+        non_striker: RV Uthappa
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 6.1:
+        non_striker: RV Uthappa
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 6.2:
+        non_striker: RV Uthappa
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 6.3:
+        non_striker: RV Uthappa
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 6.4:
+        non_striker: JE Root
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RV Uthappa
+    - 6.5:
+        non_striker: JE Root
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RV Uthappa
+    - 6.6:
+        non_striker: JE Root
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 7.1:
+        non_striker: RV Uthappa
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 7.2:
+        non_striker: JE Root
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 7.3:
+        non_striker: JE Root
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 7.4:
+        non_striker: RV Uthappa
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 7.5:
+        non_striker: JE Root
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 7.6:
+        non_striker: RV Uthappa
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 8.1:
+        non_striker: RV Uthappa
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 8.2:
+        non_striker: RV Uthappa
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 8.3:
+        non_striker: RV Uthappa
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 8.4:
+        non_striker: JE Root
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RV Uthappa
+    - 8.5:
+        non_striker: JE Root
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+        wicket:
+          player_out: RV Uthappa
+          fielders:
+          - WCF Smeed
+          kind: caught
+    - 8.6:
+        non_striker: JE Root
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 9.1:
+        non_striker: R Powell
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 9.2:
+        non_striker: JE Root
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 9.3:
+        non_striker: JE Root
+        bowler: KA Pollard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 9.4:
+        non_striker: JE Root
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 9.5:
+        non_striker: JE Root
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 9.6:
+        non_striker: JE Root
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 9.7:
+        non_striker: R Powell
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 10.1:
+        non_striker: R Powell
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 10.2:
+        non_striker: JE Root
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 10.3:
+        non_striker: JE Root
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 10.4:
+        non_striker: JE Root
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 10.5:
+        non_striker: JE Root
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 10.6:
+        non_striker: JE Root
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 11.1:
+        non_striker: JE Root
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 11.2:
+        non_striker: JE Root
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 11.3:
+        non_striker: JE Root
+        bowler: KA Pollard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 11.4:
+        non_striker: JE Root
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 11.5:
+        non_striker: R Powell
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Root
+    - 11.6:
+        non_striker: R Powell
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 11.7:
+        non_striker: JE Root
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 12.1:
+        non_striker: R Powell
+        bowler: Zahoor Khan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: JE Root
+    - 12.2:
+        non_striker: R Powell
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 12.3:
+        non_striker: JE Root
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 12.4:
+        non_striker: JE Root
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 12.5:
+        non_striker: JE Root
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 12.6:
+        non_striker: JE Root
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 13.1:
+        non_striker: JE Root
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 13.2:
+        non_striker: R Powell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 13.3:
+        non_striker: R Powell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Root
+    - 13.4:
+        non_striker: R Powell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Root
+    - 13.5:
+        non_striker: R Powell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 13.6:
+        non_striker: JE Root
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 14.1:
+        non_striker: R Powell
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 14.2:
+        non_striker: JE Root
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 14.3:
+        non_striker: R Powell
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Root
+    - 14.4:
+        non_striker: R Powell
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 14.5:
+        non_striker: JE Root
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 14.6:
+        non_striker: JE Root
+        bowler: Waseem Muhammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 15.1:
+        non_striker: R Powell
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JE Root
+    - 15.2:
+        non_striker: R Powell
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Root
+    - 15.3:
+        non_striker: R Powell
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 15.4:
+        non_striker: JE Root
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 15.5:
+        non_striker: JE Root
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 15.6:
+        non_striker: JE Root
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 16.1:
+        non_striker: JE Root
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Powell
+    - 16.2:
+        non_striker: R Powell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 16.3:
+        non_striker: R Powell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Root
+    - 16.4:
+        non_striker: R Powell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Root
+    - 16.5:
+        non_striker: R Powell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 16.6:
+        non_striker: JE Root
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 17.1:
+        non_striker: JE Root
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 17.2:
+        non_striker: JE Root
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 17.3:
+        non_striker: JE Root
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 17.4:
+        non_striker: JE Root
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 17.5:
+        non_striker: JE Root
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 17.6:
+        non_striker: JE Root
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 17.7:
+        non_striker: JE Root
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 17.8:
+        non_striker: JE Root
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 18.1:
+        non_striker: R Powell
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 18.2:
+        non_striker: JE Root
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 18.3:
+        non_striker: R Powell
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 18.4:
+        non_striker: R Powell
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+        wicket:
+          player_out: JE Root
+          fielders:
+          - Fazalhaq Farooqi
+          kind: caught
+    - 18.5:
+        non_striker: R Powell
+        bowler: Zahoor Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: YK Pathan
+    - 18.6:
+        non_striker: YK Pathan
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 19.1:
+        non_striker: R Powell
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 19.2:
+        non_striker: YK Pathan
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 19.3:
+        non_striker: YK Pathan
+        bowler: KA Pollard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 19.4:
+        non_striker: YK Pathan
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 19.5:
+        non_striker: YK Pathan
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 19.6:
+        non_striker: YK Pathan
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 19.7:
+        non_striker: YK Pathan
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          fielders:
+          - WCF Smeed
+          kind: caught
+- 2nd innings:
+    team: MI Emirates
+    deliveries:
+    - 0.1:
+        non_striker: Waseem Muhammad
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 0.2:
+        non_striker: Waseem Muhammad
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 0.3:
+        non_striker: Waseem Muhammad
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WCF Smeed
+    - 0.4:
+        non_striker: Waseem Muhammad
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 0.5:
+        non_striker: Waseem Muhammad
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 0.6:
+        non_striker: Waseem Muhammad
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 1.1:
+        non_striker: WCF Smeed
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.2:
+        non_striker: WCF Smeed
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 1.3:
+        non_striker: WCF Smeed
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.4:
+        non_striker: WCF Smeed
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 1.5:
+        non_striker: WCF Smeed
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.6:
+        non_striker: WCF Smeed
+        bowler: Hazrat Luqman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Muhammad
+    - 1.7:
+        non_striker: WCF Smeed
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.1:
+        non_striker: Waseem Muhammad
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WCF Smeed
+    - 2.2:
+        non_striker: Waseem Muhammad
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WCF Smeed
+    - 2.3:
+        non_striker: WCF Smeed
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.4:
+        non_striker: WCF Smeed
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 2.5:
+        non_striker: Waseem Muhammad
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: WCF Smeed
+    - 2.6:
+        non_striker: WCF Smeed
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 3.1:
+        non_striker: Waseem Muhammad
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 3.2:
+        non_striker: Waseem Muhammad
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WCF Smeed
+    - 3.3:
+        non_striker: Waseem Muhammad
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 3.4:
+        non_striker: Waseem Muhammad
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WCF Smeed
+    - 3.5:
+        non_striker: WCF Smeed
+        bowler: Hazrat Luqman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Muhammad
+    - 3.6:
+        non_striker: WCF Smeed
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 3.7:
+        non_striker: Waseem Muhammad
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 4.1:
+        non_striker: WCF Smeed
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 4.2:
+        non_striker: WCF Smeed
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          fielders:
+          - FJ Klaassen
+          kind: caught
+    - 4.3:
+        non_striker: WCF Smeed
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.4:
+        non_striker: WCF Smeed
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.5:
+        non_striker: WCF Smeed
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.6:
+        non_striker: WCF Smeed
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.1:
+        non_striker: N Pooran
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 5.2:
+        non_striker: N Pooran
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+        wicket:
+          player_out: WCF Smeed
+          fielders:
+          - RV Uthappa
+          kind: caught
+    - 5.3:
+        non_striker: N Pooran
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 5.4:
+        non_striker: N Pooran
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 5.5:
+        non_striker: N Pooran
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 5.6:
+        non_striker: ADS Fletcher
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          kind: bowled
+    - 6.1:
+        non_striker: KA Pollard
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 6.2:
+        non_striker: ADS Fletcher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 6.3:
+        non_striker: ADS Fletcher
+        bowler: C Karunaratne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Pollard
+    - 6.4:
+        non_striker: ADS Fletcher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 6.5:
+        non_striker: ADS Fletcher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 6.6:
+        non_striker: KA Pollard
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 6.7:
+        non_striker: KA Pollard
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 7.1:
+        non_striker: KA Pollard
+        bowler: Hazrat Luqman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ADS Fletcher
+    - 7.2:
+        non_striker: KA Pollard
+        bowler: Hazrat Luqman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ADS Fletcher
+    - 7.3:
+        non_striker: KA Pollard
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 7.4:
+        non_striker: KA Pollard
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 7.5:
+        non_striker: ADS Fletcher
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 7.6:
+        non_striker: KA Pollard
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 7.7:
+        non_striker: ADS Fletcher
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 7.8:
+        non_striker: ADS Fletcher
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 8.1:
+        non_striker: KA Pollard
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 8.2:
+        non_striker: ADS Fletcher
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 8.3:
+        non_striker: ADS Fletcher
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: KA Pollard
+    - 8.4:
+        non_striker: ADS Fletcher
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 8.5:
+        non_striker: ADS Fletcher
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 8.6:
+        non_striker: KA Pollard
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 9.1:
+        non_striker: ADS Fletcher
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 9.2:
+        non_striker: ADS Fletcher
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 9.3:
+        non_striker: ADS Fletcher
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 9.4:
+        non_striker: ADS Fletcher
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 9.5:
+        non_striker: KA Pollard
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 9.6:
+        non_striker: ADS Fletcher
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 10.1:
+        non_striker: KA Pollard
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 10.2:
+        non_striker: KA Pollard
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 10.3:
+        non_striker: KA Pollard
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 10.4:
+        non_striker: ADS Fletcher
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 10.5:
+        non_striker: ADS Fletcher
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 10.6:
+        non_striker: ADS Fletcher
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 11.1:
+        non_striker: KA Pollard
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 11.2:
+        non_striker: ADS Fletcher
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 11.3:
+        non_striker: ADS Fletcher
+        bowler: Akif Raja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Pollard
+    - 11.4:
+        non_striker: ADS Fletcher
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 11.5:
+        non_striker: ADS Fletcher
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 11.6:
+        non_striker: ADS Fletcher
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 11.7:
+        non_striker: ADS Fletcher
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 12.1:
+        non_striker: ADS Fletcher
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 12.2:
+        non_striker: ADS Fletcher
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 12.3:
+        non_striker: KA Pollard
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 12.4:
+        non_striker: KA Pollard
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 12.5:
+        non_striker: KA Pollard
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 12.6:
+        non_striker: KA Pollard
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 13.1:
+        non_striker: KA Pollard
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 13.2:
+        non_striker: ADS Fletcher
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 13.3:
+        non_striker: ADS Fletcher
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 13.4:
+        non_striker: ADS Fletcher
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 13.5:
+        non_striker: ADS Fletcher
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 13.6:
+        non_striker: KA Pollard
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 14.1:
+        non_striker: KA Pollard
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 14.2:
+        non_striker: ADS Fletcher
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 14.3:
+        non_striker: ADS Fletcher
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 14.4:
+        non_striker: ADS Fletcher
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 14.5:
+        non_striker: ADS Fletcher
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 14.6:
+        non_striker: KA Pollard
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 15.1:
+        non_striker: KA Pollard
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 15.2:
+        non_striker: ADS Fletcher
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 15.3:
+        non_striker: ADS Fletcher
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 15.4:
+        non_striker: ADS Fletcher
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 15.5:
+        non_striker: ADS Fletcher
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 15.6:
+        non_striker: ADS Fletcher
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+        wicket:
+          player_out: KA Pollard
+          fielders:
+          - C Karunaratne
+          kind: caught
+    - 16.1:
+        non_striker: Najibullah Zadran
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 16.2:
+        non_striker: Najibullah Zadran
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ADS Fletcher
+    - 16.3:
+        non_striker: Najibullah Zadran
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 16.4:
+        non_striker: ADS Fletcher
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 16.5:
+        non_striker: Najibullah Zadran
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 16.6:
+        non_striker: ADS Fletcher
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 16.7:
+        non_striker: Najibullah Zadran
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 17.1:
+        non_striker: ADS Fletcher
+        bowler: C Karunaratne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najibullah Zadran
+    - 17.2:
+        non_striker: ADS Fletcher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najibullah Zadran
+    - 17.3:
+        non_striker: ADS Fletcher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najibullah Zadran
+    - 17.4:
+        non_striker: ADS Fletcher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najibullah Zadran
+    - 17.5:
+        non_striker: ADS Fletcher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najibullah Zadran
+    - 17.6:
+        non_striker: ADS Fletcher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najibullah Zadran
+    - 17.7:
+        non_striker: ADS Fletcher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 18.1:
+        non_striker: Najibullah Zadran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 18.2:
+        non_striker: ADS Fletcher
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+        wicket:
+          player_out: Najibullah Zadran
+          kind: bowled
+    - 18.3:
+        non_striker: ADS Fletcher
+        bowler: FJ Klaassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SR Patel
+    - 18.4:
+        non_striker: SR Patel
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 18.5:
+        non_striker: SR Patel
+        bowler: FJ Klaassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ADS Fletcher
+    - 18.6:
+        non_striker: SR Patel
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 18.7:
+        non_striker: SR Patel
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 19.1:
+        non_striker: ADS Fletcher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Patel
+    - 19.2:
+        non_striker: ADS Fletcher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 19.3:
+        non_striker: SR Patel
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 19.4:
+        non_striker: ADS Fletcher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Patel
+    - 19.5:
+        non_striker: ADS Fletcher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Patel
+    - 19.6:
+        non_striker: ADS Fletcher
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel

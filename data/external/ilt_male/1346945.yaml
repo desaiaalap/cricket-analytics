@@ -1,0 +1,1901 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-02-09'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Sharjah
+  competition: International League T20
+  dates:
+  - '2023-02-06'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Gulf Giants
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - D Wiese
+  players:
+    Sharjah Warriors:
+    - Rahmanullah Gurbaz
+    - T Kohler-Cadmore
+    - MM Ali
+    - E Lewis
+    - MP Stoinis
+    - JL Denly
+    - Mohammad Nabi
+    - CR Woakes
+    - Noor Ahmad
+    - Junaid Siddique
+    - Muhammad Jawadullah
+    Gulf Giants:
+    - T Banton
+    - JM Vince
+    - C de Grandhomme
+    - Aayan Afzal Khan
+    - MG Erasmus
+    - D Wiese
+    - CR Brathwaite
+    - DC Drakes
+    - TG Helm
+    - SM Sharma
+    - Qais Ahmad
+  registry:
+    people:
+      Aayan Afzal Khan: d2d15439
+      Akbar Ali: e753931d
+      C de Grandhomme: 94d7f855
+      CR Brathwaite: e342e5fb
+      CR Woakes: 4c5d73db
+      D Wiese: aa8d28ae
+      DC Drakes: 34b332d3
+      E Lewis: 0ebfb1ad
+      JL Denly: bdadf7da
+      JM Vince: a15618fe
+      Junaid Siddique: 84dc72db
+      MG Erasmus: 95a5e066
+      MJ Saggers: 402d5937
+      MM Ali: bb351c23
+      MP Stoinis: d9273ee7
+      Mohammad Nabi: 62af8546
+      Muhammad Jawadullah: '098a757c'
+      Noor Ahmad: efc04be7
+      Qais Ahmad: 8d5d991e
+      RS Mahanama: '57910393'
+      RSA Palliyaguruge: 4339c19d
+      Rahmanullah Gurbaz: 0bacade8
+      SJA Taufel: 4b43d5ac
+      SM Sharma: cec44e08
+      T Banton: 25f7b7d6
+      T Kohler-Cadmore: f836b33d
+      TG Helm: 74a274cc
+  teams:
+  - Sharjah Warriors
+  - Gulf Giants
+  toss:
+    winner: Gulf Giants
+    decision: field
+  umpires:
+  - Akbar Ali
+  - MJ Saggers
+  venue: Sharjah Cricket Stadium
+innings:
+- 1st innings:
+    team: Sharjah Warriors
+    deliveries:
+    - 0.1:
+        non_striker: T Kohler-Cadmore
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.2:
+        non_striker: T Kohler-Cadmore
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.3:
+        non_striker: T Kohler-Cadmore
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.4:
+        non_striker: T Kohler-Cadmore
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.5:
+        non_striker: T Kohler-Cadmore
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 0.6:
+        non_striker: T Kohler-Cadmore
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 1.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 1.3:
+        non_striker: T Kohler-Cadmore
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.4:
+        non_striker: T Kohler-Cadmore
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 1.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 1.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 2.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: DC Drakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Kohler-Cadmore
+    - 2.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 2.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 2.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 2.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 2.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 2.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 3.1:
+        non_striker: T Kohler-Cadmore
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          fielders:
+          - TG Helm
+          kind: caught
+    - 3.2:
+        non_striker: T Kohler-Cadmore
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 3.3:
+        non_striker: MM Ali
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 3.4:
+        non_striker: MM Ali
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 3.5:
+        non_striker: MM Ali
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 3.6:
+        non_striker: MM Ali
+        bowler: SM Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Kohler-Cadmore
+    - 4.1:
+        non_striker: MM Ali
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 4.2:
+        non_striker: MM Ali
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 4.3:
+        non_striker: MM Ali
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 4.4:
+        non_striker: MM Ali
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 4.5:
+        non_striker: MM Ali
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+        wicket:
+          player_out: T Kohler-Cadmore
+          fielders:
+          - JM Vince
+          kind: caught
+    - 4.6:
+        non_striker: MM Ali
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 5.1:
+        non_striker: MM Ali
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 5.2:
+        non_striker: E Lewis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 5.3:
+        non_striker: E Lewis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 5.4:
+        non_striker: E Lewis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+        wicket:
+          player_out: MM Ali
+          fielders:
+          - DC Drakes
+          kind: caught
+    - 5.5:
+        non_striker: E Lewis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 5.6:
+        non_striker: E Lewis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 6.1:
+        non_striker: MP Stoinis
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 6.2:
+        non_striker: E Lewis
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 6.3:
+        non_striker: E Lewis
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 6.4:
+        non_striker: E Lewis
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 6.5:
+        non_striker: MP Stoinis
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 6.6:
+        non_striker: MP Stoinis
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 7.1:
+        non_striker: E Lewis
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 7.2:
+        non_striker: E Lewis
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 7.3:
+        non_striker: E Lewis
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 7.4:
+        non_striker: E Lewis
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 7.5:
+        non_striker: MP Stoinis
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 7.6:
+        non_striker: MP Stoinis
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+        wicket:
+          player_out: E Lewis
+          kind: lbw
+    - 8.1:
+        non_striker: JL Denly
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 8.2:
+        non_striker: MP Stoinis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 8.3:
+        non_striker: JL Denly
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 8.4:
+        non_striker: MP Stoinis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 8.5:
+        non_striker: JL Denly
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 8.6:
+        non_striker: MP Stoinis
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 9.1:
+        non_striker: JL Denly
+        bowler: Qais Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP Stoinis
+    - 9.2:
+        non_striker: MP Stoinis
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 9.3:
+        non_striker: MP Stoinis
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 9.4:
+        non_striker: MP Stoinis
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 9.5:
+        non_striker: JL Denly
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 9.6:
+        non_striker: MP Stoinis
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 10.1:
+        non_striker: JL Denly
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 10.2:
+        non_striker: MP Stoinis
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+        wicket:
+          player_out: JL Denly
+          kind: bowled
+    - 10.3:
+        non_striker: MP Stoinis
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 10.4:
+        non_striker: Mohammad Nabi
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: MP Stoinis
+          kind: lbw
+    - 10.5:
+        non_striker: Mohammad Nabi
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 10.6:
+        non_striker: Mohammad Nabi
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+        wicket:
+          player_out: CR Woakes
+          fielders:
+          - Qais Ahmad
+          kind: caught
+    - 11.1:
+        non_striker: Noor Ahmad
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 11.2:
+        non_striker: Noor Ahmad
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 11.3:
+        non_striker: Mohammad Nabi
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noor Ahmad
+    - 11.4:
+        non_striker: Noor Ahmad
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 11.5:
+        non_striker: Mohammad Nabi
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noor Ahmad
+    - 11.6:
+        non_striker: Noor Ahmad
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 12.1:
+        non_striker: Noor Ahmad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 12.2:
+        non_striker: Mohammad Nabi
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+    - 12.3:
+        non_striker: Mohammad Nabi
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noor Ahmad
+    - 12.4:
+        non_striker: Noor Ahmad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 12.5:
+        non_striker: Noor Ahmad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 12.6:
+        non_striker: Mohammad Nabi
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Noor Ahmad
+    - 13.1:
+        non_striker: Noor Ahmad
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 13.2:
+        non_striker: Noor Ahmad
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 13.3:
+        non_striker: Mohammad Nabi
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+    - 13.4:
+        non_striker: Mohammad Nabi
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noor Ahmad
+    - 13.5:
+        non_striker: Noor Ahmad
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 13.6:
+        non_striker: Noor Ahmad
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 14.1:
+        non_striker: Mohammad Nabi
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Noor Ahmad
+    - 14.2:
+        non_striker: Noor Ahmad
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 14.3:
+        non_striker: Noor Ahmad
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 14.4:
+        non_striker: Mohammad Nabi
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+    - 14.5:
+        non_striker: Mohammad Nabi
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noor Ahmad
+    - 14.6:
+        non_striker: Noor Ahmad
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 15.1:
+        non_striker: Noor Ahmad
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 15.2:
+        non_striker: Mohammad Nabi
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noor Ahmad
+    - 15.3:
+        non_striker: Noor Ahmad
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 15.4:
+        non_striker: Noor Ahmad
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+        wicket:
+          player_out: Noor Ahmad
+          fielders:
+          - T Banton
+          - TG Helm
+          kind: run out
+    - 15.5:
+        non_striker: Mohammad Nabi
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+    - 15.6:
+        non_striker: Mohammad Nabi
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Junaid Siddique
+    - 16.1:
+        non_striker: Junaid Siddique
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Nabi
+    - 16.2:
+        non_striker: Junaid Siddique
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+        wicket:
+          player_out: Mohammad Nabi
+          kind: lbw
+    - 16.3:
+        non_striker: Junaid Siddique
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Jawadullah
+    - 16.4:
+        non_striker: Junaid Siddique
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Jawadullah
+    - 16.5:
+        non_striker: Junaid Siddique
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Jawadullah
+    - 16.6:
+        non_striker: Junaid Siddique
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Jawadullah
+    - 17.1:
+        non_striker: Muhammad Jawadullah
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+    - 17.2:
+        non_striker: Muhammad Jawadullah
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+    - 17.3:
+        non_striker: Muhammad Jawadullah
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+    - 17.4:
+        non_striker: Muhammad Jawadullah
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+    - 17.5:
+        non_striker: Muhammad Jawadullah
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Junaid Siddique
+    - 17.6:
+        non_striker: Muhammad Jawadullah
+        bowler: TG Helm
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Siddique
+    - 18.1:
+        non_striker: Muhammad Jawadullah
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Siddique
+    - 18.2:
+        non_striker: Junaid Siddique
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Jawadullah
+    - 18.3:
+        non_striker: Muhammad Jawadullah
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+        wicket:
+          player_out: Junaid Siddique
+          fielders:
+          - C de Grandhomme
+          kind: caught
+- 2nd innings:
+    team: Gulf Giants
+    deliveries:
+    - 0.1:
+        non_striker: JM Vince
+        bowler: CR Woakes
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: T Banton
+    - 0.2:
+        non_striker: JM Vince
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 0.3:
+        non_striker: JM Vince
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 0.4:
+        non_striker: JM Vince
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 0.5:
+        non_striker: JM Vince
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 0.6:
+        non_striker: JM Vince
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 0.7:
+        non_striker: JM Vince
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 1.1:
+        non_striker: T Banton
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 1.2:
+        non_striker: T Banton
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 1.3:
+        non_striker: T Banton
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 1.4:
+        non_striker: T Banton
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 1.5:
+        non_striker: T Banton
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 1.6:
+        non_striker: JM Vince
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 2.1:
+        non_striker: T Banton
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 2.2:
+        non_striker: JM Vince
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 2.3:
+        non_striker: JM Vince
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 2.4:
+        non_striker: JM Vince
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 2.5:
+        non_striker: JM Vince
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 2.6:
+        non_striker: JM Vince
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 3.1:
+        non_striker: T Banton
+        bowler: Junaid Siddique
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: JM Vince
+    - 3.2:
+        non_striker: JM Vince
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 3.3:
+        non_striker: T Banton
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 3.4:
+        non_striker: T Banton
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 3.5:
+        non_striker: T Banton
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 3.6:
+        non_striker: T Banton
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JM Vince
+    - 3.7:
+        non_striker: JM Vince
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 4.1:
+        non_striker: T Banton
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 4.2:
+        non_striker: JM Vince
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 4.3:
+        non_striker: JM Vince
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+        wicket:
+          player_out: T Banton
+          kind: bowled
+    - 4.4:
+        non_striker: JM Vince
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 4.5:
+        non_striker: C de Grandhomme
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 4.6:
+        non_striker: C de Grandhomme
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 5.1:
+        non_striker: JM Vince
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 5.2:
+        non_striker: JM Vince
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 5.3:
+        non_striker: JM Vince
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 5.4:
+        non_striker: C de Grandhomme
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 5.5:
+        non_striker: JM Vince
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 5.6:
+        non_striker: C de Grandhomme
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 6.1:
+        non_striker: JM Vince
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 6.2:
+        non_striker: C de Grandhomme
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 6.3:
+        non_striker: C de Grandhomme
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 6.4:
+        non_striker: C de Grandhomme
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 6.5:
+        non_striker: C de Grandhomme
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 6.6:
+        non_striker: JM Vince
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 7.1:
+        non_striker: C de Grandhomme
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 7.2:
+        non_striker: JM Vince
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C de Grandhomme
+    - 7.3:
+        non_striker: JM Vince
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 7.4:
+        non_striker: JM Vince
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 7.5:
+        non_striker: C de Grandhomme
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Vince
+    - 7.6:
+        non_striker: C de Grandhomme
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 7.7:
+        non_striker: C de Grandhomme
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 8.1:
+        non_striker: C de Grandhomme
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 8.2:
+        non_striker: JM Vince
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 8.3:
+        non_striker: JM Vince
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 8.4:
+        non_striker: C de Grandhomme
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 8.5:
+        non_striker: JM Vince
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 8.6:
+        non_striker: C de Grandhomme
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 9.1:
+        non_striker: JM Vince
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 9.2:
+        non_striker: JM Vince
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 9.3:
+        non_striker: C de Grandhomme
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Vince
+    - 9.4:
+        non_striker: C de Grandhomme
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 9.5:
+        non_striker: JM Vince
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 9.6:
+        non_striker: JM Vince
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C de Grandhomme
+    - 9.7:
+        non_striker: JM Vince
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 10.1:
+        non_striker: JM Vince
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 10.2:
+        non_striker: C de Grandhomme
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 10.3:
+        non_striker: C de Grandhomme
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 10.4:
+        non_striker: JM Vince
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 10.5:
+        non_striker: JM Vince
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C de Grandhomme
+    - 10.6:
+        non_striker: JM Vince
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 11.1:
+        non_striker: C de Grandhomme
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 11.2:
+        non_striker: JM Vince
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C de Grandhomme
+    - 11.3:
+        non_striker: JM Vince
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C de Grandhomme
+    - 11.4:
+        non_striker: JM Vince
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C de Grandhomme
+    - 11.5:
+        non_striker: JM Vince
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 11.6:
+        non_striker: C de Grandhomme
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 12.1:
+        non_striker: JM Vince
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 12.2:
+        non_striker: JM Vince
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+        wicket:
+          player_out: C de Grandhomme
+          fielders:
+          - E Lewis
+          kind: caught
+    - 12.3:
+        non_striker: JM Vince
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aayan Afzal Khan
+    - 12.4:
+        non_striker: JM Vince
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aayan Afzal Khan
+    - 12.5:
+        non_striker: JM Vince
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aayan Afzal Khan
+    - 12.6:
+        non_striker: JM Vince
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aayan Afzal Khan
+    - 12.7:
+        non_striker: Aayan Afzal Khan
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+        wicket:
+          player_out: JM Vince
+          kind: bowled
+    - 13.1:
+        non_striker: MG Erasmus
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aayan Afzal Khan
+    - 13.2:
+        non_striker: MG Erasmus
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aayan Afzal Khan
+    - 13.3:
+        non_striker: MG Erasmus
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aayan Afzal Khan
+    - 13.4:
+        non_striker: Aayan Afzal Khan
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 13.5:
+        non_striker: Aayan Afzal Khan
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 13.6:
+        non_striker: Aayan Afzal Khan
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 14.1:
+        non_striker: MG Erasmus
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aayan Afzal Khan
+    - 14.2:
+        non_striker: MG Erasmus
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aayan Afzal Khan
+    - 14.3:
+        non_striker: Aayan Afzal Khan
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 14.4:
+        non_striker: Aayan Afzal Khan
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 14.5:
+        non_striker: Aayan Afzal Khan
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 14.6:
+        non_striker: Aayan Afzal Khan
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 15.1:
+        non_striker: Aayan Afzal Khan
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 15.2:
+        non_striker: Aayan Afzal Khan
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: MG Erasmus
+    - 15.3:
+        non_striker: MG Erasmus
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aayan Afzal Khan
+    - 15.4:
+        non_striker: MG Erasmus
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aayan Afzal Khan
+    - 15.5:
+        non_striker: Aayan Afzal Khan
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 15.6:
+        non_striker: Aayan Afzal Khan
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 15.7:
+        non_striker: MG Erasmus
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aayan Afzal Khan
+    - 16.1:
+        non_striker: Aayan Afzal Khan
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 16.2:
+        non_striker: MG Erasmus
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aayan Afzal Khan
+    - 16.3:
+        non_striker: MG Erasmus
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aayan Afzal Khan

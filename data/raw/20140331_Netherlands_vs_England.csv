@@ -1,0 +1,235 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Netherlands,0.1,MR Swart,MM Ali,1,{},{}
+1st innings,Netherlands,0.2,SJ Myburgh,MM Ali,4,{},{}
+1st innings,Netherlands,0.3,SJ Myburgh,MM Ali,4,{},{}
+1st innings,Netherlands,0.4,SJ Myburgh,MM Ali,0,{},{}
+1st innings,Netherlands,0.5,SJ Myburgh,MM Ali,4,{},{}
+1st innings,Netherlands,0.6,SJ Myburgh,MM Ali,0,{},{}
+1st innings,Netherlands,1.1,MR Swart,TT Bresnan,0,{},{}
+1st innings,Netherlands,1.2,MR Swart,TT Bresnan,0,{},{}
+1st innings,Netherlands,1.3,MR Swart,TT Bresnan,0,{},{}
+1st innings,Netherlands,1.4,MR Swart,TT Bresnan,4,{},{}
+1st innings,Netherlands,1.5,MR Swart,TT Bresnan,1,{},{}
+1st innings,Netherlands,1.6,SJ Myburgh,TT Bresnan,0,{},{}
+1st innings,Netherlands,2.1,MR Swart,CJ Jordan,1,{'wides': 1},{}
+1st innings,Netherlands,2.2,MR Swart,CJ Jordan,0,{},{}
+1st innings,Netherlands,2.3,MR Swart,CJ Jordan,4,{},{}
+1st innings,Netherlands,2.4,MR Swart,CJ Jordan,0,{},{}
+1st innings,Netherlands,2.5,MR Swart,CJ Jordan,1,{},{}
+1st innings,Netherlands,2.6,SJ Myburgh,CJ Jordan,4,{},{}
+1st innings,Netherlands,2.7,SJ Myburgh,CJ Jordan,4,{'legbyes': 4},{}
+1st innings,Netherlands,3.1,MR Swart,SCJ Broad,0,{},{}
+1st innings,Netherlands,3.2,MR Swart,SCJ Broad,2,{},{}
+1st innings,Netherlands,3.3,MR Swart,SCJ Broad,0,{},{}
+1st innings,Netherlands,3.4,MR Swart,SCJ Broad,0,{},{}
+1st innings,Netherlands,3.5,MR Swart,SCJ Broad,0,{},"{'fielders': ['SD Parry'], 'kind': 'caught', 'player_out': 'MR Swart'}"
+1st innings,Netherlands,3.6,W Barresi,SCJ Broad,0,{},{}
+1st innings,Netherlands,4.1,SJ Myburgh,JC Tredwell,1,{},{}
+1st innings,Netherlands,4.2,W Barresi,JC Tredwell,1,{},{}
+1st innings,Netherlands,4.3,SJ Myburgh,JC Tredwell,3,{'byes': 3},{}
+1st innings,Netherlands,4.4,W Barresi,JC Tredwell,4,{},{}
+1st innings,Netherlands,4.5,W Barresi,JC Tredwell,0,{},{}
+1st innings,Netherlands,4.6,W Barresi,JC Tredwell,0,{},{}
+1st innings,Netherlands,5.1,SJ Myburgh,SCJ Broad,0,{},{}
+1st innings,Netherlands,5.2,SJ Myburgh,SCJ Broad,0,{},{}
+1st innings,Netherlands,5.3,SJ Myburgh,SCJ Broad,4,{},{}
+1st innings,Netherlands,5.4,SJ Myburgh,SCJ Broad,0,{},{}
+1st innings,Netherlands,5.5,SJ Myburgh,SCJ Broad,0,{},{}
+1st innings,Netherlands,5.6,SJ Myburgh,SCJ Broad,0,{},{}
+1st innings,Netherlands,6.1,W Barresi,JC Tredwell,1,{},{}
+1st innings,Netherlands,6.2,SJ Myburgh,JC Tredwell,1,{},{}
+1st innings,Netherlands,6.3,W Barresi,JC Tredwell,1,{},{}
+1st innings,Netherlands,6.4,SJ Myburgh,JC Tredwell,1,{},{}
+1st innings,Netherlands,6.5,W Barresi,JC Tredwell,1,{},{}
+1st innings,Netherlands,6.6,SJ Myburgh,JC Tredwell,0,{},{}
+1st innings,Netherlands,7.1,W Barresi,SD Parry,6,{},{}
+1st innings,Netherlands,7.2,W Barresi,SD Parry,1,{},{}
+1st innings,Netherlands,7.3,SJ Myburgh,SD Parry,0,{},{}
+1st innings,Netherlands,7.4,SJ Myburgh,SD Parry,6,{},{}
+1st innings,Netherlands,7.5,SJ Myburgh,SD Parry,1,{},{}
+1st innings,Netherlands,7.6,W Barresi,SD Parry,1,{},{}
+1st innings,Netherlands,8.1,W Barresi,JC Tredwell,0,{},{}
+1st innings,Netherlands,8.2,W Barresi,JC Tredwell,0,{},{}
+1st innings,Netherlands,8.3,W Barresi,JC Tredwell,0,{},{}
+1st innings,Netherlands,8.4,W Barresi,JC Tredwell,1,{},{}
+1st innings,Netherlands,8.5,SJ Myburgh,JC Tredwell,1,{},{}
+1st innings,Netherlands,8.6,W Barresi,JC Tredwell,1,{},{}
+1st innings,Netherlands,9.1,W Barresi,RS Bopara,2,{},{}
+1st innings,Netherlands,9.2,W Barresi,RS Bopara,1,{'legbyes': 1},{}
+1st innings,Netherlands,9.3,SJ Myburgh,RS Bopara,1,{},{}
+1st innings,Netherlands,9.4,W Barresi,RS Bopara,0,{},{}
+1st innings,Netherlands,9.5,W Barresi,RS Bopara,1,{},{}
+1st innings,Netherlands,9.6,SJ Myburgh,RS Bopara,0,{},{}
+1st innings,Netherlands,10.1,W Barresi,JC Tredwell,1,{'wides': 1},{}
+1st innings,Netherlands,10.2,W Barresi,JC Tredwell,1,{},{}
+1st innings,Netherlands,10.3,SJ Myburgh,JC Tredwell,2,{},{}
+1st innings,Netherlands,10.4,SJ Myburgh,JC Tredwell,4,{},{}
+1st innings,Netherlands,10.5,SJ Myburgh,JC Tredwell,0,{},{}
+1st innings,Netherlands,10.6,SJ Myburgh,JC Tredwell,0,{},{}
+1st innings,Netherlands,10.7,SJ Myburgh,JC Tredwell,1,{},{}
+1st innings,Netherlands,11.1,SJ Myburgh,RS Bopara,0,{},"{'fielders': ['AD Hales'], 'kind': 'caught', 'player_out': 'SJ Myburgh'}"
+1st innings,Netherlands,11.2,TLW Cooper,RS Bopara,0,{},{}
+1st innings,Netherlands,11.3,TLW Cooper,RS Bopara,1,{'byes': 1},{}
+1st innings,Netherlands,11.4,W Barresi,RS Bopara,1,{},{}
+1st innings,Netherlands,11.5,TLW Cooper,RS Bopara,1,{},{}
+1st innings,Netherlands,11.6,W Barresi,RS Bopara,0,{},{}
+1st innings,Netherlands,12.1,TLW Cooper,SD Parry,0,{},{}
+1st innings,Netherlands,12.2,TLW Cooper,SD Parry,1,{},{}
+1st innings,Netherlands,12.3,W Barresi,SD Parry,1,{},{}
+1st innings,Netherlands,12.4,TLW Cooper,SD Parry,1,{},{}
+1st innings,Netherlands,12.5,W Barresi,SD Parry,4,{},{}
+1st innings,Netherlands,12.6,W Barresi,SD Parry,1,{},{}
+1st innings,Netherlands,13.1,W Barresi,RS Bopara,1,{},{}
+1st innings,Netherlands,13.2,TLW Cooper,RS Bopara,0,{},{}
+1st innings,Netherlands,13.3,TLW Cooper,RS Bopara,1,{},{}
+1st innings,Netherlands,13.4,W Barresi,RS Bopara,0,{},{}
+1st innings,Netherlands,13.5,W Barresi,RS Bopara,2,{},{}
+1st innings,Netherlands,13.6,W Barresi,RS Bopara,1,{},{}
+1st innings,Netherlands,14.1,W Barresi,TT Bresnan,1,{},{}
+1st innings,Netherlands,14.2,TLW Cooper,TT Bresnan,1,{},{}
+1st innings,Netherlands,14.3,W Barresi,TT Bresnan,1,{},{}
+1st innings,Netherlands,14.4,TLW Cooper,TT Bresnan,1,{},{}
+1st innings,Netherlands,14.5,W Barresi,TT Bresnan,2,{'wides': 2},{}
+1st innings,Netherlands,14.6,TLW Cooper,TT Bresnan,0,{},{}
+1st innings,Netherlands,14.7,TLW Cooper,TT Bresnan,0,{},{}
+1st innings,Netherlands,15.1,W Barresi,RS Bopara,1,{},{}
+1st innings,Netherlands,15.2,TLW Cooper,RS Bopara,1,{},{}
+1st innings,Netherlands,15.3,W Barresi,RS Bopara,0,{},{}
+1st innings,Netherlands,15.4,W Barresi,RS Bopara,1,{},{}
+1st innings,Netherlands,15.5,TLW Cooper,RS Bopara,1,{},{}
+1st innings,Netherlands,15.6,W Barresi,RS Bopara,0,{},{}
+1st innings,Netherlands,16.1,TLW Cooper,SCJ Broad,0,{},"{'fielders': ['CJ Jordan'], 'kind': 'caught', 'player_out': 'TLW Cooper'}"
+1st innings,Netherlands,16.2,W Barresi,SCJ Broad,0,{},{}
+1st innings,Netherlands,16.3,W Barresi,SCJ Broad,1,{},{}
+1st innings,Netherlands,16.4,PW Borren,SCJ Broad,0,{},{}
+1st innings,Netherlands,16.5,PW Borren,SCJ Broad,4,{},{}
+1st innings,Netherlands,16.6,PW Borren,SCJ Broad,0,{},{}
+1st innings,Netherlands,17.1,W Barresi,CJ Jordan,1,{'legbyes': 1},{}
+1st innings,Netherlands,17.2,PW Borren,CJ Jordan,1,{},{}
+1st innings,Netherlands,17.3,W Barresi,CJ Jordan,1,{},{}
+1st innings,Netherlands,17.4,PW Borren,CJ Jordan,0,{},{}
+1st innings,Netherlands,17.5,PW Borren,CJ Jordan,0,{},{}
+1st innings,Netherlands,17.6,PW Borren,CJ Jordan,0,{},{}
+1st innings,Netherlands,18.1,W Barresi,SCJ Broad,1,{'wides': 1},{}
+1st innings,Netherlands,18.2,W Barresi,SCJ Broad,2,{},{}
+1st innings,Netherlands,18.3,W Barresi,SCJ Broad,6,{},{}
+1st innings,Netherlands,18.4,W Barresi,SCJ Broad,1,{},{}
+1st innings,Netherlands,18.5,PW Borren,SCJ Broad,0,{},{}
+1st innings,Netherlands,18.6,PW Borren,SCJ Broad,2,{},{}
+1st innings,Netherlands,18.7,PW Borren,SCJ Broad,1,{'wides': 1},{}
+1st innings,Netherlands,18.8,PW Borren,SCJ Broad,0,{},"{'fielders': ['SD Parry'], 'kind': 'caught', 'player_out': 'PW Borren'}"
+1st innings,Netherlands,19.1,W Barresi,CJ Jordan,0,{},{}
+1st innings,Netherlands,19.2,W Barresi,CJ Jordan,0,{},"{'kind': 'bowled', 'player_out': 'W Barresi'}"
+1st innings,Netherlands,19.3,BN Cooper,CJ Jordan,0,{},{}
+1st innings,Netherlands,19.4,BN Cooper,CJ Jordan,1,{'legbyes': 1},{}
+1st innings,Netherlands,19.5,Mudassar Bukhari,CJ Jordan,0,{},{}
+1st innings,Netherlands,19.6,Mudassar Bukhari,CJ Jordan,1,{},{}
+2nd innings,England,0.1,AD Hales,MR Swart,0,{},{}
+2nd innings,England,0.2,AD Hales,MR Swart,4,{},{}
+2nd innings,England,0.3,AD Hales,MR Swart,0,{},{}
+2nd innings,England,0.4,AD Hales,MR Swart,1,{},{}
+2nd innings,England,0.5,MJ Lumb,MR Swart,3,{},{}
+2nd innings,England,0.6,AD Hales,MR Swart,0,{},{}
+2nd innings,England,1.1,MJ Lumb,T van der Gugten,1,{},{}
+2nd innings,England,1.2,AD Hales,T van der Gugten,1,{'wides': 1},{}
+2nd innings,England,1.3,AD Hales,T van der Gugten,1,{},{}
+2nd innings,England,1.4,MJ Lumb,T van der Gugten,2,{},{}
+2nd innings,England,1.5,MJ Lumb,T van der Gugten,0,{},{}
+2nd innings,England,1.6,MJ Lumb,T van der Gugten,0,{},{}
+2nd innings,England,1.7,MJ Lumb,T van der Gugten,0,{},{}
+2nd innings,England,2.1,AD Hales,Mudassar Bukhari,0,{},{}
+2nd innings,England,2.2,AD Hales,Mudassar Bukhari,4,{},{}
+2nd innings,England,2.3,AD Hales,Mudassar Bukhari,0,{},{}
+2nd innings,England,2.4,AD Hales,Mudassar Bukhari,1,{},{}
+2nd innings,England,2.5,MJ Lumb,Mudassar Bukhari,0,{},{}
+2nd innings,England,2.6,MJ Lumb,Mudassar Bukhari,0,{},"{'fielders': ['TLW Cooper'], 'kind': 'caught', 'player_out': 'MJ Lumb'}"
+2nd innings,England,3.1,AD Hales,T van der Gugten,0,{},{}
+2nd innings,England,3.2,AD Hales,T van der Gugten,0,{},{}
+2nd innings,England,3.3,AD Hales,T van der Gugten,0,{},{}
+2nd innings,England,3.4,AD Hales,T van der Gugten,0,{},{}
+2nd innings,England,3.5,AD Hales,T van der Gugten,0,{},{}
+2nd innings,England,3.6,AD Hales,T van der Gugten,1,{},{}
+2nd innings,England,4.1,AD Hales,Mudassar Bukhari,0,{},"{'kind': 'bowled', 'player_out': 'AD Hales'}"
+2nd innings,England,4.2,EJG Morgan,Mudassar Bukhari,0,{},{}
+2nd innings,England,4.3,EJG Morgan,Mudassar Bukhari,0,{},{}
+2nd innings,England,4.4,EJG Morgan,Mudassar Bukhari,0,{},{}
+2nd innings,England,4.5,EJG Morgan,Mudassar Bukhari,0,{},{}
+2nd innings,England,4.6,EJG Morgan,Mudassar Bukhari,2,{},{}
+2nd innings,England,5.1,MM Ali,T van der Gugten,0,{},{}
+2nd innings,England,5.2,MM Ali,T van der Gugten,1,{},{}
+2nd innings,England,5.3,EJG Morgan,T van der Gugten,0,{},{}
+2nd innings,England,5.4,EJG Morgan,T van der Gugten,4,{},{}
+2nd innings,England,5.5,EJG Morgan,T van der Gugten,0,{},"{'fielders': ['PW Borren'], 'kind': 'caught', 'player_out': 'EJG Morgan'}"
+2nd innings,England,5.6,JC Buttler,T van der Gugten,0,{},{}
+2nd innings,England,6.1,MM Ali,Mudassar Bukhari,0,{},{}
+2nd innings,England,6.2,MM Ali,Mudassar Bukhari,0,{},{}
+2nd innings,England,6.3,MM Ali,Mudassar Bukhari,1,{},{}
+2nd innings,England,6.4,JC Buttler,Mudassar Bukhari,0,{},{}
+2nd innings,England,6.5,JC Buttler,Mudassar Bukhari,0,{},{}
+2nd innings,England,6.6,JC Buttler,Mudassar Bukhari,1,{},{}
+2nd innings,England,7.1,JC Buttler,Ahsan Malik,0,{},{}
+2nd innings,England,7.2,JC Buttler,Ahsan Malik,0,{},{}
+2nd innings,England,7.3,JC Buttler,Ahsan Malik,0,{},{}
+2nd innings,England,7.4,JC Buttler,Ahsan Malik,2,{'legbyes': 2},{}
+2nd innings,England,7.5,JC Buttler,Ahsan Malik,1,{},{}
+2nd innings,England,7.6,MM Ali,Ahsan Malik,1,{},{}
+2nd innings,England,8.1,MM Ali,PW Borren,0,{},"{'fielders': ['TLW Cooper'], 'kind': 'caught', 'player_out': 'MM Ali'}"
+2nd innings,England,8.2,RS Bopara,PW Borren,0,{},{}
+2nd innings,England,8.3,RS Bopara,PW Borren,1,{},{}
+2nd innings,England,8.4,JC Buttler,PW Borren,2,{},{}
+2nd innings,England,8.5,JC Buttler,PW Borren,1,{},{}
+2nd innings,England,8.6,RS Bopara,PW Borren,1,{},{}
+2nd innings,England,9.1,RS Bopara,LV van Beek,1,{},{}
+2nd innings,England,9.2,JC Buttler,LV van Beek,0,{},{}
+2nd innings,England,9.3,JC Buttler,LV van Beek,1,{},{}
+2nd innings,England,9.4,RS Bopara,LV van Beek,2,{},{}
+2nd innings,England,9.5,RS Bopara,LV van Beek,1,{},{}
+2nd innings,England,9.6,JC Buttler,LV van Beek,0,{},"{'fielders': ['PM Seelaar'], 'kind': 'caught', 'player_out': 'JC Buttler'}"
+2nd innings,England,10.1,RS Bopara,PM Seelaar,1,{'wides': 1},{}
+2nd innings,England,10.2,RS Bopara,PM Seelaar,1,{'wides': 1},{}
+2nd innings,England,10.3,RS Bopara,PM Seelaar,1,{},{}
+2nd innings,England,10.4,TT Bresnan,PM Seelaar,0,{},{}
+2nd innings,England,10.5,TT Bresnan,PM Seelaar,2,{},{}
+2nd innings,England,10.6,TT Bresnan,PM Seelaar,0,{},{}
+2nd innings,England,10.7,TT Bresnan,PM Seelaar,2,{},{}
+2nd innings,England,10.8,TT Bresnan,PM Seelaar,0,{},{}
+2nd innings,England,11.1,RS Bopara,PW Borren,0,{},{}
+2nd innings,England,11.2,RS Bopara,PW Borren,1,{},{}
+2nd innings,England,11.3,TT Bresnan,PW Borren,1,{},{}
+2nd innings,England,11.4,RS Bopara,PW Borren,1,{},"{'fielders': ['Mudassar Bukhari', 'PW Borren'], 'kind': 'run out', 'player_out': 'TT Bresnan'}"
+2nd innings,England,11.5,RS Bopara,PW Borren,1,{},{}
+2nd innings,England,11.6,CJ Jordan,PW Borren,1,{},{}
+2nd innings,England,12.1,CJ Jordan,Ahsan Malik,1,{},{}
+2nd innings,England,12.2,RS Bopara,Ahsan Malik,1,{},{}
+2nd innings,England,12.3,CJ Jordan,Ahsan Malik,1,{},{}
+2nd innings,England,12.4,RS Bopara,Ahsan Malik,1,{},{}
+2nd innings,England,12.5,CJ Jordan,Ahsan Malik,0,{},{}
+2nd innings,England,12.6,CJ Jordan,Ahsan Malik,1,{},{}
+2nd innings,England,13.1,CJ Jordan,PW Borren,1,{},{}
+2nd innings,England,13.2,RS Bopara,PW Borren,1,{},{}
+2nd innings,England,13.3,CJ Jordan,PW Borren,1,{},{}
+2nd innings,England,13.4,RS Bopara,PW Borren,1,{},{}
+2nd innings,England,13.5,CJ Jordan,PW Borren,2,{},{}
+2nd innings,England,13.6,CJ Jordan,PW Borren,2,{},{}
+2nd innings,England,14.1,RS Bopara,PM Seelaar,0,{},{}
+2nd innings,England,14.2,RS Bopara,PM Seelaar,1,{},{}
+2nd innings,England,14.3,CJ Jordan,PM Seelaar,2,{},{}
+2nd innings,England,14.4,CJ Jordan,PM Seelaar,1,{},{}
+2nd innings,England,14.5,RS Bopara,PM Seelaar,2,{},{}
+2nd innings,England,14.6,RS Bopara,PM Seelaar,1,{},{}
+2nd innings,England,15.1,RS Bopara,LV van Beek,0,{},"{'fielders': ['PM Seelaar'], 'kind': 'caught', 'player_out': 'RS Bopara'}"
+2nd innings,England,15.2,CJ Jordan,LV van Beek,0,{},{}
+2nd innings,England,15.3,CJ Jordan,LV van Beek,1,{},{}
+2nd innings,England,15.4,SCJ Broad,LV van Beek,1,{},{}
+2nd innings,England,15.5,CJ Jordan,LV van Beek,0,{},"{'fielders': ['MR Swart'], 'kind': 'caught', 'player_out': 'CJ Jordan'}"
+2nd innings,England,15.6,SCJ Broad,LV van Beek,2,{},{}
+2nd innings,England,16.1,JC Tredwell,Ahsan Malik,0,{},{}
+2nd innings,England,16.2,JC Tredwell,Ahsan Malik,4,{},{}
+2nd innings,England,16.3,JC Tredwell,Ahsan Malik,1,{},{}
+2nd innings,England,16.4,SCJ Broad,Ahsan Malik,1,{},{}
+2nd innings,England,16.5,JC Tredwell,Ahsan Malik,1,{},{}
+2nd innings,England,16.6,SCJ Broad,Ahsan Malik,0,{},{}
+2nd innings,England,17.1,JC Tredwell,Mudassar Bukhari,1,{},{}
+2nd innings,England,17.2,SCJ Broad,Mudassar Bukhari,0,{},"{'fielders': ['W Barresi'], 'kind': 'caught', 'player_out': 'SCJ Broad'}"
+2nd innings,England,17.3,SD Parry,Mudassar Bukhari,1,{},{}
+2nd innings,England,17.4,JC Tredwell,Mudassar Bukhari,1,{},"{'fielders': ['MR Swart', 'W Barresi'], 'kind': 'run out', 'player_out': 'SD Parry'}"

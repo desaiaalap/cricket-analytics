@@ -1,0 +1,2130 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-02-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  competition: International League T20
+  dates:
+  - '2023-02-10'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Gulf Giants
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - JM Vince
+  players:
+    MI Emirates:
+    - Waseem Muhammad
+    - ADS Fletcher
+    - L Tucker
+    - DR Mousley
+    - N Pooran
+    - KA Pollard
+    - DJ Bravo
+    - Rashid Khan
+    - TA Boult
+    - Zahoor Khan
+    - Fazalhaq Farooqi
+    Gulf Giants:
+    - JM Vince
+    - CA Lynn
+    - C de Grandhomme
+    - MG Erasmus
+    - SO Hetmyer
+    - D Wiese
+    - CR Brathwaite
+    - CJ Jordan
+    - Aayan Afzal Khan
+    - Qais Ahmad
+    - SM Sharma
+  registry:
+    people:
+      ADS Fletcher: 1bae756b
+      AG Wharf: 2e0fcc58
+      Aayan Afzal Khan: d2d15439
+      C de Grandhomme: 94d7f855
+      CA Lynn: 45eda7c8
+      CJ Jordan: ffe699c0
+      CR Brathwaite: e342e5fb
+      D Wiese: aa8d28ae
+      DJ Bravo: 87e562a9
+      DR Mousley: 876dbe2d
+      Fazalhaq Farooqi: e9c7f0d0
+      JM Vince: a15618fe
+      KA Pollard: a757b0d8
+      L Tucker: 3979b5e0
+      LS Reifer: 5dee559a
+      MG Erasmus: 95a5e066
+      MJ Saggers: 402d5937
+      N Pooran: 3241e3fd
+      Qais Ahmad: 8d5d991e
+      RS Mahanama: '57910393'
+      Rashid Khan: 5f547c8b
+      SM Sharma: cec44e08
+      SO Hetmyer: 48a1d7b7
+      Shiju Sam: 1e2f3eae
+      TA Boult: a818c1be
+      Waseem Muhammad: 6f02fe2a
+      Zahoor Khan: f0e293b0
+  teams:
+  - MI Emirates
+  - Gulf Giants
+  toss:
+    winner: Gulf Giants
+    decision: field
+  umpires:
+  - LS Reifer
+  - MJ Saggers
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: MI Emirates
+    deliveries:
+    - 0.1:
+        non_striker: ADS Fletcher
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.2:
+        non_striker: ADS Fletcher
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.3:
+        non_striker: ADS Fletcher
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 0.4:
+        non_striker: Waseem Muhammad
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.5:
+        non_striker: Waseem Muhammad
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 0.6:
+        non_striker: Waseem Muhammad
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 1.1:
+        non_striker: ADS Fletcher
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.2:
+        non_striker: ADS Fletcher
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.3:
+        non_striker: ADS Fletcher
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 1.4:
+        non_striker: Waseem Muhammad
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: ADS Fletcher
+          fielders:
+          - CJ Jordan
+          kind: caught
+    - 1.5:
+        non_striker: Waseem Muhammad
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 1.6:
+        non_striker: Waseem Muhammad
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 2.1:
+        non_striker: L Tucker
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 2.2:
+        non_striker: Waseem Muhammad
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 2.3:
+        non_striker: Waseem Muhammad
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 2.4:
+        non_striker: L Tucker
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 2.5:
+        non_striker: Waseem Muhammad
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 2.6:
+        non_striker: Waseem Muhammad
+        bowler: C de Grandhomme
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Tucker
+    - 3.1:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 3.2:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 3.3:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 3.4:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 3.5:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 3.6:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 4.1:
+        non_striker: L Tucker
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 4.2:
+        non_striker: Waseem Muhammad
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 4.3:
+        non_striker: Waseem Muhammad
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 4.4:
+        non_striker: Waseem Muhammad
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 4.5:
+        non_striker: Waseem Muhammad
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 4.6:
+        non_striker: Waseem Muhammad
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+        wicket:
+          player_out: L Tucker
+          fielders:
+          - Aayan Afzal Khan
+          kind: caught
+    - 5.1:
+        non_striker: DR Mousley
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 5.2:
+        non_striker: Waseem Muhammad
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Mousley
+    - 5.3:
+        non_striker: DR Mousley
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 5.4:
+        non_striker: Waseem Muhammad
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Mousley
+    - 5.5:
+        non_striker: Waseem Muhammad
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Mousley
+    - 5.6:
+        non_striker: Waseem Muhammad
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Mousley
+    - 6.1:
+        non_striker: DR Mousley
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 6.2:
+        non_striker: DR Mousley
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 6.3:
+        non_striker: DR Mousley
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 6.4:
+        non_striker: DR Mousley
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 6.5:
+        non_striker: Waseem Muhammad
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Mousley
+    - 6.6:
+        non_striker: Waseem Muhammad
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Mousley
+    - 7.1:
+        non_striker: DR Mousley
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 7.2:
+        non_striker: DR Mousley
+        bowler: C de Grandhomme
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Waseem Muhammad
+    - 7.3:
+        non_striker: Waseem Muhammad
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Mousley
+    - 7.4:
+        non_striker: Waseem Muhammad
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Mousley
+    - 7.5:
+        non_striker: DR Mousley
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 7.6:
+        non_striker: DR Mousley
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 8.1:
+        non_striker: DR Mousley
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 8.2:
+        non_striker: Waseem Muhammad
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Mousley
+    - 8.3:
+        non_striker: Waseem Muhammad
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Mousley
+    - 8.4:
+        non_striker: DR Mousley
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 8.5:
+        non_striker: DR Mousley
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 8.6:
+        non_striker: DR Mousley
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 9.1:
+        non_striker: DR Mousley
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 9.2:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Mousley
+        wicket:
+          player_out: DR Mousley
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 9.3:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 9.4:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 9.5:
+        non_striker: N Pooran
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Muhammad
+    - 9.6:
+        non_striker: N Pooran
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 9.7:
+        non_striker: Waseem Muhammad
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 10.1:
+        non_striker: N Pooran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          kind: bowled
+    - 10.2:
+        non_striker: N Pooran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 10.3:
+        non_striker: N Pooran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 10.4:
+        non_striker: KA Pollard
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 10.5:
+        non_striker: N Pooran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 10.6:
+        non_striker: N Pooran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 11.1:
+        non_striker: KA Pollard
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 11.2:
+        non_striker: KA Pollard
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 11.3:
+        non_striker: KA Pollard
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 11.4:
+        non_striker: KA Pollard
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 11.5:
+        non_striker: N Pooran
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 11.6:
+        non_striker: N Pooran
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 11.7:
+        non_striker: KA Pollard
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 12.1:
+        non_striker: N Pooran
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 12.2:
+        non_striker: KA Pollard
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 12.3:
+        non_striker: KA Pollard
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 12.4:
+        non_striker: N Pooran
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 12.5:
+        non_striker: N Pooran
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 12.6:
+        non_striker: KA Pollard
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 13.1:
+        non_striker: N Pooran
+        bowler: C de Grandhomme
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Pollard
+    - 13.2:
+        non_striker: N Pooran
+        bowler: C de Grandhomme
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KA Pollard
+    - 13.3:
+        non_striker: KA Pollard
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 13.4:
+        non_striker: KA Pollard
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 13.5:
+        non_striker: N Pooran
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 13.6:
+        non_striker: KA Pollard
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 13.7:
+        non_striker: N Pooran
+        bowler: C de Grandhomme
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KA Pollard
+    - 14.1:
+        non_striker: N Pooran
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 14.2:
+        non_striker: N Pooran
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 14.3:
+        non_striker: N Pooran
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 14.4:
+        non_striker: N Pooran
+        bowler: Qais Ahmad
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 3
+        batsman: KA Pollard
+    - 14.5:
+        non_striker: KA Pollard
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 14.6:
+        non_striker: KA Pollard
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 15.1:
+        non_striker: KA Pollard
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 15.2:
+        non_striker: N Pooran
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 15.3:
+        non_striker: N Pooran
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KA Pollard
+    - 15.4:
+        non_striker: KA Pollard
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 15.5:
+        non_striker: KA Pollard
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 15.6:
+        non_striker: KA Pollard
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 15.7:
+        non_striker: N Pooran
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 16.1:
+        non_striker: N Pooran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 16.2:
+        non_striker: N Pooran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 16.3:
+        non_striker: KA Pollard
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 16.4:
+        non_striker: KA Pollard
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 16.5:
+        non_striker: KA Pollard
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 16.6:
+        non_striker: KA Pollard
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 16.7:
+        non_striker: KA Pollard
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 16.8:
+        non_striker: KA Pollard
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 17.1:
+        non_striker: KA Pollard
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 17.2:
+        non_striker: N Pooran
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 17.3:
+        non_striker: KA Pollard
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          fielders:
+          - CJ Jordan
+          kind: caught
+    - 17.4:
+        non_striker: KA Pollard
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 17.5:
+        non_striker: DJ Bravo
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 17.6:
+        non_striker: DJ Bravo
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 18.1:
+        non_striker: DJ Bravo
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 18.2:
+        non_striker: DJ Bravo
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 18.3:
+        non_striker: DJ Bravo
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 18.4:
+        non_striker: DJ Bravo
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Pollard
+    - 18.5:
+        non_striker: DJ Bravo
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 18.6:
+        non_striker: DJ Bravo
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 18.7:
+        non_striker: DJ Bravo
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 19.1:
+        non_striker: KA Pollard
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 19.2:
+        non_striker: DJ Bravo
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Pollard
+    - 19.3:
+        non_striker: DJ Bravo
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 19.4:
+        non_striker: DJ Bravo
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 19.5:
+        non_striker: DJ Bravo
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 19.6:
+        non_striker: DJ Bravo
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 19.7:
+        non_striker: DJ Bravo
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+- 2nd innings:
+    team: Gulf Giants
+    deliveries:
+    - 0.1:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 0.2:
+        non_striker: JM Vince
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 0.3:
+        non_striker: JM Vince
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CA Lynn
+    - 0.4:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 0.5:
+        non_striker: JM Vince
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 0.6:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 1.1:
+        non_striker: JM Vince
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 1.2:
+        non_striker: CA Lynn
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 1.3:
+        non_striker: CA Lynn
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 1.4:
+        non_striker: CA Lynn
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Vince
+    - 1.5:
+        non_striker: CA Lynn
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 1.6:
+        non_striker: CA Lynn
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 1.7:
+        non_striker: CA Lynn
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 2.1:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 2.2:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 2.3:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 2.4:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 2.5:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 2.6:
+        non_striker: CA Lynn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 3.1:
+        non_striker: JM Vince
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 3.2:
+        non_striker: JM Vince
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Lynn
+    - 3.3:
+        non_striker: JM Vince
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CA Lynn
+    - 3.4:
+        non_striker: CA Lynn
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 3.5:
+        non_striker: JM Vince
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 3.6:
+        non_striker: JM Vince
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 4.1:
+        non_striker: CA Lynn
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 4.2:
+        non_striker: CA Lynn
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 4.3:
+        non_striker: JM Vince
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 4.4:
+        non_striker: JM Vince
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 4.5:
+        non_striker: CA Lynn
+        bowler: Zahoor Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Vince
+    - 4.6:
+        non_striker: CA Lynn
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 4.7:
+        non_striker: CA Lynn
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 5.1:
+        non_striker: CA Lynn
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 5.2:
+        non_striker: CA Lynn
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JM Vince
+    - 5.3:
+        non_striker: JM Vince
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 5.4:
+        non_striker: CA Lynn
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 5.5:
+        non_striker: JM Vince
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 5.6:
+        non_striker: JM Vince
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+        wicket:
+          player_out: CA Lynn
+          fielders:
+          - DR Mousley
+          kind: caught
+    - 6.1:
+        non_striker: C de Grandhomme
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 6.2:
+        non_striker: C de Grandhomme
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 6.3:
+        non_striker: C de Grandhomme
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 6.4:
+        non_striker: C de Grandhomme
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 6.5:
+        non_striker: JM Vince
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 6.6:
+        non_striker: JM Vince
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C de Grandhomme
+    - 7.1:
+        non_striker: C de Grandhomme
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 7.2:
+        non_striker: JM Vince
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C de Grandhomme
+    - 7.3:
+        non_striker: JM Vince
+        bowler: Rashid Khan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: C de Grandhomme
+    - 7.4:
+        non_striker: C de Grandhomme
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 7.5:
+        non_striker: JM Vince
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C de Grandhomme
+    - 7.6:
+        non_striker: JM Vince
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+        wicket:
+          player_out: C de Grandhomme
+          kind: bowled
+    - 7.7:
+        non_striker: JM Vince
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 8.1:
+        non_striker: MG Erasmus
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 8.2:
+        non_striker: JM Vince
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 8.3:
+        non_striker: MG Erasmus
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Vince
+    - 8.4:
+        non_striker: JM Vince
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 8.5:
+        non_striker: JM Vince
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 8.6:
+        non_striker: MG Erasmus
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 9.1:
+        non_striker: MG Erasmus
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 9.2:
+        non_striker: JM Vince
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 9.3:
+        non_striker: MG Erasmus
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 9.4:
+        non_striker: MG Erasmus
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 9.5:
+        non_striker: JM Vince
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 9.6:
+        non_striker: MG Erasmus
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 10.1:
+        non_striker: JM Vince
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MG Erasmus
+    - 10.2:
+        non_striker: MG Erasmus
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 10.3:
+        non_striker: JM Vince
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.4:
+        non_striker: MG Erasmus
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 10.5:
+        non_striker: JM Vince
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 10.6:
+        non_striker: JM Vince
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 11.1:
+        non_striker: MG Erasmus
+        bowler: KA Pollard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Vince
+    - 11.2:
+        non_striker: MG Erasmus
+        bowler: KA Pollard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Vince
+    - 11.3:
+        non_striker: MG Erasmus
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 11.4:
+        non_striker: MG Erasmus
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 11.5:
+        non_striker: JM Vince
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 11.6:
+        non_striker: MG Erasmus
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 11.7:
+        non_striker: MG Erasmus
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 11.8:
+        non_striker: JM Vince
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.1:
+        non_striker: JM Vince
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.2:
+        non_striker: JM Vince
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          fielders:
+          - DR Mousley
+          kind: caught
+    - 12.3:
+        non_striker: JM Vince
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - TA Boult
+          kind: caught
+    - 12.4:
+        non_striker: JM Vince
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 12.5:
+        non_striker: JM Vince
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 12.6:
+        non_striker: D Wiese
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 13.1:
+        non_striker: JM Vince
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wiese
+    - 13.2:
+        non_striker: JM Vince
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 13.3:
+        non_striker: JM Vince
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese
+    - 13.4:
+        non_striker: JM Vince
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Wiese
+    - 13.5:
+        non_striker: JM Vince
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 13.6:
+        non_striker: D Wiese
+        bowler: KA Pollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 14.1:
+        non_striker: D Wiese
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 14.2:
+        non_striker: JM Vince
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 14.3:
+        non_striker: D Wiese
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 14.4:
+        non_striker: D Wiese
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Vince
+    - 14.5:
+        non_striker: D Wiese
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 14.6:
+        non_striker: D Wiese
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 15.1:
+        non_striker: D Wiese
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 15.2:
+        non_striker: D Wiese
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 15.3:
+        non_striker: JM Vince
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Wiese
+    - 15.4:
+        non_striker: D Wiese
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Vince
+    - 15.5:
+        non_striker: D Wiese
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 15.6:
+        non_striker: JM Vince
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+        wicket:
+          player_out: D Wiese
+          fielders:
+          - Waseem Muhammad
+          kind: caught
+    - 15.7:
+        non_striker: JM Vince
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 16.1:
+        non_striker: JM Vince
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Brathwaite
+    - 16.2:
+        non_striker: JM Vince
+        bowler: DJ Bravo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: CR Brathwaite
+    - 16.3:
+        non_striker: JM Vince
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+    - 16.4:
+        non_striker: JM Vince
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CR Brathwaite
+    - 16.5:
+        non_striker: JM Vince
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 16.6:
+        non_striker: CR Brathwaite
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JM Vince
+    - 17.1:
+        non_striker: CR Brathwaite
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 17.2:
+        non_striker: JM Vince
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 17.3:
+        non_striker: CR Brathwaite
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 17.4:
+        non_striker: CR Brathwaite
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 17.5:
+        non_striker: JM Vince
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+    - 17.6:
+        non_striker: JM Vince
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+        wicket:
+          player_out: CR Brathwaite
+          kind: bowled
+    - 18.1:
+        non_striker: CJ Jordan
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince

@@ -1,0 +1,2190 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-02-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  competition: International League T20
+  dates:
+  - '2024-01-30'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Desert Vipers
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - Mohammad Amir
+  players:
+    MI Emirates:
+    - Waqar Salamkheil
+    - MDKJ Perera
+    - Waseem Muhammad
+    - ADS Fletcher
+    - N Pooran
+    - AT Rayudu
+    - AJ Hosein
+    - TH David
+    - DJ Bravo
+    - TA Boult
+    - Fazalhaq Farooqi
+    - Muhammad Rohid
+    Desert Vipers:
+    - M Pathirana
+    - Rohan Mustafa
+    - AD Hales
+    - C Munro
+    - AJ Hose
+    - PWH de Silva
+    - Azam Khan
+    - Ali Naseer
+    - SE Rutherford
+    - Shaheen Shah Afridi
+    - L Wood
+    - Mohammad Amir
+  registry:
+    people:
+      AD Hales: 92aeac25
+      ADS Fletcher: 1bae756b
+      AJ Hose: 104e88a4
+      AJ Hosein: 4d7f517e
+      AT Rayudu: 70d205c9
+      Akbar Ali: e753931d
+      Aleem Dar: f02778d1
+      Ali Naseer: f5715b48
+      Azam Khan: ee8f1a6d
+      C Munro: af2c687b
+      DJ Bravo: 87e562a9
+      Fazalhaq Farooqi: e9c7f0d0
+      L Wood: 65b6943c
+      M Pathirana: 64839cb3
+      MDKJ Perera: f21043a5
+      Mohammad Amir: e174dadd
+      Muhammad Rohid: 9103ecdb
+      N Pooran: 3241e3fd
+      P Wilson: 68304a36
+      PWH de Silva: a97c8ec2
+      RSA Palliyaguruge: 4339c19d
+      Rohan Mustafa: d1988788
+      SE Rutherford: d014d5ac
+      SJA Taufel: 4b43d5ac
+      Shaheen Shah Afridi: 45a7e761
+      TA Boult: a818c1be
+      TH David: f1f99156
+      Waqar Salamkheil: 3f1066d0
+      Waseem Muhammad: 6f02fe2a
+  teams:
+  - MI Emirates
+  - Desert Vipers
+  toss:
+    winner: Desert Vipers
+    decision: field
+  umpires:
+  - Akbar Ali
+  - RSA Palliyaguruge
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: MI Emirates
+    deliveries:
+    - 0.1:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 0.2:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+        wicket:
+          player_out: MDKJ Perera
+          fielders:
+          - Azam Khan
+          kind: caught
+    - 0.3:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.4:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.5:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 0.6:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Muhammad
+    - 0.7:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.1:
+        non_striker: Waseem Muhammad
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 1.2:
+        non_striker: ADS Fletcher
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 1.3:
+        non_striker: ADS Fletcher
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.4:
+        non_striker: ADS Fletcher
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 1.5:
+        non_striker: Waseem Muhammad
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 1.6:
+        non_striker: Waseem Muhammad
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.1:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.2:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 2.3:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.4:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 2.5:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.6:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 3.1:
+        non_striker: Waseem Muhammad
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 3.2:
+        non_striker: Waseem Muhammad
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 3.3:
+        non_striker: ADS Fletcher
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 3.4:
+        non_striker: ADS Fletcher
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          fielders:
+          - Shaheen Shah Afridi
+          kind: caught
+    - 3.5:
+        non_striker: ADS Fletcher
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 3.6:
+        non_striker: ADS Fletcher
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.1:
+        non_striker: N Pooran
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 4.2:
+        non_striker: ADS Fletcher
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.3:
+        non_striker: ADS Fletcher
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 4.4:
+        non_striker: ADS Fletcher
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.5:
+        non_striker: ADS Fletcher
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 4.6:
+        non_striker: ADS Fletcher
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 5.1:
+        non_striker: ADS Fletcher
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 5.2:
+        non_striker: N Pooran
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 5.3:
+        non_striker: N Pooran
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 5.4:
+        non_striker: N Pooran
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: ADS Fletcher
+          kind: bowled
+    - 5.5:
+        non_striker: N Pooran
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 5.6:
+        non_striker: N Pooran
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 6.1:
+        non_striker: AT Rayudu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 6.2:
+        non_striker: N Pooran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 6.3:
+        non_striker: AT Rayudu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 6.4:
+        non_striker: N Pooran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 6.5:
+        non_striker: AT Rayudu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 6.6:
+        non_striker: N Pooran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 7.1:
+        non_striker: AT Rayudu
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 7.2:
+        non_striker: AT Rayudu
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 7.3:
+        non_striker: AT Rayudu
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 7.4:
+        non_striker: AT Rayudu
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          fielders:
+          - Ali Naseer
+          kind: caught
+    - 7.5:
+        non_striker: AT Rayudu
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 7.6:
+        non_striker: AT Rayudu
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 7.7:
+        non_striker: AT Rayudu
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 8.1:
+        non_striker: AJ Hosein
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 8.2:
+        non_striker: AT Rayudu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 8.3:
+        non_striker: AJ Hosein
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 8.4:
+        non_striker: AJ Hosein
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 8.5:
+        non_striker: AJ Hosein
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 8.6:
+        non_striker: AT Rayudu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 9.1:
+        non_striker: AT Rayudu
+        bowler: M Pathirana
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: AJ Hosein
+    - 9.2:
+        non_striker: AT Rayudu
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 9.3:
+        non_striker: AT Rayudu
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Hosein
+    - 9.4:
+        non_striker: AT Rayudu
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 9.5:
+        non_striker: AJ Hosein
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 9.6:
+        non_striker: AT Rayudu
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 9.7:
+        non_striker: AJ Hosein
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 9.8:
+        non_striker: AJ Hosein
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 10.1:
+        non_striker: AJ Hosein
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 10.2:
+        non_striker: AT Rayudu
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 10.3:
+        non_striker: AT Rayudu
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 10.4:
+        non_striker: AJ Hosein
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 10.5:
+        non_striker: AT Rayudu
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 10.6:
+        non_striker: AT Rayudu
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 11.1:
+        non_striker: AT Rayudu
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hosein
+    - 11.2:
+        non_striker: AT Rayudu
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 11.3:
+        non_striker: AJ Hosein
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 11.4:
+        non_striker: AJ Hosein
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 11.5:
+        non_striker: AT Rayudu
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 11.6:
+        non_striker: AT Rayudu
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Hosein
+    - 12.1:
+        non_striker: AJ Hosein
+        bowler: PWH de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AT Rayudu
+    - 12.2:
+        non_striker: AT Rayudu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Hosein
+    - 12.3:
+        non_striker: AT Rayudu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 12.4:
+        non_striker: AT Rayudu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 12.5:
+        non_striker: AJ Hosein
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 12.6:
+        non_striker: AJ Hosein
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 13.1:
+        non_striker: AJ Hosein
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 13.2:
+        non_striker: AT Rayudu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 13.3:
+        non_striker: AJ Hosein
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Rayudu
+    - 13.4:
+        non_striker: AJ Hosein
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 13.5:
+        non_striker: AJ Hosein
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 13.6:
+        non_striker: AT Rayudu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Hosein
+    - 14.1:
+        non_striker: AJ Hosein
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 14.2:
+        non_striker: AT Rayudu
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 14.3:
+        non_striker: AJ Hosein
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 14.4:
+        non_striker: AJ Hosein
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 14.5:
+        non_striker: AT Rayudu
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 14.6:
+        non_striker: AT Rayudu
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+        wicket:
+          player_out: AJ Hosein
+          kind: caught and bowled
+    - 15.1:
+        non_striker: TH David
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 15.2:
+        non_striker: TH David
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 15.3:
+        non_striker: AT Rayudu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 15.4:
+        non_striker: AT Rayudu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 15.5:
+        non_striker: TH David
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Rayudu
+    - 15.6:
+        non_striker: TH David
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+        wicket:
+          player_out: AT Rayudu
+          fielders:
+          - Shaheen Shah Afridi
+          kind: caught
+    - 16.1:
+        non_striker: DJ Bravo
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 16.2:
+        non_striker: TH David
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 16.3:
+        non_striker: TH David
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 16.4:
+        non_striker: TH David
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 16.5:
+        non_striker: DJ Bravo
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 16.6:
+        non_striker: TH David
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 17.1:
+        non_striker: TH David
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Bravo
+    - 17.2:
+        non_striker: TH David
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 17.3:
+        non_striker: DJ Bravo
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TH David
+    - 17.4:
+        non_striker: DJ Bravo
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 17.5:
+        non_striker: TH David
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 17.6:
+        non_striker: DJ Bravo
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 18.1:
+        non_striker: DJ Bravo
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 18.2:
+        non_striker: TH David
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 18.3:
+        non_striker: DJ Bravo
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David
+    - 18.4:
+        non_striker: DJ Bravo
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 18.5:
+        non_striker: DJ Bravo
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 18.6:
+        non_striker: DJ Bravo
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David
+    - 19.1:
+        non_striker: TH David
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 19.2:
+        non_striker: DJ Bravo
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 19.3:
+        non_striker: DJ Bravo
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+        wicket:
+          player_out: TH David
+          fielders:
+          - Ali Naseer
+          kind: caught
+    - 19.4:
+        non_striker: DJ Bravo
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Boult
+        wicket:
+          player_out: TA Boult
+          fielders:
+          - C Munro
+          kind: caught
+    - 19.5:
+        non_striker: DJ Bravo
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazalhaq Farooqi
+    - 19.6:
+        non_striker: Fazalhaq Farooqi
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+        wicket:
+          player_out: Fazalhaq Farooqi
+          fielders:
+          - Mohammad Amir
+          kind: run out
+- 2nd innings:
+    team: Desert Vipers
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: Waqar Salamkheil
+            out: AT Rayudu
+            team: MI Emirates
+            reason: impact_player
+        batsman: Rohan Mustafa
+    - 0.2:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.3:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.4:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.5:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.6:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 1.1:
+        non_striker: Rohan Mustafa
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 1.2:
+        non_striker: Rohan Mustafa
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.3:
+        non_striker: Rohan Mustafa
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.4:
+        non_striker: Rohan Mustafa
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.5:
+        non_striker: Rohan Mustafa
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.6:
+        non_striker: Rohan Mustafa
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.1:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 2.2:
+        non_striker: Rohan Mustafa
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 2.3:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 2.4:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rohan Mustafa
+    - 2.5:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 2.6:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 3.1:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rohan Mustafa
+    - 3.2:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+        wicket:
+          player_out: Rohan Mustafa
+          kind: bowled
+    - 3.3:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 3.4:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 3.5:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 3.6:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 4.1:
+        non_striker: C Munro
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          kind: bowled
+    - 4.2:
+        non_striker: C Munro
+        bowler: Muhammad Rohid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Hose
+    - 4.3:
+        non_striker: C Munro
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 4.4:
+        non_striker: C Munro
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+        wicket:
+          player_out: AJ Hose
+          fielders:
+          - DJ Bravo
+          kind: caught
+    - 4.5:
+        non_striker: C Munro
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 4.6:
+        non_striker: PWH de Silva
+        bowler: Muhammad Rohid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Munro
+    - 4.7:
+        non_striker: C Munro
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 5.1:
+        non_striker: PWH de Silva
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 5.2:
+        non_striker: PWH de Silva
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 5.3:
+        non_striker: PWH de Silva
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          fielders:
+          - N Pooran
+          kind: caught
+    - 5.4:
+        non_striker: PWH de Silva
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 5.5:
+        non_striker: PWH de Silva
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 5.6:
+        non_striker: PWH de Silva
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 6.1:
+        non_striker: Azam Khan
+        bowler: Muhammad Rohid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PWH de Silva
+    - 6.2:
+        non_striker: Azam Khan
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 6.3:
+        non_striker: PWH de Silva
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 6.4:
+        non_striker: PWH de Silva
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azam Khan
+    - 6.5:
+        non_striker: PWH de Silva
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 6.6:
+        non_striker: PWH de Silva
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 6.7:
+        non_striker: PWH de Silva
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 7.1:
+        non_striker: Azam Khan
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 7.2:
+        non_striker: Azam Khan
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 7.3:
+        non_striker: Azam Khan
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 7.4:
+        non_striker: PWH de Silva
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 7.5:
+        non_striker: PWH de Silva
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 7.6:
+        non_striker: Azam Khan
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 8.1:
+        non_striker: Azam Khan
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 8.2:
+        non_striker: PWH de Silva
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 8.3:
+        non_striker: Azam Khan
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 8.4:
+        non_striker: Azam Khan
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 8.5:
+        non_striker: PWH de Silva
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+        wicket:
+          player_out: Azam Khan
+          fielders:
+          - TA Boult
+          kind: caught
+    - 8.6:
+        non_striker: PWH de Silva
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Naseer
+    - 9.1:
+        non_striker: Ali Naseer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 9.2:
+        non_striker: PWH de Silva
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Naseer
+    - 9.3:
+        non_striker: PWH de Silva
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Naseer
+    - 9.4:
+        non_striker: Ali Naseer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 9.5:
+        non_striker: PWH de Silva
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Naseer
+    - 9.6:
+        non_striker: Ali Naseer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 10.1:
+        non_striker: PWH de Silva
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Naseer
+    - 10.2:
+        non_striker: PWH de Silva
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Naseer
+    - 10.3:
+        non_striker: Ali Naseer
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 10.4:
+        non_striker: Ali Naseer
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 10.5:
+        non_striker: PWH de Silva
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Naseer
+    - 10.6:
+        non_striker: Ali Naseer
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 11.1:
+        non_striker: Ali Naseer
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 11.2:
+        non_striker: Ali Naseer
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 11.3:
+        non_striker: Ali Naseer
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 11.4:
+        non_striker: Ali Naseer
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 11.5:
+        non_striker: Ali Naseer
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 11.6:
+        non_striker: Ali Naseer
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+        wicket:
+          player_out: PWH de Silva
+          fielders:
+          - TA Boult
+          kind: caught
+    - 12.1:
+        non_striker: SE Rutherford
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: SE Rutherford
+            out: M Pathirana
+            team: Desert Vipers
+            reason: impact_player
+        batsman: Ali Naseer
+    - 12.2:
+        non_striker: Ali Naseer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 12.3:
+        non_striker: Ali Naseer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 12.4:
+        non_striker: SE Rutherford
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Naseer
+    - 12.5:
+        non_striker: Ali Naseer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 12.6:
+        non_striker: SE Rutherford
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Naseer
+    - 13.1:
+        non_striker: SE Rutherford
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Naseer
+    - 13.2:
+        non_striker: SE Rutherford
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Naseer
+    - 13.3:
+        non_striker: Ali Naseer
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 13.4:
+        non_striker: Ali Naseer
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 13.5:
+        non_striker: Ali Naseer
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 13.6:
+        non_striker: Ali Naseer
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 14.1:
+        non_striker: Ali Naseer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 14.2:
+        non_striker: Ali Naseer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 14.3:
+        non_striker: SE Rutherford
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Ali Naseer
+    - 14.4:
+        non_striker: SE Rutherford
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Naseer
+    - 14.5:
+        non_striker: SE Rutherford
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Naseer
+        wicket:
+          player_out: Ali Naseer
+          fielders:
+          - TH David
+          kind: caught
+    - 14.6:
+        non_striker: SE Rutherford
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 15.1:
+        non_striker: Shaheen Shah Afridi
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 15.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 15.3:
+        non_striker: Shaheen Shah Afridi
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 15.4:
+        non_striker: Shaheen Shah Afridi
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 15.5:
+        non_striker: Shaheen Shah Afridi
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 15.6:
+        non_striker: Shaheen Shah Afridi
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 16.1:
+        non_striker: Shaheen Shah Afridi
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 16.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Rutherford
+    - 16.3:
+        non_striker: Shaheen Shah Afridi
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 16.4:
+        non_striker: Shaheen Shah Afridi
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 16.5:
+        non_striker: Shaheen Shah Afridi
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 16.6:
+        non_striker: Shaheen Shah Afridi
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 16.7:
+        non_striker: Shaheen Shah Afridi
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 17.1:
+        non_striker: SE Rutherford
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Shaheen Shah Afridi
+    - 17.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          fielders:
+          - MDKJ Perera
+          kind: caught
+    - 17.3:
+        non_striker: Shaheen Shah Afridi
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wood
+    - 17.4:
+        non_striker: L Wood
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 17.5:
+        non_striker: L Wood
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shaheen Shah Afridi
+    - 17.6:
+        non_striker: L Wood
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 18.1:
+        non_striker: L Wood
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 18.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wood
+    - 18.3:
+        non_striker: L Wood
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 18.4:
+        non_striker: L Wood
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaheen Shah Afridi
+    - 18.5:
+        non_striker: L Wood
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 18.6:
+        non_striker: Shaheen Shah Afridi
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wood
+    - 19.1:
+        non_striker: L Wood
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 19.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Wood
+    - 19.3:
+        non_striker: Shaheen Shah Afridi
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wood
+    - 19.4:
+        non_striker: L Wood
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 19.5:
+        non_striker: Shaheen Shah Afridi
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Wood
+    - 19.6:
+        non_striker: Shaheen Shah Afridi
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wood
+    - 19.7:
+        non_striker: L Wood
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Shaheen Shah Afridi

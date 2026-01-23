@@ -1,0 +1,250 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Ireland,0.1,WTS Porterfield,AV Lalcheta,0,{},{}
+1st innings,Ireland,0.2,WTS Porterfield,AV Lalcheta,0,{},{}
+1st innings,Ireland,0.3,WTS Porterfield,AV Lalcheta,0,{},{}
+1st innings,Ireland,0.4,WTS Porterfield,AV Lalcheta,0,{},{}
+1st innings,Ireland,0.5,WTS Porterfield,AV Lalcheta,0,{},{}
+1st innings,Ireland,0.6,WTS Porterfield,AV Lalcheta,0,{},{}
+1st innings,Ireland,1.1,PR Stirling,Bilal Khan,4,{},{}
+1st innings,Ireland,1.2,PR Stirling,Bilal Khan,1,{},{}
+1st innings,Ireland,1.3,WTS Porterfield,Bilal Khan,3,{},{}
+1st innings,Ireland,1.4,PR Stirling,Bilal Khan,0,{},{}
+1st innings,Ireland,1.5,PR Stirling,Bilal Khan,4,{},{}
+1st innings,Ireland,1.6,PR Stirling,Bilal Khan,0,{},{}
+1st innings,Ireland,2.1,WTS Porterfield,AV Lalcheta,0,{},{}
+1st innings,Ireland,2.2,WTS Porterfield,AV Lalcheta,0,{},{}
+1st innings,Ireland,2.3,WTS Porterfield,AV Lalcheta,1,{},{}
+1st innings,Ireland,2.4,PR Stirling,AV Lalcheta,4,{},{}
+1st innings,Ireland,2.5,PR Stirling,AV Lalcheta,1,{},{}
+1st innings,Ireland,2.6,WTS Porterfield,AV Lalcheta,0,{},{}
+1st innings,Ireland,3.1,PR Stirling,Bilal Khan,0,{},{}
+1st innings,Ireland,3.2,PR Stirling,Bilal Khan,4,{},{}
+1st innings,Ireland,3.3,PR Stirling,Bilal Khan,0,{},{}
+1st innings,Ireland,3.4,PR Stirling,Bilal Khan,0,{},{}
+1st innings,Ireland,3.5,PR Stirling,Bilal Khan,0,{},{}
+1st innings,Ireland,3.6,PR Stirling,Bilal Khan,1,{},{}
+1st innings,Ireland,4.1,PR Stirling,AV Lalcheta,0,{},{}
+1st innings,Ireland,4.2,PR Stirling,AV Lalcheta,0,{},{}
+1st innings,Ireland,4.3,PR Stirling,AV Lalcheta,4,{},{}
+1st innings,Ireland,4.4,PR Stirling,AV Lalcheta,0,{},{}
+1st innings,Ireland,4.5,PR Stirling,AV Lalcheta,4,{},{}
+1st innings,Ireland,4.6,PR Stirling,AV Lalcheta,0,{},{}
+1st innings,Ireland,5.1,WTS Porterfield,M Ansari,1,{'wides': 1},{}
+1st innings,Ireland,5.2,WTS Porterfield,M Ansari,4,{},{}
+1st innings,Ireland,5.3,WTS Porterfield,M Ansari,6,{},{}
+1st innings,Ireland,5.4,WTS Porterfield,M Ansari,4,{'legbyes': 4},{}
+1st innings,Ireland,5.5,WTS Porterfield,M Ansari,0,{},{}
+1st innings,Ireland,5.6,WTS Porterfield,M Ansari,0,{},{}
+1st innings,Ireland,5.7,WTS Porterfield,M Ansari,0,{},{}
+1st innings,Ireland,6.1,PR Stirling,Aamir Kaleem,0,{},{}
+1st innings,Ireland,6.2,PR Stirling,Aamir Kaleem,2,{},{}
+1st innings,Ireland,6.3,PR Stirling,Aamir Kaleem,0,{},"{'fielders': ['Zeeshan Maqsood'], 'kind': 'caught', 'player_out': 'PR Stirling'}"
+1st innings,Ireland,6.4,GC Wilson,Aamir Kaleem,4,{},{}
+1st innings,Ireland,6.5,GC Wilson,Aamir Kaleem,1,{},{}
+1st innings,Ireland,6.6,WTS Porterfield,Aamir Kaleem,1,{},{}
+1st innings,Ireland,7.1,WTS Porterfield,Khawar Ali,1,{},{}
+1st innings,Ireland,7.2,GC Wilson,Khawar Ali,1,{},{}
+1st innings,Ireland,7.3,WTS Porterfield,Khawar Ali,1,{},{}
+1st innings,Ireland,7.4,GC Wilson,Khawar Ali,0,{},{}
+1st innings,Ireland,7.5,GC Wilson,Khawar Ali,0,{},{}
+1st innings,Ireland,7.6,GC Wilson,Khawar Ali,1,{},{}
+1st innings,Ireland,8.1,GC Wilson,Aamir Kaleem,0,{},{}
+1st innings,Ireland,8.2,GC Wilson,Aamir Kaleem,0,{},{}
+1st innings,Ireland,8.3,GC Wilson,Aamir Kaleem,1,{},{}
+1st innings,Ireland,8.4,WTS Porterfield,Aamir Kaleem,4,{},{}
+1st innings,Ireland,8.5,WTS Porterfield,Aamir Kaleem,0,{},{}
+1st innings,Ireland,8.6,WTS Porterfield,Aamir Kaleem,1,{},{}
+1st innings,Ireland,9.1,WTS Porterfield,Amir Ali,1,{},{}
+1st innings,Ireland,9.2,GC Wilson,Amir Ali,4,{},{}
+1st innings,Ireland,9.3,GC Wilson,Amir Ali,0,{},{}
+1st innings,Ireland,9.4,GC Wilson,Amir Ali,4,{},{}
+1st innings,Ireland,9.5,GC Wilson,Amir Ali,0,{},{}
+1st innings,Ireland,9.6,GC Wilson,Amir Ali,0,{},{}
+1st innings,Ireland,10.1,WTS Porterfield,Aamir Kaleem,1,{},{}
+1st innings,Ireland,10.2,GC Wilson,Aamir Kaleem,1,{},{}
+1st innings,Ireland,10.3,WTS Porterfield,Aamir Kaleem,4,{},{}
+1st innings,Ireland,10.4,WTS Porterfield,Aamir Kaleem,1,{},{}
+1st innings,Ireland,10.5,GC Wilson,Aamir Kaleem,0,{},{}
+1st innings,Ireland,10.6,GC Wilson,Aamir Kaleem,1,{},{}
+1st innings,Ireland,11.1,GC Wilson,Khawar Ali,2,{},{}
+1st innings,Ireland,11.2,GC Wilson,Khawar Ali,0,{},{}
+1st innings,Ireland,11.3,GC Wilson,Khawar Ali,1,{},{}
+1st innings,Ireland,11.4,WTS Porterfield,Khawar Ali,0,{},"{'fielders': ['Sultan Ahmed'], 'kind': 'stumped', 'player_out': 'WTS Porterfield'}"
+1st innings,Ireland,11.5,NJ O'Brien,Khawar Ali,1,{},{}
+1st innings,Ireland,11.6,GC Wilson,Khawar Ali,1,{},{}
+1st innings,Ireland,12.1,GC Wilson,Aamir Kaleem,1,{},{}
+1st innings,Ireland,12.2,NJ O'Brien,Aamir Kaleem,1,{},{}
+1st innings,Ireland,12.3,GC Wilson,Aamir Kaleem,1,{},{}
+1st innings,Ireland,12.4,NJ O'Brien,Aamir Kaleem,1,{},{}
+1st innings,Ireland,12.5,GC Wilson,Aamir Kaleem,0,{},{}
+1st innings,Ireland,12.6,GC Wilson,Aamir Kaleem,1,{},{}
+1st innings,Ireland,13.1,GC Wilson,Khawar Ali,1,{},{}
+1st innings,Ireland,13.2,NJ O'Brien,Khawar Ali,2,{},{}
+1st innings,Ireland,13.3,NJ O'Brien,Khawar Ali,4,{},{}
+1st innings,Ireland,13.4,NJ O'Brien,Khawar Ali,2,{},{}
+1st innings,Ireland,13.5,NJ O'Brien,Khawar Ali,0,{},{}
+1st innings,Ireland,13.6,NJ O'Brien,Khawar Ali,2,{},{}
+1st innings,Ireland,14.1,GC Wilson,AV Lalcheta,0,{},{}
+1st innings,Ireland,14.2,GC Wilson,AV Lalcheta,4,{},{}
+1st innings,Ireland,14.3,GC Wilson,AV Lalcheta,2,{},{}
+1st innings,Ireland,14.4,GC Wilson,AV Lalcheta,1,{},{}
+1st innings,Ireland,14.5,NJ O'Brien,AV Lalcheta,2,{},{}
+1st innings,Ireland,14.6,NJ O'Brien,AV Lalcheta,1,{},{}
+1st innings,Ireland,15.1,NJ O'Brien,M Ansari,0,{},"{'fielders': ['Mehran Khan'], 'kind': 'caught', 'player_out': ""NJ O'Brien""}"
+1st innings,Ireland,15.2,GC Wilson,M Ansari,1,{},{}
+1st innings,Ireland,15.3,KJ O'Brien,M Ansari,1,{},{}
+1st innings,Ireland,15.4,GC Wilson,M Ansari,4,{},{}
+1st innings,Ireland,15.5,GC Wilson,M Ansari,0,{},{}
+1st innings,Ireland,15.6,GC Wilson,M Ansari,0,{},"{'kind': 'bowled', 'player_out': 'GC Wilson'}"
+1st innings,Ireland,16.1,KJ O'Brien,Bilal Khan,2,{},{}
+1st innings,Ireland,16.2,KJ O'Brien,Bilal Khan,2,{},{}
+1st innings,Ireland,16.3,KJ O'Brien,Bilal Khan,0,{},{}
+1st innings,Ireland,16.4,KJ O'Brien,Bilal Khan,2,{},{}
+1st innings,Ireland,16.5,KJ O'Brien,Bilal Khan,0,{},{}
+1st innings,Ireland,16.6,KJ O'Brien,Bilal Khan,1,{},{}
+1st innings,Ireland,17.1,KJ O'Brien,M Ansari,0,{},{}
+1st innings,Ireland,17.2,KJ O'Brien,M Ansari,1,{},{}
+1st innings,Ireland,17.3,AD Poynter,M Ansari,2,{},{}
+1st innings,Ireland,17.4,AD Poynter,M Ansari,0,{},{}
+1st innings,Ireland,17.5,AD Poynter,M Ansari,6,{},{}
+1st innings,Ireland,17.6,AD Poynter,M Ansari,0,{},{}
+1st innings,Ireland,18.1,KJ O'Brien,Bilal Khan,4,{},{}
+1st innings,Ireland,18.2,KJ O'Brien,Bilal Khan,1,{},{}
+1st innings,Ireland,18.3,AD Poynter,Bilal Khan,0,{},{}
+1st innings,Ireland,18.4,AD Poynter,Bilal Khan,0,{},{}
+1st innings,Ireland,18.5,AD Poynter,Bilal Khan,2,{},{}
+1st innings,Ireland,18.6,AD Poynter,Bilal Khan,1,{},{}
+1st innings,Ireland,19.1,AD Poynter,M Ansari,0,{},{}
+1st innings,Ireland,19.2,AD Poynter,M Ansari,1,{'legbyes': 1},{}
+1st innings,Ireland,19.3,KJ O'Brien,M Ansari,0,{},"{'kind': 'bowled', 'player_out': ""KJ O'Brien""}"
+1st innings,Ireland,19.4,AR McBrine,M Ansari,4,{},{}
+1st innings,Ireland,19.5,AR McBrine,M Ansari,2,{},{}
+1st innings,Ireland,19.6,AR McBrine,M Ansari,1,{'wides': 1},{}
+1st innings,Ireland,19.7,AR McBrine,M Ansari,4,{},{}
+2nd innings,Oman,0.1,Zeeshan Maqsood,TJ Murtagh,0,{},{}
+2nd innings,Oman,0.2,Zeeshan Maqsood,TJ Murtagh,4,{},{}
+2nd innings,Oman,0.3,Zeeshan Maqsood,TJ Murtagh,0,{},{}
+2nd innings,Oman,0.4,Zeeshan Maqsood,TJ Murtagh,0,{},{}
+2nd innings,Oman,0.5,Zeeshan Maqsood,TJ Murtagh,0,{},{}
+2nd innings,Oman,0.6,Zeeshan Maqsood,TJ Murtagh,4,{},{}
+2nd innings,Oman,1.1,Khawar Ali,CA Young,1,{'wides': 1},{}
+2nd innings,Oman,1.2,Khawar Ali,CA Young,0,{},{}
+2nd innings,Oman,1.3,Khawar Ali,CA Young,2,{},{}
+2nd innings,Oman,1.4,Khawar Ali,CA Young,0,{},{}
+2nd innings,Oman,1.5,Khawar Ali,CA Young,0,{},{}
+2nd innings,Oman,1.6,Khawar Ali,CA Young,0,{},{}
+2nd innings,Oman,1.7,Khawar Ali,CA Young,0,{},{}
+2nd innings,Oman,2.1,Zeeshan Maqsood,WB Rankin,0,{},{}
+2nd innings,Oman,2.2,Zeeshan Maqsood,WB Rankin,4,{},{}
+2nd innings,Oman,2.3,Zeeshan Maqsood,WB Rankin,4,{},{}
+2nd innings,Oman,2.4,Zeeshan Maqsood,WB Rankin,0,{},{}
+2nd innings,Oman,2.5,Zeeshan Maqsood,WB Rankin,0,{},{}
+2nd innings,Oman,2.6,Zeeshan Maqsood,WB Rankin,4,{},{}
+2nd innings,Oman,3.1,Khawar Ali,CA Young,1,{'wides': 1},{}
+2nd innings,Oman,3.2,Khawar Ali,CA Young,0,{},{}
+2nd innings,Oman,3.3,Khawar Ali,CA Young,1,{},{}
+2nd innings,Oman,3.4,Zeeshan Maqsood,CA Young,2,{},{}
+2nd innings,Oman,3.5,Zeeshan Maqsood,CA Young,0,{},{}
+2nd innings,Oman,3.6,Zeeshan Maqsood,CA Young,4,{},{}
+2nd innings,Oman,3.7,Zeeshan Maqsood,CA Young,0,{},{}
+2nd innings,Oman,4.1,Khawar Ali,TJ Murtagh,0,{},{}
+2nd innings,Oman,4.2,Khawar Ali,TJ Murtagh,4,{},{}
+2nd innings,Oman,4.3,Khawar Ali,TJ Murtagh,0,{},{}
+2nd innings,Oman,4.4,Khawar Ali,TJ Murtagh,4,{},{}
+2nd innings,Oman,4.5,Khawar Ali,TJ Murtagh,0,{},{}
+2nd innings,Oman,4.6,Khawar Ali,TJ Murtagh,0,{},{}
+2nd innings,Oman,5.1,Zeeshan Maqsood,KJ O'Brien,0,{},{}
+2nd innings,Oman,5.2,Zeeshan Maqsood,KJ O'Brien,1,{},{}
+2nd innings,Oman,5.3,Khawar Ali,KJ O'Brien,0,{},{}
+2nd innings,Oman,5.4,Khawar Ali,KJ O'Brien,1,{},{}
+2nd innings,Oman,5.5,Zeeshan Maqsood,KJ O'Brien,2,{},{}
+2nd innings,Oman,5.6,Zeeshan Maqsood,KJ O'Brien,1,{},{}
+2nd innings,Oman,6.1,Zeeshan Maqsood,WB Rankin,0,{},{}
+2nd innings,Oman,6.2,Zeeshan Maqsood,WB Rankin,0,{},{}
+2nd innings,Oman,6.3,Zeeshan Maqsood,WB Rankin,1,{},{}
+2nd innings,Oman,6.4,Khawar Ali,WB Rankin,4,{},{}
+2nd innings,Oman,6.5,Khawar Ali,WB Rankin,1,{},{}
+2nd innings,Oman,6.6,Zeeshan Maqsood,WB Rankin,1,{},{}
+2nd innings,Oman,7.1,Zeeshan Maqsood,AR McBrine,1,{},{}
+2nd innings,Oman,7.2,Khawar Ali,AR McBrine,6,{},{}
+2nd innings,Oman,7.3,Khawar Ali,AR McBrine,0,{},{}
+2nd innings,Oman,7.4,Khawar Ali,AR McBrine,0,{},{}
+2nd innings,Oman,7.5,Khawar Ali,AR McBrine,0,{},{}
+2nd innings,Oman,7.6,Khawar Ali,AR McBrine,1,{},{}
+2nd innings,Oman,8.1,Khawar Ali,KJ O'Brien,4,{},{}
+2nd innings,Oman,8.2,Khawar Ali,KJ O'Brien,6,{},{}
+2nd innings,Oman,8.3,Khawar Ali,KJ O'Brien,0,{},"{'kind': 'bowled', 'player_out': 'Khawar Ali'}"
+2nd innings,Oman,8.4,Jatinder Singh,KJ O'Brien,1,{'legbyes': 1},{}
+2nd innings,Oman,8.5,Zeeshan Maqsood,KJ O'Brien,0,{},{}
+2nd innings,Oman,8.6,Zeeshan Maqsood,KJ O'Brien,0,{},{}
+2nd innings,Oman,9.1,Jatinder Singh,AR McBrine,1,{},{}
+2nd innings,Oman,9.2,Zeeshan Maqsood,AR McBrine,0,{},{}
+2nd innings,Oman,9.3,Zeeshan Maqsood,AR McBrine,1,{},{}
+2nd innings,Oman,9.4,Jatinder Singh,AR McBrine,0,{},{}
+2nd innings,Oman,9.5,Jatinder Singh,AR McBrine,1,{},{}
+2nd innings,Oman,9.6,Zeeshan Maqsood,AR McBrine,1,{},{}
+2nd innings,Oman,10.1,Zeeshan Maqsood,KJ O'Brien,2,{},{}
+2nd innings,Oman,10.2,Zeeshan Maqsood,KJ O'Brien,1,{},{}
+2nd innings,Oman,10.3,Jatinder Singh,KJ O'Brien,1,{},{}
+2nd innings,Oman,10.4,Zeeshan Maqsood,KJ O'Brien,0,{},"{'kind': 'bowled', 'player_out': 'Zeeshan Maqsood'}"
+2nd innings,Oman,10.5,Adnan Ilyas,KJ O'Brien,1,{},{}
+2nd innings,Oman,10.6,Jatinder Singh,KJ O'Brien,0,{},{}
+2nd innings,Oman,11.1,Adnan Ilyas,PR Stirling,0,{},{}
+2nd innings,Oman,11.2,Adnan Ilyas,PR Stirling,1,{},{}
+2nd innings,Oman,11.3,Jatinder Singh,PR Stirling,1,{},{}
+2nd innings,Oman,11.4,Adnan Ilyas,PR Stirling,0,{},{}
+2nd innings,Oman,11.5,Adnan Ilyas,PR Stirling,1,{},{}
+2nd innings,Oman,11.6,Jatinder Singh,PR Stirling,1,{},{}
+2nd innings,Oman,12.1,Jatinder Singh,MC Sorensen,1,{},{}
+2nd innings,Oman,12.2,Adnan Ilyas,MC Sorensen,1,{},{}
+2nd innings,Oman,12.3,Jatinder Singh,MC Sorensen,1,{'legbyes': 1},{}
+2nd innings,Oman,12.4,Adnan Ilyas,MC Sorensen,0,{},"{'fielders': ['PR Stirling'], 'kind': 'caught', 'player_out': 'Adnan Ilyas'}"
+2nd innings,Oman,12.5,Mehran Khan,MC Sorensen,0,{},{}
+2nd innings,Oman,12.6,Mehran Khan,MC Sorensen,1,{},{}
+2nd innings,Oman,13.1,Mehran Khan,AR McBrine,1,{},{}
+2nd innings,Oman,13.2,Jatinder Singh,AR McBrine,1,{},{}
+2nd innings,Oman,13.3,Mehran Khan,AR McBrine,0,{},"{'fielders': ['WTS Porterfield'], 'kind': 'caught', 'player_out': 'Mehran Khan'}"
+2nd innings,Oman,13.4,Jatinder Singh,AR McBrine,1,{},{}
+2nd innings,Oman,13.5,Aamir Kaleem,AR McBrine,0,{},{}
+2nd innings,Oman,13.6,Aamir Kaleem,AR McBrine,0,{},"{'kind': 'lbw', 'player_out': 'Aamir Kaleem'}"
+2nd innings,Oman,14.1,Jatinder Singh,MC Sorensen,1,{'wides': 1},{}
+2nd innings,Oman,14.2,Jatinder Singh,MC Sorensen,1,{},{}
+2nd innings,Oman,14.3,Amir Ali,MC Sorensen,1,{'wides': 1},{}
+2nd innings,Oman,14.4,Amir Ali,MC Sorensen,0,{},{}
+2nd innings,Oman,14.5,Amir Ali,MC Sorensen,1,{},{}
+2nd innings,Oman,14.6,Jatinder Singh,MC Sorensen,0,{},{}
+2nd innings,Oman,14.7,Jatinder Singh,MC Sorensen,1,{},{}
+2nd innings,Oman,14.8,Amir Ali,MC Sorensen,6,{},{}
+2nd innings,Oman,15.1,Jatinder Singh,PR Stirling,4,{},{}
+2nd innings,Oman,15.2,Jatinder Singh,PR Stirling,0,{},{}
+2nd innings,Oman,15.3,Jatinder Singh,PR Stirling,1,{},{}
+2nd innings,Oman,15.4,Amir Ali,PR Stirling,1,{},{}
+2nd innings,Oman,15.5,Jatinder Singh,PR Stirling,1,{},{}
+2nd innings,Oman,15.6,Amir Ali,PR Stirling,4,{},{}
+2nd innings,Oman,16.1,Jatinder Singh,TJ Murtagh,2,{'noballs': 1},{}
+2nd innings,Oman,16.2,Amir Ali,TJ Murtagh,1,{},{}
+2nd innings,Oman,16.3,Jatinder Singh,TJ Murtagh,1,{'wides': 1},{}
+2nd innings,Oman,16.4,Jatinder Singh,TJ Murtagh,2,{},{}
+2nd innings,Oman,16.5,Jatinder Singh,TJ Murtagh,1,{'wides': 1},{}
+2nd innings,Oman,16.6,Jatinder Singh,TJ Murtagh,1,{},{}
+2nd innings,Oman,16.7,Amir Ali,TJ Murtagh,4,{},{}
+2nd innings,Oman,16.8,Amir Ali,TJ Murtagh,4,{},{}
+2nd innings,Oman,16.9,Amir Ali,TJ Murtagh,4,{},{}
+2nd innings,Oman,17.1,Jatinder Singh,KJ O'Brien,1,{},{}
+2nd innings,Oman,17.2,Amir Ali,KJ O'Brien,0,{},{}
+2nd innings,Oman,17.3,Amir Ali,KJ O'Brien,0,{},{}
+2nd innings,Oman,17.4,Amir Ali,KJ O'Brien,1,{},{}
+2nd innings,Oman,17.5,Jatinder Singh,KJ O'Brien,2,{},{}
+2nd innings,Oman,17.6,Jatinder Singh,KJ O'Brien,1,{},{}
+2nd innings,Oman,18.1,Jatinder Singh,WB Rankin,0,{},"{'kind': 'bowled', 'player_out': 'Jatinder Singh'}"
+2nd innings,Oman,18.2,Sultan Ahmed,WB Rankin,1,{},{}
+2nd innings,Oman,18.3,Amir Ali,WB Rankin,1,{},{}
+2nd innings,Oman,18.4,Sultan Ahmed,WB Rankin,0,{},"{'fielders': [""NJ O'Brien""], 'kind': 'run out', 'player_out': 'Sultan Ahmed'}"
+2nd innings,Oman,18.5,AV Lalcheta,WB Rankin,1,{},{}
+2nd innings,Oman,18.6,Amir Ali,WB Rankin,1,{},{}
+2nd innings,Oman,19.1,Amir Ali,MC Sorensen,5,{'noballs': 1},{}
+2nd innings,Oman,19.2,Amir Ali,MC Sorensen,1,{'byes': 1},{}
+2nd innings,Oman,19.3,AV Lalcheta,MC Sorensen,4,{},{}
+2nd innings,Oman,19.4,AV Lalcheta,MC Sorensen,1,{},{}
+2nd innings,Oman,19.5,Amir Ali,MC Sorensen,0,{},"{'fielders': [""NJ O'Brien""], 'kind': 'caught', 'player_out': 'Amir Ali'}"
+2nd innings,Oman,19.6,M Ansari,MC Sorensen,5,{'noballs': 5},{}

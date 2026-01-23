@@ -1,0 +1,2122 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-02-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  competition: International League T20
+  dates:
+  - '2025-01-31'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: MI Emirates
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - N Pooran
+  players:
+    Gulf Giants:
+    - DJ Worrall
+    - MG Erasmus
+    - JM Vince
+    - JM Cox
+    - TK Curran
+    - SO Hetmyer
+    - TH David
+    - CJ Jordan
+    - MR Adair
+    - Aayan Afzal Khan
+    - Saghir Khan
+    - B Muzarabani
+    MI Emirates:
+    - Waqar Salamkheil
+    - ADS Fletcher
+    - Waseem Muhammad
+    - T Banton
+    - MDKJ Perera
+    - N Pooran
+    - BJ Jacobs
+    - R Shepherd
+    - Muhammad Rohid
+    - AJ Hosein
+    - Fazalhaq Farooqi
+    - AS Joseph
+  registry:
+    people:
+      ADS Fletcher: 1bae756b
+      AG Wharf: 2e0fcc58
+      AJ Hosein: 4d7f517e
+      AS Joseph: b0946605
+      Aayan Afzal Khan: d2d15439
+      B Muzarabani: 449f4e3c
+      BJ Jacobs: 972f217b
+      CJ Jordan: ffe699c0
+      DJ Worrall: 208f22ea
+      Fazalhaq Farooqi: e9c7f0d0
+      JM Cox: ff154ecd
+      JM Vince: a15618fe
+      LS Reifer: 5dee559a
+      MDKJ Perera: f21043a5
+      MG Erasmus: 95a5e066
+      MJ Saggers: 402d5937
+      MR Adair: fc55ec67
+      Muhammad Rohid: 9103ecdb
+      N Pooran: 3241e3fd
+      R Shepherd: c5aef772
+      RSA Palliyaguruge: 4339c19d
+      SJA Taufel: 4b43d5ac
+      SO Hetmyer: 48a1d7b7
+      Saghir Khan: 730d2283
+      T Banton: 25f7b7d6
+      TH David: f1f99156
+      TK Curran: e86754b2
+      Waqar Salamkheil: 3f1066d0
+      Waseem Muhammad: 6f02fe2a
+  teams:
+  - Gulf Giants
+  - MI Emirates
+  toss:
+    winner: MI Emirates
+    decision: field
+  umpires:
+  - MJ Saggers
+  - RSA Palliyaguruge
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: Gulf Giants
+    deliveries:
+    - 0.1:
+        non_striker: JM Vince
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 0.2:
+        non_striker: JM Vince
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 0.3:
+        non_striker: JM Vince
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 0.4:
+        non_striker: MG Erasmus
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 0.5:
+        non_striker: JM Vince
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 0.6:
+        non_striker: MG Erasmus
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 1.1:
+        non_striker: MG Erasmus
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 1.2:
+        non_striker: MG Erasmus
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 1.3:
+        non_striker: MG Erasmus
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 1.4:
+        non_striker: JM Vince
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 1.5:
+        non_striker: JM Vince
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Erasmus
+    - 1.6:
+        non_striker: JM Vince
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 2.1:
+        non_striker: MG Erasmus
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 2.2:
+        non_striker: MG Erasmus
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 2.3:
+        non_striker: JM Vince
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 2.4:
+        non_striker: JM Vince
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          fielders:
+          - Muhammad Rohid
+          kind: caught
+    - 2.5:
+        non_striker: JM Vince
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Cox
+    - 2.6:
+        non_striker: JM Vince
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 3.1:
+        non_striker: JM Cox
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 3.2:
+        non_striker: JM Cox
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 3.3:
+        non_striker: JM Cox
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 3.4:
+        non_striker: JM Cox
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 3.5:
+        non_striker: JM Cox
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 3.6:
+        non_striker: JM Cox
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 4.1:
+        non_striker: JM Vince
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 4.2:
+        non_striker: JM Vince
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 4.3:
+        non_striker: JM Vince
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 4.4:
+        non_striker: JM Vince
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 4.5:
+        non_striker: JM Vince
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 4.6:
+        non_striker: JM Cox
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 5.1:
+        non_striker: JM Vince
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 5.2:
+        non_striker: JM Cox
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 5.3:
+        non_striker: JM Vince
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 5.4:
+        non_striker: JM Vince
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 5.5:
+        non_striker: JM Vince
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 5.6:
+        non_striker: JM Cox
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 6.1:
+        non_striker: JM Vince
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 6.2:
+        non_striker: JM Cox
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 6.3:
+        non_striker: JM Cox
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 6.4:
+        non_striker: JM Vince
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 6.5:
+        non_striker: JM Cox
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 6.6:
+        non_striker: JM Vince
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 7.1:
+        non_striker: JM Vince
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 7.2:
+        non_striker: JM Vince
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 7.3:
+        non_striker: JM Cox
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 7.4:
+        non_striker: JM Vince
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 7.5:
+        non_striker: JM Cox
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 7.6:
+        non_striker: JM Cox
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 8.1:
+        non_striker: JM Vince
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 8.2:
+        non_striker: JM Vince
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 8.3:
+        non_striker: JM Cox
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 8.4:
+        non_striker: JM Cox
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 8.5:
+        non_striker: JM Vince
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 8.6:
+        non_striker: JM Cox
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 9.1:
+        non_striker: JM Cox
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 9.2:
+        non_striker: JM Vince
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+        wicket:
+          player_out: JM Cox
+          fielders:
+          - Fazalhaq Farooqi
+          kind: caught
+    - 9.3:
+        non_striker: JM Vince
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 9.4:
+        non_striker: JM Vince
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TK Curran
+    - 9.5:
+        non_striker: JM Vince
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 9.6:
+        non_striker: JM Vince
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TK Curran
+    - 9.7:
+        non_striker: JM Vince
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TK Curran
+    - 9.8:
+        non_striker: TK Curran
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 10.1:
+        non_striker: JM Vince
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 10.2:
+        non_striker: JM Vince
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 10.3:
+        non_striker: TK Curran
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 10.4:
+        non_striker: TK Curran
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 10.5:
+        non_striker: JM Vince
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 10.6:
+        non_striker: TK Curran
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 11.1:
+        non_striker: TK Curran
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 11.2:
+        non_striker: JM Vince
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TK Curran
+    - 11.3:
+        non_striker: JM Vince
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran
+    - 11.4:
+        non_striker: JM Vince
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 11.5:
+        non_striker: JM Vince
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran
+    - 11.6:
+        non_striker: JM Vince
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 12.1:
+        non_striker: JM Vince
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+        wicket:
+          player_out: TK Curran
+          fielders:
+          - AJ Hosein
+          kind: caught
+    - 12.2:
+        non_striker: JM Vince
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.3:
+        non_striker: SO Hetmyer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 12.4:
+        non_striker: SO Hetmyer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 12.5:
+        non_striker: JM Vince
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 12.6:
+        non_striker: JM Vince
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 13.1:
+        non_striker: SO Hetmyer
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 13.2:
+        non_striker: JM Vince
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.3:
+        non_striker: SO Hetmyer
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 13.4:
+        non_striker: SO Hetmyer
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 13.5:
+        non_striker: SO Hetmyer
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 13.6:
+        non_striker: JM Vince
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.1:
+        non_striker: JM Vince
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.2:
+        non_striker: SO Hetmyer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 14.3:
+        non_striker: SO Hetmyer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 14.4:
+        non_striker: JM Vince
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.5:
+        non_striker: SO Hetmyer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 14.6:
+        non_striker: JM Vince
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 15.1:
+        non_striker: SO Hetmyer
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        replacements:
+          match:
+          - in: MDKJ Perera
+            out: Waqar Salamkheil
+            team: MI Emirates
+            reason: impact_player
+        batsman: JM Vince
+    - 15.2:
+        non_striker: SO Hetmyer
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Vince
+    - 15.3:
+        non_striker: SO Hetmyer
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 15.4:
+        non_striker: SO Hetmyer
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 15.5:
+        non_striker: JM Vince
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 15.6:
+        non_striker: JM Vince
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 15.7:
+        non_striker: SO Hetmyer
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 16.1:
+        non_striker: JM Vince
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 16.2:
+        non_striker: JM Vince
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 16.3:
+        non_striker: JM Vince
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 16.4:
+        non_striker: JM Vince
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 16.5:
+        non_striker: SO Hetmyer
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 16.6:
+        non_striker: SO Hetmyer
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 17.1:
+        non_striker: SO Hetmyer
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 17.2:
+        non_striker: SO Hetmyer
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 17.3:
+        non_striker: JM Vince
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - N Pooran
+          kind: caught
+    - 17.4:
+        non_striker: JM Vince
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 17.5:
+        non_striker: JM Vince
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 17.6:
+        non_striker: TH David
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+        wicket:
+          player_out: JM Vince
+          fielders:
+          - Fazalhaq Farooqi
+          kind: caught
+    - 18.1:
+        non_striker: CJ Jordan
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 18.2:
+        non_striker: TH David
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 18.3:
+        non_striker: CJ Jordan
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 18.4:
+        non_striker: CJ Jordan
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 18.5:
+        non_striker: CJ Jordan
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 18.6:
+        non_striker: TH David
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Jordan
+    - 19.1:
+        non_striker: CJ Jordan
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TH David
+    - 19.2:
+        non_striker: CJ Jordan
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 19.3:
+        non_striker: TH David
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Jordan
+    - 19.4:
+        non_striker: TH David
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 19.5:
+        non_striker: CJ Jordan
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TH David
+    - 19.6:
+        non_striker: CJ Jordan
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+        wicket:
+          player_out: TH David
+          fielders:
+          - T Banton
+          kind: caught
+    - 19.7:
+        non_striker: CJ Jordan
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: MR Adair
+- 2nd innings:
+    team: MI Emirates
+    deliveries:
+    - 0.1:
+        non_striker: Waseem Muhammad
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: DJ Worrall
+            out: TH David
+            team: Gulf Giants
+            reason: impact_player
+        batsman: ADS Fletcher
+    - 0.2:
+        non_striker: Waseem Muhammad
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.3:
+        non_striker: Waseem Muhammad
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 0.4:
+        non_striker: Waseem Muhammad
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 0.5:
+        non_striker: ADS Fletcher
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 0.6:
+        non_striker: ADS Fletcher
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 1.1:
+        non_striker: Waseem Muhammad
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 1.2:
+        non_striker: ADS Fletcher
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 1.3:
+        non_striker: Waseem Muhammad
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 1.4:
+        non_striker: Waseem Muhammad
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 1.5:
+        non_striker: ADS Fletcher
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 1.6:
+        non_striker: Waseem Muhammad
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 2.1:
+        non_striker: ADS Fletcher
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 2.2:
+        non_striker: ADS Fletcher
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 2.3:
+        non_striker: ADS Fletcher
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 2.4:
+        non_striker: Waseem Muhammad
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.5:
+        non_striker: Waseem Muhammad
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 2.6:
+        non_striker: Waseem Muhammad
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 3.1:
+        non_striker: Waseem Muhammad
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 3.2:
+        non_striker: ADS Fletcher
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 3.3:
+        non_striker: Waseem Muhammad
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 3.4:
+        non_striker: ADS Fletcher
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 3.5:
+        non_striker: ADS Fletcher
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          fielders:
+          - JM Vince
+          kind: caught
+    - 3.6:
+        non_striker: ADS Fletcher
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 4.1:
+        non_striker: T Banton
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.2:
+        non_striker: T Banton
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.3:
+        non_striker: T Banton
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 4.4:
+        non_striker: ADS Fletcher
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 4.5:
+        non_striker: ADS Fletcher
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 4.6:
+        non_striker: ADS Fletcher
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 5.1:
+        non_striker: ADS Fletcher
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 5.2:
+        non_striker: ADS Fletcher
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 5.3:
+        non_striker: ADS Fletcher
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 5.4:
+        non_striker: T Banton
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 5.5:
+        non_striker: T Banton
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 5.6:
+        non_striker: ADS Fletcher
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 6.1:
+        non_striker: T Banton
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 6.2:
+        non_striker: ADS Fletcher
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 6.3:
+        non_striker: ADS Fletcher
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 6.4:
+        non_striker: ADS Fletcher
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 6.5:
+        non_striker: T Banton
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 6.6:
+        non_striker: ADS Fletcher
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 7.1:
+        non_striker: T Banton
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 7.2:
+        non_striker: ADS Fletcher
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+        wicket:
+          player_out: T Banton
+          fielders:
+          - DJ Worrall
+          kind: caught
+    - 7.3:
+        non_striker: ADS Fletcher
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 7.4:
+        non_striker: MDKJ Perera
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 7.5:
+        non_striker: MDKJ Perera
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: MDKJ Perera
+          fielders:
+          - JM Vince
+          kind: run out
+    - 7.6:
+        non_striker: ADS Fletcher
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 8.1:
+        non_striker: N Pooran
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 8.2:
+        non_striker: ADS Fletcher
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 8.3:
+        non_striker: ADS Fletcher
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 8.4:
+        non_striker: ADS Fletcher
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 8.5:
+        non_striker: ADS Fletcher
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 8.6:
+        non_striker: ADS Fletcher
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 9.1:
+        non_striker: N Pooran
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 9.2:
+        non_striker: N Pooran
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 9.3:
+        non_striker: N Pooran
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 9.4:
+        non_striker: ADS Fletcher
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 9.5:
+        non_striker: N Pooran
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 9.6:
+        non_striker: ADS Fletcher
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 10.1:
+        non_striker: N Pooran
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 10.2:
+        non_striker: N Pooran
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 10.3:
+        non_striker: ADS Fletcher
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 10.4:
+        non_striker: ADS Fletcher
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 10.5:
+        non_striker: N Pooran
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: ADS Fletcher
+          fielders:
+          - DJ Worrall
+          kind: caught
+    - 10.6:
+        non_striker: N Pooran
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Jacobs
+    - 11.1:
+        non_striker: N Pooran
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Jacobs
+    - 11.2:
+        non_striker: N Pooran
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Jacobs
+    - 11.3:
+        non_striker: N Pooran
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Jacobs
+    - 11.4:
+        non_striker: N Pooran
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Jacobs
+    - 11.5:
+        non_striker: BJ Jacobs
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 11.6:
+        non_striker: N Pooran
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ Jacobs
+    - 12.1:
+        non_striker: BJ Jacobs
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 12.2:
+        non_striker: N Pooran
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Jacobs
+    - 12.3:
+        non_striker: BJ Jacobs
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 12.4:
+        non_striker: BJ Jacobs
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 12.5:
+        non_striker: N Pooran
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Jacobs
+    - 12.6:
+        non_striker: N Pooran
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Jacobs
+    - 13.1:
+        non_striker: BJ Jacobs
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 13.2:
+        non_striker: BJ Jacobs
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 13.3:
+        non_striker: BJ Jacobs
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 13.4:
+        non_striker: BJ Jacobs
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 13.5:
+        non_striker: N Pooran
+        bowler: MG Erasmus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BJ Jacobs
+    - 13.6:
+        non_striker: BJ Jacobs
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 14.1:
+        non_striker: BJ Jacobs
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 14.2:
+        non_striker: N Pooran
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Jacobs
+    - 14.3:
+        non_striker: N Pooran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Jacobs
+    - 14.4:
+        non_striker: BJ Jacobs
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 14.5:
+        non_striker: BJ Jacobs
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 14.6:
+        non_striker: BJ Jacobs
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 14.7:
+        non_striker: BJ Jacobs
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 15.1:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BJ Jacobs
+    - 15.2:
+        non_striker: BJ Jacobs
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 15.3:
+        non_striker: BJ Jacobs
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 15.4:
+        non_striker: BJ Jacobs
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 15.5:
+        non_striker: BJ Jacobs
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 15.6:
+        non_striker: BJ Jacobs
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 16.1:
+        non_striker: N Pooran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Jacobs
+    - 16.2:
+        non_striker: N Pooran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Jacobs
+        wicket:
+          player_out: BJ Jacobs
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 16.3:
+        non_striker: N Pooran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 16.4:
+        non_striker: R Shepherd
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 16.5:
+        non_striker: R Shepherd
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 16.6:
+        non_striker: R Shepherd
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 17.1:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 17.2:
+        non_striker: R Shepherd
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 17.3:
+        non_striker: R Shepherd
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 17.4:
+        non_striker: R Shepherd
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 17.5:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: R Shepherd
+    - 17.6:
+        non_striker: R Shepherd
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 17.7:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 18.1:
+        non_striker: N Pooran
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Shepherd
+    - 18.2:
+        non_striker: N Pooran
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Shepherd
+    - 18.3:
+        non_striker: N Pooran
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 18.4:
+        non_striker: R Shepherd
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Pooran
+    - 18.5:
+        non_striker: N Pooran
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Shepherd
+    - 18.6:
+        non_striker: N Pooran
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Shepherd
+    - 18.7:
+        non_striker: N Pooran
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Shepherd
+    - 19.1:
+        non_striker: R Shepherd
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran

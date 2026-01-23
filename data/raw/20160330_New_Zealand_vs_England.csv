@@ -1,0 +1,231 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,New Zealand,0.1,MJ Guptill,DJ Willey,4,{},{}
+1st innings,New Zealand,0.2,MJ Guptill,DJ Willey,0,{},{}
+1st innings,New Zealand,0.3,MJ Guptill,DJ Willey,1,{},{}
+1st innings,New Zealand,0.4,KS Williamson,DJ Willey,1,{},{}
+1st innings,New Zealand,0.5,MJ Guptill,DJ Willey,4,{},{}
+1st innings,New Zealand,0.6,MJ Guptill,DJ Willey,1,{},{}
+1st innings,New Zealand,1.1,MJ Guptill,CJ Jordan,0,{},{}
+1st innings,New Zealand,1.2,MJ Guptill,CJ Jordan,0,{},{}
+1st innings,New Zealand,1.3,MJ Guptill,CJ Jordan,0,{},{}
+1st innings,New Zealand,1.4,MJ Guptill,CJ Jordan,1,{'wides': 1},{}
+1st innings,New Zealand,1.5,MJ Guptill,CJ Jordan,0,{},{}
+1st innings,New Zealand,1.6,MJ Guptill,CJ Jordan,4,{},{}
+1st innings,New Zealand,1.7,MJ Guptill,CJ Jordan,1,{},{}
+1st innings,New Zealand,2.1,MJ Guptill,DJ Willey,0,{},"{'fielders': ['JC Buttler'], 'kind': 'caught', 'player_out': 'MJ Guptill'}"
+1st innings,New Zealand,2.2,C Munro,DJ Willey,1,{},{}
+1st innings,New Zealand,2.3,KS Williamson,DJ Willey,1,{},{}
+1st innings,New Zealand,2.4,C Munro,DJ Willey,0,{},{}
+1st innings,New Zealand,2.5,C Munro,DJ Willey,4,{},{}
+1st innings,New Zealand,2.6,C Munro,DJ Willey,0,{},{}
+1st innings,New Zealand,3.1,KS Williamson,LE Plunkett,1,{},{}
+1st innings,New Zealand,3.2,C Munro,LE Plunkett,1,{},{}
+1st innings,New Zealand,3.3,KS Williamson,LE Plunkett,0,{},{}
+1st innings,New Zealand,3.4,KS Williamson,LE Plunkett,4,{},{}
+1st innings,New Zealand,3.5,KS Williamson,LE Plunkett,0,{},{}
+1st innings,New Zealand,3.6,KS Williamson,LE Plunkett,2,{},{}
+1st innings,New Zealand,4.1,C Munro,CJ Jordan,0,{},{}
+1st innings,New Zealand,4.2,C Munro,CJ Jordan,1,{'legbyes': 1},{}
+1st innings,New Zealand,4.3,KS Williamson,CJ Jordan,1,{'wides': 1},{}
+1st innings,New Zealand,4.4,KS Williamson,CJ Jordan,0,{},{}
+1st innings,New Zealand,4.5,KS Williamson,CJ Jordan,4,{},{}
+1st innings,New Zealand,4.6,KS Williamson,CJ Jordan,0,{},{}
+1st innings,New Zealand,4.7,KS Williamson,CJ Jordan,1,{},{}
+1st innings,New Zealand,5.1,KS Williamson,LE Plunkett,1,{},{}
+1st innings,New Zealand,5.2,C Munro,LE Plunkett,4,{},{}
+1st innings,New Zealand,5.3,C Munro,LE Plunkett,4,{},{}
+1st innings,New Zealand,5.4,C Munro,LE Plunkett,4,{},{}
+1st innings,New Zealand,5.5,C Munro,LE Plunkett,0,{},{}
+1st innings,New Zealand,5.6,C Munro,LE Plunkett,0,{},{}
+1st innings,New Zealand,6.1,KS Williamson,AU Rashid,0,{},{}
+1st innings,New Zealand,6.2,KS Williamson,AU Rashid,1,{},{}
+1st innings,New Zealand,6.3,C Munro,AU Rashid,1,{},{}
+1st innings,New Zealand,6.4,KS Williamson,AU Rashid,0,{},{}
+1st innings,New Zealand,6.5,KS Williamson,AU Rashid,1,{'wides': 1},{}
+1st innings,New Zealand,6.6,KS Williamson,AU Rashid,0,{},{}
+1st innings,New Zealand,6.7,KS Williamson,AU Rashid,1,{},{}
+1st innings,New Zealand,7.1,KS Williamson,BA Stokes,1,{},{}
+1st innings,New Zealand,7.2,C Munro,BA Stokes,1,{},{}
+1st innings,New Zealand,7.3,KS Williamson,BA Stokes,6,{},{}
+1st innings,New Zealand,7.4,KS Williamson,BA Stokes,1,{'legbyes': 1},{}
+1st innings,New Zealand,7.5,C Munro,BA Stokes,1,{},{}
+1st innings,New Zealand,7.6,KS Williamson,BA Stokes,1,{},{}
+1st innings,New Zealand,8.1,KS Williamson,AU Rashid,1,{},{}
+1st innings,New Zealand,8.2,C Munro,AU Rashid,6,{},{}
+1st innings,New Zealand,8.3,C Munro,AU Rashid,1,{},{}
+1st innings,New Zealand,8.4,KS Williamson,AU Rashid,4,{},{}
+1st innings,New Zealand,8.5,KS Williamson,AU Rashid,0,{},{}
+1st innings,New Zealand,8.6,KS Williamson,AU Rashid,0,{},{}
+1st innings,New Zealand,9.1,C Munro,BA Stokes,4,{},{}
+1st innings,New Zealand,9.2,C Munro,BA Stokes,1,{'legbyes': 1},{}
+1st innings,New Zealand,9.3,KS Williamson,BA Stokes,1,{},{}
+1st innings,New Zealand,9.4,C Munro,BA Stokes,0,{},{}
+1st innings,New Zealand,9.5,C Munro,BA Stokes,4,{},{}
+1st innings,New Zealand,9.6,C Munro,BA Stokes,1,{'wides': 1},{}
+1st innings,New Zealand,9.7,C Munro,BA Stokes,0,{},{}
+1st innings,New Zealand,10.1,KS Williamson,MM Ali,1,{},{}
+1st innings,New Zealand,10.2,C Munro,MM Ali,1,{},{}
+1st innings,New Zealand,10.3,KS Williamson,MM Ali,0,{},"{'kind': 'caught and bowled', 'player_out': 'KS Williamson'}"
+1st innings,New Zealand,10.4,C Munro,MM Ali,1,{},{}
+1st innings,New Zealand,10.5,CJ Anderson,MM Ali,0,{},{}
+1st innings,New Zealand,10.6,CJ Anderson,MM Ali,0,{},{}
+1st innings,New Zealand,11.1,C Munro,AU Rashid,4,{},{}
+1st innings,New Zealand,11.2,C Munro,AU Rashid,1,{},{}
+1st innings,New Zealand,11.3,CJ Anderson,AU Rashid,0,{},{}
+1st innings,New Zealand,11.4,CJ Anderson,AU Rashid,0,{},{}
+1st innings,New Zealand,11.5,CJ Anderson,AU Rashid,1,{},{}
+1st innings,New Zealand,11.6,C Munro,AU Rashid,1,{},{}
+1st innings,New Zealand,12.1,C Munro,MM Ali,0,{},{}
+1st innings,New Zealand,12.2,C Munro,MM Ali,1,{},{}
+1st innings,New Zealand,12.3,CJ Anderson,MM Ali,4,{},{}
+1st innings,New Zealand,12.4,CJ Anderson,MM Ali,0,{},{}
+1st innings,New Zealand,12.5,CJ Anderson,MM Ali,1,{},{}
+1st innings,New Zealand,12.6,C Munro,MM Ali,1,{},{}
+1st innings,New Zealand,13.1,C Munro,LE Plunkett,1,{'wides': 1},{}
+1st innings,New Zealand,13.2,C Munro,LE Plunkett,0,{},{}
+1st innings,New Zealand,13.3,C Munro,LE Plunkett,0,{},"{'fielders': ['MM Ali'], 'kind': 'caught', 'player_out': 'C Munro'}"
+1st innings,New Zealand,13.4,CJ Anderson,LE Plunkett,0,{},{}
+1st innings,New Zealand,13.5,CJ Anderson,LE Plunkett,2,{},{}
+1st innings,New Zealand,13.6,CJ Anderson,LE Plunkett,1,{},{}
+1st innings,New Zealand,13.7,LRPL Taylor,LE Plunkett,1,{},{}
+1st innings,New Zealand,14.1,LRPL Taylor,AU Rashid,1,{'wides': 1},{}
+1st innings,New Zealand,14.2,LRPL Taylor,AU Rashid,1,{},{}
+1st innings,New Zealand,14.3,CJ Anderson,AU Rashid,2,{},{}
+1st innings,New Zealand,14.4,CJ Anderson,AU Rashid,1,{},{}
+1st innings,New Zealand,14.5,LRPL Taylor,AU Rashid,0,{},{}
+1st innings,New Zealand,14.6,LRPL Taylor,AU Rashid,1,{},{}
+1st innings,New Zealand,14.7,CJ Anderson,AU Rashid,4,{},{}
+1st innings,New Zealand,15.1,LRPL Taylor,LE Plunkett,0,{},{}
+1st innings,New Zealand,15.2,LRPL Taylor,LE Plunkett,3,{},{}
+1st innings,New Zealand,15.3,CJ Anderson,LE Plunkett,0,{},{}
+1st innings,New Zealand,15.4,CJ Anderson,LE Plunkett,2,{},{}
+1st innings,New Zealand,15.5,CJ Anderson,LE Plunkett,6,{},{}
+1st innings,New Zealand,15.6,CJ Anderson,LE Plunkett,1,{},{}
+1st innings,New Zealand,16.1,CJ Anderson,CJ Jordan,1,{},{}
+1st innings,New Zealand,16.2,LRPL Taylor,CJ Jordan,0,{},{}
+1st innings,New Zealand,16.3,LRPL Taylor,CJ Jordan,0,{},"{'fielders': ['EJG Morgan'], 'kind': 'caught', 'player_out': 'LRPL Taylor'}"
+1st innings,New Zealand,16.4,L Ronchi,CJ Jordan,1,{},{}
+1st innings,New Zealand,16.5,CJ Anderson,CJ Jordan,0,{},{}
+1st innings,New Zealand,16.6,CJ Anderson,CJ Jordan,1,{},{}
+1st innings,New Zealand,17.1,CJ Anderson,BA Stokes,1,{},{}
+1st innings,New Zealand,17.2,L Ronchi,BA Stokes,2,{},{}
+1st innings,New Zealand,17.3,L Ronchi,BA Stokes,0,{},"{'fielders': ['DJ Willey'], 'kind': 'caught', 'player_out': 'L Ronchi'}"
+1st innings,New Zealand,17.4,CJ Anderson,BA Stokes,0,{},"{'fielders': ['CJ Jordan'], 'kind': 'caught', 'player_out': 'CJ Anderson'}"
+1st innings,New Zealand,17.5,GD Elliott,BA Stokes,1,{},{}
+1st innings,New Zealand,17.6,MJ Santner,BA Stokes,1,{},{}
+1st innings,New Zealand,18.1,MJ Santner,CJ Jordan,1,{},{}
+1st innings,New Zealand,18.2,GD Elliott,CJ Jordan,0,{},{}
+1st innings,New Zealand,18.3,GD Elliott,CJ Jordan,2,{},{}
+1st innings,New Zealand,18.4,GD Elliott,CJ Jordan,1,{},{}
+1st innings,New Zealand,18.5,MJ Santner,CJ Jordan,4,{},{}
+1st innings,New Zealand,18.6,MJ Santner,CJ Jordan,1,{},{}
+1st innings,New Zealand,19.1,MJ Santner,BA Stokes,0,{},{}
+1st innings,New Zealand,19.2,MJ Santner,BA Stokes,0,{},"{'fielders': ['CJ Jordan'], 'kind': 'caught', 'player_out': 'MJ Santner'}"
+1st innings,New Zealand,19.3,GD Elliott,BA Stokes,1,{'byes': 1},{}
+1st innings,New Zealand,19.4,MJ McClenaghan,BA Stokes,1,{},{}
+1st innings,New Zealand,19.5,GD Elliott,BA Stokes,1,{'legbyes': 1},{}
+1st innings,New Zealand,19.6,MJ McClenaghan,BA Stokes,0,{},"{'fielders': ['JC Buttler', 'BA Stokes'], 'kind': 'run out', 'player_out': 'MJ McClenaghan'}"
+2nd innings,England,0.1,JJ Roy,CJ Anderson,0,{},{}
+2nd innings,England,0.2,JJ Roy,CJ Anderson,4,{},{}
+2nd innings,England,0.3,JJ Roy,CJ Anderson,0,{},{}
+2nd innings,England,0.4,JJ Roy,CJ Anderson,4,{},{}
+2nd innings,England,0.5,JJ Roy,CJ Anderson,4,{},{}
+2nd innings,England,0.6,JJ Roy,CJ Anderson,4,{},{}
+2nd innings,England,1.1,AD Hales,AF Milne,1,{},{}
+2nd innings,England,1.2,JJ Roy,AF Milne,0,{},{}
+2nd innings,England,1.3,JJ Roy,AF Milne,4,{},{}
+2nd innings,England,1.4,JJ Roy,AF Milne,0,{},{}
+2nd innings,England,1.5,JJ Roy,AF Milne,2,{},{}
+2nd innings,England,1.6,JJ Roy,AF Milne,0,{},{}
+2nd innings,England,2.1,AD Hales,MJ McClenaghan,0,{},{}
+2nd innings,England,2.2,AD Hales,MJ McClenaghan,1,{},{}
+2nd innings,England,2.3,JJ Roy,MJ McClenaghan,1,{},{}
+2nd innings,England,2.4,AD Hales,MJ McClenaghan,6,{},{}
+2nd innings,England,2.5,AD Hales,MJ McClenaghan,1,{},{}
+2nd innings,England,2.6,JJ Roy,MJ McClenaghan,4,{},{}
+2nd innings,England,3.1,AD Hales,AF Milne,1,{},{}
+2nd innings,England,3.2,JJ Roy,AF Milne,0,{},{}
+2nd innings,England,3.3,JJ Roy,AF Milne,1,{},{}
+2nd innings,England,3.4,AD Hales,AF Milne,4,{},{}
+2nd innings,England,3.5,AD Hales,AF Milne,1,{},{}
+2nd innings,England,3.6,JJ Roy,AF Milne,6,{},{}
+2nd innings,England,4.1,AD Hales,MJ Santner,0,{},{}
+2nd innings,England,4.2,AD Hales,MJ Santner,1,{'legbyes': 1},{}
+2nd innings,England,4.3,JJ Roy,MJ Santner,4,{},{}
+2nd innings,England,4.4,JJ Roy,MJ Santner,4,{},{}
+2nd innings,England,4.5,JJ Roy,MJ Santner,1,{'wides': 1},{}
+2nd innings,England,4.6,JJ Roy,MJ Santner,0,{},{}
+2nd innings,England,4.7,JJ Roy,MJ Santner,1,{},{}
+2nd innings,England,5.1,JJ Roy,MJ McClenaghan,0,{},{}
+2nd innings,England,5.2,JJ Roy,MJ McClenaghan,1,{},{}
+2nd innings,England,5.3,AD Hales,MJ McClenaghan,1,{},{}
+2nd innings,England,5.4,JJ Roy,MJ McClenaghan,0,{},{}
+2nd innings,England,5.5,JJ Roy,MJ McClenaghan,4,{},{}
+2nd innings,England,5.6,JJ Roy,MJ McClenaghan,1,{},{}
+2nd innings,England,6.1,JJ Roy,IS Sodhi,1,{},{}
+2nd innings,England,6.2,AD Hales,IS Sodhi,0,{},{}
+2nd innings,England,6.3,AD Hales,IS Sodhi,1,{},{}
+2nd innings,England,6.4,JJ Roy,IS Sodhi,4,{},{}
+2nd innings,England,6.5,JJ Roy,IS Sodhi,1,{},{}
+2nd innings,England,6.6,AD Hales,IS Sodhi,1,{},{}
+2nd innings,England,7.1,AD Hales,GD Elliott,0,{},{}
+2nd innings,England,7.2,AD Hales,GD Elliott,1,{},{}
+2nd innings,England,7.3,JJ Roy,GD Elliott,1,{},{}
+2nd innings,England,7.4,AD Hales,GD Elliott,0,{},{}
+2nd innings,England,7.5,AD Hales,GD Elliott,1,{},{}
+2nd innings,England,7.6,JJ Roy,GD Elliott,1,{},{}
+2nd innings,England,8.1,JJ Roy,MJ Santner,3,{},{}
+2nd innings,England,8.2,AD Hales,MJ Santner,0,{},"{'fielders': ['C Munro'], 'kind': 'caught', 'player_out': 'AD Hales'}"
+2nd innings,England,8.3,JJ Roy,MJ Santner,0,{},{}
+2nd innings,England,8.4,JJ Roy,MJ Santner,4,{},{}
+2nd innings,England,8.5,JJ Roy,MJ Santner,1,{},{}
+2nd innings,England,8.6,JE Root,MJ Santner,1,{},{}
+2nd innings,England,9.1,JE Root,GD Elliott,1,{},{}
+2nd innings,England,9.2,JJ Roy,GD Elliott,1,{},{}
+2nd innings,England,9.3,JE Root,GD Elliott,0,{},{}
+2nd innings,England,9.4,JE Root,GD Elliott,1,{},{}
+2nd innings,England,9.5,JJ Roy,GD Elliott,6,{},{}
+2nd innings,England,9.6,JJ Roy,GD Elliott,1,{},{}
+2nd innings,England,10.1,JJ Roy,IS Sodhi,1,{},{}
+2nd innings,England,10.2,JE Root,IS Sodhi,1,{},{}
+2nd innings,England,10.3,JJ Roy,IS Sodhi,1,{},{}
+2nd innings,England,10.4,JE Root,IS Sodhi,1,{},{}
+2nd innings,England,10.5,JJ Roy,IS Sodhi,1,{},{}
+2nd innings,England,10.6,JE Root,IS Sodhi,0,{},{}
+2nd innings,England,11.1,JJ Roy,AF Milne,1,{},{}
+2nd innings,England,11.2,JE Root,AF Milne,1,{},{}
+2nd innings,England,11.3,JJ Roy,AF Milne,0,{},{}
+2nd innings,England,11.4,JJ Roy,AF Milne,1,{},{}
+2nd innings,England,11.5,JE Root,AF Milne,4,{},{}
+2nd innings,England,11.6,JE Root,AF Milne,0,{},{}
+2nd innings,England,12.1,JJ Roy,IS Sodhi,0,{},"{'kind': 'bowled', 'player_out': 'JJ Roy'}"
+2nd innings,England,12.2,EJG Morgan,IS Sodhi,0,{},"{'kind': 'lbw', 'player_out': 'EJG Morgan'}"
+2nd innings,England,12.3,JC Buttler,IS Sodhi,0,{},{}
+2nd innings,England,12.4,JC Buttler,IS Sodhi,1,{},{}
+2nd innings,England,12.5,JE Root,IS Sodhi,2,{},{}
+2nd innings,England,12.6,JE Root,IS Sodhi,4,{},{}
+2nd innings,England,13.1,JC Buttler,MJ McClenaghan,1,{},{}
+2nd innings,England,13.2,JE Root,MJ McClenaghan,0,{},{}
+2nd innings,England,13.3,JE Root,MJ McClenaghan,1,{},{}
+2nd innings,England,13.4,JC Buttler,MJ McClenaghan,0,{},{}
+2nd innings,England,13.5,JC Buttler,MJ McClenaghan,1,{},{}
+2nd innings,England,13.6,JE Root,MJ McClenaghan,1,{},{}
+2nd innings,England,14.1,JE Root,MJ Santner,1,{},{}
+2nd innings,England,14.2,JC Buttler,MJ Santner,1,{},{}
+2nd innings,England,14.3,JE Root,MJ Santner,1,{},{}
+2nd innings,England,14.4,JC Buttler,MJ Santner,0,{},{}
+2nd innings,England,14.5,JC Buttler,MJ Santner,0,{},{}
+2nd innings,England,14.6,JC Buttler,MJ Santner,0,{},{}
+2nd innings,England,15.1,JE Root,GD Elliott,1,{},{}
+2nd innings,England,15.2,JC Buttler,GD Elliott,1,{},{}
+2nd innings,England,15.3,JE Root,GD Elliott,0,{},{}
+2nd innings,England,15.4,JE Root,GD Elliott,1,{},{}
+2nd innings,England,15.5,JC Buttler,GD Elliott,4,{},{}
+2nd innings,England,15.6,JC Buttler,GD Elliott,0,{},{}
+2nd innings,England,16.1,JE Root,IS Sodhi,4,{},{}
+2nd innings,England,16.2,JE Root,IS Sodhi,1,{},{}
+2nd innings,England,16.3,JC Buttler,IS Sodhi,4,{},{}
+2nd innings,England,16.4,JC Buttler,IS Sodhi,6,{},{}
+2nd innings,England,16.5,JC Buttler,IS Sodhi,6,{},{}
+2nd innings,England,16.6,JC Buttler,IS Sodhi,1,{},{}
+2nd innings,England,17.1,JC Buttler,MJ Santner,6,{},{}

@@ -1,0 +1,251 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,South Africa,0.1,HM Amla,DJ Willey,0,{},{}
+1st innings,South Africa,0.2,HM Amla,DJ Willey,1,{},{}
+1st innings,South Africa,0.3,Q de Kock,DJ Willey,0,{},{}
+1st innings,South Africa,0.4,Q de Kock,DJ Willey,0,{},{}
+1st innings,South Africa,0.5,Q de Kock,DJ Willey,0,{},{}
+1st innings,South Africa,0.6,Q de Kock,DJ Willey,1,{},{}
+1st innings,South Africa,1.1,Q de Kock,RJW Topley,6,{},{}
+1st innings,South Africa,1.2,Q de Kock,RJW Topley,0,{},{}
+1st innings,South Africa,1.3,Q de Kock,RJW Topley,4,{},{}
+1st innings,South Africa,1.4,Q de Kock,RJW Topley,4,{},{}
+1st innings,South Africa,1.5,Q de Kock,RJW Topley,1,{},{}
+1st innings,South Africa,1.6,HM Amla,RJW Topley,0,{},{}
+1st innings,South Africa,2.1,Q de Kock,DJ Willey,0,{},{}
+1st innings,South Africa,2.2,Q de Kock,DJ Willey,0,{},{}
+1st innings,South Africa,2.3,Q de Kock,DJ Willey,6,{},{}
+1st innings,South Africa,2.4,Q de Kock,DJ Willey,4,{},{}
+1st innings,South Africa,2.5,Q de Kock,DJ Willey,4,{},{}
+1st innings,South Africa,2.6,Q de Kock,DJ Willey,6,{},{}
+1st innings,South Africa,3.1,HM Amla,MM Ali,4,{},{}
+1st innings,South Africa,3.2,HM Amla,MM Ali,0,{},{}
+1st innings,South Africa,3.3,HM Amla,MM Ali,4,{},{}
+1st innings,South Africa,3.4,HM Amla,MM Ali,1,{},{}
+1st innings,South Africa,3.5,Q de Kock,MM Ali,4,{},{}
+1st innings,South Africa,3.6,Q de Kock,MM Ali,0,{},{}
+1st innings,South Africa,4.1,HM Amla,CJ Jordan,4,{},{}
+1st innings,South Africa,4.2,HM Amla,CJ Jordan,4,{},{}
+1st innings,South Africa,4.3,HM Amla,CJ Jordan,4,{},{}
+1st innings,South Africa,4.4,HM Amla,CJ Jordan,6,{},{}
+1st innings,South Africa,4.5,HM Amla,CJ Jordan,4,{},{}
+1st innings,South Africa,4.6,HM Amla,CJ Jordan,0,{},{}
+1st innings,South Africa,5.1,Q de Kock,BA Stokes,1,{},{}
+1st innings,South Africa,5.2,HM Amla,BA Stokes,0,{},{}
+1st innings,South Africa,5.3,HM Amla,BA Stokes,4,{},{}
+1st innings,South Africa,5.4,HM Amla,BA Stokes,1,{},{}
+1st innings,South Africa,5.5,Q de Kock,BA Stokes,4,{},{}
+1st innings,South Africa,5.6,Q de Kock,BA Stokes,1,{},{}
+1st innings,South Africa,6.1,Q de Kock,AU Rashid,4,{},{}
+1st innings,South Africa,6.2,Q de Kock,AU Rashid,1,{},{}
+1st innings,South Africa,6.3,HM Amla,AU Rashid,0,{},{}
+1st innings,South Africa,6.4,HM Amla,AU Rashid,1,{},{}
+1st innings,South Africa,6.5,Q de Kock,AU Rashid,1,{},{}
+1st innings,South Africa,6.6,HM Amla,AU Rashid,6,{},{}
+1st innings,South Africa,7.1,Q de Kock,MM Ali,0,{},"{'fielders': ['AD Hales'], 'kind': 'caught', 'player_out': 'Q de Kock'}"
+1st innings,South Africa,7.2,HM Amla,MM Ali,1,{},{}
+1st innings,South Africa,7.3,AB de Villiers,MM Ali,1,{},{}
+1st innings,South Africa,7.4,HM Amla,MM Ali,0,{},{}
+1st innings,South Africa,7.5,HM Amla,MM Ali,1,{},{}
+1st innings,South Africa,7.6,AB de Villiers,MM Ali,1,{},{}
+1st innings,South Africa,8.1,AB de Villiers,AU Rashid,2,{},{}
+1st innings,South Africa,8.2,AB de Villiers,AU Rashid,0,{},{}
+1st innings,South Africa,8.3,AB de Villiers,AU Rashid,6,{},{}
+1st innings,South Africa,8.4,AB de Villiers,AU Rashid,6,{},{}
+1st innings,South Africa,8.5,AB de Villiers,AU Rashid,0,{},{}
+1st innings,South Africa,8.6,AB de Villiers,AU Rashid,0,{},"{'fielders': ['EJG Morgan'], 'kind': 'caught', 'player_out': 'AB de Villiers'}"
+1st innings,South Africa,9.1,F du Plessis,MM Ali,1,{},{}
+1st innings,South Africa,9.2,HM Amla,MM Ali,1,{},{}
+1st innings,South Africa,9.3,F du Plessis,MM Ali,1,{},{}
+1st innings,South Africa,9.4,HM Amla,MM Ali,1,{},{}
+1st innings,South Africa,9.5,F du Plessis,MM Ali,1,{},{}
+1st innings,South Africa,9.6,HM Amla,MM Ali,6,{},{}
+1st innings,South Africa,10.1,F du Plessis,AU Rashid,1,{},{}
+1st innings,South Africa,10.2,HM Amla,AU Rashid,1,{},{}
+1st innings,South Africa,10.3,F du Plessis,AU Rashid,0,{},{}
+1st innings,South Africa,10.4,F du Plessis,AU Rashid,1,{},{}
+1st innings,South Africa,10.5,HM Amla,AU Rashid,0,{},{}
+1st innings,South Africa,10.6,HM Amla,AU Rashid,0,{},{}
+1st innings,South Africa,11.1,F du Plessis,MM Ali,1,{},{}
+1st innings,South Africa,11.2,HM Amla,MM Ali,2,{},{}
+1st innings,South Africa,11.3,HM Amla,MM Ali,1,{},{}
+1st innings,South Africa,11.4,F du Plessis,MM Ali,1,{},{}
+1st innings,South Africa,11.5,HM Amla,MM Ali,0,{},"{'kind': 'lbw', 'player_out': 'HM Amla'}"
+1st innings,South Africa,11.6,JP Duminy,MM Ali,1,{},{}
+1st innings,South Africa,12.1,JP Duminy,AU Rashid,1,{},{}
+1st innings,South Africa,12.2,F du Plessis,AU Rashid,1,{},{}
+1st innings,South Africa,12.3,JP Duminy,AU Rashid,1,{},{}
+1st innings,South Africa,12.4,F du Plessis,AU Rashid,0,{},{}
+1st innings,South Africa,12.5,F du Plessis,AU Rashid,1,{},{}
+1st innings,South Africa,12.6,JP Duminy,AU Rashid,1,{},{}
+1st innings,South Africa,13.1,JP Duminy,JE Root,2,{},{}
+1st innings,South Africa,13.2,JP Duminy,JE Root,1,{},{}
+1st innings,South Africa,13.3,F du Plessis,JE Root,1,{},{}
+1st innings,South Africa,13.4,JP Duminy,JE Root,4,{},{}
+1st innings,South Africa,13.5,JP Duminy,JE Root,4,{},{}
+1st innings,South Africa,13.6,JP Duminy,JE Root,1,{},{}
+1st innings,South Africa,14.1,JP Duminy,BA Stokes,1,{},{}
+1st innings,South Africa,14.2,F du Plessis,BA Stokes,4,{},{}
+1st innings,South Africa,14.3,F du Plessis,BA Stokes,2,{'byes': 2},{}
+1st innings,South Africa,14.4,F du Plessis,BA Stokes,1,{},{}
+1st innings,South Africa,14.5,JP Duminy,BA Stokes,4,{},{}
+1st innings,South Africa,14.6,JP Duminy,BA Stokes,1,{'wides': 1},{}
+1st innings,South Africa,14.7,JP Duminy,BA Stokes,1,{},{}
+1st innings,South Africa,15.1,JP Duminy,DJ Willey,1,{},{}
+1st innings,South Africa,15.2,F du Plessis,DJ Willey,2,{},{}
+1st innings,South Africa,15.3,F du Plessis,DJ Willey,0,{},"{'fielders': ['JJ Roy'], 'kind': 'caught', 'player_out': 'F du Plessis'}"
+1st innings,South Africa,15.4,JP Duminy,DJ Willey,1,{'wides': 1},{}
+1st innings,South Africa,15.5,JP Duminy,DJ Willey,1,{},{}
+1st innings,South Africa,15.6,DA Miller,DJ Willey,1,{},{}
+1st innings,South Africa,15.7,JP Duminy,DJ Willey,1,{},{}
+1st innings,South Africa,16.1,JP Duminy,CJ Jordan,1,{},{}
+1st innings,South Africa,16.2,DA Miller,CJ Jordan,4,{},{}
+1st innings,South Africa,16.3,DA Miller,CJ Jordan,1,{},{}
+1st innings,South Africa,16.4,JP Duminy,CJ Jordan,1,{},{}
+1st innings,South Africa,16.5,DA Miller,CJ Jordan,1,{},{}
+1st innings,South Africa,16.6,JP Duminy,CJ Jordan,1,{},{}
+1st innings,South Africa,17.1,JP Duminy,DJ Willey,1,{},{}
+1st innings,South Africa,17.2,DA Miller,DJ Willey,1,{},{}
+1st innings,South Africa,17.3,JP Duminy,DJ Willey,1,{},{}
+1st innings,South Africa,17.4,DA Miller,DJ Willey,6,{},{}
+1st innings,South Africa,17.5,DA Miller,DJ Willey,1,{},{}
+1st innings,South Africa,17.6,JP Duminy,DJ Willey,1,{},{}
+1st innings,South Africa,18.1,JP Duminy,RJW Topley,6,{},{}
+1st innings,South Africa,18.2,JP Duminy,RJW Topley,6,{},{}
+1st innings,South Africa,18.3,JP Duminy,RJW Topley,1,{},{}
+1st innings,South Africa,18.4,DA Miller,RJW Topley,1,{},{}
+1st innings,South Africa,18.5,JP Duminy,RJW Topley,3,{},{}
+1st innings,South Africa,18.6,DA Miller,RJW Topley,1,{},{}
+1st innings,South Africa,19.1,DA Miller,CJ Jordan,1,{},{}
+1st innings,South Africa,19.2,JP Duminy,CJ Jordan,6,{},{}
+1st innings,South Africa,19.3,JP Duminy,CJ Jordan,0,{},{}
+1st innings,South Africa,19.4,JP Duminy,CJ Jordan,1,{},{}
+1st innings,South Africa,19.5,DA Miller,CJ Jordan,6,{},{}
+1st innings,South Africa,19.6,DA Miller,CJ Jordan,4,{},{}
+2nd innings,England,0.1,JJ Roy,K Rabada,4,{},{}
+2nd innings,England,0.2,JJ Roy,K Rabada,4,{},{}
+2nd innings,England,0.3,JJ Roy,K Rabada,0,{},{}
+2nd innings,England,0.4,JJ Roy,K Rabada,5,{'wides': 5},{}
+2nd innings,England,0.5,JJ Roy,K Rabada,4,{},{}
+2nd innings,England,0.6,JJ Roy,K Rabada,0,{},{}
+2nd innings,England,0.7,JJ Roy,K Rabada,4,{},{}
+2nd innings,England,1.1,AD Hales,DW Steyn,4,{},{}
+2nd innings,England,1.2,AD Hales,DW Steyn,4,{},{}
+2nd innings,England,1.3,AD Hales,DW Steyn,4,{},{}
+2nd innings,England,1.4,AD Hales,DW Steyn,1,{},{}
+2nd innings,England,1.5,JJ Roy,DW Steyn,4,{},{}
+2nd innings,England,1.6,JJ Roy,DW Steyn,6,{},{}
+2nd innings,England,2.1,AD Hales,KJ Abbott,4,{},{}
+2nd innings,England,2.2,AD Hales,KJ Abbott,0,{},{}
+2nd innings,England,2.3,AD Hales,KJ Abbott,0,{},"{'kind': 'lbw', 'player_out': 'AD Hales'}"
+2nd innings,England,2.4,BA Stokes,KJ Abbott,1,{},{}
+2nd innings,England,2.5,JJ Roy,KJ Abbott,6,{},{}
+2nd innings,England,2.6,JJ Roy,KJ Abbott,1,{},{}
+2nd innings,England,3.1,JJ Roy,K Rabada,2,{},{}
+2nd innings,England,3.2,JJ Roy,K Rabada,1,{},{}
+2nd innings,England,3.3,BA Stokes,K Rabada,4,{},{}
+2nd innings,England,3.4,BA Stokes,K Rabada,0,{},{}
+2nd innings,England,3.5,BA Stokes,K Rabada,1,{},{}
+2nd innings,England,3.6,JJ Roy,K Rabada,1,{},{}
+2nd innings,England,4.1,JJ Roy,KJ Abbott,0,{},{}
+2nd innings,England,4.2,JJ Roy,KJ Abbott,6,{},{}
+2nd innings,England,4.3,JJ Roy,KJ Abbott,0,{},"{'fielders': ['Q de Kock'], 'kind': 'caught', 'player_out': 'JJ Roy'}"
+2nd innings,England,4.4,BA Stokes,KJ Abbott,5,{'wides': 5},{}
+2nd innings,England,4.5,BA Stokes,KJ Abbott,1,{},{}
+2nd innings,England,4.6,JE Root,KJ Abbott,1,{},{}
+2nd innings,England,4.7,BA Stokes,KJ Abbott,1,{},{}
+2nd innings,England,5.1,BA Stokes,K Rabada,6,{},{}
+2nd innings,England,5.2,BA Stokes,K Rabada,1,{},{}
+2nd innings,England,5.3,JE Root,K Rabada,1,{},{}
+2nd innings,England,5.4,BA Stokes,K Rabada,0,{},"{'fielders': ['CH Morris'], 'kind': 'caught', 'player_out': 'BA Stokes'}"
+2nd innings,England,5.5,EJG Morgan,K Rabada,1,{'wides': 1},{}
+2nd innings,England,5.6,EJG Morgan,K Rabada,1,{},{}
+2nd innings,England,5.7,JE Root,K Rabada,0,{},{}
+2nd innings,England,6.1,EJG Morgan,Imran Tahir,1,{},{}
+2nd innings,England,6.2,JE Root,Imran Tahir,2,{},{}
+2nd innings,England,6.3,JE Root,Imran Tahir,1,{},{}
+2nd innings,England,6.4,EJG Morgan,Imran Tahir,1,{},{}
+2nd innings,England,6.5,JE Root,Imran Tahir,1,{},{}
+2nd innings,England,6.6,EJG Morgan,Imran Tahir,1,{},{}
+2nd innings,England,7.1,EJG Morgan,JP Duminy,1,{},{}
+2nd innings,England,7.2,JE Root,JP Duminy,2,{},{}
+2nd innings,England,7.3,JE Root,JP Duminy,1,{},{}
+2nd innings,England,7.4,EJG Morgan,JP Duminy,1,{},{}
+2nd innings,England,7.5,JE Root,JP Duminy,1,{},{}
+2nd innings,England,7.6,EJG Morgan,JP Duminy,1,{},{}
+2nd innings,England,8.1,EJG Morgan,Imran Tahir,1,{},{}
+2nd innings,England,8.2,JE Root,Imran Tahir,1,{'wides': 1},{}
+2nd innings,England,8.3,JE Root,Imran Tahir,1,{},{}
+2nd innings,England,8.4,EJG Morgan,Imran Tahir,0,{},{}
+2nd innings,England,8.5,EJG Morgan,Imran Tahir,0,{},{}
+2nd innings,England,8.6,EJG Morgan,Imran Tahir,2,{},{}
+2nd innings,England,8.7,EJG Morgan,Imran Tahir,1,{},{}
+2nd innings,England,9.1,EJG Morgan,JP Duminy,1,{},{}
+2nd innings,England,9.2,JE Root,JP Duminy,1,{},{}
+2nd innings,England,9.3,EJG Morgan,JP Duminy,0,{},{}
+2nd innings,England,9.4,EJG Morgan,JP Duminy,0,{},"{'kind': 'bowled', 'player_out': 'EJG Morgan'}"
+2nd innings,England,9.5,JC Buttler,JP Duminy,1,{},{}
+2nd innings,England,9.6,JE Root,JP Duminy,6,{},{}
+2nd innings,England,10.1,JC Buttler,CH Morris,1,{},{}
+2nd innings,England,10.2,JE Root,CH Morris,6,{},{}
+2nd innings,England,10.3,JE Root,CH Morris,1,{},{}
+2nd innings,England,10.4,JC Buttler,CH Morris,1,{'wides': 1},{}
+2nd innings,England,10.5,JC Buttler,CH Morris,1,{'legbyes': 1},{}
+2nd innings,England,10.6,JE Root,CH Morris,1,{'legbyes': 1},{}
+2nd innings,England,10.7,JC Buttler,CH Morris,4,{},{}
+2nd innings,England,11.1,JE Root,JP Duminy,4,{},{}
+2nd innings,England,11.2,JE Root,JP Duminy,1,{},{}
+2nd innings,England,11.3,JC Buttler,JP Duminy,1,{},{}
+2nd innings,England,11.4,JE Root,JP Duminy,2,{},{}
+2nd innings,England,11.5,JE Root,JP Duminy,1,{},{}
+2nd innings,England,11.6,JC Buttler,JP Duminy,6,{},{}
+2nd innings,England,12.1,JE Root,DW Steyn,2,{},{}
+2nd innings,England,12.2,JE Root,DW Steyn,1,{'wides': 1},{}
+2nd innings,England,12.3,JE Root,DW Steyn,1,{},{}
+2nd innings,England,12.4,JC Buttler,DW Steyn,1,{},{}
+2nd innings,England,12.5,JE Root,DW Steyn,2,{},{}
+2nd innings,England,12.6,JE Root,DW Steyn,4,{},{}
+2nd innings,England,12.7,JE Root,DW Steyn,1,{},{}
+2nd innings,England,13.1,JE Root,Imran Tahir,1,{},{}
+2nd innings,England,13.2,JC Buttler,Imran Tahir,3,{'wides': 3},{}
+2nd innings,England,13.3,JC Buttler,Imran Tahir,2,{},{}
+2nd innings,England,13.4,JC Buttler,Imran Tahir,1,{},{}
+2nd innings,England,13.5,JE Root,Imran Tahir,1,{},{}
+2nd innings,England,13.6,JC Buttler,Imran Tahir,1,{},{}
+2nd innings,England,13.7,JE Root,Imran Tahir,1,{},{}
+2nd innings,England,14.1,JE Root,CH Morris,1,{'wides': 1},{}
+2nd innings,England,14.2,JE Root,CH Morris,1,{},{}
+2nd innings,England,14.3,JC Buttler,CH Morris,1,{},{}
+2nd innings,England,14.4,JE Root,CH Morris,6,{},{}
+2nd innings,England,14.5,JE Root,CH Morris,1,{},{}
+2nd innings,England,14.6,JC Buttler,CH Morris,1,{'wides': 1},{}
+2nd innings,England,14.7,JC Buttler,CH Morris,1,{},{}
+2nd innings,England,14.8,JE Root,CH Morris,1,{},{}
+2nd innings,England,15.1,JE Root,Imran Tahir,1,{},{}
+2nd innings,England,15.2,JC Buttler,Imran Tahir,1,{},{}
+2nd innings,England,15.3,JE Root,Imran Tahir,1,{},{}
+2nd innings,England,15.4,JC Buttler,Imran Tahir,0,{},"{'fielders': ['Q de Kock'], 'kind': 'stumped', 'player_out': 'JC Buttler'}"
+2nd innings,England,15.5,MM Ali,Imran Tahir,1,{},{}
+2nd innings,England,15.6,JE Root,Imran Tahir,1,{},{}
+2nd innings,England,16.1,JE Root,KJ Abbott,4,{},{}
+2nd innings,England,16.2,JE Root,KJ Abbott,6,{},{}
+2nd innings,England,16.3,JE Root,KJ Abbott,1,{},{}
+2nd innings,England,16.4,MM Ali,KJ Abbott,1,{'wides': 1},{}
+2nd innings,England,16.5,MM Ali,KJ Abbott,1,{},{}
+2nd innings,England,16.6,JE Root,KJ Abbott,1,{},{}
+2nd innings,England,16.7,MM Ali,KJ Abbott,0,{},{}
+2nd innings,England,17.1,JE Root,CH Morris,4,{},{}
+2nd innings,England,17.2,JE Root,CH Morris,4,{},{}
+2nd innings,England,17.3,JE Root,CH Morris,4,{},{}
+2nd innings,England,17.4,JE Root,CH Morris,1,{},{}
+2nd innings,England,17.5,MM Ali,CH Morris,0,{},{}
+2nd innings,England,17.6,MM Ali,CH Morris,4,{'legbyes': 4},{}
+2nd innings,England,18.1,JE Root,K Rabada,0,{},{}
+2nd innings,England,18.2,JE Root,K Rabada,0,{},"{'fielders': ['DA Miller'], 'kind': 'caught', 'player_out': 'JE Root'}"
+2nd innings,England,18.3,MM Ali,K Rabada,4,{},{}
+2nd innings,England,18.4,MM Ali,K Rabada,1,{},{}
+2nd innings,England,18.5,CJ Jordan,K Rabada,4,{},{}
+2nd innings,England,18.6,CJ Jordan,K Rabada,1,{},{}
+2nd innings,England,19.1,CJ Jordan,KJ Abbott,0,{},"{'fielders': ['JP Duminy'], 'kind': 'caught', 'player_out': 'CJ Jordan'}"
+2nd innings,England,19.2,MM Ali,KJ Abbott,0,{},"{'fielders': ['DA Miller', 'AB de Villiers'], 'kind': 'run out', 'player_out': 'DJ Willey'}"
+2nd innings,England,19.3,MM Ali,KJ Abbott,0,{},{}
+2nd innings,England,19.4,MM Ali,KJ Abbott,1,{},{}

@@ -1,0 +1,245 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Bangladesh,0.1,Mohammad Naim,C Karunaratne,0,{},{}
+1st innings,Bangladesh,0.2,Mohammad Naim,C Karunaratne,0,{},{}
+1st innings,Bangladesh,0.3,Mohammad Naim,C Karunaratne,1,{},{}
+1st innings,Bangladesh,0.4,Liton Das,C Karunaratne,0,{},{}
+1st innings,Bangladesh,0.5,Liton Das,C Karunaratne,1,{},{}
+1st innings,Bangladesh,0.6,Mohammad Naim,C Karunaratne,0,{},{}
+1st innings,Bangladesh,1.1,Liton Das,B Fernando,0,{},{}
+1st innings,Bangladesh,1.2,Liton Das,B Fernando,0,{},{}
+1st innings,Bangladesh,1.3,Liton Das,B Fernando,0,{},{}
+1st innings,Bangladesh,1.4,Liton Das,B Fernando,4,{},{}
+1st innings,Bangladesh,1.5,Liton Das,B Fernando,1,{},{}
+1st innings,Bangladesh,1.6,Mohammad Naim,B Fernando,2,{},{}
+1st innings,Bangladesh,2.1,Liton Das,PVD Chameera,1,{},{}
+1st innings,Bangladesh,2.2,Mohammad Naim,PVD Chameera,1,{},{}
+1st innings,Bangladesh,2.3,Liton Das,PVD Chameera,1,{},{}
+1st innings,Bangladesh,2.4,Mohammad Naim,PVD Chameera,0,{},{}
+1st innings,Bangladesh,2.5,Mohammad Naim,PVD Chameera,1,{'noballs': 1},{}
+1st innings,Bangladesh,2.6,Mohammad Naim,PVD Chameera,3,{'noballs': 1},{}
+1st innings,Bangladesh,2.7,Mohammad Naim,PVD Chameera,4,{},{}
+1st innings,Bangladesh,2.8,Mohammad Naim,PVD Chameera,1,{},{}
+1st innings,Bangladesh,3.1,Mohammad Naim,CBRLS Kumara,3,{},{}
+1st innings,Bangladesh,3.2,Liton Das,CBRLS Kumara,0,{},{}
+1st innings,Bangladesh,3.3,Liton Das,CBRLS Kumara,1,{},{}
+1st innings,Bangladesh,3.4,Mohammad Naim,CBRLS Kumara,0,{},{}
+1st innings,Bangladesh,3.5,Mohammad Naim,CBRLS Kumara,4,{},{}
+1st innings,Bangladesh,3.6,Mohammad Naim,CBRLS Kumara,0,{},{}
+1st innings,Bangladesh,4.1,Liton Das,PVD Chameera,1,{},{}
+1st innings,Bangladesh,4.2,Mohammad Naim,PVD Chameera,2,{},{}
+1st innings,Bangladesh,4.3,Mohammad Naim,PVD Chameera,1,{},{}
+1st innings,Bangladesh,4.4,Liton Das,PVD Chameera,4,{},{}
+1st innings,Bangladesh,4.5,Liton Das,PVD Chameera,1,{},{}
+1st innings,Bangladesh,4.6,Mohammad Naim,PVD Chameera,0,{},{}
+1st innings,Bangladesh,5.1,Liton Das,CBRLS Kumara,1,{},{}
+1st innings,Bangladesh,5.2,Mohammad Naim,CBRLS Kumara,0,{},{}
+1st innings,Bangladesh,5.3,Mohammad Naim,CBRLS Kumara,0,{},{}
+1st innings,Bangladesh,5.4,Mohammad Naim,CBRLS Kumara,1,{},{}
+1st innings,Bangladesh,5.5,Liton Das,CBRLS Kumara,0,{},"{'player_out': 'Liton Das', 'fielders': ['MD Shanaka'], 'kind': 'caught'}"
+1st innings,Bangladesh,5.6,Shakib Al Hasan,CBRLS Kumara,1,{},{}
+1st innings,Bangladesh,6.1,Shakib Al Hasan,KIC Asalanka,4,{},{}
+1st innings,Bangladesh,6.2,Shakib Al Hasan,KIC Asalanka,1,{},{}
+1st innings,Bangladesh,6.3,Mohammad Naim,KIC Asalanka,4,{},{}
+1st innings,Bangladesh,6.4,Mohammad Naim,KIC Asalanka,1,{},{}
+1st innings,Bangladesh,6.5,Shakib Al Hasan,KIC Asalanka,0,{},{}
+1st innings,Bangladesh,6.6,Shakib Al Hasan,KIC Asalanka,4,{},{}
+1st innings,Bangladesh,7.1,Mohammad Naim,C Karunaratne,0,{},{}
+1st innings,Bangladesh,7.2,Mohammad Naim,C Karunaratne,1,{},{}
+1st innings,Bangladesh,7.3,Shakib Al Hasan,C Karunaratne,0,{},{}
+1st innings,Bangladesh,7.4,Shakib Al Hasan,C Karunaratne,0,{},"{'player_out': 'Shakib Al Hasan', 'kind': 'bowled'}"
+1st innings,Bangladesh,7.5,Mushfiqur Rahim,C Karunaratne,1,{},{}
+1st innings,Bangladesh,7.6,Mohammad Naim,C Karunaratne,1,{},{}
+1st innings,Bangladesh,8.1,Mohammad Naim,PWH de Silva,1,{},{}
+1st innings,Bangladesh,8.2,Mushfiqur Rahim,PWH de Silva,1,{},{}
+1st innings,Bangladesh,8.3,Mohammad Naim,PWH de Silva,2,{},{}
+1st innings,Bangladesh,8.4,Mohammad Naim,PWH de Silva,1,{},{}
+1st innings,Bangladesh,8.5,Mushfiqur Rahim,PWH de Silva,1,{},{}
+1st innings,Bangladesh,8.6,Mohammad Naim,PWH de Silva,1,{},{}
+1st innings,Bangladesh,9.1,Mohammad Naim,C Karunaratne,2,{},{}
+1st innings,Bangladesh,9.2,Mohammad Naim,C Karunaratne,2,{},{}
+1st innings,Bangladesh,9.3,Mohammad Naim,C Karunaratne,1,{},{}
+1st innings,Bangladesh,9.4,Mushfiqur Rahim,C Karunaratne,1,{},{}
+1st innings,Bangladesh,9.5,Mohammad Naim,C Karunaratne,1,{},{}
+1st innings,Bangladesh,9.6,Mushfiqur Rahim,C Karunaratne,0,{},{}
+1st innings,Bangladesh,10.1,Mohammad Naim,PWH de Silva,1,{},{}
+1st innings,Bangladesh,10.2,Mushfiqur Rahim,PWH de Silva,1,{},{}
+1st innings,Bangladesh,10.3,Mohammad Naim,PWH de Silva,1,{},{}
+1st innings,Bangladesh,10.4,Mushfiqur Rahim,PWH de Silva,6,{},{}
+1st innings,Bangladesh,10.5,Mushfiqur Rahim,PWH de Silva,1,{},{}
+1st innings,Bangladesh,10.6,Mohammad Naim,PWH de Silva,1,{},{}
+1st innings,Bangladesh,11.1,Mohammad Naim,MD Shanaka,1,{},{}
+1st innings,Bangladesh,11.2,Mushfiqur Rahim,MD Shanaka,0,{},{}
+1st innings,Bangladesh,11.3,Mushfiqur Rahim,MD Shanaka,1,{},{}
+1st innings,Bangladesh,11.4,Mohammad Naim,MD Shanaka,1,{},{}
+1st innings,Bangladesh,11.5,Mushfiqur Rahim,MD Shanaka,1,{},{}
+1st innings,Bangladesh,11.6,Mohammad Naim,MD Shanaka,0,{},{}
+1st innings,Bangladesh,12.1,Mushfiqur Rahim,B Fernando,6,{},{}
+1st innings,Bangladesh,12.2,Mushfiqur Rahim,B Fernando,0,{},{}
+1st innings,Bangladesh,12.3,Mushfiqur Rahim,B Fernando,1,{},{}
+1st innings,Bangladesh,12.4,Mohammad Naim,B Fernando,0,{},{}
+1st innings,Bangladesh,12.5,Mohammad Naim,B Fernando,1,{},{}
+1st innings,Bangladesh,12.6,Mushfiqur Rahim,B Fernando,1,{},{}
+1st innings,Bangladesh,13.1,Mushfiqur Rahim,CBRLS Kumara,1,{},{}
+1st innings,Bangladesh,13.2,Mohammad Naim,CBRLS Kumara,1,{},{}
+1st innings,Bangladesh,13.3,Mushfiqur Rahim,CBRLS Kumara,1,{},{}
+1st innings,Bangladesh,13.4,Mohammad Naim,CBRLS Kumara,4,{},{}
+1st innings,Bangladesh,13.5,Mohammad Naim,CBRLS Kumara,0,{},{}
+1st innings,Bangladesh,13.6,Mohammad Naim,CBRLS Kumara,4,{},{}
+1st innings,Bangladesh,14.1,Mushfiqur Rahim,PWH de Silva,4,{},{}
+1st innings,Bangladesh,14.2,Mushfiqur Rahim,PWH de Silva,4,{},{}
+1st innings,Bangladesh,14.3,Mushfiqur Rahim,PWH de Silva,1,{},{}
+1st innings,Bangladesh,14.4,Mohammad Naim,PWH de Silva,1,{},{}
+1st innings,Bangladesh,14.5,Mushfiqur Rahim,PWH de Silva,1,{},{}
+1st innings,Bangladesh,14.6,Mohammad Naim,PWH de Silva,0,{},{}
+1st innings,Bangladesh,15.1,Mushfiqur Rahim,MD Shanaka,1,{'byes': 1},{}
+1st innings,Bangladesh,15.2,Mohammad Naim,MD Shanaka,4,{},{}
+1st innings,Bangladesh,15.3,Mohammad Naim,MD Shanaka,1,{},{}
+1st innings,Bangladesh,15.4,Mushfiqur Rahim,MD Shanaka,2,{},{}
+1st innings,Bangladesh,15.5,Mushfiqur Rahim,MD Shanaka,1,{'wides': 1},{}
+1st innings,Bangladesh,15.6,Mushfiqur Rahim,MD Shanaka,1,{},{}
+1st innings,Bangladesh,15.7,Mohammad Naim,MD Shanaka,1,{},{}
+1st innings,Bangladesh,16.1,Mohammad Naim,B Fernando,0,{},"{'player_out': 'Mohammad Naim', 'kind': 'caught and bowled'}"
+1st innings,Bangladesh,16.2,Mushfiqur Rahim,B Fernando,1,{},{}
+1st innings,Bangladesh,16.3,Afif Hossain,B Fernando,1,{},{}
+1st innings,Bangladesh,16.4,Mushfiqur Rahim,B Fernando,4,{},{}
+1st innings,Bangladesh,16.5,Mushfiqur Rahim,B Fernando,1,{},{}
+1st innings,Bangladesh,16.6,Afif Hossain,B Fernando,4,{},{}
+1st innings,Bangladesh,17.1,Mushfiqur Rahim,PVD Chameera,1,{},{}
+1st innings,Bangladesh,17.2,Afif Hossain,PVD Chameera,1,{},{}
+1st innings,Bangladesh,17.3,Mushfiqur Rahim,PVD Chameera,4,{},{}
+1st innings,Bangladesh,17.4,Mushfiqur Rahim,PVD Chameera,1,{'legbyes': 1},{}
+1st innings,Bangladesh,17.5,Afif Hossain,PVD Chameera,1,{},{}
+1st innings,Bangladesh,17.6,Mushfiqur Rahim,PVD Chameera,1,{},{}
+1st innings,Bangladesh,18.1,Mushfiqur Rahim,CBRLS Kumara,1,{},{}
+1st innings,Bangladesh,18.2,Afif Hossain,CBRLS Kumara,0,{},{}
+1st innings,Bangladesh,18.3,Afif Hossain,CBRLS Kumara,0,{},"{'player_out': 'Afif Hossain', 'fielders': ['CBRLS Kumara'], 'kind': 'run out'}"
+1st innings,Bangladesh,18.4,Mahmudullah,CBRLS Kumara,1,{},{}
+1st innings,Bangladesh,18.5,Mushfiqur Rahim,CBRLS Kumara,2,"{'byes': 1, 'noballs': 1}",{}
+1st innings,Bangladesh,18.6,Mahmudullah,CBRLS Kumara,2,{'legbyes': 2},{}
+1st innings,Bangladesh,18.7,Mahmudullah,CBRLS Kumara,4,{},{}
+1st innings,Bangladesh,19.1,Mushfiqur Rahim,PVD Chameera,0,{},{}
+1st innings,Bangladesh,19.2,Mushfiqur Rahim,PVD Chameera,2,{},{}
+1st innings,Bangladesh,19.3,Mushfiqur Rahim,PVD Chameera,1,{},{}
+1st innings,Bangladesh,19.4,Mahmudullah,PVD Chameera,4,{},{}
+1st innings,Bangladesh,19.5,Mahmudullah,PVD Chameera,1,{},{}
+1st innings,Bangladesh,19.6,Mushfiqur Rahim,PVD Chameera,4,{},{}
+2nd innings,Sri Lanka,0.1,MDKJ Perera,Nasum Ahmed,0,{},{}
+2nd innings,Sri Lanka,0.2,MDKJ Perera,Nasum Ahmed,1,{},{}
+2nd innings,Sri Lanka,0.3,P Nissanka,Nasum Ahmed,1,{},{}
+2nd innings,Sri Lanka,0.4,MDKJ Perera,Nasum Ahmed,0,{},"{'player_out': 'MDKJ Perera', 'kind': 'bowled'}"
+2nd innings,Sri Lanka,0.5,KIC Asalanka,Nasum Ahmed,1,{},{}
+2nd innings,Sri Lanka,0.6,P Nissanka,Nasum Ahmed,1,{},{}
+2nd innings,Sri Lanka,1.1,P Nissanka,Mahedi Hasan,0,{},{}
+2nd innings,Sri Lanka,1.2,P Nissanka,Mahedi Hasan,1,{},{}
+2nd innings,Sri Lanka,1.3,KIC Asalanka,Mahedi Hasan,0,{},{}
+2nd innings,Sri Lanka,1.4,KIC Asalanka,Mahedi Hasan,4,{},{}
+2nd innings,Sri Lanka,1.5,KIC Asalanka,Mahedi Hasan,0,{},{}
+2nd innings,Sri Lanka,1.6,KIC Asalanka,Mahedi Hasan,1,{},{}
+2nd innings,Sri Lanka,2.1,KIC Asalanka,Nasum Ahmed,6,{},{}
+2nd innings,Sri Lanka,2.2,KIC Asalanka,Nasum Ahmed,0,{},{}
+2nd innings,Sri Lanka,2.3,KIC Asalanka,Nasum Ahmed,6,{},{}
+2nd innings,Sri Lanka,2.4,KIC Asalanka,Nasum Ahmed,2,{},{}
+2nd innings,Sri Lanka,2.5,KIC Asalanka,Nasum Ahmed,1,{},{}
+2nd innings,Sri Lanka,2.6,P Nissanka,Nasum Ahmed,1,{},{}
+2nd innings,Sri Lanka,3.1,P Nissanka,Mohammad Saifuddin,0,{},{}
+2nd innings,Sri Lanka,3.2,P Nissanka,Mohammad Saifuddin,0,{},{}
+2nd innings,Sri Lanka,3.3,P Nissanka,Mohammad Saifuddin,1,{'wides': 1},{}
+2nd innings,Sri Lanka,3.4,P Nissanka,Mohammad Saifuddin,1,{},{}
+2nd innings,Sri Lanka,3.5,KIC Asalanka,Mohammad Saifuddin,2,{},{}
+2nd innings,Sri Lanka,3.6,KIC Asalanka,Mohammad Saifuddin,4,{},{}
+2nd innings,Sri Lanka,3.7,KIC Asalanka,Mohammad Saifuddin,0,{},{}
+2nd innings,Sri Lanka,4.1,P Nissanka,Shakib Al Hasan,0,{},{}
+2nd innings,Sri Lanka,4.2,P Nissanka,Shakib Al Hasan,1,{},{}
+2nd innings,Sri Lanka,4.3,KIC Asalanka,Shakib Al Hasan,0,{},{}
+2nd innings,Sri Lanka,4.4,KIC Asalanka,Shakib Al Hasan,2,{},{}
+2nd innings,Sri Lanka,4.5,KIC Asalanka,Shakib Al Hasan,1,{},{}
+2nd innings,Sri Lanka,4.6,P Nissanka,Shakib Al Hasan,1,{},{}
+2nd innings,Sri Lanka,5.1,P Nissanka,Mahedi Hasan,4,{},{}
+2nd innings,Sri Lanka,5.2,P Nissanka,Mahedi Hasan,1,{},{}
+2nd innings,Sri Lanka,5.3,KIC Asalanka,Mahedi Hasan,1,{},{}
+2nd innings,Sri Lanka,5.4,P Nissanka,Mahedi Hasan,1,{'wides': 1},{}
+2nd innings,Sri Lanka,5.5,P Nissanka,Mahedi Hasan,6,{},{}
+2nd innings,Sri Lanka,5.6,P Nissanka,Mahedi Hasan,1,{},{}
+2nd innings,Sri Lanka,5.7,KIC Asalanka,Mahedi Hasan,1,{},{}
+2nd innings,Sri Lanka,6.1,KIC Asalanka,Mustafizur Rahman,4,{},{}
+2nd innings,Sri Lanka,6.2,KIC Asalanka,Mustafizur Rahman,1,{},{}
+2nd innings,Sri Lanka,6.3,P Nissanka,Mustafizur Rahman,1,{},{}
+2nd innings,Sri Lanka,6.4,KIC Asalanka,Mustafizur Rahman,4,{},{}
+2nd innings,Sri Lanka,6.5,KIC Asalanka,Mustafizur Rahman,1,{},{}
+2nd innings,Sri Lanka,6.6,P Nissanka,Mustafizur Rahman,2,{},{}
+2nd innings,Sri Lanka,7.1,KIC Asalanka,Mahedi Hasan,1,{},{}
+2nd innings,Sri Lanka,7.2,P Nissanka,Mahedi Hasan,1,{},{}
+2nd innings,Sri Lanka,7.3,KIC Asalanka,Mahedi Hasan,1,{},{}
+2nd innings,Sri Lanka,7.4,P Nissanka,Mahedi Hasan,0,{},{}
+2nd innings,Sri Lanka,7.5,P Nissanka,Mahedi Hasan,1,{},{}
+2nd innings,Sri Lanka,7.6,KIC Asalanka,Mahedi Hasan,0,{},{}
+2nd innings,Sri Lanka,8.1,P Nissanka,Shakib Al Hasan,0,{},"{'player_out': 'P Nissanka', 'kind': 'bowled'}"
+2nd innings,Sri Lanka,8.2,WIA Fernando,Shakib Al Hasan,0,{},{}
+2nd innings,Sri Lanka,8.3,WIA Fernando,Shakib Al Hasan,0,{},{}
+2nd innings,Sri Lanka,8.4,WIA Fernando,Shakib Al Hasan,0,{},"{'player_out': 'WIA Fernando', 'kind': 'bowled'}"
+2nd innings,Sri Lanka,8.5,PWH de Silva,Shakib Al Hasan,0,{},{}
+2nd innings,Sri Lanka,8.6,PWH de Silva,Shakib Al Hasan,1,{},{}
+2nd innings,Sri Lanka,9.1,PWH de Silva,Mohammad Saifuddin,1,{},{}
+2nd innings,Sri Lanka,9.2,KIC Asalanka,Mohammad Saifuddin,1,{'wides': 1},{}
+2nd innings,Sri Lanka,9.3,KIC Asalanka,Mohammad Saifuddin,1,{},{}
+2nd innings,Sri Lanka,9.4,PWH de Silva,Mohammad Saifuddin,4,{},{}
+2nd innings,Sri Lanka,9.5,PWH de Silva,Mohammad Saifuddin,0,{},"{'player_out': 'PWH de Silva', 'fielders': ['Mohammad Naim'], 'kind': 'caught'}"
+2nd innings,Sri Lanka,9.6,KIC Asalanka,Mohammad Saifuddin,1,{},{}
+2nd innings,Sri Lanka,9.7,PBB Rajapaksa,Mohammad Saifuddin,0,{},{}
+2nd innings,Sri Lanka,10.1,KIC Asalanka,Mahedi Hasan,0,{},{}
+2nd innings,Sri Lanka,10.2,KIC Asalanka,Mahedi Hasan,1,{'wides': 1},{}
+2nd innings,Sri Lanka,10.3,KIC Asalanka,Mahedi Hasan,1,{},{}
+2nd innings,Sri Lanka,10.4,PBB Rajapaksa,Mahedi Hasan,2,{},{}
+2nd innings,Sri Lanka,10.5,PBB Rajapaksa,Mahedi Hasan,0,{},{}
+2nd innings,Sri Lanka,10.6,PBB Rajapaksa,Mahedi Hasan,0,{},{}
+2nd innings,Sri Lanka,10.7,PBB Rajapaksa,Mahedi Hasan,1,{},{}
+2nd innings,Sri Lanka,11.1,PBB Rajapaksa,Mahmudullah,1,{},{}
+2nd innings,Sri Lanka,11.2,KIC Asalanka,Mahmudullah,1,{},{}
+2nd innings,Sri Lanka,11.3,PBB Rajapaksa,Mahmudullah,1,{},{}
+2nd innings,Sri Lanka,11.4,KIC Asalanka,Mahmudullah,1,{},{}
+2nd innings,Sri Lanka,11.5,PBB Rajapaksa,Mahmudullah,0,{},{}
+2nd innings,Sri Lanka,11.6,PBB Rajapaksa,Mahmudullah,1,{},{}
+2nd innings,Sri Lanka,12.1,PBB Rajapaksa,Afif Hossain,6,{},{}
+2nd innings,Sri Lanka,12.2,PBB Rajapaksa,Afif Hossain,2,{},{}
+2nd innings,Sri Lanka,12.3,PBB Rajapaksa,Afif Hossain,4,{},{}
+2nd innings,Sri Lanka,12.4,PBB Rajapaksa,Afif Hossain,1,{},{}
+2nd innings,Sri Lanka,12.5,KIC Asalanka,Afif Hossain,1,{},{}
+2nd innings,Sri Lanka,12.6,PBB Rajapaksa,Afif Hossain,1,{},{}
+2nd innings,Sri Lanka,13.1,PBB Rajapaksa,Mahmudullah,1,{},{}
+2nd innings,Sri Lanka,13.2,KIC Asalanka,Mahmudullah,6,{},{}
+2nd innings,Sri Lanka,13.3,KIC Asalanka,Mahmudullah,0,{},{}
+2nd innings,Sri Lanka,13.4,KIC Asalanka,Mahmudullah,1,{'wides': 1},{}
+2nd innings,Sri Lanka,13.5,KIC Asalanka,Mahmudullah,6,{},{}
+2nd innings,Sri Lanka,13.6,KIC Asalanka,Mahmudullah,1,{},{}
+2nd innings,Sri Lanka,13.7,PBB Rajapaksa,Mahmudullah,1,{},{}
+2nd innings,Sri Lanka,14.1,PBB Rajapaksa,Mustafizur Rahman,1,{},{}
+2nd innings,Sri Lanka,14.2,KIC Asalanka,Mustafizur Rahman,0,{},{}
+2nd innings,Sri Lanka,14.3,KIC Asalanka,Mustafizur Rahman,1,{'wides': 1},{}
+2nd innings,Sri Lanka,14.4,KIC Asalanka,Mustafizur Rahman,1,{},{}
+2nd innings,Sri Lanka,14.5,PBB Rajapaksa,Mustafizur Rahman,0,{},{}
+2nd innings,Sri Lanka,14.6,PBB Rajapaksa,Mustafizur Rahman,1,{'wides': 1},{}
+2nd innings,Sri Lanka,14.7,PBB Rajapaksa,Mustafizur Rahman,1,{},{}
+2nd innings,Sri Lanka,14.8,KIC Asalanka,Mustafizur Rahman,0,{},{}
+2nd innings,Sri Lanka,15.1,PBB Rajapaksa,Mohammad Saifuddin,6,{},{}
+2nd innings,Sri Lanka,15.2,PBB Rajapaksa,Mohammad Saifuddin,6,{},{}
+2nd innings,Sri Lanka,15.3,PBB Rajapaksa,Mohammad Saifuddin,4,{},{}
+2nd innings,Sri Lanka,15.4,PBB Rajapaksa,Mohammad Saifuddin,1,{},{}
+2nd innings,Sri Lanka,15.5,KIC Asalanka,Mohammad Saifuddin,1,{},{}
+2nd innings,Sri Lanka,15.6,PBB Rajapaksa,Mohammad Saifuddin,4,{},{}
+2nd innings,Sri Lanka,16.1,KIC Asalanka,Shakib Al Hasan,1,{},{}
+2nd innings,Sri Lanka,16.2,PBB Rajapaksa,Shakib Al Hasan,2,{},{}
+2nd innings,Sri Lanka,16.3,PBB Rajapaksa,Shakib Al Hasan,1,{},{}
+2nd innings,Sri Lanka,16.4,KIC Asalanka,Shakib Al Hasan,0,{},{}
+2nd innings,Sri Lanka,16.5,KIC Asalanka,Shakib Al Hasan,6,{},{}
+2nd innings,Sri Lanka,16.6,KIC Asalanka,Shakib Al Hasan,1,{},{}
+2nd innings,Sri Lanka,17.1,KIC Asalanka,Mustafizur Rahman,0,{},{}
+2nd innings,Sri Lanka,17.2,KIC Asalanka,Mustafizur Rahman,1,{},{}
+2nd innings,Sri Lanka,17.3,PBB Rajapaksa,Mustafizur Rahman,0,{},{}
+2nd innings,Sri Lanka,17.4,PBB Rajapaksa,Mustafizur Rahman,2,{},{}
+2nd innings,Sri Lanka,17.5,PBB Rajapaksa,Mustafizur Rahman,1,{},{}
+2nd innings,Sri Lanka,17.6,KIC Asalanka,Mustafizur Rahman,0,{},{}
+2nd innings,Sri Lanka,18.1,PBB Rajapaksa,Nasum Ahmed,2,{},{}
+2nd innings,Sri Lanka,18.2,PBB Rajapaksa,Nasum Ahmed,0,{},"{'player_out': 'PBB Rajapaksa', 'kind': 'bowled'}"
+2nd innings,Sri Lanka,18.3,MD Shanaka,Nasum Ahmed,1,{},{}
+2nd innings,Sri Lanka,18.4,KIC Asalanka,Nasum Ahmed,2,{},{}
+2nd innings,Sri Lanka,18.5,KIC Asalanka,Nasum Ahmed,4,{},{}

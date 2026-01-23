@@ -1,0 +1,249 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,South Africa,0.1,HM Amla,S Badree,1,{},{}
+1st innings,South Africa,0.2,Q de Kock,S Badree,0,{},{}
+1st innings,South Africa,0.3,Q de Kock,S Badree,0,{},"{'fielders': ['AD Russell', 'D Ramdin'], 'kind': 'run out', 'player_out': 'HM Amla'}"
+1st innings,South Africa,0.4,F du Plessis,S Badree,1,{},{}
+1st innings,South Africa,0.5,Q de Kock,S Badree,2,{},{}
+1st innings,South Africa,0.6,Q de Kock,S Badree,0,{},{}
+1st innings,South Africa,1.1,F du Plessis,AD Russell,0,{},{}
+1st innings,South Africa,1.2,F du Plessis,AD Russell,0,{},{}
+1st innings,South Africa,1.3,F du Plessis,AD Russell,0,{},{}
+1st innings,South Africa,1.4,F du Plessis,AD Russell,6,{},{}
+1st innings,South Africa,1.5,F du Plessis,AD Russell,2,{},{}
+1st innings,South Africa,1.6,F du Plessis,AD Russell,1,{'wides': 1},{}
+1st innings,South Africa,1.7,F du Plessis,AD Russell,0,{},"{'fielders': ['SJ Benn'], 'kind': 'caught', 'player_out': 'F du Plessis'}"
+1st innings,South Africa,2.1,Q de Kock,CH Gayle,2,{},{}
+1st innings,South Africa,2.2,Q de Kock,CH Gayle,0,{},{}
+1st innings,South Africa,2.3,Q de Kock,CH Gayle,4,{},{}
+1st innings,South Africa,2.4,Q de Kock,CH Gayle,1,{},{}
+1st innings,South Africa,2.5,RR Rossouw,CH Gayle,0,{},{}
+1st innings,South Africa,2.6,RR Rossouw,CH Gayle,0,{},"{'fielders': ['AD Russell'], 'kind': 'caught', 'player_out': 'RR Rossouw'}"
+1st innings,South Africa,3.1,Q de Kock,AD Russell,0,{},{}
+1st innings,South Africa,3.2,Q de Kock,AD Russell,0,{},{}
+1st innings,South Africa,3.3,Q de Kock,AD Russell,2,{},{}
+1st innings,South Africa,3.4,Q de Kock,AD Russell,1,{},{}
+1st innings,South Africa,3.5,AB de Villiers,AD Russell,1,{'wides': 1},{}
+1st innings,South Africa,3.6,AB de Villiers,AD Russell,4,{},{}
+1st innings,South Africa,3.7,AB de Villiers,AD Russell,0,{},{}
+1st innings,South Africa,4.1,Q de Kock,S Badree,0,{},{}
+1st innings,South Africa,4.2,Q de Kock,S Badree,0,{},{}
+1st innings,South Africa,4.3,Q de Kock,S Badree,0,{},{}
+1st innings,South Africa,4.4,Q de Kock,S Badree,6,{},{}
+1st innings,South Africa,4.5,Q de Kock,S Badree,0,{},{}
+1st innings,South Africa,4.6,Q de Kock,S Badree,2,{},{}
+1st innings,South Africa,5.1,AB de Villiers,CR Brathwaite,0,{},{}
+1st innings,South Africa,5.2,AB de Villiers,CR Brathwaite,0,{},{}
+1st innings,South Africa,5.3,AB de Villiers,CR Brathwaite,0,{},{}
+1st innings,South Africa,5.4,AB de Villiers,CR Brathwaite,1,{},{}
+1st innings,South Africa,5.5,Q de Kock,CR Brathwaite,1,{},{}
+1st innings,South Africa,5.6,AB de Villiers,CR Brathwaite,1,{},{}
+1st innings,South Africa,6.1,AB de Villiers,SJ Benn,0,{},{}
+1st innings,South Africa,6.2,AB de Villiers,SJ Benn,2,{},{}
+1st innings,South Africa,6.3,AB de Villiers,SJ Benn,1,{},{}
+1st innings,South Africa,6.4,Q de Kock,SJ Benn,0,{},{}
+1st innings,South Africa,6.5,Q de Kock,SJ Benn,0,{},{}
+1st innings,South Africa,6.6,Q de Kock,SJ Benn,2,{},{}
+1st innings,South Africa,7.1,AB de Villiers,DJ Bravo,1,{},{}
+1st innings,South Africa,7.2,Q de Kock,DJ Bravo,0,{},{}
+1st innings,South Africa,7.3,Q de Kock,DJ Bravo,1,{},{}
+1st innings,South Africa,7.4,AB de Villiers,DJ Bravo,0,{},"{'kind': 'bowled', 'player_out': 'AB de Villiers'}"
+1st innings,South Africa,7.5,DA Miller,DJ Bravo,0,{},{}
+1st innings,South Africa,7.6,DA Miller,DJ Bravo,1,{},{}
+1st innings,South Africa,8.1,DA Miller,CH Gayle,0,{},{}
+1st innings,South Africa,8.2,DA Miller,CH Gayle,0,{},"{'kind': 'bowled', 'player_out': 'DA Miller'}"
+1st innings,South Africa,8.3,D Wiese,CH Gayle,1,{},{}
+1st innings,South Africa,8.4,Q de Kock,CH Gayle,1,{},{}
+1st innings,South Africa,8.5,D Wiese,CH Gayle,0,{},{}
+1st innings,South Africa,8.6,D Wiese,CH Gayle,1,{},{}
+1st innings,South Africa,9.1,D Wiese,DJ Bravo,0,{},{}
+1st innings,South Africa,9.2,D Wiese,DJ Bravo,1,{},{}
+1st innings,South Africa,9.3,Q de Kock,DJ Bravo,0,{},{}
+1st innings,South Africa,9.4,Q de Kock,DJ Bravo,0,{},{}
+1st innings,South Africa,9.5,Q de Kock,DJ Bravo,2,{},{}
+1st innings,South Africa,9.6,Q de Kock,DJ Bravo,4,{},{}
+1st innings,South Africa,10.1,D Wiese,SJ Benn,0,{},{}
+1st innings,South Africa,10.2,D Wiese,SJ Benn,1,{},{}
+1st innings,South Africa,10.3,Q de Kock,SJ Benn,1,{},{}
+1st innings,South Africa,10.4,D Wiese,SJ Benn,4,{'byes': 4},{}
+1st innings,South Africa,10.5,D Wiese,SJ Benn,2,{},{}
+1st innings,South Africa,10.6,D Wiese,SJ Benn,1,{},{}
+1st innings,South Africa,11.1,D Wiese,CR Brathwaite,2,{},{}
+1st innings,South Africa,11.2,D Wiese,CR Brathwaite,2,{},{}
+1st innings,South Africa,11.3,D Wiese,CR Brathwaite,1,{},{}
+1st innings,South Africa,11.4,Q de Kock,CR Brathwaite,1,{},{}
+1st innings,South Africa,11.5,D Wiese,CR Brathwaite,1,{},{}
+1st innings,South Africa,11.6,Q de Kock,CR Brathwaite,1,{},{}
+1st innings,South Africa,12.1,Q de Kock,SJ Benn,0,{},{}
+1st innings,South Africa,12.2,Q de Kock,SJ Benn,1,{},{}
+1st innings,South Africa,12.3,D Wiese,SJ Benn,1,{},{}
+1st innings,South Africa,12.4,Q de Kock,SJ Benn,1,{},{}
+1st innings,South Africa,12.5,D Wiese,SJ Benn,1,{},{}
+1st innings,South Africa,12.6,Q de Kock,SJ Benn,0,{},{}
+1st innings,South Africa,13.1,D Wiese,CH Gayle,4,{},{}
+1st innings,South Africa,13.2,D Wiese,CH Gayle,0,{},{}
+1st innings,South Africa,13.3,D Wiese,CH Gayle,1,{},{}
+1st innings,South Africa,13.4,Q de Kock,CH Gayle,0,{},{}
+1st innings,South Africa,13.5,Q de Kock,CH Gayle,2,{},{}
+1st innings,South Africa,13.6,Q de Kock,CH Gayle,0,{},{}
+1st innings,South Africa,14.1,D Wiese,SJ Benn,1,{},{}
+1st innings,South Africa,14.2,Q de Kock,SJ Benn,2,{},{}
+1st innings,South Africa,14.3,Q de Kock,SJ Benn,0,{},{}
+1st innings,South Africa,14.4,Q de Kock,SJ Benn,1,{},{}
+1st innings,South Africa,14.5,D Wiese,SJ Benn,1,{},{}
+1st innings,South Africa,14.6,Q de Kock,SJ Benn,1,{},{}
+1st innings,South Africa,15.1,Q de Kock,AD Russell,4,{},{}
+1st innings,South Africa,15.2,Q de Kock,AD Russell,1,{},{}
+1st innings,South Africa,15.3,D Wiese,AD Russell,1,{},{}
+1st innings,South Africa,15.4,Q de Kock,AD Russell,0,{},"{'kind': 'bowled', 'player_out': 'Q de Kock'}"
+1st innings,South Africa,15.5,CH Morris,AD Russell,1,{},{}
+1st innings,South Africa,15.6,D Wiese,AD Russell,0,{},{}
+1st innings,South Africa,16.1,CH Morris,S Badree,0,{},{}
+1st innings,South Africa,16.2,CH Morris,S Badree,4,{},{}
+1st innings,South Africa,16.3,CH Morris,S Badree,4,{},{}
+1st innings,South Africa,16.4,CH Morris,S Badree,0,{},{}
+1st innings,South Africa,16.5,CH Morris,S Badree,1,{},{}
+1st innings,South Africa,16.6,D Wiese,S Badree,1,{},{}
+1st innings,South Africa,17.1,D Wiese,DJ Bravo,4,{},{}
+1st innings,South Africa,17.2,D Wiese,DJ Bravo,0,{},"{'fielders': ['DJG Sammy'], 'kind': 'caught', 'player_out': 'D Wiese'}"
+1st innings,South Africa,17.3,CH Morris,DJ Bravo,0,{},{}
+1st innings,South Africa,17.4,CH Morris,DJ Bravo,0,{},{}
+1st innings,South Africa,17.5,CH Morris,DJ Bravo,1,{},{}
+1st innings,South Africa,17.6,AM Phangiso,DJ Bravo,1,{},{}
+1st innings,South Africa,18.1,AM Phangiso,AD Russell,1,{},{}
+1st innings,South Africa,18.2,CH Morris,AD Russell,1,{},{}
+1st innings,South Africa,18.3,AM Phangiso,AD Russell,0,{},{}
+1st innings,South Africa,18.4,AM Phangiso,AD Russell,1,{},{}
+1st innings,South Africa,18.5,CH Morris,AD Russell,0,{},{}
+1st innings,South Africa,18.6,CH Morris,AD Russell,1,{},{}
+1st innings,South Africa,19.1,CH Morris,DJ Bravo,2,{},{}
+1st innings,South Africa,19.2,CH Morris,DJ Bravo,0,{},{}
+1st innings,South Africa,19.3,CH Morris,DJ Bravo,1,{},{}
+1st innings,South Africa,19.4,AM Phangiso,DJ Bravo,1,{},{}
+1st innings,South Africa,19.5,CH Morris,DJ Bravo,0,{},{}
+1st innings,South Africa,19.6,CH Morris,DJ Bravo,0,{},"{'fielders': ['D Ramdin'], 'kind': 'run out', 'player_out': 'AM Phangiso'}"
+2nd innings,West Indies,0.1,J Charles,K Rabada,0,{},{}
+2nd innings,West Indies,0.2,J Charles,K Rabada,0,{},{}
+2nd innings,West Indies,0.3,J Charles,K Rabada,1,{'legbyes': 1},{}
+2nd innings,West Indies,0.4,CH Gayle,K Rabada,4,{},{}
+2nd innings,West Indies,0.5,CH Gayle,K Rabada,0,{},"{'kind': 'bowled', 'player_out': 'CH Gayle'}"
+2nd innings,West Indies,0.6,ADS Fletcher,K Rabada,0,{},{}
+2nd innings,West Indies,1.1,J Charles,CH Morris,0,{},{}
+2nd innings,West Indies,1.2,J Charles,CH Morris,1,{},{}
+2nd innings,West Indies,1.3,ADS Fletcher,CH Morris,0,{},{}
+2nd innings,West Indies,1.4,ADS Fletcher,CH Morris,0,{},{}
+2nd innings,West Indies,1.5,ADS Fletcher,CH Morris,1,{'wides': 1},{}
+2nd innings,West Indies,1.6,ADS Fletcher,CH Morris,1,{},{}
+2nd innings,West Indies,1.7,J Charles,CH Morris,0,{},{}
+2nd innings,West Indies,2.1,ADS Fletcher,K Rabada,2,{},{}
+2nd innings,West Indies,2.2,ADS Fletcher,K Rabada,1,{},{}
+2nd innings,West Indies,2.3,J Charles,K Rabada,0,{},{}
+2nd innings,West Indies,2.4,J Charles,K Rabada,1,{'wides': 1},{}
+2nd innings,West Indies,2.5,J Charles,K Rabada,1,{},{}
+2nd innings,West Indies,2.6,ADS Fletcher,K Rabada,0,{},{}
+2nd innings,West Indies,2.7,ADS Fletcher,K Rabada,6,{},{}
+2nd innings,West Indies,3.1,J Charles,CH Morris,0,{},{}
+2nd innings,West Indies,3.2,J Charles,CH Morris,4,{},{}
+2nd innings,West Indies,3.3,J Charles,CH Morris,0,{},{}
+2nd innings,West Indies,3.4,J Charles,CH Morris,2,{},{}
+2nd innings,West Indies,3.5,J Charles,CH Morris,0,{},{}
+2nd innings,West Indies,3.6,J Charles,CH Morris,1,{'wides': 1},{}
+2nd innings,West Indies,3.7,J Charles,CH Morris,4,{},{}
+2nd innings,West Indies,4.1,ADS Fletcher,Imran Tahir,1,{},{}
+2nd innings,West Indies,4.2,J Charles,Imran Tahir,0,{},{}
+2nd innings,West Indies,4.3,J Charles,Imran Tahir,0,{},{}
+2nd innings,West Indies,4.4,J Charles,Imran Tahir,1,{},{}
+2nd innings,West Indies,4.5,ADS Fletcher,Imran Tahir,0,{},{}
+2nd innings,West Indies,4.6,ADS Fletcher,Imran Tahir,0,{},{}
+2nd innings,West Indies,5.1,J Charles,D Wiese,2,{},{}
+2nd innings,West Indies,5.2,J Charles,D Wiese,0,{},{}
+2nd innings,West Indies,5.3,J Charles,D Wiese,0,{},"{'fielders': ['RR Rossouw'], 'kind': 'run out', 'player_out': 'ADS Fletcher'}"
+2nd innings,West Indies,5.4,J Charles,D Wiese,1,{'wides': 1},{}
+2nd innings,West Indies,5.5,J Charles,D Wiese,1,{},{}
+2nd innings,West Indies,5.6,MN Samuels,D Wiese,0,{},{}
+2nd innings,West Indies,5.7,MN Samuels,D Wiese,1,{},{}
+2nd innings,West Indies,6.1,MN Samuels,AM Phangiso,0,{},{}
+2nd innings,West Indies,6.2,MN Samuels,AM Phangiso,0,{},{}
+2nd innings,West Indies,6.3,MN Samuels,AM Phangiso,0,{},{}
+2nd innings,West Indies,6.4,MN Samuels,AM Phangiso,0,{},{}
+2nd innings,West Indies,6.5,MN Samuels,AM Phangiso,1,{},{}
+2nd innings,West Indies,6.6,J Charles,AM Phangiso,0,{},{}
+2nd innings,West Indies,7.1,MN Samuels,D Wiese,0,{},{}
+2nd innings,West Indies,7.2,MN Samuels,D Wiese,1,{},{}
+2nd innings,West Indies,7.3,J Charles,D Wiese,1,{},{}
+2nd innings,West Indies,7.4,MN Samuels,D Wiese,0,{},{}
+2nd innings,West Indies,7.5,MN Samuels,D Wiese,1,{'wides': 1},{}
+2nd innings,West Indies,7.6,MN Samuels,D Wiese,0,{},{}
+2nd innings,West Indies,7.7,MN Samuels,D Wiese,4,{},{}
+2nd innings,West Indies,8.1,J Charles,AM Phangiso,1,{},{}
+2nd innings,West Indies,8.2,MN Samuels,AM Phangiso,1,{},{}
+2nd innings,West Indies,8.3,J Charles,AM Phangiso,1,{},{}
+2nd innings,West Indies,8.4,MN Samuels,AM Phangiso,1,{},{}
+2nd innings,West Indies,8.5,J Charles,AM Phangiso,1,{},{}
+2nd innings,West Indies,8.6,MN Samuels,AM Phangiso,1,{},{}
+2nd innings,West Indies,9.1,MN Samuels,Imran Tahir,0,{},{}
+2nd innings,West Indies,9.2,MN Samuels,Imran Tahir,1,{},{}
+2nd innings,West Indies,9.3,J Charles,Imran Tahir,2,{},{}
+2nd innings,West Indies,9.4,J Charles,Imran Tahir,1,{},{}
+2nd innings,West Indies,9.5,MN Samuels,Imran Tahir,1,{},{}
+2nd innings,West Indies,9.6,J Charles,Imran Tahir,1,{},{}
+2nd innings,West Indies,10.1,J Charles,AM Phangiso,1,{},{}
+2nd innings,West Indies,10.2,MN Samuels,AM Phangiso,1,{},{}
+2nd innings,West Indies,10.3,J Charles,AM Phangiso,0,{},{}
+2nd innings,West Indies,10.4,J Charles,AM Phangiso,6,{},{}
+2nd innings,West Indies,10.5,J Charles,AM Phangiso,0,{},{}
+2nd innings,West Indies,10.6,J Charles,AM Phangiso,1,{},{}
+2nd innings,West Indies,11.1,J Charles,D Wiese,0,{},"{'fielders': ['F du Plessis'], 'kind': 'caught', 'player_out': 'J Charles'}"
+2nd innings,West Indies,11.2,MN Samuels,D Wiese,1,{},{}
+2nd innings,West Indies,11.3,DJ Bravo,D Wiese,1,{},{}
+2nd innings,West Indies,11.4,MN Samuels,D Wiese,1,{},{}
+2nd innings,West Indies,11.5,DJ Bravo,D Wiese,1,{},{}
+2nd innings,West Indies,11.6,MN Samuels,D Wiese,0,{},{}
+2nd innings,West Indies,12.1,DJ Bravo,K Rabada,4,{},{}
+2nd innings,West Indies,12.2,DJ Bravo,K Rabada,1,{'wides': 1},{}
+2nd innings,West Indies,12.3,DJ Bravo,K Rabada,1,{},{}
+2nd innings,West Indies,12.4,MN Samuels,K Rabada,4,{},{}
+2nd innings,West Indies,12.5,MN Samuels,K Rabada,4,{},{}
+2nd innings,West Indies,12.6,MN Samuels,K Rabada,0,{},{}
+2nd innings,West Indies,12.7,MN Samuels,K Rabada,0,{},{}
+2nd innings,West Indies,13.1,DJ Bravo,AM Phangiso,1,{'wides': 1},{}
+2nd innings,West Indies,13.2,DJ Bravo,AM Phangiso,1,{},{}
+2nd innings,West Indies,13.3,MN Samuels,AM Phangiso,0,{},{}
+2nd innings,West Indies,13.4,MN Samuels,AM Phangiso,0,{},{}
+2nd innings,West Indies,13.5,MN Samuels,AM Phangiso,0,{},{}
+2nd innings,West Indies,13.6,MN Samuels,AM Phangiso,1,{},{}
+2nd innings,West Indies,13.7,DJ Bravo,AM Phangiso,0,{},"{'fielders': ['D Wiese'], 'kind': 'caught', 'player_out': 'DJ Bravo'}"
+2nd innings,West Indies,14.1,MN Samuels,Imran Tahir,0,{},{}
+2nd innings,West Indies,14.2,MN Samuels,Imran Tahir,1,{},{}
+2nd innings,West Indies,14.3,AD Russell,Imran Tahir,0,{},{}
+2nd innings,West Indies,14.4,AD Russell,Imran Tahir,1,{},{}
+2nd innings,West Indies,14.5,MN Samuels,Imran Tahir,1,{},{}
+2nd innings,West Indies,14.6,AD Russell,Imran Tahir,1,{},{}
+2nd innings,West Indies,15.1,AD Russell,CH Morris,0,{},{}
+2nd innings,West Indies,15.2,AD Russell,CH Morris,1,{},{}
+2nd innings,West Indies,15.3,MN Samuels,CH Morris,4,{},{}
+2nd innings,West Indies,15.4,MN Samuels,CH Morris,1,{'legbyes': 1},{}
+2nd innings,West Indies,15.5,AD Russell,CH Morris,1,{},{}
+2nd innings,West Indies,15.6,MN Samuels,CH Morris,1,{},{}
+2nd innings,West Indies,16.1,MN Samuels,Imran Tahir,0,{},{}
+2nd innings,West Indies,16.2,MN Samuels,Imran Tahir,1,{},{}
+2nd innings,West Indies,16.3,AD Russell,Imran Tahir,0,{},{}
+2nd innings,West Indies,16.4,AD Russell,Imran Tahir,0,{},"{'fielders': ['DA Miller'], 'kind': 'caught', 'player_out': 'AD Russell'}"
+2nd innings,West Indies,16.5,DJG Sammy,Imran Tahir,0,{},"{'kind': 'bowled', 'player_out': 'DJG Sammy'}"
+2nd innings,West Indies,16.6,CR Brathwaite,Imran Tahir,0,{},{}
+2nd innings,West Indies,17.1,MN Samuels,D Wiese,1,{},{}
+2nd innings,West Indies,17.2,CR Brathwaite,D Wiese,1,{},{}
+2nd innings,West Indies,17.3,MN Samuels,D Wiese,1,{},{}
+2nd innings,West Indies,17.4,CR Brathwaite,D Wiese,0,{},{}
+2nd innings,West Indies,17.5,CR Brathwaite,D Wiese,0,{},{}
+2nd innings,West Indies,17.6,CR Brathwaite,D Wiese,0,{},{}
+2nd innings,West Indies,18.1,MN Samuels,CH Morris,4,{},{}
+2nd innings,West Indies,18.2,MN Samuels,CH Morris,1,{},{}
+2nd innings,West Indies,18.3,CR Brathwaite,CH Morris,1,{},{}
+2nd innings,West Indies,18.4,MN Samuels,CH Morris,4,{},{}
+2nd innings,West Indies,18.5,MN Samuels,CH Morris,0,{},"{'fielders': ['AB de Villiers'], 'kind': 'caught', 'player_out': 'MN Samuels'}"
+2nd innings,West Indies,18.6,CR Brathwaite,CH Morris,1,{},{}
+2nd innings,West Indies,19.1,CR Brathwaite,K Rabada,0,{},{}
+2nd innings,West Indies,19.2,CR Brathwaite,K Rabada,6,{},{}
+2nd innings,West Indies,19.3,CR Brathwaite,K Rabada,1,{'wides': 1},{}
+2nd innings,West Indies,19.4,CR Brathwaite,K Rabada,1,{},{}
+2nd innings,West Indies,19.5,D Ramdin,K Rabada,1,{},{}

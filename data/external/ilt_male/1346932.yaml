@@ -1,0 +1,362 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-27'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Sharjah
+  competition: International League T20
+  dates:
+  - '2023-01-26'
+  gender: male
+  match_type: T20
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Dubai Capitals:
+    - Hazratullah
+    - DW Lawrence
+    - PBB Rajapaksa
+    - MD Shanaka
+    - R Powell
+    - Sikandar Raza
+    - YK Pathan
+    - FJ Klaassen
+    - Hazrat Luqman
+    - JT Ball
+    - Akif Raja
+    Sharjah Warriors:
+    - Rahmanullah Gurbaz
+    - T Kohler-Cadmore
+    - E Lewis
+    - JL Denly
+    - AJ Hose
+    - Mohammad Nabi
+    - PI Walter
+    - Naveen-ul-Haq
+    - Noor Ahmad
+    - Muhammad Jawadullah
+    - Junaid Siddique
+  registry:
+    people:
+      AG Wharf: 2e0fcc58
+      AJ Hose: 104e88a4
+      Akif Raja: 9d0344f3
+      DW Lawrence: 4b685e2d
+      E Lewis: 0ebfb1ad
+      FJ Klaassen: c042b412
+      Hazrat Luqman: fdc1ac0f
+      Hazratullah: 5ea51c25
+      JL Denly: bdadf7da
+      JT Ball: 3d0ed2f9
+      Junaid Siddique: 84dc72db
+      LS Reifer: 5dee559a
+      MD Shanaka: 3ff033bb
+      Mohammad Nabi: 62af8546
+      Muhammad Jawadullah: '098a757c'
+      Naveen-ul-Haq: c0c411cb
+      Noor Ahmad: efc04be7
+      PBB Rajapaksa: 6c882e9a
+      PI Walter: 57590dbb
+      R Powell: 650d5e49
+      RJ Tucker: 38810cfc
+      Rahmanullah Gurbaz: 0bacade8
+      SJA Taufel: 4b43d5ac
+      Shiju Sam: 1e2f3eae
+      Sikandar Raza: 26d041c4
+      T Kohler-Cadmore: f836b33d
+      YK Pathan: 3c6ffae8
+  teams:
+  - Dubai Capitals
+  - Sharjah Warriors
+  toss:
+    winner: Sharjah Warriors
+    decision: field
+  umpires:
+  - AG Wharf
+  - RJ Tucker
+  venue: Sharjah Cricket Stadium
+innings:
+- 1st innings:
+    team: Dubai Capitals
+    deliveries:
+    - 0.1:
+        non_striker: DW Lawrence
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+    - 0.2:
+        non_striker: DW Lawrence
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+    - 0.3:
+        non_striker: DW Lawrence
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+    - 0.4:
+        non_striker: DW Lawrence
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+    - 0.5:
+        non_striker: DW Lawrence
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hazratullah
+    - 0.6:
+        non_striker: Hazratullah
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DW Lawrence
+    - 1.1:
+        non_striker: DW Lawrence
+        bowler: Junaid Siddique
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Hazratullah
+    - 1.2:
+        non_striker: DW Lawrence
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hazratullah
+    - 1.3:
+        non_striker: DW Lawrence
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+    - 1.4:
+        non_striker: DW Lawrence
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+    - 1.5:
+        non_striker: DW Lawrence
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+    - 1.6:
+        non_striker: DW Lawrence
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+        wicket:
+          player_out: Hazratullah
+          kind: bowled
+    - 1.7:
+        non_striker: DW Lawrence
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+        wicket:
+          player_out: PBB Rajapaksa
+          kind: lbw
+    - 2.1:
+        non_striker: MD Shanaka
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DW Lawrence
+    - 2.2:
+        non_striker: MD Shanaka
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DW Lawrence
+    - 2.3:
+        non_striker: MD Shanaka
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DW Lawrence
+        wicket:
+          player_out: DW Lawrence
+          fielders:
+          - JL Denly
+          kind: caught
+    - 2.4:
+        non_striker: MD Shanaka
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 2.5:
+        non_striker: MD Shanaka
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 2.6:
+        non_striker: MD Shanaka
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 3.1:
+        non_striker: R Powell
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 3.2:
+        non_striker: R Powell
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 3.3:
+        non_striker: R Powell
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Shanaka
+    - 3.4:
+        non_striker: R Powell
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 3.5:
+        non_striker: R Powell
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 3.6:
+        non_striker: R Powell
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 3.7:
+        non_striker: R Powell
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 4.1:
+        non_striker: MD Shanaka
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 4.2:
+        non_striker: R Powell
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 4.3:
+        non_striker: R Powell
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 4.4:
+        non_striker: R Powell
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+        wicket:
+          player_out: MD Shanaka
+          fielders:
+          - Rahmanullah Gurbaz
+          kind: caught
+    - 4.5:
+        non_striker: R Powell
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 4.6:
+        non_striker: R Powell
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza

@@ -1,0 +1,245 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,India,0.1,RG Sharma,AD Russell,0,{},{}
+1st innings,India,0.2,RG Sharma,AD Russell,0,{},{}
+1st innings,India,0.3,RG Sharma,AD Russell,0,{},{}
+1st innings,India,0.4,RG Sharma,AD Russell,1,{},{}
+1st innings,India,0.5,AM Rahane,AD Russell,1,{},{}
+1st innings,India,0.6,RG Sharma,AD Russell,0,{},{}
+1st innings,India,1.1,AM Rahane,S Badree,1,{},{}
+1st innings,India,1.2,RG Sharma,S Badree,1,{'legbyes': 1},{}
+1st innings,India,1.3,AM Rahane,S Badree,0,{},{}
+1st innings,India,1.4,AM Rahane,S Badree,0,{},{}
+1st innings,India,1.5,AM Rahane,S Badree,1,{},{}
+1st innings,India,1.6,RG Sharma,S Badree,1,{},{}
+1st innings,India,2.1,RG Sharma,CR Brathwaite,6,{},{}
+1st innings,India,2.2,RG Sharma,CR Brathwaite,0,{},{}
+1st innings,India,2.3,RG Sharma,CR Brathwaite,1,{},{}
+1st innings,India,2.4,AM Rahane,CR Brathwaite,1,{},{}
+1st innings,India,2.5,RG Sharma,CR Brathwaite,0,{},{}
+1st innings,India,2.6,RG Sharma,CR Brathwaite,1,{},{}
+1st innings,India,3.1,RG Sharma,SJ Benn,2,{},{}
+1st innings,India,3.2,RG Sharma,SJ Benn,0,{},{}
+1st innings,India,3.3,RG Sharma,SJ Benn,0,{},{}
+1st innings,India,3.4,RG Sharma,SJ Benn,4,{},{}
+1st innings,India,3.5,RG Sharma,SJ Benn,4,{},{}
+1st innings,India,3.6,RG Sharma,SJ Benn,1,{},{}
+1st innings,India,4.1,RG Sharma,S Badree,1,{},{}
+1st innings,India,4.2,AM Rahane,S Badree,0,{},{}
+1st innings,India,4.3,AM Rahane,S Badree,4,{},{}
+1st innings,India,4.4,AM Rahane,S Badree,2,{},{}
+1st innings,India,4.5,AM Rahane,S Badree,1,{},{}
+1st innings,India,4.6,RG Sharma,S Badree,1,{},{}
+1st innings,India,5.1,RG Sharma,AD Russell,0,{},{}
+1st innings,India,5.2,RG Sharma,AD Russell,7,{'noballs': 1},{}
+1st innings,India,5.3,RG Sharma,AD Russell,6,{},{}
+1st innings,India,5.4,RG Sharma,AD Russell,1,{},{}
+1st innings,India,5.5,AM Rahane,AD Russell,1,{},{}
+1st innings,India,5.6,RG Sharma,AD Russell,4,{},{}
+1st innings,India,5.7,RG Sharma,AD Russell,1,{},{}
+1st innings,India,6.1,RG Sharma,SJ Benn,0,{},{}
+1st innings,India,6.2,RG Sharma,SJ Benn,1,{},{}
+1st innings,India,6.3,AM Rahane,SJ Benn,1,{},{}
+1st innings,India,6.4,RG Sharma,SJ Benn,1,{},{}
+1st innings,India,6.5,AM Rahane,SJ Benn,2,{},{}
+1st innings,India,6.6,AM Rahane,SJ Benn,2,{},{}
+1st innings,India,7.1,RG Sharma,S Badree,0,{},{}
+1st innings,India,7.2,RG Sharma,S Badree,0,{},"{'kind': 'lbw', 'player_out': 'RG Sharma'}"
+1st innings,India,7.3,V Kohli,S Badree,1,{},{}
+1st innings,India,7.4,AM Rahane,S Badree,0,{},{}
+1st innings,India,7.5,AM Rahane,S Badree,2,{},{}
+1st innings,India,7.6,AM Rahane,S Badree,1,{},{}
+1st innings,India,8.1,AM Rahane,DJ Bravo,1,{},{}
+1st innings,India,8.2,V Kohli,DJ Bravo,0,{},{}
+1st innings,India,8.3,V Kohli,DJ Bravo,1,{'noballs': 1},{}
+1st innings,India,8.4,V Kohli,DJ Bravo,0,{},{}
+1st innings,India,8.5,V Kohli,DJ Bravo,2,{},{}
+1st innings,India,8.6,V Kohli,DJ Bravo,4,{},{}
+1st innings,India,8.7,V Kohli,DJ Bravo,2,{},{}
+1st innings,India,9.1,AM Rahane,S Badree,1,{'wides': 1},{}
+1st innings,India,9.2,AM Rahane,S Badree,2,{},{}
+1st innings,India,9.3,AM Rahane,S Badree,0,{},{}
+1st innings,India,9.4,AM Rahane,S Badree,1,{},{}
+1st innings,India,9.5,V Kohli,S Badree,1,{},{}
+1st innings,India,9.6,AM Rahane,S Badree,4,{},{}
+1st innings,India,9.7,AM Rahane,S Badree,1,{},{}
+1st innings,India,10.1,AM Rahane,CR Brathwaite,1,{},{}
+1st innings,India,10.2,V Kohli,CR Brathwaite,1,{},{}
+1st innings,India,10.3,V Kohli,CR Brathwaite,1,{},{}
+1st innings,India,10.4,AM Rahane,CR Brathwaite,0,{},{}
+1st innings,India,10.5,AM Rahane,CR Brathwaite,1,{},{}
+1st innings,India,10.6,V Kohli,CR Brathwaite,1,{},{}
+1st innings,India,11.1,V Kohli,SJ Benn,1,{},{}
+1st innings,India,11.2,AM Rahane,SJ Benn,2,{},{}
+1st innings,India,11.3,AM Rahane,SJ Benn,1,{},{}
+1st innings,India,11.4,V Kohli,SJ Benn,1,{},{}
+1st innings,India,11.5,AM Rahane,SJ Benn,1,{},{}
+1st innings,India,11.6,V Kohli,SJ Benn,1,{},{}
+1st innings,India,12.1,V Kohli,DJ Bravo,1,{},{}
+1st innings,India,12.2,AM Rahane,DJ Bravo,1,{},{}
+1st innings,India,12.3,V Kohli,DJ Bravo,2,{},{}
+1st innings,India,12.4,V Kohli,DJ Bravo,4,{},{}
+1st innings,India,12.5,V Kohli,DJ Bravo,2,{},{}
+1st innings,India,12.6,V Kohli,DJ Bravo,1,{},{}
+1st innings,India,13.1,V Kohli,SJ Benn,4,{},{}
+1st innings,India,13.2,V Kohli,SJ Benn,1,{},{}
+1st innings,India,13.3,AM Rahane,SJ Benn,2,{},{}
+1st innings,India,13.4,AM Rahane,SJ Benn,1,{},{}
+1st innings,India,13.5,V Kohli,SJ Benn,2,{},{}
+1st innings,India,13.6,V Kohli,SJ Benn,1,{},{}
+1st innings,India,14.1,V Kohli,CR Brathwaite,1,{},{}
+1st innings,India,14.2,AM Rahane,CR Brathwaite,1,{},{}
+1st innings,India,14.3,V Kohli,CR Brathwaite,0,{},{}
+1st innings,India,14.4,V Kohli,CR Brathwaite,4,{},{}
+1st innings,India,14.5,V Kohli,CR Brathwaite,1,{},{}
+1st innings,India,14.6,AM Rahane,CR Brathwaite,0,{},{}
+1st innings,India,15.1,V Kohli,AD Russell,0,{},{}
+1st innings,India,15.2,V Kohli,AD Russell,1,{},{}
+1st innings,India,15.3,AM Rahane,AD Russell,0,{},"{'fielders': ['DJ Bravo'], 'kind': 'caught', 'player_out': 'AM Rahane'}"
+1st innings,India,15.4,V Kohli,AD Russell,2,{},{}
+1st innings,India,15.5,V Kohli,AD Russell,1,{},{}
+1st innings,India,15.6,MS Dhoni,AD Russell,1,{'wides': 1},{}
+1st innings,India,15.7,MS Dhoni,AD Russell,1,{},{}
+1st innings,India,16.1,MS Dhoni,CR Brathwaite,4,{},{}
+1st innings,India,16.2,MS Dhoni,CR Brathwaite,2,{},{}
+1st innings,India,16.3,MS Dhoni,CR Brathwaite,1,{},{}
+1st innings,India,16.4,V Kohli,CR Brathwaite,4,{},{}
+1st innings,India,16.5,V Kohli,CR Brathwaite,2,{},{}
+1st innings,India,16.6,V Kohli,CR Brathwaite,4,{},{}
+1st innings,India,17.1,MS Dhoni,DJ Bravo,1,{},{}
+1st innings,India,17.2,V Kohli,DJ Bravo,1,{},{}
+1st innings,India,17.3,MS Dhoni,DJ Bravo,1,{},{}
+1st innings,India,17.4,V Kohli,DJ Bravo,4,{},{}
+1st innings,India,17.5,V Kohli,DJ Bravo,0,{},{}
+1st innings,India,17.6,V Kohli,DJ Bravo,4,{},{}
+1st innings,India,18.1,MS Dhoni,AD Russell,1,{},{}
+1st innings,India,18.2,V Kohli,AD Russell,2,{},{}
+1st innings,India,18.3,V Kohli,AD Russell,6,{},{}
+1st innings,India,18.4,V Kohli,AD Russell,2,{},{}
+1st innings,India,18.5,V Kohli,AD Russell,4,{},{}
+1st innings,India,18.6,V Kohli,AD Russell,4,{},{}
+1st innings,India,19.1,MS Dhoni,DJ Bravo,1,{},{}
+1st innings,India,19.2,V Kohli,DJ Bravo,2,{},{}
+1st innings,India,19.3,V Kohli,DJ Bravo,1,{},{}
+1st innings,India,19.4,MS Dhoni,DJ Bravo,3,{},{}
+1st innings,India,19.5,V Kohli,DJ Bravo,4,{},{}
+1st innings,India,19.6,V Kohli,DJ Bravo,1,{},{}
+2nd innings,West Indies,0.1,J Charles,A Nehra,1,{},{}
+2nd innings,West Indies,0.2,CH Gayle,A Nehra,0,{},{}
+2nd innings,West Indies,0.3,CH Gayle,A Nehra,0,{},{}
+2nd innings,West Indies,0.4,CH Gayle,A Nehra,0,{},{}
+2nd innings,West Indies,0.5,CH Gayle,A Nehra,4,{},{}
+2nd innings,West Indies,0.6,CH Gayle,A Nehra,1,{},{}
+2nd innings,West Indies,1.1,CH Gayle,JJ Bumrah,0,{},"{'kind': 'bowled', 'player_out': 'CH Gayle'}"
+2nd innings,West Indies,1.2,MN Samuels,JJ Bumrah,0,{},{}
+2nd innings,West Indies,1.3,MN Samuels,JJ Bumrah,4,{},{}
+2nd innings,West Indies,1.4,MN Samuels,JJ Bumrah,0,{},{}
+2nd innings,West Indies,1.5,MN Samuels,JJ Bumrah,0,{},{}
+2nd innings,West Indies,1.6,MN Samuels,JJ Bumrah,4,{},{}
+2nd innings,West Indies,2.1,J Charles,A Nehra,4,{},{}
+2nd innings,West Indies,2.2,J Charles,A Nehra,0,{},{}
+2nd innings,West Indies,2.3,J Charles,A Nehra,0,{},{}
+2nd innings,West Indies,2.4,J Charles,A Nehra,1,{'legbyes': 1},{}
+2nd innings,West Indies,2.5,MN Samuels,A Nehra,0,{},{}
+2nd innings,West Indies,2.6,MN Samuels,A Nehra,0,{},"{'fielders': ['AM Rahane'], 'kind': 'caught', 'player_out': 'MN Samuels'}"
+2nd innings,West Indies,3.1,J Charles,JJ Bumrah,4,{},{}
+2nd innings,West Indies,3.2,J Charles,JJ Bumrah,4,{},{}
+2nd innings,West Indies,3.3,J Charles,JJ Bumrah,0,{},{}
+2nd innings,West Indies,3.4,J Charles,JJ Bumrah,1,{},{}
+2nd innings,West Indies,3.5,LMP Simmons,JJ Bumrah,0,{},{}
+2nd innings,West Indies,3.6,LMP Simmons,JJ Bumrah,0,{},{}
+2nd innings,West Indies,4.1,J Charles,A Nehra,0,{},{}
+2nd innings,West Indies,4.2,J Charles,A Nehra,0,{},{}
+2nd innings,West Indies,4.3,J Charles,A Nehra,0,{},{}
+2nd innings,West Indies,4.4,J Charles,A Nehra,1,{},{}
+2nd innings,West Indies,4.5,LMP Simmons,A Nehra,4,{},{}
+2nd innings,West Indies,4.6,LMP Simmons,A Nehra,0,{},{}
+2nd innings,West Indies,5.1,J Charles,RA Jadeja,1,{},{}
+2nd innings,West Indies,5.2,LMP Simmons,RA Jadeja,2,{},{}
+2nd innings,West Indies,5.3,LMP Simmons,RA Jadeja,6,{},{}
+2nd innings,West Indies,5.4,LMP Simmons,RA Jadeja,0,{},{}
+2nd innings,West Indies,5.5,LMP Simmons,RA Jadeja,0,{},{}
+2nd innings,West Indies,5.6,LMP Simmons,RA Jadeja,2,{},{}
+2nd innings,West Indies,6.1,J Charles,R Ashwin,1,{},{}
+2nd innings,West Indies,6.2,LMP Simmons,R Ashwin,4,{},{}
+2nd innings,West Indies,6.3,LMP Simmons,R Ashwin,0,{},{}
+2nd innings,West Indies,6.4,LMP Simmons,R Ashwin,0,{},{}
+2nd innings,West Indies,6.5,LMP Simmons,R Ashwin,1,{'noballs': 1},{}
+2nd innings,West Indies,6.6,LMP Simmons,R Ashwin,0,{},{}
+2nd innings,West Indies,6.7,LMP Simmons,R Ashwin,1,{},{}
+2nd innings,West Indies,7.1,LMP Simmons,HH Pandya,1,{},{}
+2nd innings,West Indies,7.2,J Charles,HH Pandya,1,{},{}
+2nd innings,West Indies,7.3,LMP Simmons,HH Pandya,1,{},{}
+2nd innings,West Indies,7.4,J Charles,HH Pandya,0,{},{}
+2nd innings,West Indies,7.5,J Charles,HH Pandya,4,{},{}
+2nd innings,West Indies,7.6,J Charles,HH Pandya,1,{},{}
+2nd innings,West Indies,8.1,J Charles,R Ashwin,6,{},{}
+2nd innings,West Indies,8.2,J Charles,R Ashwin,0,{},{}
+2nd innings,West Indies,8.3,J Charles,R Ashwin,4,{},{}
+2nd innings,West Indies,8.4,J Charles,R Ashwin,1,{},{}
+2nd innings,West Indies,8.5,LMP Simmons,R Ashwin,0,{},{}
+2nd innings,West Indies,8.6,LMP Simmons,R Ashwin,2,{},{}
+2nd innings,West Indies,9.1,J Charles,HH Pandya,0,{},{}
+2nd innings,West Indies,9.2,J Charles,HH Pandya,6,{},{}
+2nd innings,West Indies,9.3,J Charles,HH Pandya,4,{},{}
+2nd innings,West Indies,9.4,J Charles,HH Pandya,1,{},{}
+2nd innings,West Indies,9.5,LMP Simmons,HH Pandya,1,{'legbyes': 1},{}
+2nd innings,West Indies,9.6,J Charles,HH Pandya,0,{},{}
+2nd innings,West Indies,10.1,LMP Simmons,RA Jadeja,6,{},{}
+2nd innings,West Indies,10.2,LMP Simmons,RA Jadeja,0,{},{}
+2nd innings,West Indies,10.3,LMP Simmons,RA Jadeja,4,{},{}
+2nd innings,West Indies,10.4,LMP Simmons,RA Jadeja,1,{},{}
+2nd innings,West Indies,10.5,J Charles,RA Jadeja,1,{},{}
+2nd innings,West Indies,10.6,LMP Simmons,RA Jadeja,1,{},{}
+2nd innings,West Indies,11.1,LMP Simmons,HH Pandya,1,{},{}
+2nd innings,West Indies,11.2,J Charles,HH Pandya,4,{},{}
+2nd innings,West Indies,11.3,J Charles,HH Pandya,0,{},{}
+2nd innings,West Indies,11.4,J Charles,HH Pandya,0,{},{}
+2nd innings,West Indies,11.5,J Charles,HH Pandya,1,{'legbyes': 1},{}
+2nd innings,West Indies,11.6,LMP Simmons,HH Pandya,1,{},{}
+2nd innings,West Indies,12.1,LMP Simmons,RA Jadeja,1,{},{}
+2nd innings,West Indies,12.2,J Charles,RA Jadeja,1,{},{}
+2nd innings,West Indies,12.3,LMP Simmons,RA Jadeja,4,{},{}
+2nd innings,West Indies,12.4,LMP Simmons,RA Jadeja,1,{},{}
+2nd innings,West Indies,12.5,J Charles,RA Jadeja,1,{},{}
+2nd innings,West Indies,12.6,LMP Simmons,RA Jadeja,4,{},{}
+2nd innings,West Indies,13.1,J Charles,V Kohli,0,{},"{'fielders': ['RG Sharma'], 'kind': 'caught', 'player_out': 'J Charles'}"
+2nd innings,West Indies,13.2,LMP Simmons,V Kohli,0,{},{}
+2nd innings,West Indies,13.3,LMP Simmons,V Kohli,0,{},{}
+2nd innings,West Indies,13.4,LMP Simmons,V Kohli,2,{},{}
+2nd innings,West Indies,13.5,LMP Simmons,V Kohli,1,{},{}
+2nd innings,West Indies,13.6,AD Russell,V Kohli,1,{},{}
+2nd innings,West Indies,14.1,AD Russell,HH Pandya,4,{},{}
+2nd innings,West Indies,14.2,AD Russell,HH Pandya,0,{},{}
+2nd innings,West Indies,14.3,AD Russell,HH Pandya,6,{},{}
+2nd innings,West Indies,14.4,AD Russell,HH Pandya,0,{},{}
+2nd innings,West Indies,14.5,AD Russell,HH Pandya,1,{},{}
+2nd innings,West Indies,14.6,LMP Simmons,HH Pandya,1,{'noballs': 1},{}
+2nd innings,West Indies,14.7,LMP Simmons,HH Pandya,6,{},{}
+2nd innings,West Indies,15.1,AD Russell,JJ Bumrah,1,{},{}
+2nd innings,West Indies,15.2,LMP Simmons,JJ Bumrah,0,{},{}
+2nd innings,West Indies,15.3,LMP Simmons,JJ Bumrah,4,{},{}
+2nd innings,West Indies,15.4,LMP Simmons,JJ Bumrah,1,{},{}
+2nd innings,West Indies,15.5,AD Russell,JJ Bumrah,1,{},{}
+2nd innings,West Indies,15.6,LMP Simmons,JJ Bumrah,6,{},{}
+2nd innings,West Indies,16.1,AD Russell,A Nehra,1,{},{}
+2nd innings,West Indies,16.2,LMP Simmons,A Nehra,1,{'legbyes': 1},{}
+2nd innings,West Indies,16.3,AD Russell,A Nehra,0,{},{}
+2nd innings,West Indies,16.4,AD Russell,A Nehra,6,{},{}
+2nd innings,West Indies,16.5,AD Russell,A Nehra,1,{},{}
+2nd innings,West Indies,16.6,LMP Simmons,A Nehra,1,{},{}
+2nd innings,West Indies,17.1,LMP Simmons,JJ Bumrah,0,{},{}
+2nd innings,West Indies,17.2,LMP Simmons,JJ Bumrah,0,{},{}
+2nd innings,West Indies,17.3,LMP Simmons,JJ Bumrah,0,{},{}
+2nd innings,West Indies,17.4,LMP Simmons,JJ Bumrah,6,{},{}
+2nd innings,West Indies,17.5,LMP Simmons,JJ Bumrah,2,{},{}
+2nd innings,West Indies,17.6,LMP Simmons,JJ Bumrah,4,{},{}
+2nd innings,West Indies,18.1,AD Russell,RA Jadeja,0,{},{}
+2nd innings,West Indies,18.2,AD Russell,RA Jadeja,1,{},{}
+2nd innings,West Indies,18.3,LMP Simmons,RA Jadeja,1,{},{}
+2nd innings,West Indies,18.4,AD Russell,RA Jadeja,0,{},{}
+2nd innings,West Indies,18.5,AD Russell,RA Jadeja,6,{},{}
+2nd innings,West Indies,18.6,AD Russell,RA Jadeja,4,{},{}
+2nd innings,West Indies,19.1,LMP Simmons,V Kohli,1,{},{}
+2nd innings,West Indies,19.2,AD Russell,V Kohli,0,{},{}
+2nd innings,West Indies,19.3,AD Russell,V Kohli,4,{},{}
+2nd innings,West Indies,19.4,AD Russell,V Kohli,6,{},{}

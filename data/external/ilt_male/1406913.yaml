@@ -1,0 +1,1697 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-02-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abu Dhabi
+  competition: International League T20
+  dates:
+  - '2024-02-07'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sharjah Warriors
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - AU Rashid
+  players:
+    Abu Dhabi Knight Riders:
+    - JM Clarke
+    - MS Pepper
+    - A Sharafu
+    - SR Hain
+    - Imad Wasim
+    - LJ Evans
+    - RS Bopara
+    - DJ Willey
+    - S Kalyan
+    - SP Narine
+    - J Little
+    - JB Lintott
+    Sharjah Warriors:
+    - N Dickwella
+    - T Kohler-Cadmore
+    - LS Livingstone
+    - MJ Guptill
+    - JL Denly
+    - SC Williams
+    - DR Sams
+    - CR Woakes
+    - JK Fuller
+    - AU Rashid
+    - Junaid Siddique
+    - Muhammad Jawadullah
+  registry:
+    people:
+      A Sharafu: 06cad4f0
+      AU Rashid: 249d60c9
+      Akbar Ali: e753931d
+      Aleem Dar: f02778d1
+      Basil Hameed: adbf0400
+      CR Woakes: 4c5d73db
+      DJ Willey: 7f048519
+      DR Sams: caf69bf7
+      Imad Wasim: 9cb8d7a6
+      J Little: 9061a703
+      JB Lintott: e5218454
+      JK Fuller: dda5aae5
+      JL Denly: bdadf7da
+      JM Clarke: 2eca67f5
+      Junaid Siddique: 84dc72db
+      LJ Evans: 1c513d54
+      LS Livingstone: 50c6bc2b
+      MJ Guptill: 2be41edb
+      MS Pepper: 270e4c23
+      Muhammad Jawadullah: '098a757c'
+      N Dickwella: 45963d9e
+      P Wilson: 68304a36
+      RS Bopara: 7ca5e05d
+      RSA Palliyaguruge: 4339c19d
+      S Kalyan: e6ce0f4a
+      SC Williams: afe57f7a
+      SJA Taufel: 4b43d5ac
+      SP Narine: 9d430b40
+      SR Hain: 67b9536c
+      T Kohler-Cadmore: f836b33d
+  teams:
+  - Abu Dhabi Knight Riders
+  - Sharjah Warriors
+  toss:
+    winner: Sharjah Warriors
+    decision: field
+  umpires:
+  - Aleem Dar
+  - RSA Palliyaguruge
+  venue: Zayed Cricket Stadium, Abu Dhabi
+innings:
+- 1st innings:
+    team: Abu Dhabi Knight Riders
+    deliveries:
+    - 0.1:
+        non_striker: MS Pepper
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 0.2:
+        non_striker: MS Pepper
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 0.3:
+        non_striker: MS Pepper
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+        wicket:
+          player_out: JM Clarke
+          kind: bowled
+    - 0.4:
+        non_striker: MS Pepper
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 0.5:
+        non_striker: MS Pepper
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 0.6:
+        non_striker: MS Pepper
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 1.1:
+        non_striker: A Sharafu
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Pepper
+    - 1.2:
+        non_striker: A Sharafu
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Pepper
+    - 1.3:
+        non_striker: A Sharafu
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Pepper
+    - 1.4:
+        non_striker: A Sharafu
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Pepper
+    - 1.5:
+        non_striker: A Sharafu
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Pepper
+    - 1.6:
+        non_striker: A Sharafu
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Pepper
+    - 2.1:
+        non_striker: MS Pepper
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sharafu
+    - 2.2:
+        non_striker: MS Pepper
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 2.3:
+        non_striker: A Sharafu
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Pepper
+    - 2.4:
+        non_striker: MS Pepper
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 2.5:
+        non_striker: A Sharafu
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Pepper
+    - 2.6:
+        non_striker: MS Pepper
+        bowler: CR Woakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Sharafu
+    - 3.1:
+        non_striker: MS Pepper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 3.2:
+        non_striker: MS Pepper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 3.3:
+        non_striker: MS Pepper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 3.4:
+        non_striker: MS Pepper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 3.5:
+        non_striker: MS Pepper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 3.6:
+        non_striker: MS Pepper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 4.1:
+        non_striker: A Sharafu
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Pepper
+    - 4.2:
+        non_striker: A Sharafu
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Pepper
+    - 4.3:
+        non_striker: MS Pepper
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 4.4:
+        non_striker: MS Pepper
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 4.5:
+        non_striker: MS Pepper
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 4.6:
+        non_striker: MS Pepper
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 5.1:
+        non_striker: MS Pepper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 5.2:
+        non_striker: MS Pepper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 5.3:
+        non_striker: MS Pepper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 5.4:
+        non_striker: MS Pepper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sharafu
+    - 5.5:
+        non_striker: MS Pepper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 5.6:
+        non_striker: MS Pepper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 6.1:
+        non_striker: A Sharafu
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Pepper
+    - 6.2:
+        non_striker: A Sharafu
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Pepper
+    - 6.3:
+        non_striker: A Sharafu
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MS Pepper
+    - 6.4:
+        non_striker: MS Pepper
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 6.5:
+        non_striker: MS Pepper
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sharafu
+    - 6.6:
+        non_striker: MS Pepper
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 7.1:
+        non_striker: A Sharafu
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Pepper
+    - 7.2:
+        non_striker: A Sharafu
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Pepper
+    - 7.3:
+        non_striker: A Sharafu
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Pepper
+    - 7.4:
+        non_striker: A Sharafu
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Pepper
+    - 7.5:
+        non_striker: A Sharafu
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Pepper
+    - 7.6:
+        non_striker: A Sharafu
+        bowler: JK Fuller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Pepper
+    - 8.1:
+        non_striker: MS Pepper
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 8.2:
+        non_striker: A Sharafu
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Pepper
+    - 8.3:
+        non_striker: MS Pepper
+        bowler: AU Rashid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Sharafu
+    - 8.4:
+        non_striker: MS Pepper
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+        wicket:
+          player_out: A Sharafu
+          fielders:
+          - N Dickwella
+          kind: caught
+    - 8.5:
+        non_striker: MS Pepper
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Hain
+    - 8.6:
+        non_striker: MS Pepper
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 8.7:
+        non_striker: SR Hain
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Pepper
+        wicket:
+          player_out: MS Pepper
+          kind: bowled
+    - 9.1:
+        non_striker: Imad Wasim
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 9.2:
+        non_striker: SR Hain
+        bowler: LS Livingstone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imad Wasim
+    - 9.3:
+        non_striker: SR Hain
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 9.4:
+        non_striker: SR Hain
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 9.5:
+        non_striker: Imad Wasim
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 9.6:
+        non_striker: SR Hain
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 9.7:
+        non_striker: Imad Wasim
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 10.1:
+        non_striker: Imad Wasim
+        bowler: AU Rashid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Hain
+    - 10.2:
+        non_striker: Imad Wasim
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 10.3:
+        non_striker: SR Hain
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 10.4:
+        non_striker: Imad Wasim
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 10.5:
+        non_striker: SR Hain
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 10.6:
+        non_striker: Imad Wasim
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Hain
+    - 10.7:
+        non_striker: Imad Wasim
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 11.1:
+        non_striker: Imad Wasim
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 11.2:
+        non_striker: SR Hain
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 11.3:
+        non_striker: SR Hain
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+        wicket:
+          player_out: Imad Wasim
+          kind: lbw
+    - 11.4:
+        non_striker: SR Hain
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 11.5:
+        non_striker: SR Hain
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 11.6:
+        non_striker: SR Hain
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Evans
+    - 12.1:
+        non_striker: LJ Evans
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Hain
+        wicket:
+          player_out: SR Hain
+          fielders:
+          - JL Denly
+          kind: caught
+    - 12.2:
+        non_striker: LJ Evans
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+        wicket:
+          player_out: RS Bopara
+          fielders:
+          - T Kohler-Cadmore
+          kind: caught
+    - 12.3:
+        non_striker: LJ Evans
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Willey
+    - 12.4:
+        non_striker: LJ Evans
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Willey
+    - 12.5:
+        non_striker: DJ Willey
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 12.6:
+        non_striker: LJ Evans
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Willey
+    - 13.1:
+        non_striker: DJ Willey
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Evans
+    - 13.2:
+        non_striker: DJ Willey
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Evans
+    - 13.3:
+        non_striker: DJ Willey
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 13.4:
+        non_striker: LJ Evans
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Willey
+    - 13.5:
+        non_striker: DJ Willey
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 13.6:
+        non_striker: LJ Evans
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Willey
+        wicket:
+          player_out: LJ Evans
+          fielders:
+          - AU Rashid
+          kind: run out
+    - 14.1:
+        non_striker: DJ Willey
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kalyan
+    - 14.2:
+        non_striker: DJ Willey
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kalyan
+    - 14.3:
+        non_striker: DJ Willey
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kalyan
+    - 14.4:
+        non_striker: DJ Willey
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kalyan
+    - 14.5:
+        non_striker: DJ Willey
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kalyan
+    - 14.6:
+        non_striker: DJ Willey
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kalyan
+    - 15.1:
+        non_striker: S Kalyan
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Willey
+    - 15.2:
+        non_striker: S Kalyan
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Willey
+    - 15.3:
+        non_striker: DJ Willey
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kalyan
+    - 15.4:
+        non_striker: S Kalyan
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Willey
+    - 15.5:
+        non_striker: S Kalyan
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Willey
+    - 15.6:
+        non_striker: S Kalyan
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Willey
+    - 16.1:
+        non_striker: DJ Willey
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kalyan
+        wicket:
+          player_out: S Kalyan
+          fielders:
+          - Muhammad Jawadullah
+          kind: caught
+    - 16.2:
+        non_striker: DJ Willey
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+        wicket:
+          player_out: SP Narine
+          kind: lbw
+    - 16.3:
+        non_striker: DJ Willey
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Little
+    - 16.4:
+        non_striker: DJ Willey
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Little
+    - 16.5:
+        non_striker: DJ Willey
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Little
+    - 16.6:
+        non_striker: DJ Willey
+        bowler: JL Denly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Little
+    - 17.1:
+        non_striker: J Little
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Willey
+        wicket:
+          player_out: DJ Willey
+          fielders:
+          - Basil Hameed (sub)
+          kind: caught
+- 2nd innings:
+    team: Sharjah Warriors
+    deliveries:
+    - 0.1:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: JB Lintott
+            out: JM Clarke
+            team: Abu Dhabi Knight Riders
+            reason: impact_player
+        batsman: N Dickwella
+    - 0.2:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 0.3:
+        non_striker: N Dickwella
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 0.4:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 0.5:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 0.6:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 1.1:
+        non_striker: N Dickwella
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+        wicket:
+          player_out: T Kohler-Cadmore
+          kind: bowled
+    - 1.2:
+        non_striker: N Dickwella
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 1.3:
+        non_striker: N Dickwella
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LS Livingstone
+    - 1.4:
+        non_striker: N Dickwella
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LS Livingstone
+    - 1.5:
+        non_striker: N Dickwella
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 1.6:
+        non_striker: N Dickwella
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 2.1:
+        non_striker: LS Livingstone
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 2.2:
+        non_striker: LS Livingstone
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 2.3:
+        non_striker: LS Livingstone
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 2.4:
+        non_striker: LS Livingstone
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Dickwella
+    - 2.5:
+        non_striker: LS Livingstone
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 2.6:
+        non_striker: N Dickwella
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 3.1:
+        non_striker: LS Livingstone
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 3.2:
+        non_striker: N Dickwella
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LS Livingstone
+    - 3.3:
+        non_striker: N Dickwella
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 3.4:
+        non_striker: N Dickwella
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LS Livingstone
+    - 3.5:
+        non_striker: N Dickwella
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LS Livingstone
+    - 3.6:
+        non_striker: N Dickwella
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LS Livingstone
+    - 4.1:
+        non_striker: LS Livingstone
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 4.2:
+        non_striker: LS Livingstone
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 4.3:
+        non_striker: LS Livingstone
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 4.4:
+        non_striker: LS Livingstone
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 4.5:
+        non_striker: LS Livingstone
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 4.6:
+        non_striker: LS Livingstone
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 5.1:
+        non_striker: LS Livingstone
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 5.2:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 5.3:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+        wicket:
+          player_out: LS Livingstone
+          fielders:
+          - MS Pepper
+          kind: stumped
+    - 5.4:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: MJ Guptill
+            out: T Kohler-Cadmore
+            team: Sharjah Warriors
+            reason: impact_player
+        batsman: MJ Guptill
+    - 5.5:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 5.6:
+        non_striker: MJ Guptill
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 6.1:
+        non_striker: N Dickwella
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 6.2:
+        non_striker: MJ Guptill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 6.3:
+        non_striker: MJ Guptill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 6.4:
+        non_striker: MJ Guptill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 6.5:
+        non_striker: N Dickwella
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 6.6:
+        non_striker: N Dickwella
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 7.1:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 7.2:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 7.3:
+        non_striker: MJ Guptill
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 7.4:
+        non_striker: MJ Guptill
+        bowler: Imad Wasim
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Dickwella
+    - 7.5:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 7.6:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 7.7:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 8.1:
+        non_striker: N Dickwella
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 8.2:
+        non_striker: N Dickwella
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 8.3:
+        non_striker: N Dickwella
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 8.4:
+        non_striker: MJ Guptill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 8.5:
+        non_striker: MJ Guptill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 8.6:
+        non_striker: MJ Guptill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 9.1:
+        non_striker: MJ Guptill
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 9.2:
+        non_striker: N Dickwella
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 9.3:
+        non_striker: MJ Guptill
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 9.4:
+        non_striker: MJ Guptill
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+        wicket:
+          player_out: N Dickwella
+          fielders:
+          - MS Pepper
+          kind: stumped
+    - 9.5:
+        non_striker: MJ Guptill
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 9.6:
+        non_striker: MJ Guptill
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 10.1:
+        non_striker: JL Denly
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 10.2:
+        non_striker: JL Denly
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 10.3:
+        non_striker: JL Denly
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 10.4:
+        non_striker: MJ Guptill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 10.5:
+        non_striker: JL Denly
+        bowler: SP Narine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJ Guptill
+    - 10.6:
+        non_striker: MJ Guptill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 11.1:
+        non_striker: JL Denly
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 11.2:
+        non_striker: JL Denly
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 11.3:
+        non_striker: MJ Guptill
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 11.4:
+        non_striker: MJ Guptill
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Denly
+    - 11.5:
+        non_striker: MJ Guptill
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL Denly
+    - 11.6:
+        non_striker: MJ Guptill
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 12.1:
+        non_striker: MJ Guptill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Denly
+    - 12.2:
+        non_striker: MJ Guptill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 12.3:
+        non_striker: MJ Guptill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 12.4:
+        non_striker: JL Denly
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 12.5:
+        non_striker: MJ Guptill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 12.6:
+        non_striker: JL Denly
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 13.1:
+        non_striker: MJ Guptill
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 13.2:
+        non_striker: MJ Guptill
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 13.3:
+        non_striker: JL Denly
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 13.4:
+        non_striker: MJ Guptill
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Denly
+    - 13.5:
+        non_striker: MJ Guptill
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly

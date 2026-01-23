@@ -1,0 +1,252 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,India,0.1,RG Sharma,M Jansen,1,{},{}
+1st innings,India,0.2,V Kohli,M Jansen,4,{},{}
+1st innings,India,0.3,V Kohli,M Jansen,4,{},{}
+1st innings,India,0.4,V Kohli,M Jansen,2,{},{}
+1st innings,India,0.5,V Kohli,M Jansen,0,{},{}
+1st innings,India,0.6,V Kohli,M Jansen,4,{},{}
+1st innings,India,1.1,RG Sharma,KA Maharaj,4,{},{}
+1st innings,India,1.2,RG Sharma,KA Maharaj,4,{},{}
+1st innings,India,1.3,RG Sharma,KA Maharaj,0,{},{}
+1st innings,India,1.4,RG Sharma,KA Maharaj,0,{},"{'player_out': 'RG Sharma', 'fielders': ['H Klaasen'], 'kind': 'caught'}"
+1st innings,India,1.5,RR Pant,KA Maharaj,0,{},{}
+1st innings,India,1.6,RR Pant,KA Maharaj,0,{},"{'player_out': 'RR Pant', 'fielders': ['Q de Kock'], 'kind': 'caught'}"
+1st innings,India,2.1,V Kohli,K Rabada,0,{},{}
+1st innings,India,2.2,V Kohli,K Rabada,0,{},{}
+1st innings,India,2.3,V Kohli,K Rabada,0,{},{}
+1st innings,India,2.4,V Kohli,K Rabada,1,{},{}
+1st innings,India,2.5,SA Yadav,K Rabada,0,{},{}
+1st innings,India,2.6,SA Yadav,K Rabada,2,{},{}
+1st innings,India,3.1,V Kohli,KA Maharaj,2,{},{}
+1st innings,India,3.2,V Kohli,KA Maharaj,0,{},{}
+1st innings,India,3.3,V Kohli,KA Maharaj,0,{},{}
+1st innings,India,3.4,V Kohli,KA Maharaj,4,{},{}
+1st innings,India,3.5,V Kohli,KA Maharaj,0,{},{}
+1st innings,India,3.6,V Kohli,KA Maharaj,0,{},{}
+1st innings,India,4.1,SA Yadav,K Rabada,1,{},{}
+1st innings,India,4.2,V Kohli,K Rabada,1,{},{}
+1st innings,India,4.3,SA Yadav,K Rabada,0,{},"{'player_out': 'SA Yadav', 'fielders': ['H Klaasen'], 'kind': 'caught'}"
+1st innings,India,4.4,AR Patel,K Rabada,4,{},{}
+1st innings,India,4.5,AR Patel,K Rabada,0,{},{}
+1st innings,India,4.6,AR Patel,K Rabada,1,{},{}
+1st innings,India,5.1,AR Patel,AK Markram,1,{},{}
+1st innings,India,5.2,V Kohli,AK Markram,1,{},{}
+1st innings,India,5.3,AR Patel,AK Markram,1,{},{}
+1st innings,India,5.4,V Kohli,AK Markram,1,{},{}
+1st innings,India,5.5,AR Patel,AK Markram,1,{},{}
+1st innings,India,5.6,V Kohli,AK Markram,1,{},{}
+1st innings,India,6.1,V Kohli,A Nortje,1,{},{}
+1st innings,India,6.2,AR Patel,A Nortje,0,{},{}
+1st innings,India,6.3,AR Patel,A Nortje,1,{},{}
+1st innings,India,6.4,V Kohli,A Nortje,0,{},{}
+1st innings,India,6.5,V Kohli,A Nortje,1,{},{}
+1st innings,India,6.6,AR Patel,A Nortje,1,{},{}
+1st innings,India,7.1,AR Patel,AK Markram,1,{},{}
+1st innings,India,7.2,V Kohli,AK Markram,1,{},{}
+1st innings,India,7.3,AR Patel,AK Markram,6,{},{}
+1st innings,India,7.4,AR Patel,AK Markram,0,{},{}
+1st innings,India,7.5,AR Patel,AK Markram,1,{},{}
+1st innings,India,7.6,V Kohli,AK Markram,1,{},{}
+1st innings,India,8.1,V Kohli,KA Maharaj,1,{},{}
+1st innings,India,8.2,AR Patel,KA Maharaj,1,{},{}
+1st innings,India,8.3,V Kohli,KA Maharaj,1,{},{}
+1st innings,India,8.4,AR Patel,KA Maharaj,6,{},{}
+1st innings,India,8.5,AR Patel,KA Maharaj,0,{},{}
+1st innings,India,8.6,AR Patel,KA Maharaj,0,{},{}
+1st innings,India,9.1,V Kohli,T Shamsi,1,{'wides': 1},{}
+1st innings,India,9.2,V Kohli,T Shamsi,1,{},{}
+1st innings,India,9.3,AR Patel,T Shamsi,0,{},{}
+1st innings,India,9.4,AR Patel,T Shamsi,0,{},{}
+1st innings,India,9.5,AR Patel,T Shamsi,1,{},{}
+1st innings,India,9.6,V Kohli,T Shamsi,2,{},{}
+1st innings,India,9.7,V Kohli,T Shamsi,2,{},{}
+1st innings,India,10.1,AR Patel,M Jansen,1,{},{}
+1st innings,India,10.2,V Kohli,M Jansen,1,{},{}
+1st innings,India,10.3,AR Patel,M Jansen,1,{},{}
+1st innings,India,10.4,V Kohli,M Jansen,1,{},{}
+1st innings,India,10.5,AR Patel,M Jansen,1,{},{}
+1st innings,India,10.6,V Kohli,M Jansen,1,{'wides': 1},{}
+1st innings,India,10.7,V Kohli,M Jansen,1,{},{}
+1st innings,India,11.1,V Kohli,T Shamsi,0,{},{}
+1st innings,India,11.2,V Kohli,T Shamsi,1,{},{}
+1st innings,India,11.3,AR Patel,T Shamsi,1,{},{}
+1st innings,India,11.4,V Kohli,T Shamsi,1,{},{}
+1st innings,India,11.5,AR Patel,T Shamsi,6,{},{}
+1st innings,India,11.6,AR Patel,T Shamsi,2,{},{}
+1st innings,India,12.1,V Kohli,A Nortje,1,{},{}
+1st innings,India,12.2,AR Patel,A Nortje,1,{},{}
+1st innings,India,12.3,V Kohli,A Nortje,0,{},{}
+1st innings,India,12.4,V Kohli,A Nortje,1,{},{}
+1st innings,India,12.5,AR Patel,A Nortje,1,{'wides': 1},{}
+1st innings,India,12.6,AR Patel,A Nortje,0,{},{}
+1st innings,India,12.7,AR Patel,A Nortje,1,{},{}
+1st innings,India,13.1,AR Patel,K Rabada,6,{},{}
+1st innings,India,13.2,AR Patel,K Rabada,1,{},{}
+1st innings,India,13.3,V Kohli,K Rabada,1,{'wides': 1},{}
+1st innings,India,13.4,V Kohli,K Rabada,0,{},"{'player_out': 'AR Patel', 'fielders': ['Q de Kock'], 'kind': 'run out'}"
+1st innings,India,13.5,V Kohli,K Rabada,1,{},{}
+1st innings,India,13.6,S Dube,K Rabada,0,{},{}
+1st innings,India,13.7,S Dube,K Rabada,1,{},{}
+1st innings,India,14.1,S Dube,M Jansen,6,{},{}
+1st innings,India,14.2,S Dube,M Jansen,1,{},{}
+1st innings,India,14.3,V Kohli,M Jansen,0,{},{}
+1st innings,India,14.4,V Kohli,M Jansen,1,{},{}
+1st innings,India,14.5,S Dube,M Jansen,1,{},{}
+1st innings,India,14.6,V Kohli,M Jansen,1,{},{}
+1st innings,India,15.1,V Kohli,T Shamsi,1,{},{}
+1st innings,India,15.2,S Dube,T Shamsi,0,{},{}
+1st innings,India,15.3,S Dube,T Shamsi,1,{},{}
+1st innings,India,15.4,V Kohli,T Shamsi,1,{},{}
+1st innings,India,15.5,S Dube,T Shamsi,4,{},{}
+1st innings,India,15.6,S Dube,T Shamsi,1,{},{}
+1st innings,India,16.1,S Dube,A Nortje,1,{},{}
+1st innings,India,16.2,V Kohli,A Nortje,1,{},{}
+1st innings,India,16.3,S Dube,A Nortje,1,{},{}
+1st innings,India,16.4,V Kohli,A Nortje,0,{},{}
+1st innings,India,16.5,V Kohli,A Nortje,1,{},{}
+1st innings,India,16.6,S Dube,A Nortje,4,{},{}
+1st innings,India,17.1,V Kohli,K Rabada,6,{},{}
+1st innings,India,17.2,V Kohli,K Rabada,2,{},{}
+1st innings,India,17.3,V Kohli,K Rabada,4,{},{}
+1st innings,India,17.4,V Kohli,K Rabada,1,{},{}
+1st innings,India,17.5,S Dube,K Rabada,1,{'wides': 1},{}
+1st innings,India,17.6,S Dube,K Rabada,1,{},{}
+1st innings,India,17.7,V Kohli,K Rabada,1,{},{}
+1st innings,India,18.1,V Kohli,M Jansen,1,{'noballs': 1},{}
+1st innings,India,18.2,V Kohli,M Jansen,0,{},{}
+1st innings,India,18.3,V Kohli,M Jansen,4,{},{}
+1st innings,India,18.4,V Kohli,M Jansen,2,{},{}
+1st innings,India,18.5,V Kohli,M Jansen,6,{},{}
+1st innings,India,18.6,V Kohli,M Jansen,0,{},"{'player_out': 'V Kohli', 'fielders': ['K Rabada'], 'kind': 'caught'}"
+1st innings,India,18.7,HH Pandya,M Jansen,4,{},{}
+1st innings,India,19.1,S Dube,A Nortje,1,{'wides': 1},{}
+1st innings,India,19.2,S Dube,A Nortje,1,{},{}
+1st innings,India,19.3,HH Pandya,A Nortje,1,{},{}
+1st innings,India,19.4,S Dube,A Nortje,4,{},{}
+1st innings,India,19.5,S Dube,A Nortje,0,{},"{'player_out': 'S Dube', 'fielders': ['DA Miller'], 'kind': 'caught'}"
+1st innings,India,19.6,RA Jadeja,A Nortje,2,{},{}
+1st innings,India,19.7,RA Jadeja,A Nortje,0,{},"{'player_out': 'RA Jadeja', 'fielders': ['KA Maharaj'], 'kind': 'caught'}"
+2nd innings,South Africa,0.1,RR Hendricks,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,0.2,RR Hendricks,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,0.3,RR Hendricks,Arshdeep Singh,1,{'legbyes': 1},{}
+2nd innings,South Africa,0.4,Q de Kock,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,0.5,Q de Kock,Arshdeep Singh,1,{},{}
+2nd innings,South Africa,0.6,RR Hendricks,Arshdeep Singh,4,{},{}
+2nd innings,South Africa,1.1,Q de Kock,JJ Bumrah,0,{},{}
+2nd innings,South Africa,1.2,Q de Kock,JJ Bumrah,1,{'legbyes': 1},{}
+2nd innings,South Africa,1.3,RR Hendricks,JJ Bumrah,0,{},"{'player_out': 'RR Hendricks', 'kind': 'bowled'}"
+2nd innings,South Africa,1.4,AK Markram,JJ Bumrah,4,{},{}
+2nd innings,South Africa,1.5,AK Markram,JJ Bumrah,0,{},{}
+2nd innings,South Africa,1.6,AK Markram,JJ Bumrah,0,{},{}
+2nd innings,South Africa,2.1,Q de Kock,Arshdeep Singh,1,{},{}
+2nd innings,South Africa,2.2,AK Markram,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,2.3,AK Markram,Arshdeep Singh,0,{},"{'player_out': 'AK Markram', 'fielders': ['RR Pant'], 'kind': 'caught'}"
+2nd innings,South Africa,2.4,T Stubbs,Arshdeep Singh,1,{},{}
+2nd innings,South Africa,2.5,Q de Kock,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,2.6,Q de Kock,Arshdeep Singh,1,{},{}
+2nd innings,South Africa,3.1,Q de Kock,JJ Bumrah,4,{},{}
+2nd innings,South Africa,3.2,Q de Kock,JJ Bumrah,2,{},{}
+2nd innings,South Africa,3.3,Q de Kock,JJ Bumrah,1,{},{}
+2nd innings,South Africa,3.4,T Stubbs,JJ Bumrah,0,{},{}
+2nd innings,South Africa,3.5,T Stubbs,JJ Bumrah,0,{},{}
+2nd innings,South Africa,3.6,T Stubbs,JJ Bumrah,1,{},{}
+2nd innings,South Africa,4.1,T Stubbs,AR Patel,0,{},{}
+2nd innings,South Africa,4.2,T Stubbs,AR Patel,4,{},{}
+2nd innings,South Africa,4.3,T Stubbs,AR Patel,0,{},{}
+2nd innings,South Africa,4.4,T Stubbs,AR Patel,1,{},{}
+2nd innings,South Africa,4.5,Q de Kock,AR Patel,4,{},{}
+2nd innings,South Africa,4.6,Q de Kock,AR Patel,1,{},{}
+2nd innings,South Africa,5.1,Q de Kock,Kuldeep Yadav,1,{},{}
+2nd innings,South Africa,5.2,T Stubbs,Kuldeep Yadav,2,{},{}
+2nd innings,South Africa,5.3,T Stubbs,Kuldeep Yadav,2,{},{}
+2nd innings,South Africa,5.4,T Stubbs,Kuldeep Yadav,1,{},{}
+2nd innings,South Africa,5.5,Q de Kock,Kuldeep Yadav,0,{},{}
+2nd innings,South Africa,5.6,Q de Kock,Kuldeep Yadav,4,{},{}
+2nd innings,South Africa,6.1,T Stubbs,AR Patel,1,{},{}
+2nd innings,South Africa,6.2,Q de Kock,AR Patel,1,{},{}
+2nd innings,South Africa,6.3,T Stubbs,AR Patel,4,{},{}
+2nd innings,South Africa,6.4,T Stubbs,AR Patel,1,{},{}
+2nd innings,South Africa,6.5,Q de Kock,AR Patel,0,{},{}
+2nd innings,South Africa,6.6,Q de Kock,AR Patel,0,{},{}
+2nd innings,South Africa,7.1,T Stubbs,Kuldeep Yadav,4,{},{}
+2nd innings,South Africa,7.2,T Stubbs,Kuldeep Yadav,1,{},{}
+2nd innings,South Africa,7.3,Q de Kock,Kuldeep Yadav,1,{},{}
+2nd innings,South Africa,7.4,T Stubbs,Kuldeep Yadav,1,{},{}
+2nd innings,South Africa,7.5,Q de Kock,Kuldeep Yadav,0,{},{}
+2nd innings,South Africa,7.6,Q de Kock,Kuldeep Yadav,6,{},{}
+2nd innings,South Africa,8.1,T Stubbs,AR Patel,6,{},{}
+2nd innings,South Africa,8.2,T Stubbs,AR Patel,1,{},{}
+2nd innings,South Africa,8.3,Q de Kock,AR Patel,1,{},{}
+2nd innings,South Africa,8.4,T Stubbs,AR Patel,0,{},{}
+2nd innings,South Africa,8.5,T Stubbs,AR Patel,0,{},"{'player_out': 'T Stubbs', 'kind': 'bowled'}"
+2nd innings,South Africa,8.6,H Klaasen,AR Patel,1,{'legbyes': 1},{}
+2nd innings,South Africa,9.1,H Klaasen,HH Pandya,0,{},{}
+2nd innings,South Africa,9.2,H Klaasen,HH Pandya,0,{},{}
+2nd innings,South Africa,9.3,H Klaasen,HH Pandya,0,{},{}
+2nd innings,South Africa,9.4,H Klaasen,HH Pandya,6,{},{}
+2nd innings,South Africa,9.5,H Klaasen,HH Pandya,2,{'noballs': 1},{}
+2nd innings,South Africa,9.6,Q de Kock,HH Pandya,1,{},{}
+2nd innings,South Africa,9.7,H Klaasen,HH Pandya,1,{},{}
+2nd innings,South Africa,10.1,H Klaasen,RA Jadeja,1,{},{}
+2nd innings,South Africa,10.2,Q de Kock,RA Jadeja,1,{},{}
+2nd innings,South Africa,10.3,H Klaasen,RA Jadeja,6,{},{}
+2nd innings,South Africa,10.4,H Klaasen,RA Jadeja,1,{},{}
+2nd innings,South Africa,10.5,Q de Kock,RA Jadeja,2,{},{}
+2nd innings,South Africa,10.6,Q de Kock,RA Jadeja,1,{},{}
+2nd innings,South Africa,11.1,Q de Kock,Kuldeep Yadav,1,{},{}
+2nd innings,South Africa,11.2,H Klaasen,Kuldeep Yadav,0,{},{}
+2nd innings,South Africa,11.3,H Klaasen,Kuldeep Yadav,6,{},{}
+2nd innings,South Africa,11.4,H Klaasen,Kuldeep Yadav,1,{},{}
+2nd innings,South Africa,11.5,Q de Kock,Kuldeep Yadav,0,{},{}
+2nd innings,South Africa,11.6,Q de Kock,Kuldeep Yadav,0,{},{}
+2nd innings,South Africa,12.1,H Klaasen,Arshdeep Singh,1,{},{}
+2nd innings,South Africa,12.2,Q de Kock,Arshdeep Singh,4,{},{}
+2nd innings,South Africa,12.3,Q de Kock,Arshdeep Singh,0,{},"{'player_out': 'Q de Kock', 'fielders': ['Kuldeep Yadav'], 'kind': 'caught'}"
+2nd innings,South Africa,12.4,DA Miller,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,12.5,DA Miller,Arshdeep Singh,1,{},{}
+2nd innings,South Africa,12.6,H Klaasen,Arshdeep Singh,2,{},{}
+2nd innings,South Africa,13.1,DA Miller,Kuldeep Yadav,2,{},{}
+2nd innings,South Africa,13.2,DA Miller,Kuldeep Yadav,0,{},{}
+2nd innings,South Africa,13.3,DA Miller,Kuldeep Yadav,1,{},{}
+2nd innings,South Africa,13.4,H Klaasen,Kuldeep Yadav,1,{},{}
+2nd innings,South Africa,13.5,DA Miller,Kuldeep Yadav,4,{},{}
+2nd innings,South Africa,13.6,DA Miller,Kuldeep Yadav,6,{},{}
+2nd innings,South Africa,14.1,H Klaasen,AR Patel,4,{},{}
+2nd innings,South Africa,14.2,H Klaasen,AR Patel,1,{'wides': 1},{}
+2nd innings,South Africa,14.3,H Klaasen,AR Patel,1,{'wides': 1},{}
+2nd innings,South Africa,14.4,H Klaasen,AR Patel,0,{},{}
+2nd innings,South Africa,14.5,H Klaasen,AR Patel,6,{},{}
+2nd innings,South Africa,14.6,H Klaasen,AR Patel,6,{},{}
+2nd innings,South Africa,14.7,H Klaasen,AR Patel,4,{},{}
+2nd innings,South Africa,14.8,H Klaasen,AR Patel,2,{},{}
+2nd innings,South Africa,15.1,DA Miller,JJ Bumrah,1,{},{}
+2nd innings,South Africa,15.2,H Klaasen,JJ Bumrah,2,{},{}
+2nd innings,South Africa,15.3,H Klaasen,JJ Bumrah,0,{},{}
+2nd innings,South Africa,15.4,H Klaasen,JJ Bumrah,0,{},{}
+2nd innings,South Africa,15.5,H Klaasen,JJ Bumrah,1,{},{}
+2nd innings,South Africa,15.6,DA Miller,JJ Bumrah,0,{},{}
+2nd innings,South Africa,16.1,H Klaasen,HH Pandya,0,{},"{'player_out': 'H Klaasen', 'fielders': ['RR Pant'], 'kind': 'caught'}"
+2nd innings,South Africa,16.2,M Jansen,HH Pandya,0,{},{}
+2nd innings,South Africa,16.3,M Jansen,HH Pandya,1,{},{}
+2nd innings,South Africa,16.4,DA Miller,HH Pandya,1,{},{}
+2nd innings,South Africa,16.5,M Jansen,HH Pandya,1,{},{}
+2nd innings,South Africa,16.6,DA Miller,HH Pandya,1,{},{}
+2nd innings,South Africa,17.1,DA Miller,JJ Bumrah,0,{},{}
+2nd innings,South Africa,17.2,DA Miller,JJ Bumrah,0,{},{}
+2nd innings,South Africa,17.3,DA Miller,JJ Bumrah,1,{},{}
+2nd innings,South Africa,17.4,M Jansen,JJ Bumrah,0,{},"{'player_out': 'M Jansen', 'kind': 'bowled'}"
+2nd innings,South Africa,17.5,KA Maharaj,JJ Bumrah,0,{},{}
+2nd innings,South Africa,17.6,KA Maharaj,JJ Bumrah,1,{},{}
+2nd innings,South Africa,18.1,KA Maharaj,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,18.2,KA Maharaj,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,18.3,KA Maharaj,Arshdeep Singh,1,{},{}
+2nd innings,South Africa,18.4,DA Miller,Arshdeep Singh,2,{},{}
+2nd innings,South Africa,18.5,DA Miller,Arshdeep Singh,1,{},{}
+2nd innings,South Africa,18.6,KA Maharaj,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,19.1,DA Miller,HH Pandya,0,{},"{'player_out': 'DA Miller', 'fielders': ['SA Yadav'], 'kind': 'caught'}"
+2nd innings,South Africa,19.2,K Rabada,HH Pandya,4,{},{}
+2nd innings,South Africa,19.3,K Rabada,HH Pandya,1,{'byes': 1},{}
+2nd innings,South Africa,19.4,KA Maharaj,HH Pandya,1,{'legbyes': 1},{}
+2nd innings,South Africa,19.5,K Rabada,HH Pandya,1,{'wides': 1},{}
+2nd innings,South Africa,19.6,K Rabada,HH Pandya,0,{},"{'player_out': 'K Rabada', 'fielders': ['SA Yadav'], 'kind': 'caught'}"
+2nd innings,South Africa,19.7,A Nortje,HH Pandya,1,{},{}

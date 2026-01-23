@@ -1,0 +1,2186 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-01-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abu Dhabi
+  competition: International League T20
+  dates:
+  - '2025-01-13'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: MI Emirates
+    by:
+      runs: 26
+  overs: 20
+  player_of_match:
+  - T Banton
+  players:
+    MI Emirates:
+    - AM Ghazanfar
+    - MDKJ Perera
+    - Waseem Muhammad
+    - T Banton
+    - N Pooran
+    - KA Pollard
+    - R Shepherd
+    - AJ Hosein
+    - AS Joseph
+    - Zahoor Khan
+    - Waqar Salamkheil
+    - Fazalhaq Farooqi
+    Dubai Capitals:
+    - Zahir Khan
+    - BR Dunk
+    - SD Hope
+    - BJ McMullen
+    - Sikandar Raza
+    - R Powell
+    - MD Shanaka
+    - Gulbadin Naib
+    - OP Stone
+    - Haider Ali
+    - PVD Chameera
+    - Farhan Khan
+  registry:
+    people:
+      AJ Hosein: 4d7f517e
+      AM Ghazanfar: 9ca68676
+      AS Joseph: b0946605
+      Ahmed Shah Pakteen: '43602937'
+      BJ McMullen: 436c763a
+      BR Dunk: 272d796e
+      Bismillah Shinwari: cae815a0
+      Farhan Khan: 617040e4
+      Fazalhaq Farooqi: e9c7f0d0
+      Gulbadin Naib: 9f77963a
+      Haider Ali: dd572696
+      KA Pollard: a757b0d8
+      MD Shanaka: 3ff033bb
+      MDKJ Perera: f21043a5
+      MJ Saggers: 402d5937
+      N Pooran: 3241e3fd
+      OP Stone: 3f659464
+      P Wilson: 68304a36
+      PVD Chameera: 327b58d3
+      R Powell: 650d5e49
+      R Shepherd: c5aef772
+      SD Hope: 1fc6ef83
+      SJA Taufel: 4b43d5ac
+      Sikandar Raza: 26d041c4
+      T Banton: 25f7b7d6
+      Waqar Salamkheil: 3f1066d0
+      Waseem Muhammad: 6f02fe2a
+      Zahir Khan: 786b7fe8
+      Zahoor Khan: f0e293b0
+  teams:
+  - MI Emirates
+  - Dubai Capitals
+  toss:
+    winner: Dubai Capitals
+    decision: field
+  umpires:
+  - Bismillah Shinwari
+  - MJ Saggers
+  venue: Zayed Cricket Stadium, Abu Dhabi
+innings:
+- 1st innings:
+    team: MI Emirates
+    deliveries:
+    - 0.1:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDKJ Perera
+    - 0.2:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 0.3:
+        non_striker: MDKJ Perera
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.4:
+        non_striker: MDKJ Perera
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.5:
+        non_striker: MDKJ Perera
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.6:
+        non_striker: MDKJ Perera
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.1:
+        non_striker: Waseem Muhammad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+        wicket:
+          player_out: MDKJ Perera
+          kind: bowled
+    - 1.2:
+        non_striker: Waseem Muhammad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 1.3:
+        non_striker: Waseem Muhammad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 1.4:
+        non_striker: Waseem Muhammad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 1.5:
+        non_striker: Waseem Muhammad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 1.6:
+        non_striker: T Banton
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 2.1:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 2.2:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 2.3:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 2.4:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 2.5:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 2.6:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 3.1:
+        non_striker: T Banton
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 3.2:
+        non_striker: Waseem Muhammad
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 3.3:
+        non_striker: T Banton
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 3.4:
+        non_striker: T Banton
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 3.5:
+        non_striker: Waseem Muhammad
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 3.6:
+        non_striker: Waseem Muhammad
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 4.1:
+        non_striker: Waseem Muhammad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 4.2:
+        non_striker: T Banton
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 4.3:
+        non_striker: T Banton
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 4.4:
+        non_striker: T Banton
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 4.5:
+        non_striker: T Banton
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          fielders:
+          - Sikandar Raza
+          kind: run out
+    - 4.6:
+        non_striker: T Banton
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 5.1:
+        non_striker: N Pooran
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 5.2:
+        non_striker: T Banton
+        bowler: Farhan Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 5.3:
+        non_striker: T Banton
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.4:
+        non_striker: T Banton
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.5:
+        non_striker: T Banton
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.6:
+        non_striker: T Banton
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 5.7:
+        non_striker: N Pooran
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 6.1:
+        non_striker: T Banton
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 6.2:
+        non_striker: N Pooran
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 6.3:
+        non_striker: N Pooran
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 6.4:
+        non_striker: N Pooran
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 6.5:
+        non_striker: T Banton
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 6.6:
+        non_striker: N Pooran
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 7.1:
+        non_striker: T Banton
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 7.2:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 7.3:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 7.4:
+        non_striker: T Banton
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 7.5:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 7.6:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 8.1:
+        non_striker: N Pooran
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 8.2:
+        non_striker: T Banton
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 8.3:
+        non_striker: N Pooran
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 8.4:
+        non_striker: N Pooran
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 8.5:
+        non_striker: N Pooran
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 8.6:
+        non_striker: N Pooran
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 9.1:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 9.2:
+        non_striker: T Banton
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 9.3:
+        non_striker: T Banton
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 9.4:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 9.5:
+        non_striker: T Banton
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 9.6:
+        non_striker: T Banton
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 10.1:
+        non_striker: T Banton
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 10.2:
+        non_striker: N Pooran
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 10.3:
+        non_striker: N Pooran
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 10.4:
+        non_striker: N Pooran
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 10.5:
+        non_striker: N Pooran
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 10.6:
+        non_striker: N Pooran
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 11.1:
+        non_striker: T Banton
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 11.2:
+        non_striker: N Pooran
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 11.3:
+        non_striker: T Banton
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 11.4:
+        non_striker: T Banton
+        bowler: Farhan Khan
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: N Pooran
+    - 11.5:
+        non_striker: T Banton
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 11.6:
+        non_striker: T Banton
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 11.7:
+        non_striker: T Banton
+        bowler: Farhan Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 11.8:
+        non_striker: T Banton
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 12.1:
+        non_striker: T Banton
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 12.2:
+        non_striker: N Pooran
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 12.3:
+        non_striker: T Banton
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 12.4:
+        non_striker: N Pooran
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 12.5:
+        non_striker: N Pooran
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 12.6:
+        non_striker: N Pooran
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 13.1:
+        non_striker: T Banton
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 13.2:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 13.3:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 13.4:
+        non_striker: T Banton
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 13.5:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 13.6:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 14.1:
+        non_striker: T Banton
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 14.2:
+        non_striker: T Banton
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 14.3:
+        non_striker: T Banton
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 14.4:
+        non_striker: T Banton
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          fielders:
+          - MD Shanaka
+          kind: caught
+    - 14.5:
+        non_striker: T Banton
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 14.6:
+        non_striker: T Banton
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 15.1:
+        non_striker: KA Pollard
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 15.2:
+        non_striker: KA Pollard
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 15.3:
+        non_striker: KA Pollard
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 15.4:
+        non_striker: T Banton
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 15.5:
+        non_striker: T Banton
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 15.6:
+        non_striker: T Banton
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 16.1:
+        non_striker: KA Pollard
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 16.2:
+        non_striker: KA Pollard
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 16.3:
+        non_striker: T Banton
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 16.4:
+        non_striker: KA Pollard
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 16.5:
+        non_striker: T Banton
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 16.6:
+        non_striker: T Banton
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 17.1:
+        non_striker: T Banton
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 17.2:
+        non_striker: T Banton
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 17.3:
+        non_striker: T Banton
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 17.4:
+        non_striker: T Banton
+        bowler: OP Stone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KA Pollard
+    - 17.5:
+        non_striker: KA Pollard
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+        wicket:
+          player_out: T Banton
+          fielders:
+          - BJ McMullen
+          kind: caught
+    - 17.6:
+        non_striker: KA Pollard
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 18.1:
+        non_striker: R Shepherd
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        replacements:
+          match:
+          - in: BR Dunk
+            out: Zahir Khan
+            team: Dubai Capitals
+            reason: impact_player
+        batsman: KA Pollard
+    - 18.2:
+        non_striker: R Shepherd
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 18.3:
+        non_striker: R Shepherd
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 18.4:
+        non_striker: R Shepherd
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 18.5:
+        non_striker: R Shepherd
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 18.6:
+        non_striker: KA Pollard
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Shepherd
+    - 19.1:
+        non_striker: R Shepherd
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 19.2:
+        non_striker: KA Pollard
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+        wicket:
+          player_out: R Shepherd
+          fielders:
+          - PVD Chameera
+          kind: caught
+    - 19.3:
+        non_striker: KA Pollard
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 19.4:
+        non_striker: AJ Hosein
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+        wicket:
+          player_out: KA Pollard
+          fielders:
+          - BR Dunk
+          kind: caught
+    - 19.5:
+        non_striker: AJ Hosein
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Joseph
+        wicket:
+          player_out: AS Joseph
+          fielders:
+          - PVD Chameera
+          kind: caught
+    - 19.6:
+        non_striker: AJ Hosein
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahoor Khan
+- 2nd innings:
+    team: Dubai Capitals
+    deliveries:
+    - 0.1:
+        non_striker: SD Hope
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: AM Ghazanfar
+            out: MDKJ Perera
+            team: MI Emirates
+            reason: impact_player
+        batsman: BR Dunk
+    - 0.2:
+        non_striker: SD Hope
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Dunk
+    - 0.3:
+        non_striker: BR Dunk
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 0.4:
+        non_striker: BR Dunk
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 0.5:
+        non_striker: BR Dunk
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 0.6:
+        non_striker: BR Dunk
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 1.1:
+        non_striker: SD Hope
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Dunk
+    - 1.2:
+        non_striker: BR Dunk
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 1.3:
+        non_striker: BR Dunk
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 1.4:
+        non_striker: BR Dunk
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 1.5:
+        non_striker: BR Dunk
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 1.6:
+        non_striker: BR Dunk
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 2.1:
+        non_striker: SD Hope
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 2.2:
+        non_striker: SD Hope
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BR Dunk
+    - 2.3:
+        non_striker: SD Hope
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Dunk
+    - 2.4:
+        non_striker: BR Dunk
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 2.5:
+        non_striker: SD Hope
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Dunk
+    - 2.6:
+        non_striker: BR Dunk
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 3.1:
+        non_striker: BR Dunk
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 3.2:
+        non_striker: BR Dunk
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 3.3:
+        non_striker: BR Dunk
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 3.4:
+        non_striker: SD Hope
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Dunk
+    - 3.5:
+        non_striker: BR Dunk
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 3.6:
+        non_striker: BR Dunk
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 4.1:
+        non_striker: BR Dunk
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 4.2:
+        non_striker: SD Hope
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Dunk
+    - 4.3:
+        non_striker: BR Dunk
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 4.4:
+        non_striker: BR Dunk
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SD Hope
+    - 4.5:
+        non_striker: BR Dunk
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 4.6:
+        non_striker: SD Hope
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 4.7:
+        non_striker: SD Hope
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 5.1:
+        non_striker: BR Dunk
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 5.2:
+        non_striker: BR Dunk
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 5.3:
+        non_striker: BR Dunk
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 5.4:
+        non_striker: BR Dunk
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 5.5:
+        non_striker: BR Dunk
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SD Hope
+    - 5.6:
+        non_striker: SD Hope
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+        wicket:
+          player_out: BR Dunk
+          kind: bowled
+    - 6.1:
+        non_striker: BJ McMullen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 6.2:
+        non_striker: BJ McMullen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 6.3:
+        non_striker: SD Hope
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 6.4:
+        non_striker: BJ McMullen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 6.5:
+        non_striker: SD Hope
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 6.6:
+        non_striker: BJ McMullen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 7.1:
+        non_striker: BJ McMullen
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 7.2:
+        non_striker: SD Hope
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: BJ McMullen
+    - 7.3:
+        non_striker: SD Hope
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 7.4:
+        non_striker: BJ McMullen
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 7.5:
+        non_striker: SD Hope
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 7.6:
+        non_striker: SD Hope
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 7.7:
+        non_striker: BJ McMullen
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 8.1:
+        non_striker: BJ McMullen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 8.2:
+        non_striker: SD Hope
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ McMullen
+    - 8.3:
+        non_striker: SD Hope
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 8.4:
+        non_striker: BJ McMullen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 8.5:
+        non_striker: SD Hope
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 8.6:
+        non_striker: BJ McMullen
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 9.1:
+        non_striker: SD Hope
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 9.2:
+        non_striker: SD Hope
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 9.3:
+        non_striker: BJ McMullen
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 9.4:
+        non_striker: SD Hope
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 9.5:
+        non_striker: SD Hope
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 9.6:
+        non_striker: SD Hope
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ McMullen
+    - 10.1:
+        non_striker: BJ McMullen
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 10.2:
+        non_striker: SD Hope
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 10.3:
+        non_striker: BJ McMullen
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 10.4:
+        non_striker: BJ McMullen
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 10.5:
+        non_striker: BJ McMullen
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 10.6:
+        non_striker: BJ McMullen
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 11.1:
+        non_striker: SD Hope
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 11.2:
+        non_striker: SD Hope
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 11.3:
+        non_striker: BJ McMullen
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 11.4:
+        non_striker: BJ McMullen
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 11.5:
+        non_striker: BJ McMullen
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 11.6:
+        non_striker: BJ McMullen
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 12.1:
+        non_striker: BJ McMullen
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 12.2:
+        non_striker: BJ McMullen
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 12.3:
+        non_striker: SD Hope
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 12.4:
+        non_striker: BJ McMullen
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 12.5:
+        non_striker: BJ McMullen
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SD Hope
+    - 12.6:
+        non_striker: BJ McMullen
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 13.1:
+        non_striker: BJ McMullen
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 13.2:
+        non_striker: BJ McMullen
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SD Hope
+    - 13.3:
+        non_striker: BJ McMullen
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 13.4:
+        non_striker: SD Hope
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+        wicket:
+          player_out: BJ McMullen
+          fielders:
+          - N Pooran
+          kind: stumped
+    - 13.5:
+        non_striker: SD Hope
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.6:
+        non_striker: Sikandar Raza
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 14.1:
+        non_striker: SD Hope
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 14.2:
+        non_striker: Sikandar Raza
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 14.3:
+        non_striker: SD Hope
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 14.4:
+        non_striker: Sikandar Raza
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 14.5:
+        non_striker: SD Hope
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 14.6:
+        non_striker: SD Hope
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 15.1:
+        non_striker: Sikandar Raza
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 15.2:
+        non_striker: Sikandar Raza
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SD Hope
+    - 15.3:
+        non_striker: Sikandar Raza
+        bowler: AM Ghazanfar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SD Hope
+    - 15.4:
+        non_striker: Sikandar Raza
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 15.5:
+        non_striker: Sikandar Raza
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+        wicket:
+          player_out: SD Hope
+          fielders:
+          - T Banton
+          kind: caught
+    - 15.6:
+        non_striker: Sikandar Raza
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 15.7:
+        non_striker: R Powell
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 16.1:
+        non_striker: R Powell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          kind: bowled
+    - 16.2:
+        non_striker: R Powell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+        wicket:
+          player_out: MD Shanaka
+          kind: bowled
+    - 16.3:
+        non_striker: R Powell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 16.4:
+        non_striker: R Powell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 16.5:
+        non_striker: Gulbadin Naib
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 16.6:
+        non_striker: R Powell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 17.1:
+        non_striker: R Powell
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gulbadin Naib
+    - 17.2:
+        non_striker: R Powell
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gulbadin Naib
+    - 17.3:
+        non_striker: R Powell
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gulbadin Naib
+    - 17.4:
+        non_striker: R Powell
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gulbadin Naib
+    - 17.5:
+        non_striker: R Powell
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+        wicket:
+          player_out: Gulbadin Naib
+          fielders:
+          - Waseem Muhammad
+          kind: caught
+    - 17.6:
+        non_striker: R Powell
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Stone
+    - 18.1:
+        non_striker: OP Stone
+        bowler: Zahoor Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 18.2:
+        non_striker: OP Stone
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 18.3:
+        non_striker: OP Stone
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 18.4:
+        non_striker: OP Stone
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 18.5:
+        non_striker: OP Stone
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 18.6:
+        non_striker: OP Stone
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 18.7:
+        non_striker: R Powell
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Stone
+    - 19.1:
+        non_striker: OP Stone
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: R Powell
+    - 19.2:
+        non_striker: OP Stone
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 19.3:
+        non_striker: R Powell
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Stone
+    - 19.4:
+        non_striker: R Powell
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Stone
+    - 19.5:
+        non_striker: R Powell
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OP Stone
+    - 19.6:
+        non_striker: OP Stone
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 19.7:
+        non_striker: OP Stone
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 19.8:
+        non_striker: OP Stone
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 19.9:
+        non_striker: OP Stone
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell

@@ -1,0 +1,149 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Scotland,0.1,HG Munsey,JJ Bumrah,0,{},{}
+1st innings,Scotland,0.2,HG Munsey,JJ Bumrah,0,{},{}
+1st innings,Scotland,0.3,HG Munsey,JJ Bumrah,1,{},{}
+1st innings,Scotland,0.4,KJ Coetzer,JJ Bumrah,1,{'legbyes': 1},{}
+1st innings,Scotland,0.5,HG Munsey,JJ Bumrah,0,{},{}
+1st innings,Scotland,0.6,HG Munsey,JJ Bumrah,6,{},{}
+1st innings,Scotland,1.1,KJ Coetzer,CV Varun,0,{},{}
+1st innings,Scotland,1.2,KJ Coetzer,CV Varun,0,{},{}
+1st innings,Scotland,1.3,KJ Coetzer,CV Varun,1,{},{}
+1st innings,Scotland,1.4,HG Munsey,CV Varun,0,{},{}
+1st innings,Scotland,1.5,HG Munsey,CV Varun,4,{},{}
+1st innings,Scotland,1.6,HG Munsey,CV Varun,0,{},{}
+1st innings,Scotland,2.1,KJ Coetzer,JJ Bumrah,0,{},{}
+1st innings,Scotland,2.2,KJ Coetzer,JJ Bumrah,0,{},{}
+1st innings,Scotland,2.3,KJ Coetzer,JJ Bumrah,0,{},"{'player_out': 'KJ Coetzer', 'kind': 'bowled'}"
+1st innings,Scotland,2.4,MH Cross,JJ Bumrah,0,{},{}
+1st innings,Scotland,2.5,MH Cross,JJ Bumrah,0,{},{}
+1st innings,Scotland,2.6,MH Cross,JJ Bumrah,0,{},{}
+1st innings,Scotland,3.1,HG Munsey,R Ashwin,0,{},{}
+1st innings,Scotland,3.2,HG Munsey,R Ashwin,0,{},{}
+1st innings,Scotland,3.3,HG Munsey,R Ashwin,0,{},{}
+1st innings,Scotland,3.4,HG Munsey,R Ashwin,4,{},{}
+1st innings,Scotland,3.5,HG Munsey,R Ashwin,4,{},{}
+1st innings,Scotland,3.6,HG Munsey,R Ashwin,4,{},{}
+1st innings,Scotland,4.1,MH Cross,CV Varun,0,{},{}
+1st innings,Scotland,4.2,MH Cross,CV Varun,1,{},{}
+1st innings,Scotland,4.3,HG Munsey,CV Varun,0,{},{}
+1st innings,Scotland,4.4,HG Munsey,CV Varun,0,{},{}
+1st innings,Scotland,4.5,HG Munsey,CV Varun,1,{},{}
+1st innings,Scotland,4.6,MH Cross,CV Varun,0,{},{}
+1st innings,Scotland,5.1,HG Munsey,Mohammed Shami,0,{},{}
+1st innings,Scotland,5.2,HG Munsey,Mohammed Shami,0,{},"{'player_out': 'HG Munsey', 'fielders': ['HH Pandya'], 'kind': 'caught'}"
+1st innings,Scotland,5.3,RD Berrington,Mohammed Shami,0,{},{}
+1st innings,Scotland,5.4,RD Berrington,Mohammed Shami,0,{},{}
+1st innings,Scotland,5.5,RD Berrington,Mohammed Shami,0,{},{}
+1st innings,Scotland,5.6,RD Berrington,Mohammed Shami,0,{},{}
+1st innings,Scotland,6.1,MH Cross,RA Jadeja,0,{},{}
+1st innings,Scotland,6.2,MH Cross,RA Jadeja,1,{},{}
+1st innings,Scotland,6.3,RD Berrington,RA Jadeja,0,{},"{'player_out': 'RD Berrington', 'kind': 'bowled'}"
+1st innings,Scotland,6.4,CS MacLeod,RA Jadeja,0,{},{}
+1st innings,Scotland,6.5,CS MacLeod,RA Jadeja,1,{},{}
+1st innings,Scotland,6.6,MH Cross,RA Jadeja,0,{},"{'player_out': 'MH Cross', 'kind': 'lbw'}"
+1st innings,Scotland,7.1,CS MacLeod,R Ashwin,0,{},{}
+1st innings,Scotland,7.2,CS MacLeod,R Ashwin,1,{},{}
+1st innings,Scotland,7.3,MA Leask,R Ashwin,1,{},{}
+1st innings,Scotland,7.4,CS MacLeod,R Ashwin,0,{},{}
+1st innings,Scotland,7.5,CS MacLeod,R Ashwin,1,{},{}
+1st innings,Scotland,7.6,MA Leask,R Ashwin,0,{},{}
+1st innings,Scotland,8.1,CS MacLeod,RA Jadeja,0,{},{}
+1st innings,Scotland,8.2,CS MacLeod,RA Jadeja,1,{},{}
+1st innings,Scotland,8.3,MA Leask,RA Jadeja,1,{},{}
+1st innings,Scotland,8.4,CS MacLeod,RA Jadeja,0,{},{}
+1st innings,Scotland,8.5,CS MacLeod,RA Jadeja,1,{},{}
+1st innings,Scotland,8.6,MA Leask,RA Jadeja,1,{},{}
+1st innings,Scotland,9.1,MA Leask,CV Varun,0,{},{}
+1st innings,Scotland,9.2,MA Leask,CV Varun,2,{},{}
+1st innings,Scotland,9.3,MA Leask,CV Varun,4,{},{}
+1st innings,Scotland,9.4,MA Leask,CV Varun,1,{},{}
+1st innings,Scotland,9.5,CS MacLeod,CV Varun,0,{},{}
+1st innings,Scotland,9.6,CS MacLeod,CV Varun,1,{},{}
+1st innings,Scotland,10.1,CS MacLeod,Mohammed Shami,1,{},{}
+1st innings,Scotland,10.2,MA Leask,Mohammed Shami,6,{},{}
+1st innings,Scotland,10.3,MA Leask,Mohammed Shami,4,{},{}
+1st innings,Scotland,10.4,MA Leask,Mohammed Shami,1,{},{}
+1st innings,Scotland,10.5,CS MacLeod,Mohammed Shami,0,{},{}
+1st innings,Scotland,10.6,CS MacLeod,Mohammed Shami,1,{},{}
+1st innings,Scotland,11.1,CS MacLeod,RA Jadeja,1,{},{}
+1st innings,Scotland,11.2,MA Leask,RA Jadeja,0,{},"{'player_out': 'MA Leask', 'kind': 'lbw'}"
+1st innings,Scotland,11.3,CN Greaves,RA Jadeja,1,{},{}
+1st innings,Scotland,11.4,CS MacLeod,RA Jadeja,0,{},{}
+1st innings,Scotland,11.5,CS MacLeod,RA Jadeja,0,{},{}
+1st innings,Scotland,11.6,CS MacLeod,RA Jadeja,1,{},{}
+1st innings,Scotland,12.1,CS MacLeod,JJ Bumrah,0,{},{}
+1st innings,Scotland,12.2,CS MacLeod,JJ Bumrah,0,{},{}
+1st innings,Scotland,12.3,CS MacLeod,JJ Bumrah,1,{},{}
+1st innings,Scotland,12.4,CN Greaves,JJ Bumrah,0,{},{}
+1st innings,Scotland,12.5,CN Greaves,JJ Bumrah,0,{},{}
+1st innings,Scotland,12.6,CN Greaves,JJ Bumrah,0,{},{}
+1st innings,Scotland,13.1,CS MacLeod,R Ashwin,1,{},{}
+1st innings,Scotland,13.2,CN Greaves,R Ashwin,0,{},{}
+1st innings,Scotland,13.3,CN Greaves,R Ashwin,0,{},{}
+1st innings,Scotland,13.4,CN Greaves,R Ashwin,1,{'wides': 1},{}
+1st innings,Scotland,13.5,CN Greaves,R Ashwin,0,{},"{'player_out': 'CN Greaves', 'fielders': ['HH Pandya'], 'kind': 'caught'}"
+1st innings,Scotland,13.6,CS MacLeod,R Ashwin,1,{},{}
+1st innings,Scotland,13.7,MRJ Watt,R Ashwin,0,{},{}
+1st innings,Scotland,14.1,CS MacLeod,RA Jadeja,1,{},{}
+1st innings,Scotland,14.2,MRJ Watt,RA Jadeja,0,{},{}
+1st innings,Scotland,14.3,MRJ Watt,RA Jadeja,0,{},{}
+1st innings,Scotland,14.4,MRJ Watt,RA Jadeja,4,{},{}
+1st innings,Scotland,14.5,MRJ Watt,RA Jadeja,0,{},{}
+1st innings,Scotland,14.6,MRJ Watt,RA Jadeja,1,{},{}
+1st innings,Scotland,15.1,MRJ Watt,R Ashwin,4,{},{}
+1st innings,Scotland,15.2,MRJ Watt,R Ashwin,1,{},{}
+1st innings,Scotland,15.3,CS MacLeod,R Ashwin,1,{},{}
+1st innings,Scotland,15.4,MRJ Watt,R Ashwin,0,{},{}
+1st innings,Scotland,15.5,MRJ Watt,R Ashwin,2,{},{}
+1st innings,Scotland,15.6,MRJ Watt,R Ashwin,2,{'wides': 2},{}
+1st innings,Scotland,15.7,CS MacLeod,R Ashwin,1,{},{}
+1st innings,Scotland,16.1,CS MacLeod,Mohammed Shami,0,{},"{'player_out': 'CS MacLeod', 'kind': 'bowled'}"
+1st innings,Scotland,16.2,SM Sharif,Mohammed Shami,0,{},"{'player_out': 'SM Sharif', 'fielders': ['Ishan Kishan (sub)'], 'kind': 'run out'}"
+1st innings,Scotland,16.3,AC Evans,Mohammed Shami,0,{},"{'player_out': 'AC Evans', 'kind': 'bowled'}"
+1st innings,Scotland,16.4,BTJ Wheal,Mohammed Shami,1,{},{}
+1st innings,Scotland,16.5,MRJ Watt,Mohammed Shami,1,{},{}
+1st innings,Scotland,16.6,BTJ Wheal,Mohammed Shami,0,{},{}
+1st innings,Scotland,17.1,MRJ Watt,JJ Bumrah,1,{},{}
+1st innings,Scotland,17.2,BTJ Wheal,JJ Bumrah,0,{},{}
+1st innings,Scotland,17.3,BTJ Wheal,JJ Bumrah,1,{},{}
+1st innings,Scotland,17.4,MRJ Watt,JJ Bumrah,0,{},"{'player_out': 'MRJ Watt', 'kind': 'bowled'}"
+2nd innings,India,0.1,KL Rahul,MRJ Watt,1,{},{}
+2nd innings,India,0.2,RG Sharma,MRJ Watt,0,{},{}
+2nd innings,India,0.3,RG Sharma,MRJ Watt,1,{},{}
+2nd innings,India,0.4,KL Rahul,MRJ Watt,1,{},{}
+2nd innings,India,0.5,RG Sharma,MRJ Watt,4,{},{}
+2nd innings,India,0.6,RG Sharma,MRJ Watt,1,{},{}
+2nd innings,India,1.1,RG Sharma,BTJ Wheal,1,{},{}
+2nd innings,India,1.2,KL Rahul,BTJ Wheal,4,{},{}
+2nd innings,India,1.3,KL Rahul,BTJ Wheal,4,{},{}
+2nd innings,India,1.4,KL Rahul,BTJ Wheal,1,{'wides': 1},{}
+2nd innings,India,1.5,KL Rahul,BTJ Wheal,0,{},{}
+2nd innings,India,1.6,KL Rahul,BTJ Wheal,4,{},{}
+2nd innings,India,1.7,KL Rahul,BTJ Wheal,1,{},{}
+2nd innings,India,2.1,KL Rahul,AC Evans,4,{},{}
+2nd innings,India,2.2,KL Rahul,AC Evans,6,{},{}
+2nd innings,India,2.3,KL Rahul,AC Evans,1,{},{}
+2nd innings,India,2.4,RG Sharma,AC Evans,0,{},{}
+2nd innings,India,2.5,RG Sharma,AC Evans,4,{},{}
+2nd innings,India,2.6,RG Sharma,AC Evans,1,{},{}
+2nd innings,India,3.1,RG Sharma,SM Sharif,6,{},{}
+2nd innings,India,3.2,RG Sharma,SM Sharif,0,{},{}
+2nd innings,India,3.3,RG Sharma,SM Sharif,4,{},{}
+2nd innings,India,3.4,RG Sharma,SM Sharif,0,{},{}
+2nd innings,India,3.5,RG Sharma,SM Sharif,4,{},{}
+2nd innings,India,3.6,RG Sharma,SM Sharif,0,{},{}
+2nd innings,India,4.1,KL Rahul,BTJ Wheal,2,{},{}
+2nd innings,India,4.2,KL Rahul,BTJ Wheal,4,{},{}
+2nd innings,India,4.3,KL Rahul,BTJ Wheal,6,{},{}
+2nd innings,India,4.4,KL Rahul,BTJ Wheal,1,{},{}
+2nd innings,India,4.5,RG Sharma,BTJ Wheal,4,{},{}
+2nd innings,India,4.6,RG Sharma,BTJ Wheal,0,{},"{'player_out': 'RG Sharma', 'kind': 'lbw'}"
+2nd innings,India,5.1,KL Rahul,MRJ Watt,4,{},{}
+2nd innings,India,5.2,KL Rahul,MRJ Watt,0,{},{}
+2nd innings,India,5.3,KL Rahul,MRJ Watt,6,{},{}
+2nd innings,India,5.4,KL Rahul,MRJ Watt,1,{},{}
+2nd innings,India,5.5,V Kohli,MRJ Watt,1,{},{}
+2nd innings,India,5.6,KL Rahul,MRJ Watt,0,{},"{'player_out': 'KL Rahul', 'fielders': ['CS MacLeod'], 'kind': 'caught'}"
+2nd innings,India,6.1,V Kohli,CN Greaves,1,{},{}
+2nd innings,India,6.2,SA Yadav,CN Greaves,0,{},{}
+2nd innings,India,6.3,SA Yadav,CN Greaves,6,{},{}

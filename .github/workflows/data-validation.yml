@@ -1,0 +1,89 @@
+# GitHub Actions Workflow - Data Validation
+# Validates data processing and quality checks
+
+name: Data Validation
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/**.py'
+      - 'data/processed/**.csv'
+  pull_request:
+    branches: [ main ]
+  schedule:
+    # Run weekly on Monday at 9 AM UTC
+    - cron: '0 9 * * 1'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  validate-data:
+    name: Validate Processed Data
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas pytest
+
+    - name: Run data validation tests
+      run: |
+        pytest tests/test_data_processing.py -v
+
+    - name: Generate data quality report
+      run: |
+        python -c "
+        import pandas as pd
+        from pathlib import Path
+
+        processed_dir = Path('data/processed')
+
+        if processed_dir.exists():
+            print('📊 Data Quality Report')
+            print('=' * 60)
+
+            for csv_file in processed_dir.glob('*.csv'):
+                df = pd.read_csv(csv_file)
+                print(f'\n{csv_file.name}:')
+                print(f'  Rows: {len(df):,}')
+                print(f'  Columns: {len(df.columns)}')
+                print(f'  Memory: {df.memory_usage(deep=True).sum() / 1024**2:.2f} MB')
+                print(f'  Null values: {df.isnull().sum().sum()}')
+        else:
+            print('⚠️  No processed data found')
+        "
+
+  data-processing-test:
+    name: Test Data Processing Pipeline
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Test cricpy loader imports
+      run: |
+        python -c "from scripts.cricpy_loader import load_yaml, parse_match_info, parse_match; print('✅ Cricpy loader imports successful')"
+
+    - name: Test downloader imports
+      run: |
+        python -c "from scripts.cricsheet_downloader import CricsheetDownloader; print('✅ Downloader imports successful')"

@@ -1,0 +1,241 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,India,0.1,KL Rahul,WD Parnell,0,{},{}
+1st innings,India,0.2,KL Rahul,WD Parnell,0,{},{}
+1st innings,India,0.3,KL Rahul,WD Parnell,0,{},{}
+1st innings,India,0.4,KL Rahul,WD Parnell,0,{},{}
+1st innings,India,0.5,KL Rahul,WD Parnell,0,{},{}
+1st innings,India,0.6,KL Rahul,WD Parnell,0,{},{}
+1st innings,India,1.1,RG Sharma,K Rabada,0,{},{}
+1st innings,India,1.2,RG Sharma,K Rabada,0,{},{}
+1st innings,India,1.3,RG Sharma,K Rabada,0,{},{}
+1st innings,India,1.4,RG Sharma,K Rabada,6,{},{}
+1st innings,India,1.5,RG Sharma,K Rabada,0,{},{}
+1st innings,India,1.6,RG Sharma,K Rabada,0,{},{}
+1st innings,India,2.1,KL Rahul,WD Parnell,0,{},{}
+1st innings,India,2.2,KL Rahul,WD Parnell,6,{},{}
+1st innings,India,2.3,KL Rahul,WD Parnell,1,{},{}
+1st innings,India,2.4,RG Sharma,WD Parnell,1,{},{}
+1st innings,India,2.5,KL Rahul,WD Parnell,0,{},{}
+1st innings,India,2.6,KL Rahul,WD Parnell,0,{},{}
+1st innings,India,3.1,RG Sharma,K Rabada,0,{},{}
+1st innings,India,3.2,RG Sharma,K Rabada,1,{},{}
+1st innings,India,3.3,KL Rahul,K Rabada,1,{},{}
+1st innings,India,3.4,RG Sharma,K Rabada,4,{},{}
+1st innings,India,3.5,RG Sharma,K Rabada,0,{},{}
+1st innings,India,3.6,RG Sharma,K Rabada,1,{},{}
+1st innings,India,4.1,RG Sharma,L Ngidi,2,{},{}
+1st innings,India,4.2,RG Sharma,L Ngidi,0,{},"{'player_out': 'RG Sharma', 'kind': 'caught and bowled'}"
+1st innings,India,4.3,V Kohli,L Ngidi,1,{},{}
+1st innings,India,4.4,KL Rahul,L Ngidi,1,{},{}
+1st innings,India,4.5,V Kohli,L Ngidi,1,{},{}
+1st innings,India,4.6,KL Rahul,L Ngidi,0,{},"{'player_out': 'KL Rahul', 'fielders': ['AK Markram'], 'kind': 'caught'}"
+1st innings,India,5.1,V Kohli,A Nortje,4,{'byes': 4},{}
+1st innings,India,5.2,V Kohli,A Nortje,1,{},{}
+1st innings,India,5.3,SA Yadav,A Nortje,1,{},{}
+1st innings,India,5.4,V Kohli,A Nortje,0,{},{}
+1st innings,India,5.5,V Kohli,A Nortje,1,{},{}
+1st innings,India,5.6,SA Yadav,A Nortje,0,{},{}
+1st innings,India,6.1,V Kohli,L Ngidi,4,{},{}
+1st innings,India,6.2,V Kohli,L Ngidi,4,{},{}
+1st innings,India,6.3,V Kohli,L Ngidi,0,{},{}
+1st innings,India,6.4,V Kohli,L Ngidi,0,{},{}
+1st innings,India,6.5,V Kohli,L Ngidi,0,{},"{'player_out': 'V Kohli', 'fielders': ['K Rabada'], 'kind': 'caught'}"
+1st innings,India,6.6,DJ Hooda,L Ngidi,0,{},{}
+1st innings,India,7.1,SA Yadav,A Nortje,1,{},{}
+1st innings,India,7.2,DJ Hooda,A Nortje,0,{},{}
+1st innings,India,7.3,DJ Hooda,A Nortje,0,{},"{'player_out': 'DJ Hooda', 'fielders': ['Q de Kock'], 'kind': 'caught'}"
+1st innings,India,7.4,HH Pandya,A Nortje,1,{},{}
+1st innings,India,7.5,SA Yadav,A Nortje,4,{},{}
+1st innings,India,7.6,SA Yadav,A Nortje,0,{},{}
+1st innings,India,8.1,HH Pandya,L Ngidi,1,{},{}
+1st innings,India,8.2,SA Yadav,L Ngidi,1,{},{}
+1st innings,India,8.3,HH Pandya,L Ngidi,0,{},"{'player_out': 'HH Pandya', 'fielders': ['K Rabada'], 'kind': 'caught'}"
+1st innings,India,8.4,KD Karthik,L Ngidi,0,{},{}
+1st innings,India,8.5,KD Karthik,L Ngidi,1,{},{}
+1st innings,India,8.6,SA Yadav,L Ngidi,1,{},{}
+1st innings,India,9.1,SA Yadav,A Nortje,2,{},{}
+1st innings,India,9.2,SA Yadav,A Nortje,6,{},{}
+1st innings,India,9.3,SA Yadav,A Nortje,0,{},{}
+1st innings,India,9.4,SA Yadav,A Nortje,0,{},{}
+1st innings,India,9.5,SA Yadav,A Nortje,0,{},{}
+1st innings,India,9.6,SA Yadav,A Nortje,1,{},{}
+1st innings,India,10.1,SA Yadav,KA Maharaj,4,{},{}
+1st innings,India,10.2,SA Yadav,KA Maharaj,1,{},{}
+1st innings,India,10.3,KD Karthik,KA Maharaj,0,{},{}
+1st innings,India,10.4,KD Karthik,KA Maharaj,1,{},{}
+1st innings,India,10.5,SA Yadav,KA Maharaj,1,{},{}
+1st innings,India,10.6,KD Karthik,KA Maharaj,0,{},{}
+1st innings,India,11.1,SA Yadav,K Rabada,1,{},{}
+1st innings,India,11.2,KD Karthik,K Rabada,0,{},{}
+1st innings,India,11.3,KD Karthik,K Rabada,1,{'wides': 1},{}
+1st innings,India,11.4,KD Karthik,K Rabada,1,{'legbyes': 1},{}
+1st innings,India,11.5,SA Yadav,K Rabada,3,{},{}
+1st innings,India,11.6,KD Karthik,K Rabada,0,{},{}
+1st innings,India,11.7,KD Karthik,K Rabada,0,{},{}
+1st innings,India,12.1,SA Yadav,KA Maharaj,0,{},{}
+1st innings,India,12.2,SA Yadav,KA Maharaj,1,{},{}
+1st innings,India,12.3,KD Karthik,KA Maharaj,1,{},{}
+1st innings,India,12.4,SA Yadav,KA Maharaj,6,{},{}
+1st innings,India,12.5,SA Yadav,KA Maharaj,2,{},{}
+1st innings,India,12.6,SA Yadav,KA Maharaj,1,{},{}
+1st innings,India,13.1,SA Yadav,AK Markram,1,{},{}
+1st innings,India,13.2,KD Karthik,AK Markram,0,{},{}
+1st innings,India,13.3,KD Karthik,AK Markram,1,{},{}
+1st innings,India,13.4,SA Yadav,AK Markram,1,{},{}
+1st innings,India,13.5,KD Karthik,AK Markram,1,{},{}
+1st innings,India,13.6,SA Yadav,AK Markram,1,{},{}
+1st innings,India,14.1,SA Yadav,L Ngidi,6,{},{}
+1st innings,India,14.2,SA Yadav,L Ngidi,0,{},{}
+1st innings,India,14.3,SA Yadav,L Ngidi,0,{},{}
+1st innings,India,14.4,SA Yadav,L Ngidi,4,{},{}
+1st innings,India,14.5,SA Yadav,L Ngidi,1,{},{}
+1st innings,India,14.6,KD Karthik,L Ngidi,1,{},{}
+1st innings,India,15.1,KD Karthik,WD Parnell,0,{},"{'player_out': 'KD Karthik', 'fielders': ['RR Rossouw'], 'kind': 'caught'}"
+1st innings,India,15.2,R Ashwin,WD Parnell,0,{},{}
+1st innings,India,15.3,R Ashwin,WD Parnell,2,{},{}
+1st innings,India,15.4,R Ashwin,WD Parnell,0,{},{}
+1st innings,India,15.5,R Ashwin,WD Parnell,1,{},{}
+1st innings,India,15.6,SA Yadav,WD Parnell,1,{},{}
+1st innings,India,16.1,SA Yadav,KA Maharaj,1,{},{}
+1st innings,India,16.2,R Ashwin,KA Maharaj,0,{},{}
+1st innings,India,16.3,R Ashwin,KA Maharaj,1,{},{}
+1st innings,India,16.4,SA Yadav,KA Maharaj,0,{},{}
+1st innings,India,16.5,SA Yadav,KA Maharaj,4,{},{}
+1st innings,India,16.6,SA Yadav,KA Maharaj,4,{},{}
+1st innings,India,17.1,R Ashwin,K Rabada,0,{},{}
+1st innings,India,17.2,R Ashwin,K Rabada,2,{},{}
+1st innings,India,17.3,R Ashwin,K Rabada,1,{'legbyes': 1},{}
+1st innings,India,17.4,SA Yadav,K Rabada,4,{},{}
+1st innings,India,17.5,SA Yadav,K Rabada,1,{},{}
+1st innings,India,17.6,R Ashwin,K Rabada,1,{},{}
+1st innings,India,18.1,R Ashwin,WD Parnell,0,{},"{'player_out': 'R Ashwin', 'fielders': ['K Rabada'], 'kind': 'caught'}"
+1st innings,India,18.2,B Kumar,WD Parnell,0,{},{}
+1st innings,India,18.3,B Kumar,WD Parnell,1,{},{}
+1st innings,India,18.4,SA Yadav,WD Parnell,2,{},{}
+1st innings,India,18.5,SA Yadav,WD Parnell,0,{},"{'player_out': 'SA Yadav', 'fielders': ['KA Maharaj'], 'kind': 'caught'}"
+1st innings,India,18.6,Mohammed Shami,WD Parnell,0,{},{}
+1st innings,India,19.1,B Kumar,A Nortje,2,{},{}
+1st innings,India,19.2,B Kumar,A Nortje,0,{},{}
+1st innings,India,19.3,B Kumar,A Nortje,1,{},{}
+1st innings,India,19.4,Mohammed Shami,A Nortje,0,{},"{'player_out': 'Mohammed Shami', 'fielders': ['A Nortje'], 'kind': 'run out'}"
+1st innings,India,19.5,B Kumar,A Nortje,1,{'byes': 1},{}
+1st innings,India,19.6,Arshdeep Singh,A Nortje,2,{},{}
+2nd innings,South Africa,0.1,Q de Kock,B Kumar,0,{},{}
+2nd innings,South Africa,0.2,Q de Kock,B Kumar,1,{},{}
+2nd innings,South Africa,0.3,T Bavuma,B Kumar,0,{},{}
+2nd innings,South Africa,0.4,T Bavuma,B Kumar,0,{},{}
+2nd innings,South Africa,0.5,T Bavuma,B Kumar,2,{},{}
+2nd innings,South Africa,0.6,T Bavuma,B Kumar,0,{},{}
+2nd innings,South Africa,1.1,Q de Kock,Arshdeep Singh,0,{},"{'player_out': 'Q de Kock', 'fielders': ['KL Rahul'], 'kind': 'caught'}"
+2nd innings,South Africa,1.2,RR Rossouw,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,1.3,RR Rossouw,Arshdeep Singh,0,{},"{'player_out': 'RR Rossouw', 'kind': 'lbw'}"
+2nd innings,South Africa,1.4,AK Markram,Arshdeep Singh,4,{},{}
+2nd innings,South Africa,1.5,AK Markram,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,1.6,AK Markram,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,2.1,T Bavuma,B Kumar,0,{},{}
+2nd innings,South Africa,2.2,T Bavuma,B Kumar,1,{},{}
+2nd innings,South Africa,2.3,AK Markram,B Kumar,0,{},{}
+2nd innings,South Africa,2.4,AK Markram,B Kumar,1,{},{}
+2nd innings,South Africa,2.5,T Bavuma,B Kumar,0,{},{}
+2nd innings,South Africa,2.6,T Bavuma,B Kumar,0,{},{}
+2nd innings,South Africa,3.1,AK Markram,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,3.2,AK Markram,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,3.3,AK Markram,Arshdeep Singh,4,{},{}
+2nd innings,South Africa,3.4,AK Markram,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,3.5,AK Markram,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,3.6,AK Markram,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,4.1,T Bavuma,B Kumar,0,{},{}
+2nd innings,South Africa,4.2,T Bavuma,B Kumar,0,{},{}
+2nd innings,South Africa,4.3,T Bavuma,B Kumar,1,{'legbyes': 1},{}
+2nd innings,South Africa,4.4,AK Markram,B Kumar,1,{},{}
+2nd innings,South Africa,4.5,T Bavuma,B Kumar,0,{},{}
+2nd innings,South Africa,4.6,T Bavuma,B Kumar,6,{},{}
+2nd innings,South Africa,5.1,AK Markram,Mohammed Shami,1,{},{}
+2nd innings,South Africa,5.2,T Bavuma,Mohammed Shami,1,{},{}
+2nd innings,South Africa,5.3,AK Markram,Mohammed Shami,1,{},{}
+2nd innings,South Africa,5.4,T Bavuma,Mohammed Shami,0,{},"{'player_out': 'T Bavuma', 'fielders': ['KD Karthik'], 'kind': 'caught'}"
+2nd innings,South Africa,5.5,DA Miller,Mohammed Shami,0,{},{}
+2nd innings,South Africa,5.6,DA Miller,Mohammed Shami,0,{},{}
+2nd innings,South Africa,6.1,AK Markram,HH Pandya,1,{},{}
+2nd innings,South Africa,6.2,DA Miller,HH Pandya,0,{},{}
+2nd innings,South Africa,6.3,DA Miller,HH Pandya,0,{},{}
+2nd innings,South Africa,6.4,DA Miller,HH Pandya,1,{},{}
+2nd innings,South Africa,6.5,AK Markram,HH Pandya,4,{},{}
+2nd innings,South Africa,6.6,AK Markram,HH Pandya,2,{},{}
+2nd innings,South Africa,7.1,DA Miller,Mohammed Shami,0,{},{}
+2nd innings,South Africa,7.2,DA Miller,Mohammed Shami,0,{},{}
+2nd innings,South Africa,7.3,DA Miller,Mohammed Shami,1,{},{}
+2nd innings,South Africa,7.4,AK Markram,Mohammed Shami,0,{},{}
+2nd innings,South Africa,7.5,AK Markram,Mohammed Shami,0,{},{}
+2nd innings,South Africa,7.6,AK Markram,Mohammed Shami,0,{},{}
+2nd innings,South Africa,8.1,DA Miller,HH Pandya,1,{},{}
+2nd innings,South Africa,8.2,AK Markram,HH Pandya,0,{},{}
+2nd innings,South Africa,8.3,AK Markram,HH Pandya,1,{},{}
+2nd innings,South Africa,8.4,DA Miller,HH Pandya,0,{},{}
+2nd innings,South Africa,8.5,DA Miller,HH Pandya,0,{},{}
+2nd innings,South Africa,8.6,DA Miller,HH Pandya,0,{},{}
+2nd innings,South Africa,9.1,AK Markram,R Ashwin,1,{},{}
+2nd innings,South Africa,9.2,DA Miller,R Ashwin,1,{},{}
+2nd innings,South Africa,9.3,AK Markram,R Ashwin,1,{},{}
+2nd innings,South Africa,9.4,DA Miller,R Ashwin,0,{},{}
+2nd innings,South Africa,9.5,DA Miller,R Ashwin,1,{},{}
+2nd innings,South Africa,9.6,AK Markram,R Ashwin,1,{},{}
+2nd innings,South Africa,10.1,AK Markram,HH Pandya,2,{},{}
+2nd innings,South Africa,10.2,AK Markram,HH Pandya,4,{},{}
+2nd innings,South Africa,10.3,AK Markram,HH Pandya,1,{},{}
+2nd innings,South Africa,10.4,DA Miller,HH Pandya,4,{},{}
+2nd innings,South Africa,10.5,DA Miller,HH Pandya,1,{},{}
+2nd innings,South Africa,10.6,AK Markram,HH Pandya,4,{'byes': 4},{}
+2nd innings,South Africa,11.1,DA Miller,R Ashwin,1,{},{}
+2nd innings,South Africa,11.2,AK Markram,R Ashwin,4,{},{}
+2nd innings,South Africa,11.3,AK Markram,R Ashwin,1,{},{}
+2nd innings,South Africa,11.4,DA Miller,R Ashwin,1,{},{}
+2nd innings,South Africa,11.5,AK Markram,R Ashwin,1,{},{}
+2nd innings,South Africa,11.6,DA Miller,R Ashwin,1,{},{}
+2nd innings,South Africa,12.1,DA Miller,Mohammed Shami,0,{},{}
+2nd innings,South Africa,12.2,DA Miller,Mohammed Shami,2,{},{}
+2nd innings,South Africa,12.3,DA Miller,Mohammed Shami,0,{},{}
+2nd innings,South Africa,12.4,DA Miller,Mohammed Shami,0,{},{}
+2nd innings,South Africa,12.5,DA Miller,Mohammed Shami,1,{},{}
+2nd innings,South Africa,12.6,AK Markram,Mohammed Shami,0,{},{}
+2nd innings,South Africa,13.1,DA Miller,R Ashwin,6,{},{}
+2nd innings,South Africa,13.2,DA Miller,R Ashwin,2,{},{}
+2nd innings,South Africa,13.3,DA Miller,R Ashwin,1,{},{}
+2nd innings,South Africa,13.4,AK Markram,R Ashwin,1,{},{}
+2nd innings,South Africa,13.5,DA Miller,R Ashwin,1,{},{}
+2nd innings,South Africa,13.6,AK Markram,R Ashwin,6,{},{}
+2nd innings,South Africa,14.1,DA Miller,Arshdeep Singh,1,{},{}
+2nd innings,South Africa,14.2,AK Markram,Arshdeep Singh,1,{},{}
+2nd innings,South Africa,14.3,DA Miller,Arshdeep Singh,1,{'wides': 1},{}
+2nd innings,South Africa,14.4,DA Miller,Arshdeep Singh,1,{},{}
+2nd innings,South Africa,14.5,AK Markram,Arshdeep Singh,4,{},{}
+2nd innings,South Africa,14.6,AK Markram,Arshdeep Singh,2,{},{}
+2nd innings,South Africa,14.7,AK Markram,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,15.1,DA Miller,HH Pandya,2,{},{}
+2nd innings,South Africa,15.2,DA Miller,HH Pandya,1,{},{}
+2nd innings,South Africa,15.3,AK Markram,HH Pandya,2,{},{}
+2nd innings,South Africa,15.4,AK Markram,HH Pandya,0,{},"{'player_out': 'AK Markram', 'fielders': ['SA Yadav'], 'kind': 'caught'}"
+2nd innings,South Africa,15.5,T Stubbs,HH Pandya,1,{},{}
+2nd innings,South Africa,15.6,DA Miller,HH Pandya,1,{},{}
+2nd innings,South Africa,16.1,DA Miller,Arshdeep Singh,1,{},{}
+2nd innings,South Africa,16.2,T Stubbs,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,16.3,T Stubbs,Arshdeep Singh,4,{},{}
+2nd innings,South Africa,16.4,T Stubbs,Arshdeep Singh,1,{},{}
+2nd innings,South Africa,16.5,DA Miller,Arshdeep Singh,1,{},{}
+2nd innings,South Africa,16.6,T Stubbs,Arshdeep Singh,0,{},{}
+2nd innings,South Africa,17.1,DA Miller,R Ashwin,6,{},{}
+2nd innings,South Africa,17.2,DA Miller,R Ashwin,6,{},{}
+2nd innings,South Africa,17.3,DA Miller,R Ashwin,1,{'legbyes': 1},{}
+2nd innings,South Africa,17.4,T Stubbs,R Ashwin,0,{},"{'player_out': 'T Stubbs', 'kind': 'lbw'}"
+2nd innings,South Africa,17.5,WD Parnell,R Ashwin,0,{},{}
+2nd innings,South Africa,17.6,WD Parnell,R Ashwin,0,{},{}
+2nd innings,South Africa,18.1,DA Miller,Mohammed Shami,4,{},{}
+2nd innings,South Africa,18.2,DA Miller,Mohammed Shami,0,{},{}
+2nd innings,South Africa,18.3,DA Miller,Mohammed Shami,0,{},{}
+2nd innings,South Africa,18.4,DA Miller,Mohammed Shami,1,{},{}
+2nd innings,South Africa,18.5,WD Parnell,Mohammed Shami,1,{},{}
+2nd innings,South Africa,18.6,DA Miller,Mohammed Shami,0,{},{}
+2nd innings,South Africa,19.1,WD Parnell,B Kumar,0,{},{}
+2nd innings,South Africa,19.2,WD Parnell,B Kumar,1,{},{}
+2nd innings,South Africa,19.3,DA Miller,B Kumar,4,{},{}
+2nd innings,South Africa,19.4,DA Miller,B Kumar,4,{},{}

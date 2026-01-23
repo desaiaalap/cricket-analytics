@@ -1,0 +1,257 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Sri Lanka,0.1,P Nissanka,RL Chase,0,{},{}
+1st innings,Sri Lanka,0.2,P Nissanka,RL Chase,1,{},{}
+1st innings,Sri Lanka,0.3,MDKJ Perera,RL Chase,4,{},{}
+1st innings,Sri Lanka,0.4,MDKJ Perera,RL Chase,0,{},{}
+1st innings,Sri Lanka,0.5,MDKJ Perera,RL Chase,0,{},{}
+1st innings,Sri Lanka,0.6,MDKJ Perera,RL Chase,1,{},{}
+1st innings,Sri Lanka,1.1,MDKJ Perera,JO Holder,2,{},{}
+1st innings,Sri Lanka,1.2,MDKJ Perera,JO Holder,0,{},{}
+1st innings,Sri Lanka,1.3,MDKJ Perera,JO Holder,0,{},{}
+1st innings,Sri Lanka,1.4,MDKJ Perera,JO Holder,2,{},{}
+1st innings,Sri Lanka,1.5,MDKJ Perera,JO Holder,0,{},{}
+1st innings,Sri Lanka,1.6,MDKJ Perera,JO Holder,4,{},{}
+1st innings,Sri Lanka,2.1,P Nissanka,R Rampaul,1,{'wides': 1},{}
+1st innings,Sri Lanka,2.2,P Nissanka,R Rampaul,1,{},{}
+1st innings,Sri Lanka,2.3,MDKJ Perera,R Rampaul,0,{},{}
+1st innings,Sri Lanka,2.4,MDKJ Perera,R Rampaul,2,{},{}
+1st innings,Sri Lanka,2.5,MDKJ Perera,R Rampaul,2,{},{}
+1st innings,Sri Lanka,2.6,MDKJ Perera,R Rampaul,1,{},{}
+1st innings,Sri Lanka,2.7,P Nissanka,R Rampaul,0,{},{}
+1st innings,Sri Lanka,3.1,MDKJ Perera,JO Holder,1,{},{}
+1st innings,Sri Lanka,3.2,P Nissanka,JO Holder,1,{'wides': 1},{}
+1st innings,Sri Lanka,3.3,P Nissanka,JO Holder,0,{},{}
+1st innings,Sri Lanka,3.4,P Nissanka,JO Holder,1,{},{}
+1st innings,Sri Lanka,3.5,MDKJ Perera,JO Holder,0,{},{}
+1st innings,Sri Lanka,3.6,MDKJ Perera,JO Holder,1,{},{}
+1st innings,Sri Lanka,3.7,P Nissanka,JO Holder,4,{},{}
+1st innings,Sri Lanka,4.1,MDKJ Perera,R Rampaul,6,{},{}
+1st innings,Sri Lanka,4.2,MDKJ Perera,R Rampaul,3,{},{}
+1st innings,Sri Lanka,4.3,P Nissanka,R Rampaul,0,{},{}
+1st innings,Sri Lanka,4.4,P Nissanka,R Rampaul,2,{},{}
+1st innings,Sri Lanka,4.5,P Nissanka,R Rampaul,0,{},{}
+1st innings,Sri Lanka,4.6,P Nissanka,R Rampaul,2,{},{}
+1st innings,Sri Lanka,5.1,MDKJ Perera,AD Russell,0,{},{}
+1st innings,Sri Lanka,5.2,MDKJ Perera,AD Russell,0,{},"{'player_out': 'MDKJ Perera', 'kind': 'caught and bowled'}"
+1st innings,Sri Lanka,5.3,KIC Asalanka,AD Russell,0,{},{}
+1st innings,Sri Lanka,5.4,KIC Asalanka,AD Russell,1,{},{}
+1st innings,Sri Lanka,5.5,P Nissanka,AD Russell,1,{},{}
+1st innings,Sri Lanka,5.6,KIC Asalanka,AD Russell,4,{},{}
+1st innings,Sri Lanka,6.1,P Nissanka,AJ Hosein,1,{},{}
+1st innings,Sri Lanka,6.2,KIC Asalanka,AJ Hosein,4,{},{}
+1st innings,Sri Lanka,6.3,KIC Asalanka,AJ Hosein,2,{},{}
+1st innings,Sri Lanka,6.4,KIC Asalanka,AJ Hosein,1,{},{}
+1st innings,Sri Lanka,6.5,P Nissanka,AJ Hosein,4,{},{}
+1st innings,Sri Lanka,6.6,P Nissanka,AJ Hosein,1,{},{}
+1st innings,Sri Lanka,7.1,P Nissanka,AD Russell,2,{},{}
+1st innings,Sri Lanka,7.2,P Nissanka,AD Russell,0,{},{}
+1st innings,Sri Lanka,7.3,P Nissanka,AD Russell,0,{},{}
+1st innings,Sri Lanka,7.4,P Nissanka,AD Russell,1,{},{}
+1st innings,Sri Lanka,7.5,KIC Asalanka,AD Russell,2,{},{}
+1st innings,Sri Lanka,7.6,KIC Asalanka,AD Russell,1,{},{}
+1st innings,Sri Lanka,8.1,KIC Asalanka,DJ Bravo,0,{},{}
+1st innings,Sri Lanka,8.2,KIC Asalanka,DJ Bravo,4,{},{}
+1st innings,Sri Lanka,8.3,KIC Asalanka,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,8.4,P Nissanka,DJ Bravo,1,{'wides': 1},{}
+1st innings,Sri Lanka,8.5,P Nissanka,DJ Bravo,2,{},{}
+1st innings,Sri Lanka,8.6,P Nissanka,DJ Bravo,0,{},{}
+1st innings,Sri Lanka,8.7,P Nissanka,DJ Bravo,2,{},{}
+1st innings,Sri Lanka,9.1,KIC Asalanka,JO Holder,1,{},{}
+1st innings,Sri Lanka,9.2,P Nissanka,JO Holder,0,{},{}
+1st innings,Sri Lanka,9.3,P Nissanka,JO Holder,1,{},{}
+1st innings,Sri Lanka,9.4,KIC Asalanka,JO Holder,2,{},{}
+1st innings,Sri Lanka,9.5,KIC Asalanka,JO Holder,0,{},{}
+1st innings,Sri Lanka,9.6,KIC Asalanka,JO Holder,1,{},{}
+1st innings,Sri Lanka,10.1,KIC Asalanka,AJ Hosein,1,{},{}
+1st innings,Sri Lanka,10.2,P Nissanka,AJ Hosein,1,{},{}
+1st innings,Sri Lanka,10.3,KIC Asalanka,AJ Hosein,1,{},{}
+1st innings,Sri Lanka,10.4,P Nissanka,AJ Hosein,1,{},{}
+1st innings,Sri Lanka,10.5,KIC Asalanka,AJ Hosein,1,{},{}
+1st innings,Sri Lanka,10.6,P Nissanka,AJ Hosein,4,{},{}
+1st innings,Sri Lanka,11.1,KIC Asalanka,DJ Bravo,2,{},{}
+1st innings,Sri Lanka,11.2,KIC Asalanka,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,11.3,P Nissanka,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,11.4,KIC Asalanka,DJ Bravo,4,{},{}
+1st innings,Sri Lanka,11.5,KIC Asalanka,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,11.6,P Nissanka,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,12.1,P Nissanka,AD Russell,0,{},{}
+1st innings,Sri Lanka,12.2,P Nissanka,AD Russell,4,{},{}
+1st innings,Sri Lanka,12.3,P Nissanka,AD Russell,1,{},{}
+1st innings,Sri Lanka,12.4,KIC Asalanka,AD Russell,1,{},{}
+1st innings,Sri Lanka,12.5,P Nissanka,AD Russell,1,{},{}
+1st innings,Sri Lanka,12.6,KIC Asalanka,AD Russell,4,{},{}
+1st innings,Sri Lanka,13.1,P Nissanka,KA Pollard,1,{},{}
+1st innings,Sri Lanka,13.2,KIC Asalanka,KA Pollard,1,{},{}
+1st innings,Sri Lanka,13.3,P Nissanka,KA Pollard,2,{},{}
+1st innings,Sri Lanka,13.4,P Nissanka,KA Pollard,1,{},{}
+1st innings,Sri Lanka,13.5,KIC Asalanka,KA Pollard,1,{},{}
+1st innings,Sri Lanka,13.6,P Nissanka,KA Pollard,1,{'wides': 1},{}
+1st innings,Sri Lanka,13.7,P Nissanka,KA Pollard,1,{},{}
+1st innings,Sri Lanka,14.1,P Nissanka,R Rampaul,4,{},{}
+1st innings,Sri Lanka,14.2,P Nissanka,R Rampaul,2,{},{}
+1st innings,Sri Lanka,14.3,P Nissanka,R Rampaul,1,{'legbyes': 1},{}
+1st innings,Sri Lanka,14.4,KIC Asalanka,R Rampaul,4,{},{}
+1st innings,Sri Lanka,14.5,KIC Asalanka,R Rampaul,0,{},{}
+1st innings,Sri Lanka,14.6,KIC Asalanka,R Rampaul,1,{},{}
+1st innings,Sri Lanka,15.1,KIC Asalanka,DJ Bravo,0,{},{}
+1st innings,Sri Lanka,15.2,KIC Asalanka,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,15.3,P Nissanka,DJ Bravo,0,{},"{'player_out': 'P Nissanka', 'fielders': ['SO Hetmyer'], 'kind': 'caught'}"
+1st innings,Sri Lanka,15.4,KIC Asalanka,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,15.5,MD Shanaka,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,15.6,KIC Asalanka,DJ Bravo,1,{'wides': 1},{}
+1st innings,Sri Lanka,15.7,KIC Asalanka,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,16.1,KIC Asalanka,JO Holder,1,{},{}
+1st innings,Sri Lanka,16.2,MD Shanaka,JO Holder,1,{'wides': 1},{}
+1st innings,Sri Lanka,16.3,MD Shanaka,JO Holder,6,{},{}
+1st innings,Sri Lanka,16.4,MD Shanaka,JO Holder,1,{},{}
+1st innings,Sri Lanka,16.5,KIC Asalanka,JO Holder,1,{},{}
+1st innings,Sri Lanka,16.6,MD Shanaka,JO Holder,2,{},{}
+1st innings,Sri Lanka,16.7,MD Shanaka,JO Holder,4,{},{}
+1st innings,Sri Lanka,17.1,KIC Asalanka,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,17.2,MD Shanaka,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,17.3,KIC Asalanka,DJ Bravo,6,{},{}
+1st innings,Sri Lanka,17.4,KIC Asalanka,DJ Bravo,1,{'wides': 1},{}
+1st innings,Sri Lanka,17.5,KIC Asalanka,DJ Bravo,1,{'wides': 1},{}
+1st innings,Sri Lanka,17.6,KIC Asalanka,DJ Bravo,1,{'wides': 1},{}
+1st innings,Sri Lanka,17.7,KIC Asalanka,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,17.8,MD Shanaka,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,17.9,KIC Asalanka,DJ Bravo,4,{},{}
+1st innings,Sri Lanka,18.1,MD Shanaka,AD Russell,4,{},{}
+1st innings,Sri Lanka,18.2,MD Shanaka,AD Russell,1,{},{}
+1st innings,Sri Lanka,18.3,KIC Asalanka,AD Russell,4,{},{}
+1st innings,Sri Lanka,18.4,KIC Asalanka,AD Russell,0,{},"{'player_out': 'KIC Asalanka', 'fielders': ['SO Hetmyer'], 'kind': 'caught'}"
+1st innings,Sri Lanka,18.5,MD Shanaka,AD Russell,0,{},{}
+1st innings,Sri Lanka,18.6,MD Shanaka,AD Russell,1,{},{}
+1st innings,Sri Lanka,19.1,MD Shanaka,R Rampaul,1,{'legbyes': 1},{}
+1st innings,Sri Lanka,19.2,C Karunaratne,R Rampaul,2,{},{}
+1st innings,Sri Lanka,19.3,C Karunaratne,R Rampaul,1,{},{}
+1st innings,Sri Lanka,19.4,MD Shanaka,R Rampaul,2,{},{}
+1st innings,Sri Lanka,19.5,MD Shanaka,R Rampaul,1,{},{}
+1st innings,Sri Lanka,19.6,C Karunaratne,R Rampaul,2,{'legbyes': 2},{}
+2nd innings,West Indies,0.1,CH Gayle,M Theekshana,0,{},{}
+2nd innings,West Indies,0.2,CH Gayle,M Theekshana,0,{},{}
+2nd innings,West Indies,0.3,CH Gayle,M Theekshana,1,{},{}
+2nd innings,West Indies,0.4,E Lewis,M Theekshana,0,{},{}
+2nd innings,West Indies,0.5,E Lewis,M Theekshana,0,{},{}
+2nd innings,West Indies,0.6,E Lewis,M Theekshana,0,{},{}
+2nd innings,West Indies,1.1,CH Gayle,B Fernando,0,{},{}
+2nd innings,West Indies,1.2,CH Gayle,B Fernando,0,{},"{'player_out': 'CH Gayle', 'fielders': ['PWH de Silva'], 'kind': 'caught'}"
+2nd innings,West Indies,1.3,N Pooran,B Fernando,1,{},{}
+2nd innings,West Indies,1.4,E Lewis,B Fernando,4,{},{}
+2nd innings,West Indies,1.5,E Lewis,B Fernando,4,{},{}
+2nd innings,West Indies,1.6,E Lewis,B Fernando,0,{},"{'player_out': 'E Lewis', 'kind': 'bowled'}"
+2nd innings,West Indies,2.1,N Pooran,M Theekshana,0,{},{}
+2nd innings,West Indies,2.2,N Pooran,M Theekshana,4,{},{}
+2nd innings,West Indies,2.3,N Pooran,M Theekshana,0,{},{}
+2nd innings,West Indies,2.4,N Pooran,M Theekshana,2,{},{}
+2nd innings,West Indies,2.5,N Pooran,M Theekshana,3,{},{}
+2nd innings,West Indies,2.6,RL Chase,M Theekshana,0,{},{}
+2nd innings,West Indies,3.1,N Pooran,B Fernando,4,{},{}
+2nd innings,West Indies,3.2,N Pooran,B Fernando,6,{},{}
+2nd innings,West Indies,3.3,N Pooran,B Fernando,1,{'noballs': 1},{}
+2nd innings,West Indies,3.4,N Pooran,B Fernando,4,{},{}
+2nd innings,West Indies,3.5,N Pooran,B Fernando,0,{},{}
+2nd innings,West Indies,3.6,N Pooran,B Fernando,0,{},{}
+2nd innings,West Indies,3.7,N Pooran,B Fernando,0,{},{}
+2nd innings,West Indies,4.1,RL Chase,PVD Chameera,0,{},{}
+2nd innings,West Indies,4.2,RL Chase,PVD Chameera,4,{},{}
+2nd innings,West Indies,4.3,RL Chase,PVD Chameera,0,{},{}
+2nd innings,West Indies,4.4,RL Chase,PVD Chameera,1,{},{}
+2nd innings,West Indies,4.5,N Pooran,PVD Chameera,0,{},{}
+2nd innings,West Indies,4.6,N Pooran,PVD Chameera,4,{},{}
+2nd innings,West Indies,5.1,RL Chase,C Karunaratne,0,{},{}
+2nd innings,West Indies,5.2,RL Chase,C Karunaratne,4,{},{}
+2nd innings,West Indies,5.3,RL Chase,C Karunaratne,0,{},"{'player_out': 'RL Chase', 'fielders': ['PBB Rajapaksa'], 'kind': 'caught'}"
+2nd innings,West Indies,5.4,SO Hetmyer,C Karunaratne,0,{},{}
+2nd innings,West Indies,5.5,SO Hetmyer,C Karunaratne,1,{},{}
+2nd innings,West Indies,5.6,N Pooran,C Karunaratne,4,{},{}
+2nd innings,West Indies,6.1,SO Hetmyer,MD Shanaka,1,{},{}
+2nd innings,West Indies,6.2,N Pooran,MD Shanaka,0,{},{}
+2nd innings,West Indies,6.3,N Pooran,MD Shanaka,1,{},{}
+2nd innings,West Indies,6.4,SO Hetmyer,MD Shanaka,0,{},{}
+2nd innings,West Indies,6.5,SO Hetmyer,MD Shanaka,1,{},{}
+2nd innings,West Indies,6.6,N Pooran,MD Shanaka,1,{},{}
+2nd innings,West Indies,7.1,N Pooran,M Theekshana,0,{},{}
+2nd innings,West Indies,7.2,N Pooran,M Theekshana,1,{},{}
+2nd innings,West Indies,7.3,SO Hetmyer,M Theekshana,0,{},{}
+2nd innings,West Indies,7.4,SO Hetmyer,M Theekshana,1,{},{}
+2nd innings,West Indies,7.5,N Pooran,M Theekshana,1,{},{}
+2nd innings,West Indies,7.6,SO Hetmyer,M Theekshana,0,{},{}
+2nd innings,West Indies,8.1,N Pooran,C Karunaratne,0,{},{}
+2nd innings,West Indies,8.2,N Pooran,C Karunaratne,0,{},{}
+2nd innings,West Indies,8.3,N Pooran,C Karunaratne,1,{},{}
+2nd innings,West Indies,8.4,SO Hetmyer,C Karunaratne,1,{},{}
+2nd innings,West Indies,8.5,N Pooran,C Karunaratne,1,{},{}
+2nd innings,West Indies,8.6,SO Hetmyer,C Karunaratne,1,{},{}
+2nd innings,West Indies,9.1,SO Hetmyer,M Theekshana,1,{'legbyes': 1},{}
+2nd innings,West Indies,9.2,N Pooran,M Theekshana,0,{},{}
+2nd innings,West Indies,9.3,N Pooran,M Theekshana,1,{'wides': 1},{}
+2nd innings,West Indies,9.4,N Pooran,M Theekshana,4,{},{}
+2nd innings,West Indies,9.5,N Pooran,M Theekshana,1,{},{}
+2nd innings,West Indies,9.6,SO Hetmyer,M Theekshana,1,{},{}
+2nd innings,West Indies,9.7,N Pooran,M Theekshana,1,{},{}
+2nd innings,West Indies,10.1,N Pooran,PWH de Silva,1,{},{}
+2nd innings,West Indies,10.2,SO Hetmyer,PWH de Silva,1,{},{}
+2nd innings,West Indies,10.3,N Pooran,PWH de Silva,1,{'legbyes': 1},{}
+2nd innings,West Indies,10.4,SO Hetmyer,PWH de Silva,0,{},{}
+2nd innings,West Indies,10.5,SO Hetmyer,PWH de Silva,1,{},{}
+2nd innings,West Indies,10.6,N Pooran,PWH de Silva,1,{},{}
+2nd innings,West Indies,11.1,N Pooran,PVD Chameera,0,{},"{'player_out': 'N Pooran', 'fielders': ['DM de Silva (sub)'], 'kind': 'caught'}"
+2nd innings,West Indies,11.2,SO Hetmyer,PVD Chameera,6,{},{}
+2nd innings,West Indies,11.3,SO Hetmyer,PVD Chameera,0,{},{}
+2nd innings,West Indies,11.4,SO Hetmyer,PVD Chameera,4,{},{}
+2nd innings,West Indies,11.5,SO Hetmyer,PVD Chameera,1,{},{}
+2nd innings,West Indies,11.6,AD Russell,PVD Chameera,1,{},{}
+2nd innings,West Indies,12.1,AD Russell,PWH de Silva,0,{},{}
+2nd innings,West Indies,12.2,AD Russell,PWH de Silva,1,{},{}
+2nd innings,West Indies,12.3,SO Hetmyer,PWH de Silva,2,{},{}
+2nd innings,West Indies,12.4,SO Hetmyer,PWH de Silva,2,{},{}
+2nd innings,West Indies,12.5,SO Hetmyer,PWH de Silva,0,{},{}
+2nd innings,West Indies,12.6,SO Hetmyer,PWH de Silva,0,{},{}
+2nd innings,West Indies,13.1,AD Russell,C Karunaratne,0,{},"{'player_out': 'AD Russell', 'kind': 'caught and bowled'}"
+2nd innings,West Indies,13.2,SO Hetmyer,C Karunaratne,4,{},{}
+2nd innings,West Indies,13.3,SO Hetmyer,C Karunaratne,1,{'wides': 1},{}
+2nd innings,West Indies,13.4,SO Hetmyer,C Karunaratne,4,{},{}
+2nd innings,West Indies,13.5,SO Hetmyer,C Karunaratne,4,{},{}
+2nd innings,West Indies,13.6,SO Hetmyer,C Karunaratne,0,{},{}
+2nd innings,West Indies,13.7,SO Hetmyer,C Karunaratne,0,{},{}
+2nd innings,West Indies,14.1,KA Pollard,PWH de Silva,0,{},"{'player_out': 'KA Pollard', 'kind': 'bowled'}"
+2nd innings,West Indies,14.2,JO Holder,PWH de Silva,1,{},{}
+2nd innings,West Indies,14.3,SO Hetmyer,PWH de Silva,0,{},{}
+2nd innings,West Indies,14.4,SO Hetmyer,PWH de Silva,1,{},{}
+2nd innings,West Indies,14.5,JO Holder,PWH de Silva,0,{},{}
+2nd innings,West Indies,14.6,JO Holder,PWH de Silva,1,{},{}
+2nd innings,West Indies,15.1,JO Holder,MD Shanaka,6,{},{}
+2nd innings,West Indies,15.2,JO Holder,MD Shanaka,1,{'wides': 1},{}
+2nd innings,West Indies,15.3,JO Holder,MD Shanaka,0,{},"{'player_out': 'JO Holder', 'fielders': ['C Karunaratne'], 'kind': 'caught'}"
+2nd innings,West Indies,15.4,SO Hetmyer,MD Shanaka,1,{'wides': 1},{}
+2nd innings,West Indies,15.5,SO Hetmyer,MD Shanaka,1,{},{}
+2nd innings,West Indies,15.6,DJ Bravo,MD Shanaka,2,{'wides': 2},{}
+2nd innings,West Indies,15.7,SO Hetmyer,MD Shanaka,1,{},{}
+2nd innings,West Indies,15.8,DJ Bravo,MD Shanaka,1,{},{}
+2nd innings,West Indies,15.9,SO Hetmyer,MD Shanaka,1,{},{}
+2nd innings,West Indies,16.1,SO Hetmyer,PWH de Silva,0,{},{}
+2nd innings,West Indies,16.2,SO Hetmyer,PWH de Silva,1,{},{}
+2nd innings,West Indies,16.3,DJ Bravo,PWH de Silva,1,{},{}
+2nd innings,West Indies,16.4,SO Hetmyer,PWH de Silva,4,{},{}
+2nd innings,West Indies,16.5,SO Hetmyer,PWH de Silva,1,{},{}
+2nd innings,West Indies,16.6,DJ Bravo,PWH de Silva,0,{},"{'player_out': 'DJ Bravo', 'kind': 'bowled'}"
+2nd innings,West Indies,17.1,SO Hetmyer,PVD Chameera,0,{},{}
+2nd innings,West Indies,17.2,SO Hetmyer,PVD Chameera,4,{},{}
+2nd innings,West Indies,17.3,SO Hetmyer,PVD Chameera,1,{},{}
+2nd innings,West Indies,17.4,AJ Hosein,PVD Chameera,1,{},{}
+2nd innings,West Indies,17.5,SO Hetmyer,PVD Chameera,0,{},{}
+2nd innings,West Indies,17.6,SO Hetmyer,PVD Chameera,1,{},{}
+2nd innings,West Indies,18.1,SO Hetmyer,C Karunaratne,0,{},{}
+2nd innings,West Indies,18.2,SO Hetmyer,C Karunaratne,1,{'wides': 1},{}
+2nd innings,West Indies,18.3,SO Hetmyer,C Karunaratne,6,{},{}
+2nd innings,West Indies,18.4,SO Hetmyer,C Karunaratne,6,{},{}
+2nd innings,West Indies,18.5,SO Hetmyer,C Karunaratne,4,{},{}
+2nd innings,West Indies,18.6,SO Hetmyer,C Karunaratne,0,{},{}
+2nd innings,West Indies,18.7,SO Hetmyer,C Karunaratne,1,{'byes': 1},{}
+2nd innings,West Indies,19.1,SO Hetmyer,PVD Chameera,2,{},{}
+2nd innings,West Indies,19.2,SO Hetmyer,PVD Chameera,0,{},{}
+2nd innings,West Indies,19.3,SO Hetmyer,PVD Chameera,6,{},{}
+2nd innings,West Indies,19.4,SO Hetmyer,PVD Chameera,0,{},{}
+2nd innings,West Indies,19.5,SO Hetmyer,PVD Chameera,4,{},{}
+2nd innings,West Indies,19.6,SO Hetmyer,PVD Chameera,1,{},{}

@@ -1,0 +1,215 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Bangladesh,0.1,Liton Das,MM Ali,0,{},{}
+1st innings,Bangladesh,0.2,Liton Das,MM Ali,0,{},{}
+1st innings,Bangladesh,0.3,Liton Das,MM Ali,1,{},{}
+1st innings,Bangladesh,0.4,Mohammad Naim,MM Ali,1,{},{}
+1st innings,Bangladesh,0.5,Liton Das,MM Ali,4,{},{}
+1st innings,Bangladesh,0.6,Liton Das,MM Ali,4,{},{}
+1st innings,Bangladesh,1.1,Mohammad Naim,CR Woakes,0,{},{}
+1st innings,Bangladesh,1.2,Mohammad Naim,CR Woakes,0,{},{}
+1st innings,Bangladesh,1.3,Mohammad Naim,CR Woakes,2,{},{}
+1st innings,Bangladesh,1.4,Mohammad Naim,CR Woakes,1,{},{}
+1st innings,Bangladesh,1.5,Liton Das,CR Woakes,0,{},{}
+1st innings,Bangladesh,1.6,Liton Das,CR Woakes,0,{},{}
+1st innings,Bangladesh,2.1,Mohammad Naim,MM Ali,1,{},{}
+1st innings,Bangladesh,2.2,Liton Das,MM Ali,0,{},"{'player_out': 'Liton Das', 'fielders': ['LS Livingstone'], 'kind': 'caught'}"
+1st innings,Bangladesh,2.3,Mohammad Naim,MM Ali,0,{},"{'player_out': 'Mohammad Naim', 'fielders': ['CR Woakes'], 'kind': 'caught'}"
+1st innings,Bangladesh,2.4,Mushfiqur Rahim,MM Ali,0,{},{}
+1st innings,Bangladesh,2.5,Mushfiqur Rahim,MM Ali,0,{},{}
+1st innings,Bangladesh,2.6,Mushfiqur Rahim,MM Ali,1,{},{}
+1st innings,Bangladesh,3.1,Mushfiqur Rahim,CR Woakes,0,{},{}
+1st innings,Bangladesh,3.2,Mushfiqur Rahim,CR Woakes,1,{},{}
+1st innings,Bangladesh,3.3,Shakib Al Hasan,CR Woakes,0,{},{}
+1st innings,Bangladesh,3.4,Shakib Al Hasan,CR Woakes,1,{},{}
+1st innings,Bangladesh,3.5,Mushfiqur Rahim,CR Woakes,0,{},{}
+1st innings,Bangladesh,3.6,Mushfiqur Rahim,CR Woakes,1,{},{}
+1st innings,Bangladesh,4.1,Mushfiqur Rahim,MM Ali,1,{},{}
+1st innings,Bangladesh,4.2,Shakib Al Hasan,MM Ali,0,{},{}
+1st innings,Bangladesh,4.3,Shakib Al Hasan,MM Ali,0,{},{}
+1st innings,Bangladesh,4.4,Shakib Al Hasan,MM Ali,1,{},{}
+1st innings,Bangladesh,4.5,Mushfiqur Rahim,MM Ali,0,{},{}
+1st innings,Bangladesh,4.6,Mushfiqur Rahim,MM Ali,4,{},{}
+1st innings,Bangladesh,5.1,Shakib Al Hasan,CR Woakes,2,{},{}
+1st innings,Bangladesh,5.2,Shakib Al Hasan,CR Woakes,0,{},"{'player_out': 'Shakib Al Hasan', 'fielders': ['AU Rashid'], 'kind': 'caught'}"
+1st innings,Bangladesh,5.3,Mushfiqur Rahim,CR Woakes,0,{},{}
+1st innings,Bangladesh,5.4,Mushfiqur Rahim,CR Woakes,0,{},{}
+1st innings,Bangladesh,5.5,Mushfiqur Rahim,CR Woakes,0,{},{}
+1st innings,Bangladesh,5.6,Mushfiqur Rahim,CR Woakes,1,{},{}
+1st innings,Bangladesh,6.1,Mushfiqur Rahim,AU Rashid,0,{},{}
+1st innings,Bangladesh,6.2,Mushfiqur Rahim,AU Rashid,0,{},{}
+1st innings,Bangladesh,6.3,Mushfiqur Rahim,AU Rashid,1,{},{}
+1st innings,Bangladesh,6.4,Mahmudullah,AU Rashid,1,{},{}
+1st innings,Bangladesh,6.5,Mushfiqur Rahim,AU Rashid,1,{},{}
+1st innings,Bangladesh,6.6,Mahmudullah,AU Rashid,0,{},{}
+1st innings,Bangladesh,7.1,Mushfiqur Rahim,CJ Jordan,2,{},{}
+1st innings,Bangladesh,7.2,Mushfiqur Rahim,CJ Jordan,1,{'wides': 1},{}
+1st innings,Bangladesh,7.3,Mushfiqur Rahim,CJ Jordan,4,{},{}
+1st innings,Bangladesh,7.4,Mushfiqur Rahim,CJ Jordan,1,{},{}
+1st innings,Bangladesh,7.5,Mahmudullah,CJ Jordan,1,{'legbyes': 1},{}
+1st innings,Bangladesh,7.6,Mushfiqur Rahim,CJ Jordan,1,{},{}
+1st innings,Bangladesh,7.7,Mahmudullah,CJ Jordan,1,{'wides': 1},{}
+1st innings,Bangladesh,7.8,Mahmudullah,CJ Jordan,1,{},{}
+1st innings,Bangladesh,8.1,Mahmudullah,AU Rashid,1,{},{}
+1st innings,Bangladesh,8.2,Mushfiqur Rahim,AU Rashid,1,{},{}
+1st innings,Bangladesh,8.3,Mahmudullah,AU Rashid,4,{},{}
+1st innings,Bangladesh,8.4,Mahmudullah,AU Rashid,0,{},{}
+1st innings,Bangladesh,8.5,Mahmudullah,AU Rashid,1,{},{}
+1st innings,Bangladesh,8.6,Mushfiqur Rahim,AU Rashid,0,{},{}
+1st innings,Bangladesh,9.1,Mahmudullah,TS Mills,1,{},{}
+1st innings,Bangladesh,9.2,Mushfiqur Rahim,TS Mills,1,{},{}
+1st innings,Bangladesh,9.3,Mahmudullah,TS Mills,2,{},{}
+1st innings,Bangladesh,9.4,Mahmudullah,TS Mills,1,{},{}
+1st innings,Bangladesh,9.5,Mushfiqur Rahim,TS Mills,4,{},{}
+1st innings,Bangladesh,9.6,Mushfiqur Rahim,TS Mills,2,{},{}
+1st innings,Bangladesh,10.1,Mahmudullah,LS Livingstone,1,{},{}
+1st innings,Bangladesh,10.2,Mushfiqur Rahim,LS Livingstone,0,{},{}
+1st innings,Bangladesh,10.3,Mushfiqur Rahim,LS Livingstone,2,{},{}
+1st innings,Bangladesh,10.4,Mushfiqur Rahim,LS Livingstone,0,{},"{'player_out': 'Mushfiqur Rahim', 'kind': 'lbw'}"
+1st innings,Bangladesh,10.5,Afif Hossain,LS Livingstone,0,{},{}
+1st innings,Bangladesh,10.6,Afif Hossain,LS Livingstone,0,{},{}
+1st innings,Bangladesh,11.1,Mahmudullah,CR Woakes,1,{},{}
+1st innings,Bangladesh,11.2,Afif Hossain,CR Woakes,0,{},{}
+1st innings,Bangladesh,11.3,Afif Hossain,CR Woakes,1,{},{}
+1st innings,Bangladesh,11.4,Mahmudullah,CR Woakes,0,{},{}
+1st innings,Bangladesh,11.5,Mahmudullah,CR Woakes,0,{},{}
+1st innings,Bangladesh,11.6,Mahmudullah,CR Woakes,1,{},{}
+1st innings,Bangladesh,12.1,Mahmudullah,LS Livingstone,1,{},{}
+1st innings,Bangladesh,12.2,Afif Hossain,LS Livingstone,4,{},{}
+1st innings,Bangladesh,12.3,Afif Hossain,LS Livingstone,1,{'byes': 1},{}
+1st innings,Bangladesh,12.4,Mahmudullah,LS Livingstone,1,{},"{'player_out': 'Afif Hossain', 'fielders': ['JC Buttler', 'TS Mills'], 'kind': 'run out'}"
+1st innings,Bangladesh,12.5,Nurul Hasan,LS Livingstone,2,{},{}
+1st innings,Bangladesh,12.6,Nurul Hasan,LS Livingstone,1,{},{}
+1st innings,Bangladesh,13.1,Nurul Hasan,CJ Jordan,0,{},{}
+1st innings,Bangladesh,13.2,Nurul Hasan,CJ Jordan,1,{},{}
+1st innings,Bangladesh,13.3,Mahmudullah,CJ Jordan,1,{},{}
+1st innings,Bangladesh,13.4,Nurul Hasan,CJ Jordan,1,{'wides': 1},{}
+1st innings,Bangladesh,13.5,Nurul Hasan,CJ Jordan,1,{},{}
+1st innings,Bangladesh,13.6,Mahmudullah,CJ Jordan,0,{},{}
+1st innings,Bangladesh,13.7,Mahmudullah,CJ Jordan,0,{},{}
+1st innings,Bangladesh,14.1,Nurul Hasan,LS Livingstone,1,{},{}
+1st innings,Bangladesh,14.2,Mahmudullah,LS Livingstone,0,{},{}
+1st innings,Bangladesh,14.3,Mahmudullah,LS Livingstone,1,{},{}
+1st innings,Bangladesh,14.4,Nurul Hasan,LS Livingstone,1,{},{}
+1st innings,Bangladesh,14.5,Mahmudullah,LS Livingstone,0,{},"{'player_out': 'Mahmudullah', 'fielders': ['CR Woakes'], 'kind': 'caught'}"
+1st innings,Bangladesh,14.6,Mahedi Hasan,LS Livingstone,0,{},{}
+1st innings,Bangladesh,15.1,Nurul Hasan,TS Mills,1,{},{}
+1st innings,Bangladesh,15.2,Mahedi Hasan,TS Mills,0,{},{}
+1st innings,Bangladesh,15.3,Mahedi Hasan,TS Mills,1,{},{}
+1st innings,Bangladesh,15.4,Nurul Hasan,TS Mills,1,{},{}
+1st innings,Bangladesh,15.5,Mahedi Hasan,TS Mills,0,{},{}
+1st innings,Bangladesh,15.6,Mahedi Hasan,TS Mills,4,{},{}
+1st innings,Bangladesh,16.1,Nurul Hasan,AU Rashid,1,{},{}
+1st innings,Bangladesh,16.2,Mahedi Hasan,AU Rashid,1,{},{}
+1st innings,Bangladesh,16.3,Nurul Hasan,AU Rashid,1,{},{}
+1st innings,Bangladesh,16.4,Mahedi Hasan,AU Rashid,4,{},{}
+1st innings,Bangladesh,16.5,Mahedi Hasan,AU Rashid,0,{},{}
+1st innings,Bangladesh,16.6,Mahedi Hasan,AU Rashid,1,{},{}
+1st innings,Bangladesh,17.1,Mahedi Hasan,TS Mills,0,{},"{'player_out': 'Mahedi Hasan', 'fielders': ['CR Woakes'], 'kind': 'caught'}"
+1st innings,Bangladesh,17.2,Nasum Ahmed,TS Mills,1,{},{}
+1st innings,Bangladesh,17.3,Nurul Hasan,TS Mills,1,{},{}
+1st innings,Bangladesh,17.4,Nasum Ahmed,TS Mills,2,{},{}
+1st innings,Bangladesh,17.5,Nasum Ahmed,TS Mills,0,{},{}
+1st innings,Bangladesh,17.6,Nasum Ahmed,TS Mills,0,{},{}
+1st innings,Bangladesh,18.1,Nurul Hasan,AU Rashid,1,{},{}
+1st innings,Bangladesh,18.2,Nasum Ahmed,AU Rashid,6,{},{}
+1st innings,Bangladesh,18.3,Nasum Ahmed,AU Rashid,0,{},{}
+1st innings,Bangladesh,18.4,Nasum Ahmed,AU Rashid,0,{},{}
+1st innings,Bangladesh,18.5,Nasum Ahmed,AU Rashid,6,{},{}
+1st innings,Bangladesh,18.6,Nasum Ahmed,AU Rashid,4,{},{}
+1st innings,Bangladesh,19.1,Nurul Hasan,TS Mills,1,{},{}
+1st innings,Bangladesh,19.2,Nasum Ahmed,TS Mills,2,{'wides': 2},{}
+1st innings,Bangladesh,19.3,Nurul Hasan,TS Mills,0,{},{}
+1st innings,Bangladesh,19.4,Nurul Hasan,TS Mills,0,{},{}
+1st innings,Bangladesh,19.5,Nurul Hasan,TS Mills,2,{},{}
+1st innings,Bangladesh,19.6,Nurul Hasan,TS Mills,0,{},"{'player_out': 'Nurul Hasan', 'fielders': ['JC Buttler'], 'kind': 'caught'}"
+1st innings,Bangladesh,19.7,Mustafizur Rahman,TS Mills,0,{},"{'player_out': 'Mustafizur Rahman', 'kind': 'bowled'}"
+2nd innings,England,0.1,JJ Roy,Shakib Al Hasan,4,{},{}
+2nd innings,England,0.2,JJ Roy,Shakib Al Hasan,1,{},{}
+2nd innings,England,0.3,JC Buttler,Shakib Al Hasan,0,{},{}
+2nd innings,England,0.4,JC Buttler,Shakib Al Hasan,1,{},{}
+2nd innings,England,0.5,JJ Roy,Shakib Al Hasan,1,{},{}
+2nd innings,England,0.6,JC Buttler,Shakib Al Hasan,0,{},{}
+2nd innings,England,1.1,JJ Roy,Mustafizur Rahman,1,{'legbyes': 1},{}
+2nd innings,England,1.2,JC Buttler,Mustafizur Rahman,0,{},{}
+2nd innings,England,1.3,JC Buttler,Mustafizur Rahman,0,{},{}
+2nd innings,England,1.4,JC Buttler,Mustafizur Rahman,1,{'legbyes': 1},{}
+2nd innings,England,1.5,JJ Roy,Mustafizur Rahman,1,{'wides': 1},{}
+2nd innings,England,1.6,JJ Roy,Mustafizur Rahman,4,{},{}
+2nd innings,England,1.7,JJ Roy,Mustafizur Rahman,4,{},{}
+2nd innings,England,2.1,JC Buttler,Shakib Al Hasan,1,{},{}
+2nd innings,England,2.2,JJ Roy,Shakib Al Hasan,0,{},{}
+2nd innings,England,2.3,JJ Roy,Shakib Al Hasan,1,{},{}
+2nd innings,England,2.4,JC Buttler,Shakib Al Hasan,6,{},{}
+2nd innings,England,2.5,JC Buttler,Shakib Al Hasan,0,{},{}
+2nd innings,England,2.6,JC Buttler,Shakib Al Hasan,2,{},{}
+2nd innings,England,3.1,JJ Roy,Shoriful Islam,0,{},{}
+2nd innings,England,3.2,JJ Roy,Shoriful Islam,1,{'wides': 1},{}
+2nd innings,England,3.3,JJ Roy,Shoriful Islam,1,{},{}
+2nd innings,England,3.4,JC Buttler,Shoriful Islam,4,{},{}
+2nd innings,England,3.5,JC Buttler,Shoriful Islam,1,{},{}
+2nd innings,England,3.6,JJ Roy,Shoriful Islam,1,{},{}
+2nd innings,England,3.7,JC Buttler,Shoriful Islam,1,{},{}
+2nd innings,England,4.1,JC Buttler,Nasum Ahmed,0,{},{}
+2nd innings,England,4.2,JC Buttler,Nasum Ahmed,2,{},{}
+2nd innings,England,4.3,JC Buttler,Nasum Ahmed,0,{},{}
+2nd innings,England,4.4,JC Buttler,Nasum Ahmed,0,{},{}
+2nd innings,England,4.5,JC Buttler,Nasum Ahmed,0,{},"{'player_out': 'JC Buttler', 'fielders': ['Mohammad Naim'], 'kind': 'caught'}"
+2nd innings,England,4.6,JJ Roy,Nasum Ahmed,1,{},{}
+2nd innings,England,5.1,JJ Roy,Mustafizur Rahman,0,{},{}
+2nd innings,England,5.2,JJ Roy,Mustafizur Rahman,1,{},{}
+2nd innings,England,5.3,DJ Malan,Mustafizur Rahman,0,{},{}
+2nd innings,England,5.4,DJ Malan,Mustafizur Rahman,1,{},{}
+2nd innings,England,5.5,JJ Roy,Mustafizur Rahman,4,{},{}
+2nd innings,England,5.6,JJ Roy,Mustafizur Rahman,4,{'legbyes': 4},{}
+2nd innings,England,6.1,DJ Malan,Mahedi Hasan,0,{},{}
+2nd innings,England,6.2,DJ Malan,Mahedi Hasan,1,{},{}
+2nd innings,England,6.3,JJ Roy,Mahedi Hasan,6,{},{}
+2nd innings,England,6.4,JJ Roy,Mahedi Hasan,4,{},{}
+2nd innings,England,6.5,JJ Roy,Mahedi Hasan,1,{},{}
+2nd innings,England,6.6,DJ Malan,Mahedi Hasan,1,{},{}
+2nd innings,England,7.1,DJ Malan,Nasum Ahmed,4,{},{}
+2nd innings,England,7.2,DJ Malan,Nasum Ahmed,1,{},{}
+2nd innings,England,7.3,JJ Roy,Nasum Ahmed,1,{},{}
+2nd innings,England,7.4,DJ Malan,Nasum Ahmed,1,{},{}
+2nd innings,England,7.5,JJ Roy,Nasum Ahmed,1,{},{}
+2nd innings,England,7.6,DJ Malan,Nasum Ahmed,4,{},{}
+2nd innings,England,8.1,JJ Roy,Mahedi Hasan,1,{'wides': 1},{}
+2nd innings,England,8.2,JJ Roy,Mahedi Hasan,2,{},{}
+2nd innings,England,8.3,JJ Roy,Mahedi Hasan,1,{},{}
+2nd innings,England,8.4,DJ Malan,Mahedi Hasan,1,{},{}
+2nd innings,England,8.5,JJ Roy,Mahedi Hasan,1,{},{}
+2nd innings,England,8.6,DJ Malan,Mahedi Hasan,1,{},{}
+2nd innings,England,8.7,JJ Roy,Mahedi Hasan,1,{},{}
+2nd innings,England,9.1,JJ Roy,Shakib Al Hasan,1,{},{}
+2nd innings,England,9.2,DJ Malan,Shakib Al Hasan,0,{},{}
+2nd innings,England,9.3,DJ Malan,Shakib Al Hasan,1,{'wides': 1},{}
+2nd innings,England,9.4,DJ Malan,Shakib Al Hasan,1,{'wides': 1},{}
+2nd innings,England,9.5,DJ Malan,Shakib Al Hasan,1,{},{}
+2nd innings,England,9.6,JJ Roy,Shakib Al Hasan,1,{},{}
+2nd innings,England,9.7,DJ Malan,Shakib Al Hasan,1,{},{}
+2nd innings,England,9.8,JJ Roy,Shakib Al Hasan,1,{},{}
+2nd innings,England,10.1,JJ Roy,Shoriful Islam,1,{},{}
+2nd innings,England,10.2,DJ Malan,Shoriful Islam,1,{},{}
+2nd innings,England,10.3,JJ Roy,Shoriful Islam,1,{},{}
+2nd innings,England,10.4,DJ Malan,Shoriful Islam,0,{},{}
+2nd innings,England,10.5,DJ Malan,Shoriful Islam,0,{},{}
+2nd innings,England,10.6,DJ Malan,Shoriful Islam,0,{},{}
+2nd innings,England,11.1,JJ Roy,Nasum Ahmed,1,{},{}
+2nd innings,England,11.2,DJ Malan,Nasum Ahmed,1,{},{}
+2nd innings,England,11.3,JJ Roy,Nasum Ahmed,0,{},{}
+2nd innings,England,11.4,JJ Roy,Nasum Ahmed,6,{},{}
+2nd innings,England,11.5,JJ Roy,Nasum Ahmed,1,{},{}
+2nd innings,England,11.6,DJ Malan,Nasum Ahmed,2,{},{}
+2nd innings,England,12.1,JJ Roy,Shoriful Islam,0,{},{}
+2nd innings,England,12.2,JJ Roy,Shoriful Islam,6,{},{}
+2nd innings,England,12.3,JJ Roy,Shoriful Islam,1,{},{}
+2nd innings,England,12.4,DJ Malan,Shoriful Islam,1,{},{}
+2nd innings,England,12.5,JJ Roy,Shoriful Islam,0,{},"{'player_out': 'JJ Roy', 'fielders': ['Nasum Ahmed'], 'kind': 'caught'}"
+2nd innings,England,12.6,JM Bairstow,Shoriful Islam,2,{},{}
+2nd innings,England,13.1,DJ Malan,Mustafizur Rahman,0,{},{}
+2nd innings,England,13.2,DJ Malan,Mustafizur Rahman,1,{},{}
+2nd innings,England,13.3,JM Bairstow,Mustafizur Rahman,1,{},{}
+2nd innings,England,13.4,DJ Malan,Mustafizur Rahman,4,{},{}
+2nd innings,England,13.5,DJ Malan,Mustafizur Rahman,1,{},{}
+2nd innings,England,13.6,JM Bairstow,Mustafizur Rahman,1,{},{}
+2nd innings,England,14.1,JM Bairstow,Shoriful Islam,4,{},{}

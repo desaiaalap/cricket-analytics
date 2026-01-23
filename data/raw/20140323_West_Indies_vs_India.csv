@@ -1,0 +1,255 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,West Indies,0.1,DR Smith,B Kumar,0,{},{}
+1st innings,West Indies,0.2,DR Smith,B Kumar,0,{},{}
+1st innings,West Indies,0.3,DR Smith,B Kumar,0,{},{}
+1st innings,West Indies,0.4,DR Smith,B Kumar,0,{},{}
+1st innings,West Indies,0.5,DR Smith,B Kumar,1,{},{}
+1st innings,West Indies,0.6,CH Gayle,B Kumar,0,{},{}
+1st innings,West Indies,1.1,DR Smith,Mohammed Shami,0,{},{}
+1st innings,West Indies,1.2,DR Smith,Mohammed Shami,1,{'wides': 1},{}
+1st innings,West Indies,1.3,DR Smith,Mohammed Shami,1,{'wides': 1},{}
+1st innings,West Indies,1.4,DR Smith,Mohammed Shami,0,{},{}
+1st innings,West Indies,1.5,DR Smith,Mohammed Shami,0,{},{}
+1st innings,West Indies,1.6,DR Smith,Mohammed Shami,1,{},{}
+1st innings,West Indies,1.7,CH Gayle,Mohammed Shami,0,{},{}
+1st innings,West Indies,1.8,CH Gayle,Mohammed Shami,0,{},{}
+1st innings,West Indies,2.1,DR Smith,B Kumar,0,{},{}
+1st innings,West Indies,2.2,DR Smith,B Kumar,0,{},{}
+1st innings,West Indies,2.3,DR Smith,B Kumar,1,{'wides': 1},{}
+1st innings,West Indies,2.4,DR Smith,B Kumar,0,{},{}
+1st innings,West Indies,2.5,DR Smith,B Kumar,0,{},{}
+1st innings,West Indies,2.6,DR Smith,B Kumar,0,{},{}
+1st innings,West Indies,2.7,DR Smith,B Kumar,0,{},{}
+1st innings,West Indies,3.1,CH Gayle,Mohammed Shami,1,{'wides': 1},{}
+1st innings,West Indies,3.2,CH Gayle,Mohammed Shami,0,{},{}
+1st innings,West Indies,3.3,CH Gayle,Mohammed Shami,0,{},{}
+1st innings,West Indies,3.4,CH Gayle,Mohammed Shami,6,{},{}
+1st innings,West Indies,3.5,CH Gayle,Mohammed Shami,0,{},{}
+1st innings,West Indies,3.6,CH Gayle,Mohammed Shami,4,{},{}
+1st innings,West Indies,3.7,CH Gayle,Mohammed Shami,0,{},{}
+1st innings,West Indies,4.1,DR Smith,B Kumar,1,{'legbyes': 1},{}
+1st innings,West Indies,4.2,CH Gayle,B Kumar,0,{},{}
+1st innings,West Indies,4.3,CH Gayle,B Kumar,1,{},{}
+1st innings,West Indies,4.4,DR Smith,B Kumar,0,{},{}
+1st innings,West Indies,4.5,DR Smith,B Kumar,0,{},{}
+1st innings,West Indies,4.6,DR Smith,B Kumar,0,{},{}
+1st innings,West Indies,5.1,CH Gayle,R Ashwin,0,{},{}
+1st innings,West Indies,5.2,CH Gayle,R Ashwin,1,{},{}
+1st innings,West Indies,5.3,CH Gayle,R Ashwin,1,{},{}
+1st innings,West Indies,5.4,DR Smith,R Ashwin,4,{},{}
+1st innings,West Indies,5.5,DR Smith,R Ashwin,0,{},{}
+1st innings,West Indies,5.6,DR Smith,R Ashwin,0,{},{}
+1st innings,West Indies,6.1,CH Gayle,A Mishra,6,{},{}
+1st innings,West Indies,6.2,CH Gayle,A Mishra,1,{},{}
+1st innings,West Indies,6.3,DR Smith,A Mishra,1,{},{}
+1st innings,West Indies,6.4,CH Gayle,A Mishra,1,{},{}
+1st innings,West Indies,6.5,DR Smith,A Mishra,0,{},{}
+1st innings,West Indies,6.6,DR Smith,A Mishra,0,{},{}
+1st innings,West Indies,7.1,CH Gayle,R Ashwin,1,{},{}
+1st innings,West Indies,7.2,DR Smith,R Ashwin,4,{},{}
+1st innings,West Indies,7.3,DR Smith,R Ashwin,0,{},{}
+1st innings,West Indies,7.4,DR Smith,R Ashwin,0,{},{}
+1st innings,West Indies,7.5,DR Smith,R Ashwin,0,{},"{'kind': 'caught and bowled', 'player_out': 'DR Smith'}"
+1st innings,West Indies,7.6,MN Samuels,R Ashwin,0,{},{}
+1st innings,West Indies,8.1,CH Gayle,SK Raina,1,{},{}
+1st innings,West Indies,8.2,MN Samuels,SK Raina,0,{},{}
+1st innings,West Indies,8.3,MN Samuels,SK Raina,0,{},{}
+1st innings,West Indies,8.4,MN Samuels,SK Raina,0,{},{}
+1st innings,West Indies,8.5,MN Samuels,SK Raina,1,{},{}
+1st innings,West Indies,8.6,CH Gayle,SK Raina,1,{},{}
+1st innings,West Indies,9.1,CH Gayle,R Ashwin,1,{},{}
+1st innings,West Indies,9.2,MN Samuels,R Ashwin,1,{},{}
+1st innings,West Indies,9.3,CH Gayle,R Ashwin,1,{},{}
+1st innings,West Indies,9.4,MN Samuels,R Ashwin,1,{},{}
+1st innings,West Indies,9.5,CH Gayle,R Ashwin,1,{},{}
+1st innings,West Indies,9.6,MN Samuels,R Ashwin,0,{},{}
+1st innings,West Indies,10.1,CH Gayle,SK Raina,0,{},{}
+1st innings,West Indies,10.2,CH Gayle,SK Raina,1,{},{}
+1st innings,West Indies,10.3,MN Samuels,SK Raina,0,{},{}
+1st innings,West Indies,10.4,MN Samuels,SK Raina,1,{},{}
+1st innings,West Indies,10.5,CH Gayle,SK Raina,1,{'wides': 1},{}
+1st innings,West Indies,10.6,CH Gayle,SK Raina,1,{'wides': 1},{}
+1st innings,West Indies,10.7,CH Gayle,SK Raina,1,{},{}
+1st innings,West Indies,10.8,MN Samuels,SK Raina,0,{},{}
+1st innings,West Indies,11.1,CH Gayle,R Ashwin,0,{},{}
+1st innings,West Indies,11.2,CH Gayle,R Ashwin,1,{},{}
+1st innings,West Indies,11.3,MN Samuels,R Ashwin,1,{},{}
+1st innings,West Indies,11.4,CH Gayle,R Ashwin,0,{},{}
+1st innings,West Indies,11.5,CH Gayle,R Ashwin,1,{'wides': 1},{}
+1st innings,West Indies,11.6,CH Gayle,R Ashwin,1,{},{}
+1st innings,West Indies,11.7,MN Samuels,R Ashwin,4,{},{}
+1st innings,West Indies,12.1,CH Gayle,A Mishra,2,{},{}
+1st innings,West Indies,12.2,CH Gayle,A Mishra,0,{},{}
+1st innings,West Indies,12.3,CH Gayle,A Mishra,1,{},{}
+1st innings,West Indies,12.4,MN Samuels,A Mishra,0,{},{}
+1st innings,West Indies,12.5,MN Samuels,A Mishra,0,{},{}
+1st innings,West Indies,12.6,MN Samuels,A Mishra,0,{},"{'fielders': ['MS Dhoni', 'Mohammed Shami'], 'kind': 'run out', 'player_out': 'CH Gayle'}"
+1st innings,West Indies,13.1,MN Samuels,RA Jadeja,0,{},{}
+1st innings,West Indies,13.2,MN Samuels,RA Jadeja,4,{},{}
+1st innings,West Indies,13.3,MN Samuels,RA Jadeja,0,{},{}
+1st innings,West Indies,13.4,MN Samuels,RA Jadeja,1,{},{}
+1st innings,West Indies,13.5,LMP Simmons,RA Jadeja,1,{},{}
+1st innings,West Indies,13.6,MN Samuels,RA Jadeja,4,{},{}
+1st innings,West Indies,14.1,LMP Simmons,A Mishra,1,{'wides': 1},{}
+1st innings,West Indies,14.2,LMP Simmons,A Mishra,0,{},{}
+1st innings,West Indies,14.3,LMP Simmons,A Mishra,1,{},{}
+1st innings,West Indies,14.4,MN Samuels,A Mishra,0,{},"{'fielders': ['MS Dhoni'], 'kind': 'stumped', 'player_out': 'MN Samuels'}"
+1st innings,West Indies,14.5,DJ Bravo,A Mishra,0,{},"{'kind': 'lbw', 'player_out': 'DJ Bravo'}"
+1st innings,West Indies,14.6,DJG Sammy,A Mishra,1,{},{}
+1st innings,West Indies,14.7,LMP Simmons,A Mishra,1,{},{}
+1st innings,West Indies,15.1,LMP Simmons,RA Jadeja,4,{},{}
+1st innings,West Indies,15.2,LMP Simmons,RA Jadeja,2,{},{}
+1st innings,West Indies,15.3,LMP Simmons,RA Jadeja,0,{},{}
+1st innings,West Indies,15.4,LMP Simmons,RA Jadeja,1,{},{}
+1st innings,West Indies,15.5,DJG Sammy,RA Jadeja,0,{},{}
+1st innings,West Indies,15.6,DJG Sammy,RA Jadeja,0,{},{}
+1st innings,West Indies,16.1,LMP Simmons,Mohammed Shami,0,{},{}
+1st innings,West Indies,16.2,LMP Simmons,Mohammed Shami,0,{},{}
+1st innings,West Indies,16.3,LMP Simmons,Mohammed Shami,1,{},{}
+1st innings,West Indies,16.4,DJG Sammy,Mohammed Shami,4,{},{}
+1st innings,West Indies,16.5,DJG Sammy,Mohammed Shami,1,{'wides': 1},{}
+1st innings,West Indies,16.6,DJG Sammy,Mohammed Shami,1,{'wides': 1},{}
+1st innings,West Indies,16.7,DJG Sammy,Mohammed Shami,2,{},{}
+1st innings,West Indies,16.8,DJG Sammy,Mohammed Shami,4,{},{}
+1st innings,West Indies,17.1,LMP Simmons,RA Jadeja,0,{},{}
+1st innings,West Indies,17.2,LMP Simmons,RA Jadeja,1,{},{}
+1st innings,West Indies,17.3,DJG Sammy,RA Jadeja,0,{},"{'fielders': ['RG Sharma'], 'kind': 'caught', 'player_out': 'DJG Sammy'}"
+1st innings,West Indies,17.4,LMP Simmons,RA Jadeja,0,{},{}
+1st innings,West Indies,17.5,LMP Simmons,RA Jadeja,2,{},{}
+1st innings,West Indies,17.6,LMP Simmons,RA Jadeja,1,{'noballs': 1},{}
+1st innings,West Indies,17.7,AD Russell,RA Jadeja,6,{},{}
+1st innings,West Indies,18.1,LMP Simmons,A Mishra,0,{},{}
+1st innings,West Indies,18.2,LMP Simmons,A Mishra,1,{},{}
+1st innings,West Indies,18.3,AD Russell,A Mishra,0,{},{}
+1st innings,West Indies,18.4,AD Russell,A Mishra,0,{},{}
+1st innings,West Indies,18.5,AD Russell,A Mishra,1,{},{}
+1st innings,West Indies,18.6,LMP Simmons,A Mishra,0,{},{}
+1st innings,West Indies,19.1,AD Russell,RA Jadeja,0,{},"{'fielders': ['V Kohli'], 'kind': 'caught', 'player_out': 'AD Russell'}"
+1st innings,West Indies,19.2,LMP Simmons,RA Jadeja,6,{},{}
+1st innings,West Indies,19.3,LMP Simmons,RA Jadeja,6,{},{}
+1st innings,West Indies,19.4,LMP Simmons,RA Jadeja,1,{'wides': 1},{}
+1st innings,West Indies,19.5,LMP Simmons,RA Jadeja,0,{},"{'fielders': ['S Dhawan'], 'kind': 'caught', 'player_out': 'LMP Simmons'}"
+1st innings,West Indies,19.6,SP Narine,RA Jadeja,1,{'wides': 1},{}
+1st innings,West Indies,19.7,SP Narine,RA Jadeja,6,{},{}
+1st innings,West Indies,19.8,SP Narine,RA Jadeja,1,{},{}
+2nd innings,India,0.1,RG Sharma,S Badree,0,{},{}
+2nd innings,India,0.2,RG Sharma,S Badree,1,{},{}
+2nd innings,India,0.3,S Dhawan,S Badree,0,{},{}
+2nd innings,India,0.4,S Dhawan,S Badree,0,{},{}
+2nd innings,India,0.5,S Dhawan,S Badree,0,{},"{'kind': 'lbw', 'player_out': 'S Dhawan'}"
+2nd innings,India,0.6,V Kohli,S Badree,1,{},{}
+2nd innings,India,1.1,V Kohli,K Santokie,0,{},{}
+2nd innings,India,1.2,V Kohli,K Santokie,1,{},{}
+2nd innings,India,1.3,RG Sharma,K Santokie,1,{},{}
+2nd innings,India,1.4,V Kohli,K Santokie,1,{},{}
+2nd innings,India,1.5,RG Sharma,K Santokie,0,{},{}
+2nd innings,India,1.6,RG Sharma,K Santokie,0,{},{}
+2nd innings,India,2.1,V Kohli,S Badree,4,{},{}
+2nd innings,India,2.2,V Kohli,S Badree,6,{},{}
+2nd innings,India,2.3,V Kohli,S Badree,0,{},{}
+2nd innings,India,2.4,V Kohli,S Badree,0,{},{}
+2nd innings,India,2.5,V Kohli,S Badree,1,{},{}
+2nd innings,India,2.6,RG Sharma,S Badree,1,{},{}
+2nd innings,India,3.1,RG Sharma,K Santokie,0,{},{}
+2nd innings,India,3.2,RG Sharma,K Santokie,1,{},{}
+2nd innings,India,3.3,V Kohli,K Santokie,2,{},{}
+2nd innings,India,3.4,V Kohli,K Santokie,4,{},{}
+2nd innings,India,3.5,V Kohli,K Santokie,4,{},{}
+2nd innings,India,3.6,V Kohli,K Santokie,0,{},{}
+2nd innings,India,4.1,RG Sharma,S Badree,0,{},{}
+2nd innings,India,4.2,RG Sharma,S Badree,0,{},{}
+2nd innings,India,4.3,RG Sharma,S Badree,4,{},{}
+2nd innings,India,4.4,RG Sharma,S Badree,4,{},{}
+2nd innings,India,4.5,RG Sharma,S Badree,1,{},{}
+2nd innings,India,4.6,V Kohli,S Badree,1,{},{}
+2nd innings,India,5.1,V Kohli,SP Narine,2,{'noballs': 1},{}
+2nd innings,India,5.2,RG Sharma,SP Narine,6,{},{}
+2nd innings,India,5.3,RG Sharma,SP Narine,1,{},{}
+2nd innings,India,5.4,V Kohli,SP Narine,1,{},{}
+2nd innings,India,5.5,RG Sharma,SP Narine,0,{},{}
+2nd innings,India,5.6,RG Sharma,SP Narine,0,{},{}
+2nd innings,India,5.7,RG Sharma,SP Narine,0,{},{}
+2nd innings,India,6.1,V Kohli,DJ Bravo,4,{},{}
+2nd innings,India,6.2,V Kohli,DJ Bravo,1,{},{}
+2nd innings,India,6.3,RG Sharma,DJ Bravo,4,{},{}
+2nd innings,India,6.4,RG Sharma,DJ Bravo,1,{},{}
+2nd innings,India,6.5,V Kohli,DJ Bravo,1,{},{}
+2nd innings,India,6.6,RG Sharma,DJ Bravo,1,{},{}
+2nd innings,India,7.1,RG Sharma,SP Narine,0,{},{}
+2nd innings,India,7.2,RG Sharma,SP Narine,0,{},{}
+2nd innings,India,7.3,RG Sharma,SP Narine,1,{},{}
+2nd innings,India,7.4,V Kohli,SP Narine,1,{},{}
+2nd innings,India,7.5,RG Sharma,SP Narine,1,{},{}
+2nd innings,India,7.6,V Kohli,SP Narine,1,{},{}
+2nd innings,India,8.1,V Kohli,DJG Sammy,1,{},{}
+2nd innings,India,8.2,RG Sharma,DJG Sammy,1,{},{}
+2nd innings,India,8.3,V Kohli,DJG Sammy,0,{},{}
+2nd innings,India,8.4,V Kohli,DJG Sammy,1,{},{}
+2nd innings,India,8.5,RG Sharma,DJG Sammy,2,{},{}
+2nd innings,India,8.6,RG Sharma,DJG Sammy,4,{},{}
+2nd innings,India,9.1,V Kohli,MN Samuels,2,{},{}
+2nd innings,India,9.2,V Kohli,MN Samuels,1,{},{}
+2nd innings,India,9.3,RG Sharma,MN Samuels,0,{},{}
+2nd innings,India,9.4,RG Sharma,MN Samuels,0,{},{}
+2nd innings,India,9.5,RG Sharma,MN Samuels,0,{},{}
+2nd innings,India,9.6,RG Sharma,MN Samuels,0,{},{}
+2nd innings,India,10.1,V Kohli,S Badree,1,{},{}
+2nd innings,India,10.2,RG Sharma,S Badree,1,{},{}
+2nd innings,India,10.3,V Kohli,S Badree,0,{},{}
+2nd innings,India,10.4,V Kohli,S Badree,1,{},{}
+2nd innings,India,10.5,RG Sharma,S Badree,0,{},{}
+2nd innings,India,10.6,RG Sharma,S Badree,1,{},{}
+2nd innings,India,11.1,RG Sharma,MN Samuels,3,{},{}
+2nd innings,India,11.2,V Kohli,MN Samuels,1,{},{}
+2nd innings,India,11.3,RG Sharma,MN Samuels,1,{},{}
+2nd innings,India,11.4,V Kohli,MN Samuels,1,{},{}
+2nd innings,India,11.5,RG Sharma,MN Samuels,0,{},{}
+2nd innings,India,11.6,RG Sharma,MN Samuels,6,{},{}
+2nd innings,India,12.1,V Kohli,K Santokie,4,{},{}
+2nd innings,India,12.2,V Kohli,K Santokie,1,{},{}
+2nd innings,India,12.3,RG Sharma,K Santokie,1,{},{}
+2nd innings,India,12.4,V Kohli,K Santokie,1,{},{}
+2nd innings,India,12.5,RG Sharma,K Santokie,1,{},{}
+2nd innings,India,12.6,V Kohli,K Santokie,1,{},{}
+2nd innings,India,13.1,V Kohli,SP Narine,1,{'wides': 1},{}
+2nd innings,India,13.2,V Kohli,SP Narine,1,{},{}
+2nd innings,India,13.3,RG Sharma,SP Narine,0,{},{}
+2nd innings,India,13.4,RG Sharma,SP Narine,0,{},{}
+2nd innings,India,13.5,RG Sharma,SP Narine,1,{},{}
+2nd innings,India,13.6,V Kohli,SP Narine,0,{},{}
+2nd innings,India,13.7,V Kohli,SP Narine,1,{},{}
+2nd innings,India,14.1,V Kohli,AD Russell,1,{},{}
+2nd innings,India,14.2,RG Sharma,AD Russell,1,{},{}
+2nd innings,India,14.3,V Kohli,AD Russell,0,{},{}
+2nd innings,India,14.4,V Kohli,AD Russell,0,{},"{'kind': 'bowled', 'player_out': 'V Kohli'}"
+2nd innings,India,14.5,Yuvraj Singh,AD Russell,0,{},{}
+2nd innings,India,14.6,Yuvraj Singh,AD Russell,4,{},{}
+2nd innings,India,15.1,RG Sharma,SP Narine,1,{},{}
+2nd innings,India,15.2,Yuvraj Singh,SP Narine,0,{},{}
+2nd innings,India,15.3,Yuvraj Singh,SP Narine,0,{},{}
+2nd innings,India,15.4,Yuvraj Singh,SP Narine,0,{},{}
+2nd innings,India,15.5,Yuvraj Singh,SP Narine,0,{},{}
+2nd innings,India,15.6,Yuvraj Singh,SP Narine,1,{},{}
+2nd innings,India,16.1,Yuvraj Singh,AD Russell,0,{},{}
+2nd innings,India,16.2,Yuvraj Singh,AD Russell,0,{},{}
+2nd innings,India,16.3,Yuvraj Singh,AD Russell,0,{},{}
+2nd innings,India,16.4,Yuvraj Singh,AD Russell,0,{},{}
+2nd innings,India,16.5,Yuvraj Singh,AD Russell,1,{},{}
+2nd innings,India,16.6,RG Sharma,AD Russell,1,{'wides': 1},{}
+2nd innings,India,16.7,RG Sharma,AD Russell,4,{},{}
+2nd innings,India,17.1,Yuvraj Singh,MN Samuels,1,{},{}
+2nd innings,India,17.2,RG Sharma,MN Samuels,2,{},{}
+2nd innings,India,17.3,RG Sharma,MN Samuels,1,{},{}
+2nd innings,India,17.4,Yuvraj Singh,MN Samuels,1,{},{}
+2nd innings,India,17.5,RG Sharma,MN Samuels,0,{},{}
+2nd innings,India,17.6,RG Sharma,MN Samuels,1,{},{}
+2nd innings,India,18.1,RG Sharma,K Santokie,0,{},{}
+2nd innings,India,18.2,RG Sharma,K Santokie,1,{},{}
+2nd innings,India,18.3,Yuvraj Singh,K Santokie,1,{},{}
+2nd innings,India,18.4,RG Sharma,K Santokie,0,{},{}
+2nd innings,India,18.5,RG Sharma,K Santokie,1,{},{}
+2nd innings,India,18.6,Yuvraj Singh,K Santokie,1,{},{}
+2nd innings,India,19.1,Yuvraj Singh,MN Samuels,0,{},{}
+2nd innings,India,19.2,Yuvraj Singh,MN Samuels,0,{},{}
+2nd innings,India,19.3,Yuvraj Singh,MN Samuels,0,{},"{'fielders': ['CH Gayle'], 'kind': 'caught', 'player_out': 'Yuvraj Singh'}"
+2nd innings,India,19.4,SK Raina,MN Samuels,1,{},{}

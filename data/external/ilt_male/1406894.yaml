@@ -1,0 +1,1358 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-01-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abu Dhabi
+  competition: International League T20
+  dates:
+  - '2024-01-23'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: MI Emirates
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - TA Boult
+  players:
+    Abu Dhabi Knight Riders:
+    - A Sharafu
+    - AGS Gous
+    - MS Pepper
+    - SR Hain
+    - LJ Evans
+    - Imad Wasim
+    - AD Russell
+    - RS Bopara
+    - DJ Willey
+    - SP Narine
+    - J Little
+    - Matiullah Khan
+    MI Emirates:
+    - Waseem Muhammad
+    - MDKJ Perera
+    - N Pooran
+    - ADS Fletcher
+    - TH David
+    - DJ Bravo
+    - AJ Hosein
+    - Fazalhaq Farooqi
+    - TA Boult
+    - Waqar Salamkheil
+    - Muhammad Rohid
+  registry:
+    people:
+      A Sharafu: 06cad4f0
+      AD Russell: bbd41817
+      ADS Fletcher: 1bae756b
+      AGS Gous: d1305df0
+      AJ Hosein: 4d7f517e
+      Ahmed Shah Pakteen: '43602937'
+      DJ Bravo: 87e562a9
+      DJ Willey: 7f048519
+      Fazalhaq Farooqi: e9c7f0d0
+      Imad Wasim: 9cb8d7a6
+      J Little: 9061a703
+      LJ Evans: 1c513d54
+      LS Reifer: 5dee559a
+      MDKJ Perera: f21043a5
+      MJ Saggers: 402d5937
+      MS Pepper: 270e4c23
+      Matiullah Khan: '083e01d9'
+      Muhammad Rohid: 9103ecdb
+      N Pooran: 3241e3fd
+      RJ Tucker: 38810cfc
+      RS Bopara: 7ca5e05d
+      SJA Taufel: 4b43d5ac
+      SP Narine: 9d430b40
+      SR Hain: 67b9536c
+      TA Boult: a818c1be
+      TH David: f1f99156
+      Waqar Salamkheil: 3f1066d0
+      Waseem Muhammad: 6f02fe2a
+  teams:
+  - Abu Dhabi Knight Riders
+  - MI Emirates
+  toss:
+    winner: MI Emirates
+    decision: field
+  umpires:
+  - MJ Saggers
+  - RJ Tucker
+  venue: Zayed Cricket Stadium, Abu Dhabi
+innings:
+- 1st innings:
+    team: Abu Dhabi Knight Riders
+    deliveries:
+    - 0.1:
+        non_striker: AGS Gous
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 0.2:
+        non_striker: AGS Gous
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 0.3:
+        non_striker: AGS Gous
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 0.4:
+        non_striker: AGS Gous
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 0.5:
+        non_striker: AGS Gous
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 0.6:
+        non_striker: AGS Gous
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 1.1:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 1.2:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 1.3:
+        non_striker: A Sharafu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 1.4:
+        non_striker: A Sharafu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 1.5:
+        non_striker: A Sharafu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 1.6:
+        non_striker: A Sharafu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 2.1:
+        non_striker: AGS Gous
+        bowler: AJ Hosein
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: A Sharafu
+    - 2.2:
+        non_striker: AGS Gous
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+        wicket:
+          player_out: A Sharafu
+          fielders:
+          - TH David
+          kind: caught
+    - 2.3:
+        non_striker: AGS Gous
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Pepper
+    - 2.4:
+        non_striker: MS Pepper
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 2.5:
+        non_striker: AGS Gous
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Pepper
+    - 2.6:
+        non_striker: AGS Gous
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Pepper
+    - 3.1:
+        non_striker: MS Pepper
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 3.2:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Pepper
+        wicket:
+          player_out: MS Pepper
+          fielders:
+          - N Pooran
+          kind: caught
+    - 3.3:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Hain
+    - 3.4:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Hain
+    - 3.5:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Hain
+    - 3.6:
+        non_striker: AGS Gous
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Hain
+        wicket:
+          player_out: SR Hain
+          fielders:
+          - N Pooran
+          kind: caught
+    - 4.1:
+        non_striker: LJ Evans
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 4.2:
+        non_striker: LJ Evans
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 4.3:
+        non_striker: AGS Gous
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 4.4:
+        non_striker: AGS Gous
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 4.5:
+        non_striker: AGS Gous
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 4.6:
+        non_striker: AGS Gous
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 5.1:
+        non_striker: LJ Evans
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+        wicket:
+          player_out: AGS Gous
+          fielders:
+          - DJ Bravo
+          kind: caught
+    - 5.2:
+        non_striker: LJ Evans
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 5.3:
+        non_striker: LJ Evans
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 5.4:
+        non_striker: LJ Evans
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 5.5:
+        non_striker: Imad Wasim
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 5.6:
+        non_striker: Imad Wasim
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 6.1:
+        non_striker: Imad Wasim
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+        wicket:
+          player_out: LJ Evans
+          kind: bowled
+    - 6.2:
+        non_striker: Imad Wasim
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AD Russell
+    - 6.3:
+        non_striker: AD Russell
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 6.4:
+        non_striker: Imad Wasim
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 6.5:
+        non_striker: Imad Wasim
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 6.6:
+        non_striker: Imad Wasim
+        bowler: AJ Hosein
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 6.7:
+        non_striker: Imad Wasim
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 7.1:
+        non_striker: AD Russell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 7.2:
+        non_striker: AD Russell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 7.3:
+        non_striker: AD Russell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 7.4:
+        non_striker: AD Russell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 7.5:
+        non_striker: Imad Wasim
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 7.6:
+        non_striker: AD Russell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imad Wasim
+    - 8.1:
+        non_striker: Imad Wasim
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 8.2:
+        non_striker: Imad Wasim
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 8.3:
+        non_striker: Imad Wasim
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Russell
+    - 8.4:
+        non_striker: Imad Wasim
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 8.5:
+        non_striker: AD Russell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 8.6:
+        non_striker: AD Russell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imad Wasim
+    - 8.7:
+        non_striker: AD Russell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+        wicket:
+          player_out: Imad Wasim
+          fielders:
+          - DJ Bravo
+          kind: caught
+    - 9.1:
+        non_striker: RS Bopara
+        bowler: Muhammad Rohid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        replacements:
+          match:
+          - in: RS Bopara
+            out: SR Hain
+            team: Abu Dhabi Knight Riders
+            reason: impact_player
+        batsman: AD Russell
+    - 9.2:
+        non_striker: RS Bopara
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 9.3:
+        non_striker: RS Bopara
+        bowler: Muhammad Rohid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 9.4:
+        non_striker: RS Bopara
+        bowler: Muhammad Rohid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 9.5:
+        non_striker: RS Bopara
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 9.6:
+        non_striker: AD Russell
+        bowler: Muhammad Rohid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RS Bopara
+    - 9.7:
+        non_striker: AD Russell
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+        wicket:
+          player_out: RS Bopara
+          kind: bowled
+    - 9.8:
+        non_striker: AD Russell
+        bowler: Muhammad Rohid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Willey
+    - 9.9:
+        non_striker: AD Russell
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Willey
+    - 9.10:
+        non_striker: AD Russell
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Willey
+    - 9.11:
+        non_striker: AD Russell
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Willey
+        wicket:
+          player_out: DJ Willey
+          fielders:
+          - TH David
+          kind: caught
+    - 10.1:
+        non_striker: SP Narine
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 10.2:
+        non_striker: SP Narine
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 10.3:
+        non_striker: AD Russell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 10.4:
+        non_striker: AD Russell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 10.5:
+        non_striker: AD Russell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Narine
+    - 10.6:
+        non_striker: SP Narine
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 11.1:
+        non_striker: AD Russell
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 11.2:
+        non_striker: AD Russell
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+        wicket:
+          player_out: SP Narine
+          fielders:
+          - TA Boult
+          kind: caught
+    - 11.3:
+        non_striker: AD Russell
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Little
+    - 11.4:
+        non_striker: AD Russell
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Little
+    - 11.5:
+        non_striker: AD Russell
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Little
+    - 11.6:
+        non_striker: AD Russell
+        bowler: Muhammad Rohid
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: J Little
+    - 12.1:
+        non_striker: J Little
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 12.2:
+        non_striker: J Little
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 12.3:
+        non_striker: J Little
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 12.4:
+        non_striker: J Little
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 12.5:
+        non_striker: J Little
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Russell
+    - 12.6:
+        non_striker: J Little
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 13.1:
+        non_striker: AD Russell
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Little
+    - 13.2:
+        non_striker: AD Russell
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Little
+    - 13.3:
+        non_striker: J Little
+        bowler: Muhammad Rohid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 13.4:
+        non_striker: J Little
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 13.5:
+        non_striker: J Little
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 13.6:
+        non_striker: J Little
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 13.7:
+        non_striker: J Little
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 14.1:
+        non_striker: J Little
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 14.2:
+        non_striker: J Little
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+        wicket:
+          player_out: AD Russell
+          fielders:
+          - Waseem Muhammad
+          kind: caught
+- 2nd innings:
+    team: MI Emirates
+    deliveries:
+    - 0.1:
+        non_striker: MDKJ Perera
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.2:
+        non_striker: MDKJ Perera
+        bowler: DJ Willey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Waseem Muhammad
+    - 0.3:
+        non_striker: Waseem Muhammad
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 0.4:
+        non_striker: Waseem Muhammad
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 0.5:
+        non_striker: Waseem Muhammad
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 0.6:
+        non_striker: MDKJ Perera
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 1.1:
+        non_striker: MDKJ Perera
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.2:
+        non_striker: MDKJ Perera
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Muhammad
+    - 1.3:
+        non_striker: MDKJ Perera
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 1.4:
+        non_striker: MDKJ Perera
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 1.5:
+        non_striker: MDKJ Perera
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 1.6:
+        non_striker: MDKJ Perera
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.7:
+        non_striker: MDKJ Perera
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 2.1:
+        non_striker: MDKJ Perera
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 2.2:
+        non_striker: Waseem Muhammad
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 2.3:
+        non_striker: Waseem Muhammad
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 2.4:
+        non_striker: Waseem Muhammad
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDKJ Perera
+    - 2.5:
+        non_striker: Waseem Muhammad
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDKJ Perera
+    - 2.6:
+        non_striker: Waseem Muhammad
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MDKJ Perera
+    - 3.1:
+        non_striker: MDKJ Perera
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 3.2:
+        non_striker: Waseem Muhammad
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MDKJ Perera
+    - 3.3:
+        non_striker: Waseem Muhammad
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 3.4:
+        non_striker: Waseem Muhammad
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 3.5:
+        non_striker: MDKJ Perera
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 3.6:
+        non_striker: MDKJ Perera
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 4.1:
+        non_striker: Waseem Muhammad
+        bowler: Matiullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 4.2:
+        non_striker: Waseem Muhammad
+        bowler: Matiullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+        wicket:
+          player_out: MDKJ Perera
+          fielders:
+          - SP Narine
+          kind: caught
+    - 4.3:
+        non_striker: Waseem Muhammad
+        bowler: Matiullah Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 4.4:
+        non_striker: Waseem Muhammad
+        bowler: Matiullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.5:
+        non_striker: Waseem Muhammad
+        bowler: Matiullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.6:
+        non_striker: Waseem Muhammad
+        bowler: Matiullah Khan
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: N Pooran
+    - 4.7:
+        non_striker: Waseem Muhammad
+        bowler: Matiullah Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 4.8:
+        non_striker: Waseem Muhammad
+        bowler: Matiullah Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 5.1:
+        non_striker: N Pooran
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 5.2:
+        non_striker: N Pooran
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Waseem Muhammad
+    - 5.3:
+        non_striker: Waseem Muhammad
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.4:
+        non_striker: Waseem Muhammad
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 5.5:
+        non_striker: Waseem Muhammad
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.6:
+        non_striker: Waseem Muhammad
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 6.1:
+        non_striker: Waseem Muhammad
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 6.2:
+        non_striker: Waseem Muhammad
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 6.3:
+        non_striker: Waseem Muhammad
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 6.4:
+        non_striker: N Pooran
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 6.5:
+        non_striker: N Pooran
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 6.6:
+        non_striker: N Pooran
+        bowler: SP Narine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Muhammad
+    - 6.7:
+        non_striker: N Pooran
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 7.1:
+        non_striker: N Pooran
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 7.2:
+        non_striker: Waseem Muhammad
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 7.3:
+        non_striker: Waseem Muhammad
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 7.4:
+        non_striker: Waseem Muhammad
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 7.5:
+        non_striker: N Pooran
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 7.6:
+        non_striker: Waseem Muhammad
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 8.1:
+        non_striker: Waseem Muhammad
+        bowler: Matiullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran

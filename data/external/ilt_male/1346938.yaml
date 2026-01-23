@@ -1,0 +1,2188 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-31'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Sharjah
+  competition: International League T20
+  dates:
+  - '2023-01-31'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Desert Vipers
+    by:
+      runs: 22
+  overs: 20
+  player_of_match:
+  - PWH de Silva
+  players:
+    Desert Vipers:
+    - Rohan Mustafa
+    - AD Hales
+    - C Munro
+    - SW Billings
+    - PWH de Silva
+    - SE Rutherford
+    - BAC Howell
+    - AAP Atkinson
+    - L Wood
+    - SS Cottrell
+    - Shiraz Ahmed
+    Sharjah Warriors:
+    - Rahmanullah Gurbaz
+    - T Kohler-Cadmore
+    - MP Stoinis
+    - AJ Hose
+    - JL Denly
+    - PI Walter
+    - Mohammad Nabi
+    - Noor Ahmad
+    - Junaid Siddique
+    - Naveen-ul-Haq
+    - Muhammad Jawadullah
+  registry:
+    people:
+      A Lyth: 70b8fd28
+      AAP Atkinson: 70d57519
+      AD Hales: 92aeac25
+      AJ Hose: 104e88a4
+      Akbar Ali: e753931d
+      BAC Howell: 0bec3a6c
+      C Munro: af2c687b
+      JL Denly: bdadf7da
+      Junaid Siddique: 84dc72db
+      L Wood: 65b6943c
+      MJ Saggers: 402d5937
+      MP Stoinis: d9273ee7
+      Mohammad Nabi: 62af8546
+      Muhammad Jawadullah: '098a757c'
+      Naveen-ul-Haq: c0c411cb
+      Noor Ahmad: efc04be7
+      PI Walter: 57590dbb
+      PWH de Silva: a97c8ec2
+      RJ Tucker: 38810cfc
+      RS Mahanama: '57910393'
+      RSA Palliyaguruge: 4339c19d
+      Rahmanullah Gurbaz: 0bacade8
+      Rohan Mustafa: d1988788
+      SE Rutherford: d014d5ac
+      SS Cottrell: a1d053dd
+      SW Billings: c16d4035
+      Shiraz Ahmed: 101dcc31
+      T Kohler-Cadmore: f836b33d
+  teams:
+  - Desert Vipers
+  - Sharjah Warriors
+  toss:
+    winner: Desert Vipers
+    decision: bat
+  umpires:
+  - MJ Saggers
+  - RJ Tucker
+  venue: Sharjah Cricket Stadium
+innings:
+- 1st innings:
+    team: Desert Vipers
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.2:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 0.3:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.4:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.5:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.6:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rohan Mustafa
+    - 0.7:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 1.1:
+        non_striker: AD Hales
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 1.2:
+        non_striker: AD Hales
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 1.3:
+        non_striker: Rohan Mustafa
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.4:
+        non_striker: Rohan Mustafa
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.5:
+        non_striker: Rohan Mustafa
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 1.6:
+        non_striker: AD Hales
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 2.1:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 2.2:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 2.3:
+        non_striker: Rohan Mustafa
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 2.4:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 2.5:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 2.6:
+        non_striker: Rohan Mustafa
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 3.1:
+        non_striker: AD Hales
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 3.2:
+        non_striker: Rohan Mustafa
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Hales
+    - 3.3:
+        non_striker: Rohan Mustafa
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 3.4:
+        non_striker: Rohan Mustafa
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          kind: bowled
+    - 3.5:
+        non_striker: Rohan Mustafa
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 3.6:
+        non_striker: C Munro
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 3.7:
+        non_striker: C Munro
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 4.1:
+        non_striker: Rohan Mustafa
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 4.2:
+        non_striker: Rohan Mustafa
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 4.3:
+        non_striker: C Munro
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 4.4:
+        non_striker: C Munro
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 4.5:
+        non_striker: C Munro
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 4.6:
+        non_striker: C Munro
+        bowler: Mohammad Nabi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rohan Mustafa
+    - 5.1:
+        non_striker: C Munro
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 5.2:
+        non_striker: C Munro
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 5.3:
+        non_striker: Rohan Mustafa
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Munro
+    - 5.4:
+        non_striker: C Munro
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 5.5:
+        non_striker: C Munro
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 5.6:
+        non_striker: C Munro
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 6.1:
+        non_striker: Rohan Mustafa
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 6.2:
+        non_striker: C Munro
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 6.3:
+        non_striker: Rohan Mustafa
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 6.4:
+        non_striker: Rohan Mustafa
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 6.5:
+        non_striker: Rohan Mustafa
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          kind: lbw
+    - 6.6:
+        non_striker: Rohan Mustafa
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 7.1:
+        non_striker: SW Billings
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 7.2:
+        non_striker: Rohan Mustafa
+        bowler: Junaid Siddique
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: SW Billings
+    - 7.3:
+        non_striker: Rohan Mustafa
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 7.4:
+        non_striker: SW Billings
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 7.5:
+        non_striker: SW Billings
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 7.6:
+        non_striker: SW Billings
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 7.7:
+        non_striker: Rohan Mustafa
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 8.1:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 8.2:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 8.3:
+        non_striker: Rohan Mustafa
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 8.4:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+        wicket:
+          player_out: Rohan Mustafa
+          kind: bowled
+    - 8.5:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 8.6:
+        non_striker: PWH de Silva
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 9.1:
+        non_striker: SW Billings
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 9.2:
+        non_striker: SW Billings
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 9.3:
+        non_striker: SW Billings
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 9.4:
+        non_striker: SW Billings
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 9.5:
+        non_striker: SW Billings
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 9.6:
+        non_striker: SW Billings
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 10.1:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 10.2:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 10.3:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 10.4:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 10.5:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 10.6:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+        wicket:
+          player_out: PWH de Silva
+          fielders:
+          - PI Walter
+          kind: caught
+    - 11.1:
+        non_striker: SE Rutherford
+        bowler: PI Walter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 11.2:
+        non_striker: SW Billings
+        bowler: PI Walter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 11.3:
+        non_striker: SW Billings
+        bowler: PI Walter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 11.4:
+        non_striker: SW Billings
+        bowler: PI Walter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 11.5:
+        non_striker: SE Rutherford
+        bowler: PI Walter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 11.6:
+        non_striker: SW Billings
+        bowler: PI Walter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 12.1:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 12.2:
+        non_striker: SE Rutherford
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 12.3:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 12.4:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 12.5:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 12.6:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 13.1:
+        non_striker: SW Billings
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          fielders:
+          - Muhammad Jawadullah
+          kind: run out
+    - 13.2:
+        non_striker: BAC Howell
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Billings
+    - 13.3:
+        non_striker: BAC Howell
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 13.4:
+        non_striker: BAC Howell
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Billings
+    - 13.5:
+        non_striker: BAC Howell
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 13.6:
+        non_striker: BAC Howell
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Billings
+    - 13.7:
+        non_striker: BAC Howell
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 13.8:
+        non_striker: BAC Howell
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 13.9:
+        non_striker: BAC Howell
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 14.1:
+        non_striker: BAC Howell
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 14.2:
+        non_striker: BAC Howell
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 14.3:
+        non_striker: BAC Howell
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 14.4:
+        non_striker: SW Billings
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAC Howell
+    - 14.5:
+        non_striker: SW Billings
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 14.6:
+        non_striker: SW Billings
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 15.1:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAC Howell
+    - 15.2:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 15.3:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 15.4:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAC Howell
+    - 15.5:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAC Howell
+    - 15.6:
+        non_striker: SW Billings
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 16.1:
+        non_striker: SW Billings
+        bowler: PI Walter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 16.2:
+        non_striker: BAC Howell
+        bowler: PI Walter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 16.3:
+        non_striker: BAC Howell
+        bowler: PI Walter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 16.4:
+        non_striker: BAC Howell
+        bowler: PI Walter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 16.5:
+        non_striker: SW Billings
+        bowler: PI Walter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 16.6:
+        non_striker: BAC Howell
+        bowler: PI Walter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SW Billings
+    - 17.1:
+        non_striker: SW Billings
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAC Howell
+    - 17.2:
+        non_striker: SW Billings
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 17.3:
+        non_striker: BAC Howell
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 17.4:
+        non_striker: BAC Howell
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 17.5:
+        non_striker: SW Billings
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: BAC Howell
+    - 17.6:
+        non_striker: SW Billings
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 17.7:
+        non_striker: BAC Howell
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+        wicket:
+          player_out: SW Billings
+          kind: bowled
+    - 18.1:
+        non_striker: AAP Atkinson
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 18.2:
+        non_striker: BAC Howell
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Atkinson
+    - 18.3:
+        non_striker: AAP Atkinson
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAC Howell
+    - 18.4:
+        non_striker: AAP Atkinson
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 18.5:
+        non_striker: AAP Atkinson
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAC Howell
+    - 18.6:
+        non_striker: AAP Atkinson
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAC Howell
+    - 19.1:
+        non_striker: BAC Howell
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Atkinson
+    - 19.2:
+        non_striker: AAP Atkinson
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 19.3:
+        non_striker: AAP Atkinson
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 19.4:
+        non_striker: BAC Howell
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AAP Atkinson
+    - 19.5:
+        non_striker: BAC Howell
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Atkinson
+    - 19.6:
+        non_striker: AAP Atkinson
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: BAC Howell
+- 2nd innings:
+    team: Sharjah Warriors
+    deliveries:
+    - 0.1:
+        non_striker: T Kohler-Cadmore
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 0.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 0.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 0.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: SS Cottrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Kohler-Cadmore
+    - 0.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 0.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 0.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 1.1:
+        non_striker: T Kohler-Cadmore
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.2:
+        non_striker: T Kohler-Cadmore
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.3:
+        non_striker: T Kohler-Cadmore
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          fielders:
+          - Rohan Mustafa
+          kind: caught
+    - 1.4:
+        non_striker: T Kohler-Cadmore
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 1.5:
+        non_striker: MP Stoinis
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 1.6:
+        non_striker: T Kohler-Cadmore
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 2.1:
+        non_striker: MP Stoinis
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+        wicket:
+          player_out: T Kohler-Cadmore
+          fielders:
+          - AD Hales
+          kind: caught
+    - 2.2:
+        non_striker: MP Stoinis
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 2.3:
+        non_striker: MP Stoinis
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 2.4:
+        non_striker: MP Stoinis
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 2.5:
+        non_striker: MP Stoinis
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Hose
+    - 2.6:
+        non_striker: MP Stoinis
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Hose
+    - 3.1:
+        non_striker: AJ Hose
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 3.2:
+        non_striker: AJ Hose
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 3.3:
+        non_striker: AJ Hose
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 3.4:
+        non_striker: AJ Hose
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 3.5:
+        non_striker: AJ Hose
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 3.6:
+        non_striker: AJ Hose
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 4.1:
+        non_striker: AJ Hose
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 4.2:
+        non_striker: MP Stoinis
+        bowler: SS Cottrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Hose
+    - 4.3:
+        non_striker: AJ Hose
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 4.4:
+        non_striker: AJ Hose
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 4.5:
+        non_striker: AJ Hose
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 4.6:
+        non_striker: MP Stoinis
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 5.1:
+        non_striker: AJ Hose
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 5.2:
+        non_striker: AJ Hose
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 5.3:
+        non_striker: AJ Hose
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 5.4:
+        non_striker: MP Stoinis
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 5.5:
+        non_striker: AJ Hose
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 5.6:
+        non_striker: AJ Hose
+        bowler: L Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Stoinis
+    - 5.7:
+        non_striker: AJ Hose
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 6.1:
+        non_striker: MP Stoinis
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 6.2:
+        non_striker: AJ Hose
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 6.3:
+        non_striker: AJ Hose
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 6.4:
+        non_striker: AJ Hose
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 6.5:
+        non_striker: AJ Hose
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 6.6:
+        non_striker: AJ Hose
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 7.1:
+        non_striker: MP Stoinis
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 7.2:
+        non_striker: AJ Hose
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 7.3:
+        non_striker: MP Stoinis
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 7.4:
+        non_striker: AJ Hose
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 7.5:
+        non_striker: AJ Hose
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 7.6:
+        non_striker: MP Stoinis
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hose
+    - 8.1:
+        non_striker: AJ Hose
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: MP Stoinis
+          kind: lbw
+    - 8.2:
+        non_striker: AJ Hose
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 8.3:
+        non_striker: AJ Hose
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 8.4:
+        non_striker: JL Denly
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 8.5:
+        non_striker: JL Denly
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 8.6:
+        non_striker: AJ Hose
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 9.1:
+        non_striker: JL Denly
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 9.2:
+        non_striker: AJ Hose
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 9.3:
+        non_striker: AJ Hose
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+        wicket:
+          player_out: JL Denly
+          fielders:
+          - SW Billings
+          kind: run out
+    - 9.4:
+        non_striker: AJ Hose
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PI Walter
+    - 9.5:
+        non_striker: AJ Hose
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PI Walter
+    - 9.6:
+        non_striker: AJ Hose
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PI Walter
+    - 10.1:
+        non_striker: PI Walter
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 10.2:
+        non_striker: AJ Hose
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PI Walter
+    - 10.3:
+        non_striker: AJ Hose
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PI Walter
+    - 10.4:
+        non_striker: AJ Hose
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PI Walter
+    - 10.5:
+        non_striker: PI Walter
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+        wicket:
+          player_out: AJ Hose
+          kind: bowled
+    - 10.6:
+        non_striker: PI Walter
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 11.1:
+        non_striker: Mohammad Nabi
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PI Walter
+    - 11.2:
+        non_striker: Mohammad Nabi
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PI Walter
+    - 11.3:
+        non_striker: Mohammad Nabi
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PI Walter
+    - 11.4:
+        non_striker: Mohammad Nabi
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PI Walter
+    - 11.5:
+        non_striker: Mohammad Nabi
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PI Walter
+    - 11.6:
+        non_striker: PI Walter
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 12.1:
+        non_striker: PI Walter
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+        wicket:
+          player_out: Mohammad Nabi
+          kind: bowled
+    - 12.2:
+        non_striker: PI Walter
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Noor Ahmad
+    - 12.3:
+        non_striker: PI Walter
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noor Ahmad
+    - 12.4:
+        non_striker: Noor Ahmad
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PI Walter
+    - 12.5:
+        non_striker: PI Walter
+        bowler: PWH de Silva
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Noor Ahmad
+    - 12.6:
+        non_striker: PI Walter
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+    - 13.1:
+        non_striker: Noor Ahmad
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PI Walter
+    - 13.2:
+        non_striker: Noor Ahmad
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PI Walter
+    - 13.3:
+        non_striker: Noor Ahmad
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PI Walter
+    - 13.4:
+        non_striker: Noor Ahmad
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PI Walter
+    - 13.5:
+        non_striker: Noor Ahmad
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PI Walter
+    - 13.6:
+        non_striker: Noor Ahmad
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PI Walter
+    - 14.1:
+        non_striker: Noor Ahmad
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PI Walter
+    - 14.2:
+        non_striker: Noor Ahmad
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PI Walter
+    - 14.3:
+        non_striker: PI Walter
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Noor Ahmad
+    - 14.4:
+        non_striker: PI Walter
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+    - 14.5:
+        non_striker: PI Walter
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Noor Ahmad
+    - 14.6:
+        non_striker: PI Walter
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noor Ahmad
+    - 15.1:
+        non_striker: PI Walter
+        bowler: L Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Noor Ahmad
+    - 15.2:
+        non_striker: Noor Ahmad
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PI Walter
+    - 15.3:
+        non_striker: PI Walter
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noor Ahmad
+    - 15.4:
+        non_striker: Noor Ahmad
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PI Walter
+    - 15.5:
+        non_striker: PI Walter
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noor Ahmad
+    - 15.6:
+        non_striker: Noor Ahmad
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PI Walter
+        wicket:
+          player_out: PI Walter
+          fielders:
+          - A Lyth (sub)
+          kind: caught
+    - 16.1:
+        non_striker: Junaid Siddique
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Noor Ahmad
+    - 16.2:
+        non_striker: Junaid Siddique
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Noor Ahmad
+    - 16.3:
+        non_striker: Junaid Siddique
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+    - 16.4:
+        non_striker: Junaid Siddique
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+    - 16.5:
+        non_striker: Junaid Siddique
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+    - 16.6:
+        non_striker: Junaid Siddique
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Noor Ahmad
+    - 17.1:
+        non_striker: Noor Ahmad
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Siddique
+    - 17.2:
+        non_striker: Junaid Siddique
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noor Ahmad
+    - 17.3:
+        non_striker: Noor Ahmad
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Siddique
+    - 17.4:
+        non_striker: Junaid Siddique
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noor Ahmad
+        wicket:
+          player_out: Noor Ahmad
+          kind: bowled
+    - 17.5:
+        non_striker: Junaid Siddique
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naveen-ul-Haq
+    - 17.6:
+        non_striker: Naveen-ul-Haq
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Siddique
+    - 18.1:
+        non_striker: Naveen-ul-Haq
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+    - 18.2:
+        non_striker: Naveen-ul-Haq
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+    - 18.3:
+        non_striker: Naveen-ul-Haq
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Siddique
+    - 18.4:
+        non_striker: Junaid Siddique
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naveen-ul-Haq
+    - 18.5:
+        non_striker: Junaid Siddique
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naveen-ul-Haq
+    - 18.6:
+        non_striker: Naveen-ul-Haq
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+    - 19.1:
+        non_striker: Junaid Siddique
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Naveen-ul-Haq
+    - 19.2:
+        non_striker: Junaid Siddique
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Naveen-ul-Haq
+    - 19.3:
+        non_striker: Junaid Siddique
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naveen-ul-Haq
+    - 19.4:
+        non_striker: Naveen-ul-Haq
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Junaid Siddique
+    - 19.5:
+        non_striker: Naveen-ul-Haq
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Siddique
+    - 19.6:
+        non_striker: Junaid Siddique
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naveen-ul-Haq
+    - 19.7:
+        non_striker: Junaid Siddique
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naveen-ul-Haq
+    - 19.8:
+        non_striker: Junaid Siddique
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naveen-ul-Haq

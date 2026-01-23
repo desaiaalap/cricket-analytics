@@ -1,0 +1,2176 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-01-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  competition: International League T20
+  dates:
+  - '2025-01-12'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sharjah Warriorz
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - T Kohler-Cadmore
+  players:
+    Gulf Giants:
+    - B Muzarabani
+    - A Lyth
+    - JM Vince
+    - Rehan Ahmed
+    - JM Cox
+    - SO Hetmyer
+    - OG Robinson
+    - MR Adair
+    - Saghir Khan
+    - Aayan Afzal Khan
+    - DJ Worrall
+    - TS Mills
+    Sharjah Warriorz:
+    - T Kohler-Cadmore
+    - J Charles
+    - JJ Roy
+    - Rohan Mustafa
+    - PBB Rajapaksa
+    - Karim Janat
+    - KMA Paul
+    - Harmeet Singh
+    - AU Rashid
+    - AF Milne
+    - TG Southee
+    - Muhammad Jawadullah
+  registry:
+    people:
+      A Lyth: 70b8fd28
+      AF Milne: 350bb1b1
+      AG Wharf: 2e0fcc58
+      AU Rashid: 249d60c9
+      Aayan Afzal Khan: d2d15439
+      Ahmed Shah Pakteen: '43602937'
+      B Muzarabani: 449f4e3c
+      DJ Worrall: 208f22ea
+      Harmeet Singh: 0bf15e52
+      J Charles: '09a9d073'
+      JJ Roy: d1c36f5c
+      JM Cox: ff154ecd
+      JM Vince: a15618fe
+      KMA Paul: 75224f22
+      Karim Janat: '62175638'
+      LS Reifer: 5dee559a
+      MR Adair: fc55ec67
+      Muhammad Jawadullah: '098a757c'
+      OG Robinson: 60f4c586
+      PBB Rajapaksa: 6c882e9a
+      RS Mahanama: '57910393'
+      RSA Palliyaguruge: 4339c19d
+      Rehan Ahmed: 0ecb4de6
+      Rohan Mustafa: d1988788
+      SO Hetmyer: 48a1d7b7
+      Saghir Khan: 730d2283
+      T Kohler-Cadmore: f836b33d
+      TG Southee: 13c35c9e
+      TS Mills: 245c97cb
+  teams:
+  - Gulf Giants
+  - Sharjah Warriorz
+  toss:
+    winner: Sharjah Warriorz
+    decision: field
+  umpires:
+  - Ahmed Shah Pakteen
+  - AG Wharf
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: Gulf Giants
+    deliveries:
+    - 0.1:
+        non_striker: JM Vince
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lyth
+    - 0.2:
+        non_striker: A Lyth
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JM Vince
+    - 0.3:
+        non_striker: JM Vince
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+    - 0.4:
+        non_striker: JM Vince
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lyth
+    - 0.5:
+        non_striker: A Lyth
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+        wicket:
+          player_out: JM Vince
+          fielders:
+          - T Kohler-Cadmore
+          kind: caught
+    - 0.6:
+        non_striker: A Lyth
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+    - 1.1:
+        non_striker: Rehan Ahmed
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+    - 1.2:
+        non_striker: Rehan Ahmed
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+    - 1.3:
+        non_striker: Rehan Ahmed
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+    - 1.4:
+        non_striker: Rehan Ahmed
+        bowler: AF Milne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Lyth
+    - 1.5:
+        non_striker: Rehan Ahmed
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+    - 1.6:
+        non_striker: Rehan Ahmed
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+    - 1.7:
+        non_striker: Rehan Ahmed
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+    - 2.1:
+        non_striker: A Lyth
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+    - 2.2:
+        non_striker: A Lyth
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+    - 2.3:
+        non_striker: A Lyth
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rehan Ahmed
+    - 2.4:
+        non_striker: A Lyth
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+    - 2.5:
+        non_striker: A Lyth
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rehan Ahmed
+    - 2.6:
+        non_striker: A Lyth
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+    - 3.1:
+        non_striker: Rehan Ahmed
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+    - 3.2:
+        non_striker: Rehan Ahmed
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lyth
+    - 3.3:
+        non_striker: Rehan Ahmed
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lyth
+    - 3.4:
+        non_striker: A Lyth
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Rehan Ahmed
+    - 3.5:
+        non_striker: Rehan Ahmed
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lyth
+    - 3.6:
+        non_striker: Rehan Ahmed
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+    - 4.1:
+        non_striker: A Lyth
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rehan Ahmed
+    - 4.2:
+        non_striker: Rehan Ahmed
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+        wicket:
+          player_out: A Lyth
+          fielders:
+          - KMA Paul
+          kind: caught
+    - 4.3:
+        non_striker: Rehan Ahmed
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 4.4:
+        non_striker: Rehan Ahmed
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 4.5:
+        non_striker: Rehan Ahmed
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 4.6:
+        non_striker: JM Cox
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rehan Ahmed
+    - 5.1:
+        non_striker: Rehan Ahmed
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 5.2:
+        non_striker: Rehan Ahmed
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 5.3:
+        non_striker: JM Cox
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+    - 5.4:
+        non_striker: JM Cox
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rehan Ahmed
+    - 5.5:
+        non_striker: JM Cox
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rehan Ahmed
+    - 5.6:
+        non_striker: JM Cox
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+    - 6.1:
+        non_striker: Rehan Ahmed
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 6.2:
+        non_striker: Rehan Ahmed
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 6.3:
+        non_striker: JM Cox
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rehan Ahmed
+    - 6.4:
+        non_striker: Rehan Ahmed
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 6.5:
+        non_striker: Rehan Ahmed
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 6.6:
+        non_striker: JM Cox
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rehan Ahmed
+    - 7.1:
+        non_striker: Rehan Ahmed
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 7.2:
+        non_striker: Rehan Ahmed
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 7.3:
+        non_striker: Rehan Ahmed
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 7.4:
+        non_striker: JM Cox
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rehan Ahmed
+    - 7.5:
+        non_striker: Rehan Ahmed
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 7.6:
+        non_striker: JM Cox
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rehan Ahmed
+    - 8.1:
+        non_striker: JM Cox
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rehan Ahmed
+    - 8.2:
+        non_striker: JM Cox
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+    - 8.3:
+        non_striker: JM Cox
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rehan Ahmed
+    - 8.4:
+        non_striker: JM Cox
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rehan Ahmed
+    - 8.5:
+        non_striker: Rehan Ahmed
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 8.6:
+        non_striker: Rehan Ahmed
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 9.1:
+        non_striker: JM Cox
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rehan Ahmed
+    - 9.2:
+        non_striker: Rehan Ahmed
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 9.3:
+        non_striker: Rehan Ahmed
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 9.4:
+        non_striker: JM Cox
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rehan Ahmed
+    - 9.5:
+        non_striker: Rehan Ahmed
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 9.6:
+        non_striker: Rehan Ahmed
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Cox
+    - 10.1:
+        non_striker: JM Cox
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rehan Ahmed
+    - 10.2:
+        non_striker: Rehan Ahmed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 10.3:
+        non_striker: Rehan Ahmed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 10.4:
+        non_striker: JM Cox
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rehan Ahmed
+    - 10.5:
+        non_striker: JM Cox
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+        wicket:
+          player_out: Rehan Ahmed
+          fielders:
+          - KMA Paul
+          kind: caught
+    - 10.6:
+        non_striker: JM Cox
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 11.1:
+        non_striker: SO Hetmyer
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 11.2:
+        non_striker: SO Hetmyer
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 11.3:
+        non_striker: JM Cox
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 11.4:
+        non_striker: SO Hetmyer
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 11.5:
+        non_striker: JM Cox
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 11.6:
+        non_striker: JM Cox
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 12.1:
+        non_striker: SO Hetmyer
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 12.2:
+        non_striker: JM Cox
+        bowler: Harmeet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SO Hetmyer
+    - 12.3:
+        non_striker: SO Hetmyer
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Cox
+    - 12.4:
+        non_striker: SO Hetmyer
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 12.5:
+        non_striker: SO Hetmyer
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 12.6:
+        non_striker: SO Hetmyer
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 13.1:
+        non_striker: SO Hetmyer
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Cox
+    - 13.2:
+        non_striker: SO Hetmyer
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 13.3:
+        non_striker: SO Hetmyer
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+        wicket:
+          player_out: JM Cox
+          fielders:
+          - T Kohler-Cadmore
+          kind: caught
+    - 13.4:
+        non_striker: SO Hetmyer
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OG Robinson
+    - 13.5:
+        non_striker: OG Robinson
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 13.6:
+        non_striker: OG Robinson
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 14.1:
+        non_striker: SO Hetmyer
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OG Robinson
+    - 14.2:
+        non_striker: OG Robinson
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.3:
+        non_striker: SO Hetmyer
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OG Robinson
+    - 14.4:
+        non_striker: OG Robinson
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.5:
+        non_striker: SO Hetmyer
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OG Robinson
+    - 14.6:
+        non_striker: OG Robinson
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 15.1:
+        non_striker: OG Robinson
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 15.2:
+        non_striker: OG Robinson
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 15.3:
+        non_striker: SO Hetmyer
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OG Robinson
+    - 15.4:
+        non_striker: SO Hetmyer
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OG Robinson
+    - 15.5:
+        non_striker: OG Robinson
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 15.6:
+        non_striker: SO Hetmyer
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OG Robinson
+    - 16.1:
+        non_striker: OG Robinson
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 16.2:
+        non_striker: OG Robinson
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 16.3:
+        non_striker: OG Robinson
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 16.4:
+        non_striker: SO Hetmyer
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OG Robinson
+        wicket:
+          player_out: OG Robinson
+          kind: bowled
+    - 16.5:
+        non_striker: SO Hetmyer
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 16.6:
+        non_striker: MR Adair
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 17.1:
+        non_striker: SO Hetmyer
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 17.2:
+        non_striker: MR Adair
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 17.3:
+        non_striker: MR Adair
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 17.4:
+        non_striker: MR Adair
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 17.5:
+        non_striker: MR Adair
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 17.6:
+        non_striker: MR Adair
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 18.1:
+        non_striker: MR Adair
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - JJ Roy
+          kind: caught
+    - 18.2:
+        non_striker: MR Adair
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saghir Khan
+    - 18.3:
+        non_striker: MR Adair
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saghir Khan
+    - 18.4:
+        non_striker: MR Adair
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saghir Khan
+    - 18.5:
+        non_striker: Saghir Khan
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 18.6:
+        non_striker: MR Adair
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saghir Khan
+    - 19.1:
+        non_striker: Saghir Khan
+        bowler: AF Milne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MR Adair
+    - 19.2:
+        non_striker: Saghir Khan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 19.3:
+        non_striker: Saghir Khan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+        wicket:
+          player_out: Saghir Khan
+          fielders:
+          - KMA Paul
+          - AF Milne
+          kind: run out
+    - 19.4:
+        non_striker: Aayan Afzal Khan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 19.5:
+        non_striker: Aayan Afzal Khan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 19.6:
+        non_striker: Aayan Afzal Khan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Adair
+    - 19.7:
+        non_striker: Aayan Afzal Khan
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+- 2nd innings:
+    team: Sharjah Warriorz
+    deliveries:
+    - 0.1:
+        non_striker: J Charles
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: B Muzarabani
+            out: JM Cox
+            team: Gulf Giants
+            reason: impact_player
+        batsman: T Kohler-Cadmore
+    - 0.2:
+        non_striker: J Charles
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 0.3:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 0.4:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 0.5:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 0.6:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+        wicket:
+          player_out: J Charles
+          fielders:
+          - Saghir Khan
+          kind: caught
+    - 1.1:
+        non_striker: JJ Roy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 1.2:
+        non_striker: JJ Roy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 1.3:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 1.4:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+        wicket:
+          player_out: JJ Roy
+          fielders:
+          - OG Robinson
+          kind: caught
+    - 1.5:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 1.6:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 2.1:
+        non_striker: Rohan Mustafa
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 2.2:
+        non_striker: Rohan Mustafa
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 2.3:
+        non_striker: Rohan Mustafa
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kohler-Cadmore
+    - 2.4:
+        non_striker: Rohan Mustafa
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 2.5:
+        non_striker: Rohan Mustafa
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 2.6:
+        non_striker: Rohan Mustafa
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 3.1:
+        non_striker: Rohan Mustafa
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 3.2:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 3.3:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rohan Mustafa
+    - 3.4:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 3.5:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 3.6:
+        non_striker: Rohan Mustafa
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kohler-Cadmore
+    - 4.1:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rohan Mustafa
+    - 4.2:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 4.3:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 4.4:
+        non_striker: Rohan Mustafa
+        bowler: DJ Worrall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Kohler-Cadmore
+    - 4.5:
+        non_striker: Rohan Mustafa
+        bowler: DJ Worrall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Kohler-Cadmore
+    - 4.6:
+        non_striker: Rohan Mustafa
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 4.7:
+        non_striker: Rohan Mustafa
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 4.8:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 5.1:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 5.2:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 5.3:
+        non_striker: Rohan Mustafa
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 5.4:
+        non_striker: Rohan Mustafa
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 5.5:
+        non_striker: Rohan Mustafa
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 5.6:
+        non_striker: Rohan Mustafa
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 6.1:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 6.2:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 6.3:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 6.4:
+        non_striker: Rohan Mustafa
+        bowler: TS Mills
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Kohler-Cadmore
+    - 6.5:
+        non_striker: Rohan Mustafa
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 6.6:
+        non_striker: Rohan Mustafa
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 6.7:
+        non_striker: Rohan Mustafa
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 7.1:
+        non_striker: Rohan Mustafa
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 7.2:
+        non_striker: T Kohler-Cadmore
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 7.3:
+        non_striker: Rohan Mustafa
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 7.4:
+        non_striker: Rohan Mustafa
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 7.5:
+        non_striker: Rohan Mustafa
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kohler-Cadmore
+    - 7.6:
+        non_striker: Rohan Mustafa
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 8.1:
+        non_striker: Rohan Mustafa
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 8.2:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 8.3:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 8.4:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 8.5:
+        non_striker: Rohan Mustafa
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 8.6:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rohan Mustafa
+    - 9.1:
+        non_striker: Rohan Mustafa
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 9.2:
+        non_striker: Rohan Mustafa
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 9.3:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 9.4:
+        non_striker: Rohan Mustafa
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kohler-Cadmore
+    - 9.5:
+        non_striker: Rohan Mustafa
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 9.6:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 10.1:
+        non_striker: Rohan Mustafa
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 10.2:
+        non_striker: Rohan Mustafa
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 10.3:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rohan Mustafa
+    - 10.4:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 10.5:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 10.6:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rohan Mustafa
+    - 10.7:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rohan Mustafa
+    - 11.1:
+        non_striker: Rohan Mustafa
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 11.2:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 11.3:
+        non_striker: Rohan Mustafa
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 11.4:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 11.5:
+        non_striker: Rohan Mustafa
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 11.6:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 12.1:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rohan Mustafa
+    - 12.2:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 12.3:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rohan Mustafa
+    - 12.4:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+        wicket:
+          player_out: Rohan Mustafa
+          fielders:
+          - A Lyth
+          kind: caught
+    - 12.5:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: PBB Rajapaksa
+            out: J Charles
+            team: Sharjah Warriorz
+            reason: impact_player
+        batsman: PBB Rajapaksa
+    - 12.6:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 13.1:
+        non_striker: T Kohler-Cadmore
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 13.2:
+        non_striker: PBB Rajapaksa
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 13.3:
+        non_striker: PBB Rajapaksa
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 13.4:
+        non_striker: T Kohler-Cadmore
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+        wicket:
+          player_out: PBB Rajapaksa
+          fielders:
+          - OG Robinson
+          kind: caught
+    - 13.5:
+        non_striker: T Kohler-Cadmore
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+    - 13.6:
+        non_striker: T Kohler-Cadmore
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karim Janat
+    - 14.1:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+    - 14.2:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Karim Janat
+    - 14.3:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+        wicket:
+          player_out: Karim Janat
+          kind: bowled
+    - 14.4:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 14.5:
+        non_striker: KMA Paul
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 14.6:
+        non_striker: KMA Paul
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 15.1:
+        non_striker: KMA Paul
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 15.2:
+        non_striker: KMA Paul
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 15.3:
+        non_striker: T Kohler-Cadmore
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 15.4:
+        non_striker: T Kohler-Cadmore
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KMA Paul
+    - 15.5:
+        non_striker: T Kohler-Cadmore
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 15.6:
+        non_striker: T Kohler-Cadmore
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KMA Paul
+    - 16.1:
+        non_striker: KMA Paul
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 16.2:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+        wicket:
+          player_out: KMA Paul
+          fielders:
+          - TS Mills
+          kind: caught
+    - 16.3:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harmeet Singh
+    - 16.4:
+        non_striker: Harmeet Singh
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 16.5:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harmeet Singh
+    - 16.6:
+        non_striker: Harmeet Singh
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 17.1:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 17.2:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+        wicket:
+          player_out: Harmeet Singh
+          kind: caught and bowled
+    - 17.3:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AU Rashid
+    - 17.4:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid
+    - 17.5:
+        non_striker: AU Rashid
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 17.6:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid
+    - 18.1:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AU Rashid
+    - 18.2:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AU Rashid
+    - 18.3:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AU Rashid
+    - 18.4:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AU Rashid
+    - 18.5:
+        non_striker: T Kohler-Cadmore
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid
+    - 18.6:
+        non_striker: AU Rashid
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 18.7:
+        non_striker: AU Rashid
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 18.8:
+        non_striker: AU Rashid
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 19.1:
+        non_striker: AU Rashid
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 19.2:
+        non_striker: AU Rashid
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 19.3:
+        non_striker: AU Rashid
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kohler-Cadmore
+    - 19.4:
+        non_striker: AU Rashid
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 19.5:
+        non_striker: AU Rashid
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 19.6:
+        non_striker: AU Rashid
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kohler-Cadmore

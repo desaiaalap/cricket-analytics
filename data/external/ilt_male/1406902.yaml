@@ -1,0 +1,1710 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-02-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sharjah
+  competition: International League T20
+  dates:
+  - '2024-01-29'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sharjah Warriors
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - M Theekshana
+  players:
+    Dubai Capitals:
+    - PVD Chameera
+    - Rahmanullah Gurbaz
+    - DA Warner
+    - BR Dunk
+    - SW Billings
+    - Sikandar Raza
+    - MDE Holden
+    - R Powell
+    - JO Holder
+    - RE van der Merwe
+    - Akif Raja
+    - Haider Ali
+    Sharjah Warriors:
+    - MRJ Watt
+    - N Dickwella
+    - J Charles
+    - JL Denly
+    - T Kohler-Cadmore
+    - DR Sams
+    - L Gregory
+    - CR Woakes
+    - Basil Hameed
+    - M Theekshana
+    - Muhammad Jawadullah
+    - MJ Guptill
+  registry:
+    people:
+      Ahmed Shah Pakteen: '43602937'
+      Akif Raja: 9d0344f3
+      BR Dunk: 272d796e
+      Basil Hameed: adbf0400
+      CR Woakes: 4c5d73db
+      DA Warner: dcce6f09
+      DR Sams: caf69bf7
+      Haider Ali: dd572696
+      J Charles: '09a9d073'
+      JL Denly: bdadf7da
+      JO Holder: 0f721006
+      L Gregory: 06c2de82
+      LS Reifer: 5dee559a
+      M Theekshana: f24c6701
+      MDE Holden: d34a2268
+      MJ Guptill: 2be41edb
+      MJ Saggers: 402d5937
+      MRJ Watt: 1252f71a
+      Muhammad Jawadullah: '098a757c'
+      N Dickwella: 45963d9e
+      PVD Chameera: 327b58d3
+      R Powell: 650d5e49
+      RE van der Merwe: 05c2ca46
+      RJ Tucker: 38810cfc
+      Rahmanullah Gurbaz: 0bacade8
+      SJA Taufel: 4b43d5ac
+      SW Billings: c16d4035
+      Sikandar Raza: 26d041c4
+      T Kohler-Cadmore: f836b33d
+  teams:
+  - Dubai Capitals
+  - Sharjah Warriors
+  toss:
+    winner: Dubai Capitals
+    decision: bat
+  umpires:
+  - Ahmed Shah Pakteen
+  - MJ Saggers
+  venue: Sharjah Cricket Stadium
+innings:
+- 1st innings:
+    team: Dubai Capitals
+    deliveries:
+    - 0.1:
+        non_striker: DA Warner
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.2:
+        non_striker: DA Warner
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 0.3:
+        non_striker: DA Warner
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 0.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 0.5:
+        non_striker: DA Warner
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 0.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.1:
+        non_striker: DA Warner
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.2:
+        non_striker: DA Warner
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.3:
+        non_striker: DA Warner
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 1.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 1.5:
+        non_striker: DA Warner
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.6:
+        non_striker: DA Warner
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          kind: bowled
+    - 2.1:
+        non_striker: BR Dunk
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 2.2:
+        non_striker: DA Warner
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 2.3:
+        non_striker: DA Warner
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 2.4:
+        non_striker: DA Warner
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 2.5:
+        non_striker: DA Warner
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Dunk
+    - 2.6:
+        non_striker: BR Dunk
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 3.1:
+        non_striker: BR Dunk
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 3.2:
+        non_striker: BR Dunk
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 3.3:
+        non_striker: BR Dunk
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 3.4:
+        non_striker: DA Warner
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 3.5:
+        non_striker: DA Warner
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 3.6:
+        non_striker: DA Warner
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Dunk
+    - 4.1:
+        non_striker: DA Warner
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BR Dunk
+    - 4.2:
+        non_striker: DA Warner
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+        wicket:
+          player_out: BR Dunk
+          fielders:
+          - J Charles
+          kind: caught
+    - 4.3:
+        non_striker: DA Warner
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 4.4:
+        non_striker: DA Warner
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 4.5:
+        non_striker: SW Billings
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 4.6:
+        non_striker: SW Billings
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 5.1:
+        non_striker: SW Billings
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 5.2:
+        non_striker: SW Billings
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 5.3:
+        non_striker: SW Billings
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 5.4:
+        non_striker: SW Billings
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 5.5:
+        non_striker: SW Billings
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 5.6:
+        non_striker: SW Billings
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 6.1:
+        non_striker: SW Billings
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 6.2:
+        non_striker: DA Warner
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 6.3:
+        non_striker: DA Warner
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 6.4:
+        non_striker: DA Warner
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 6.5:
+        non_striker: DA Warner
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 6.6:
+        non_striker: SW Billings
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+        wicket:
+          player_out: DA Warner
+          fielders:
+          - N Dickwella
+          kind: caught
+    - 7.1:
+        non_striker: Sikandar Raza
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 7.2:
+        non_striker: Sikandar Raza
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 7.3:
+        non_striker: SW Billings
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 7.4:
+        non_striker: SW Billings
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 7.5:
+        non_striker: SW Billings
+        bowler: MRJ Watt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sikandar Raza
+    - 7.6:
+        non_striker: Sikandar Raza
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 8.1:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 8.2:
+        non_striker: SW Billings
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 8.3:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+        wicket:
+          player_out: SW Billings
+          fielders:
+          - L Gregory
+          kind: caught
+    - 8.4:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDE Holden
+    - 8.5:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDE Holden
+        wicket:
+          player_out: MDE Holden
+          kind: lbw
+    - 8.6:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 9.1:
+        non_striker: Sikandar Raza
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 9.2:
+        non_striker: Sikandar Raza
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 9.3:
+        non_striker: R Powell
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 9.4:
+        non_striker: Sikandar Raza
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 9.5:
+        non_striker: Sikandar Raza
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 9.6:
+        non_striker: R Powell
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 10.1:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 10.2:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 10.3:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 10.4:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 10.5:
+        non_striker: R Powell
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 10.6:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          kind: lbw
+    - 11.1:
+        non_striker: JO Holder
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 11.2:
+        non_striker: JO Holder
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 11.3:
+        non_striker: Sikandar Raza
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 11.4:
+        non_striker: Sikandar Raza
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 11.5:
+        non_striker: Sikandar Raza
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 11.6:
+        non_striker: JO Holder
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 12.1:
+        non_striker: JO Holder
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 12.2:
+        non_striker: JO Holder
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 12.3:
+        non_striker: JO Holder
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 12.4:
+        non_striker: JO Holder
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sikandar Raza
+    - 12.5:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+        wicket:
+          player_out: JO Holder
+          kind: lbw
+    - 12.6:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 13.1:
+        non_striker: Sikandar Raza
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 13.2:
+        non_striker: Sikandar Raza
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 13.3:
+        non_striker: Sikandar Raza
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE van der Merwe
+    - 13.4:
+        non_striker: Sikandar Raza
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 13.5:
+        non_striker: Sikandar Raza
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE van der Merwe
+    - 13.6:
+        non_striker: Sikandar Raza
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE van der Merwe
+    - 14.1:
+        non_striker: RE van der Merwe
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 14.2:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 14.3:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 14.4:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE van der Merwe
+    - 14.5:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE van der Merwe
+    - 14.6:
+        non_striker: Sikandar Raza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 15.1:
+        non_striker: Sikandar Raza
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 15.2:
+        non_striker: RE van der Merwe
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 15.3:
+        non_striker: Sikandar Raza
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+        wicket:
+          player_out: RE van der Merwe
+          fielders:
+          - Muhammad Jawadullah
+          kind: caught
+    - 15.4:
+        non_striker: Sikandar Raza
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akif Raja
+    - 15.5:
+        non_striker: Sikandar Raza
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Akif Raja
+    - 15.6:
+        non_striker: Sikandar Raza
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akif Raja
+    - 15.7:
+        non_striker: Akif Raja
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 16.1:
+        non_striker: Sikandar Raza
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akif Raja
+    - 16.2:
+        non_striker: Akif Raja
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 16.3:
+        non_striker: Akif Raja
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sikandar Raza
+    - 16.4:
+        non_striker: Akif Raja
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 16.5:
+        non_striker: Akif Raja
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 16.6:
+        non_striker: Sikandar Raza
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akif Raja
+    - 17.1:
+        non_striker: Akif Raja
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 17.2:
+        non_striker: Akif Raja
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sikandar Raza
+    - 17.3:
+        non_striker: Akif Raja
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 17.4:
+        non_striker: Akif Raja
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 17.5:
+        non_striker: Akif Raja
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - T Kohler-Cadmore
+          kind: caught
+    - 17.6:
+        non_striker: Akif Raja
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Ali
+    - 17.7:
+        non_striker: Haider Ali
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akif Raja
+    - 18.1:
+        non_striker: Haider Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akif Raja
+    - 18.2:
+        non_striker: Haider Ali
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akif Raja
+        wicket:
+          player_out: Akif Raja
+          fielders:
+          - JL Denly
+          kind: run out
+- 2nd innings:
+    team: Sharjah Warriors
+    deliveries:
+    - 0.1:
+        non_striker: J Charles
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: PVD Chameera
+            out: BR Dunk
+            team: Dubai Capitals
+            reason: impact_player
+        batsman: N Dickwella
+    - 0.2:
+        non_striker: J Charles
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 0.3:
+        non_striker: J Charles
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 0.4:
+        non_striker: J Charles
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 0.5:
+        non_striker: N Dickwella
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 0.6:
+        non_striker: N Dickwella
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 1.1:
+        non_striker: J Charles
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 1.2:
+        non_striker: J Charles
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 1.3:
+        non_striker: J Charles
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 1.4:
+        non_striker: J Charles
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 1.5:
+        non_striker: J Charles
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 1.6:
+        non_striker: J Charles
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 2.1:
+        non_striker: N Dickwella
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 2.2:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 2.3:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 2.4:
+        non_striker: N Dickwella
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Charles
+    - 2.5:
+        non_striker: N Dickwella
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 2.6:
+        non_striker: N Dickwella
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.1:
+        non_striker: J Charles
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 3.2:
+        non_striker: J Charles
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 3.3:
+        non_striker: N Dickwella
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 3.4:
+        non_striker: J Charles
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 3.5:
+        non_striker: J Charles
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 3.6:
+        non_striker: N Dickwella
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 4.1:
+        non_striker: J Charles
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 4.2:
+        non_striker: J Charles
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 4.3:
+        non_striker: J Charles
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 4.4:
+        non_striker: J Charles
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 4.5:
+        non_striker: N Dickwella
+        bowler: PVD Chameera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Charles
+    - 4.6:
+        non_striker: N Dickwella
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 4.7:
+        non_striker: N Dickwella
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 5.1:
+        non_striker: N Dickwella
+        bowler: Akif Raja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Charles
+    - 5.2:
+        non_striker: N Dickwella
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 5.3:
+        non_striker: N Dickwella
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 5.4:
+        non_striker: N Dickwella
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 5.5:
+        non_striker: N Dickwella
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 5.6:
+        non_striker: N Dickwella
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 5.7:
+        non_striker: N Dickwella
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 6.1:
+        non_striker: J Charles
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 6.2:
+        non_striker: J Charles
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 6.3:
+        non_striker: J Charles
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 6.4:
+        non_striker: J Charles
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 6.5:
+        non_striker: N Dickwella
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 6.6:
+        non_striker: J Charles
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 7.1:
+        non_striker: N Dickwella
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 7.2:
+        non_striker: J Charles
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 7.3:
+        non_striker: J Charles
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 7.4:
+        non_striker: J Charles
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 7.5:
+        non_striker: J Charles
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 7.6:
+        non_striker: N Dickwella
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 8.1:
+        non_striker: N Dickwella
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: MJ Guptill
+            out: MRJ Watt
+            team: Sharjah Warriors
+            reason: impact_player
+        batsman: J Charles
+    - 8.2:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+        wicket:
+          player_out: N Dickwella
+          fielders:
+          - SW Billings
+          kind: caught
+    - 8.3:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 8.4:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 8.5:
+        non_striker: JL Denly
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 8.6:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 9.1:
+        non_striker: JL Denly
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 9.2:
+        non_striker: J Charles
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Denly
+    - 9.3:
+        non_striker: J Charles
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 9.4:
+        non_striker: J Charles
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Denly
+    - 9.5:
+        non_striker: J Charles
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 9.6:
+        non_striker: JL Denly
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 10.1:
+        non_striker: JL Denly
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 10.2:
+        non_striker: JL Denly
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 10.3:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 10.4:
+        non_striker: JL Denly
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 10.5:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 10.6:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 11.1:
+        non_striker: JL Denly
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 11.2:
+        non_striker: J Charles
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL Denly
+    - 11.3:
+        non_striker: J Charles
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 11.4:
+        non_striker: JL Denly
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Charles
+    - 11.5:
+        non_striker: JL Denly
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 11.6:
+        non_striker: JL Denly
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 12.1:
+        non_striker: JL Denly
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 12.2:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Denly
+    - 12.3:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 12.4:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 12.5:
+        non_striker: JL Denly
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 12.6:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 13.1:
+        non_striker: JL Denly
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles

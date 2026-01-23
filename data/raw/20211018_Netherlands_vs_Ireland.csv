@@ -1,0 +1,219 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Netherlands,0.1,MP O'Dowd,PR Stirling,0,{},{}
+1st innings,Netherlands,0.2,MP O'Dowd,PR Stirling,1,{},{}
+1st innings,Netherlands,0.3,BN Cooper,PR Stirling,0,{},"{'player_out': 'BN Cooper', 'fielders': ['PR Stirling', 'Simi Singh'], 'kind': 'run out'}"
+1st innings,Netherlands,0.4,MP O'Dowd,PR Stirling,0,{},{}
+1st innings,Netherlands,0.5,MP O'Dowd,PR Stirling,0,{},{}
+1st innings,Netherlands,0.6,MP O'Dowd,PR Stirling,0,{},{}
+1st innings,Netherlands,1.1,BFW de Leede,J Little,0,{},{}
+1st innings,Netherlands,1.2,BFW de Leede,J Little,1,{},{}
+1st innings,Netherlands,1.3,MP O'Dowd,J Little,0,{},{}
+1st innings,Netherlands,1.4,MP O'Dowd,J Little,4,{},{}
+1st innings,Netherlands,1.5,MP O'Dowd,J Little,1,{'legbyes': 1},{}
+1st innings,Netherlands,1.6,BFW de Leede,J Little,0,{},{}
+1st innings,Netherlands,2.1,MP O'Dowd,MR Adair,0,{},{}
+1st innings,Netherlands,2.2,MP O'Dowd,MR Adair,0,{},{}
+1st innings,Netherlands,2.3,MP O'Dowd,MR Adair,0,{},{}
+1st innings,Netherlands,2.4,MP O'Dowd,MR Adair,1,{},{}
+1st innings,Netherlands,2.5,BFW de Leede,MR Adair,0,{},{}
+1st innings,Netherlands,2.6,BFW de Leede,MR Adair,0,{},{}
+1st innings,Netherlands,3.1,MP O'Dowd,Simi Singh,1,{},{}
+1st innings,Netherlands,3.2,BFW de Leede,Simi Singh,1,{},{}
+1st innings,Netherlands,3.3,MP O'Dowd,Simi Singh,1,{},{}
+1st innings,Netherlands,3.4,BFW de Leede,Simi Singh,1,{},{}
+1st innings,Netherlands,3.5,MP O'Dowd,Simi Singh,4,{},{}
+1st innings,Netherlands,3.6,MP O'Dowd,Simi Singh,2,{},{}
+1st innings,Netherlands,4.1,BFW de Leede,J Little,0,{},{}
+1st innings,Netherlands,4.2,BFW de Leede,J Little,0,{},{}
+1st innings,Netherlands,4.3,BFW de Leede,J Little,4,{},{}
+1st innings,Netherlands,4.4,BFW de Leede,J Little,0,{},"{'player_out': 'BFW de Leede', 'kind': 'bowled'}"
+1st innings,Netherlands,4.5,CN Ackermann,J Little,0,{},{}
+1st innings,Netherlands,4.6,CN Ackermann,J Little,2,{},{}
+1st innings,Netherlands,5.1,MP O'Dowd,MR Adair,1,{},{}
+1st innings,Netherlands,5.2,CN Ackermann,MR Adair,0,{},{}
+1st innings,Netherlands,5.3,CN Ackermann,MR Adair,0,{},{}
+1st innings,Netherlands,5.4,CN Ackermann,MR Adair,0,{},{}
+1st innings,Netherlands,5.5,CN Ackermann,MR Adair,0,{},{}
+1st innings,Netherlands,5.6,CN Ackermann,MR Adair,0,{},{}
+1st innings,Netherlands,6.1,MP O'Dowd,C Campher,4,{},{}
+1st innings,Netherlands,6.2,MP O'Dowd,C Campher,1,{},{}
+1st innings,Netherlands,6.3,CN Ackermann,C Campher,1,{},{}
+1st innings,Netherlands,6.4,MP O'Dowd,C Campher,1,{},{}
+1st innings,Netherlands,6.5,CN Ackermann,C Campher,1,{'wides': 1},{}
+1st innings,Netherlands,6.6,CN Ackermann,C Campher,4,{},{}
+1st innings,Netherlands,6.7,CN Ackermann,C Campher,0,{},{}
+1st innings,Netherlands,7.1,MP O'Dowd,Simi Singh,1,{},{}
+1st innings,Netherlands,7.2,CN Ackermann,Simi Singh,1,{},{}
+1st innings,Netherlands,7.3,MP O'Dowd,Simi Singh,0,{},{}
+1st innings,Netherlands,7.4,MP O'Dowd,Simi Singh,1,{},{}
+1st innings,Netherlands,7.5,CN Ackermann,Simi Singh,1,{},{}
+1st innings,Netherlands,7.6,MP O'Dowd,Simi Singh,1,{},{}
+1st innings,Netherlands,8.1,MP O'Dowd,B White,1,{},{}
+1st innings,Netherlands,8.2,CN Ackermann,B White,1,{},{}
+1st innings,Netherlands,8.3,MP O'Dowd,B White,4,{},{}
+1st innings,Netherlands,8.4,MP O'Dowd,B White,1,{},{}
+1st innings,Netherlands,8.5,CN Ackermann,B White,1,{},{}
+1st innings,Netherlands,8.6,MP O'Dowd,B White,0,{},{}
+1st innings,Netherlands,9.1,CN Ackermann,C Campher,1,{'wides': 1},{}
+1st innings,Netherlands,9.2,CN Ackermann,C Campher,0,{},{}
+1st innings,Netherlands,9.3,CN Ackermann,C Campher,0,{},"{'player_out': 'CN Ackermann', 'fielders': ['NA Rock'], 'kind': 'caught'}"
+1st innings,Netherlands,9.4,RN ten Doeschate,C Campher,0,{},"{'player_out': 'RN ten Doeschate', 'kind': 'lbw'}"
+1st innings,Netherlands,9.5,SA Edwards,C Campher,0,{},"{'player_out': 'SA Edwards', 'kind': 'lbw'}"
+1st innings,Netherlands,9.6,RE van der Merwe,C Campher,0,{},"{'player_out': 'RE van der Merwe', 'kind': 'bowled'}"
+1st innings,Netherlands,9.7,PM Seelaar,C Campher,1,{},{}
+1st innings,Netherlands,10.1,PM Seelaar,J Little,0,{},{}
+1st innings,Netherlands,10.2,PM Seelaar,J Little,0,{},{}
+1st innings,Netherlands,10.3,PM Seelaar,J Little,0,{},{}
+1st innings,Netherlands,10.4,PM Seelaar,J Little,0,{},{}
+1st innings,Netherlands,10.5,PM Seelaar,J Little,0,{},{}
+1st innings,Netherlands,10.6,PM Seelaar,J Little,1,{},{}
+1st innings,Netherlands,11.1,PM Seelaar,C Campher,0,{},{}
+1st innings,Netherlands,11.2,PM Seelaar,C Campher,0,{},{}
+1st innings,Netherlands,11.3,PM Seelaar,C Campher,4,{},{}
+1st innings,Netherlands,11.4,PM Seelaar,C Campher,1,{},{}
+1st innings,Netherlands,11.5,MP O'Dowd,C Campher,0,{},{}
+1st innings,Netherlands,11.6,MP O'Dowd,C Campher,1,{},{}
+1st innings,Netherlands,12.1,MP O'Dowd,B White,0,{},{}
+1st innings,Netherlands,12.2,MP O'Dowd,B White,2,{},{}
+1st innings,Netherlands,12.3,MP O'Dowd,B White,1,{'wides': 1},{}
+1st innings,Netherlands,12.4,MP O'Dowd,B White,0,{},{}
+1st innings,Netherlands,12.5,MP O'Dowd,B White,4,{},{}
+1st innings,Netherlands,12.6,MP O'Dowd,B White,4,{},{}
+1st innings,Netherlands,12.7,MP O'Dowd,B White,1,{},{}
+1st innings,Netherlands,13.1,MP O'Dowd,Simi Singh,0,{},{}
+1st innings,Netherlands,13.2,MP O'Dowd,Simi Singh,1,{},{}
+1st innings,Netherlands,13.3,PM Seelaar,Simi Singh,0,{},{}
+1st innings,Netherlands,13.4,PM Seelaar,Simi Singh,1,{},{}
+1st innings,Netherlands,13.5,MP O'Dowd,Simi Singh,1,{},{}
+1st innings,Netherlands,13.6,PM Seelaar,Simi Singh,0,{},{}
+1st innings,Netherlands,14.1,MP O'Dowd,C Campher,4,{},{}
+1st innings,Netherlands,14.2,MP O'Dowd,C Campher,0,{},{}
+1st innings,Netherlands,14.3,MP O'Dowd,C Campher,0,{},{}
+1st innings,Netherlands,14.4,MP O'Dowd,C Campher,1,{},{}
+1st innings,Netherlands,14.5,PM Seelaar,C Campher,0,{},{}
+1st innings,Netherlands,14.6,PM Seelaar,C Campher,1,{},{}
+1st innings,Netherlands,15.1,PM Seelaar,B White,1,{},{}
+1st innings,Netherlands,15.2,MP O'Dowd,B White,1,{},{}
+1st innings,Netherlands,15.3,PM Seelaar,B White,2,{},{}
+1st innings,Netherlands,15.4,PM Seelaar,B White,1,{},{}
+1st innings,Netherlands,15.5,MP O'Dowd,B White,1,{},{}
+1st innings,Netherlands,15.6,PM Seelaar,B White,1,{},{}
+1st innings,Netherlands,16.1,PM Seelaar,MR Adair,1,{},{}
+1st innings,Netherlands,16.2,MP O'Dowd,MR Adair,0,{},{}
+1st innings,Netherlands,16.3,MP O'Dowd,MR Adair,0,{},"{'player_out': ""MP O'Dowd"", 'fielders': ['HT Tector'], 'kind': 'caught'}"
+1st innings,Netherlands,16.4,PM Seelaar,MR Adair,0,{},{}
+1st innings,Netherlands,16.5,PM Seelaar,MR Adair,1,{},{}
+1st innings,Netherlands,16.6,LV van Beek,MR Adair,1,{},{}
+1st innings,Netherlands,17.1,LV van Beek,Simi Singh,0,{},{}
+1st innings,Netherlands,17.2,LV van Beek,Simi Singh,1,{},{}
+1st innings,Netherlands,17.3,PM Seelaar,Simi Singh,4,{},{}
+1st innings,Netherlands,17.4,PM Seelaar,Simi Singh,1,{},{}
+1st innings,Netherlands,17.5,LV van Beek,Simi Singh,2,{},{}
+1st innings,Netherlands,17.6,LV van Beek,Simi Singh,1,{},{}
+1st innings,Netherlands,18.1,LV van Beek,J Little,0,{},{}
+1st innings,Netherlands,18.2,LV van Beek,J Little,1,{},{}
+1st innings,Netherlands,18.3,PM Seelaar,J Little,0,{},{}
+1st innings,Netherlands,18.4,PM Seelaar,J Little,0,{},{}
+1st innings,Netherlands,18.5,PM Seelaar,J Little,1,{'legbyes': 1},{}
+1st innings,Netherlands,18.6,LV van Beek,J Little,1,{},{}
+1st innings,Netherlands,19.1,LV van Beek,MR Adair,2,{},{}
+1st innings,Netherlands,19.2,LV van Beek,MR Adair,0,{},{}
+1st innings,Netherlands,19.3,LV van Beek,MR Adair,1,{},{}
+1st innings,Netherlands,19.4,PM Seelaar,MR Adair,0,{},"{'player_out': 'PM Seelaar', 'fielders': ['A Balbirnie'], 'kind': 'caught'}"
+1st innings,Netherlands,19.5,LV van Beek,MR Adair,1,{},"{'player_out': 'LV van Beek', 'fielders': ['NA Rock', 'J Little'], 'kind': 'run out'}"
+1st innings,Netherlands,19.6,BD Glover,MR Adair,0,{},"{'player_out': 'BD Glover', 'fielders': ['C Campher'], 'kind': 'caught'}"
+2nd innings,Ireland,0.1,PR Stirling,FJ Klaassen,0,{},{}
+2nd innings,Ireland,0.2,PR Stirling,FJ Klaassen,1,{'wides': 1},{}
+2nd innings,Ireland,0.3,PR Stirling,FJ Klaassen,0,{},{}
+2nd innings,Ireland,0.4,PR Stirling,FJ Klaassen,4,{'byes': 4},{}
+2nd innings,Ireland,0.5,PR Stirling,FJ Klaassen,1,{'wides': 1},{}
+2nd innings,Ireland,0.6,PR Stirling,FJ Klaassen,0,{},{}
+2nd innings,Ireland,0.7,PR Stirling,FJ Klaassen,1,{'wides': 1},{}
+2nd innings,Ireland,0.8,PR Stirling,FJ Klaassen,0,{},{}
+2nd innings,Ireland,0.9,PR Stirling,FJ Klaassen,0,{},{}
+2nd innings,Ireland,1.1,KJ O'Brien,RE van der Merwe,4,{},{}
+2nd innings,Ireland,1.2,KJ O'Brien,RE van der Merwe,4,{},{}
+2nd innings,Ireland,1.3,KJ O'Brien,RE van der Merwe,1,{},{}
+2nd innings,Ireland,1.4,PR Stirling,RE van der Merwe,1,{},{}
+2nd innings,Ireland,1.5,KJ O'Brien,RE van der Merwe,0,{},{}
+2nd innings,Ireland,1.6,KJ O'Brien,RE van der Merwe,0,{},{}
+2nd innings,Ireland,2.1,PR Stirling,LV van Beek,2,{},{}
+2nd innings,Ireland,2.2,PR Stirling,LV van Beek,1,{},{}
+2nd innings,Ireland,2.3,KJ O'Brien,LV van Beek,0,{},{}
+2nd innings,Ireland,2.4,KJ O'Brien,LV van Beek,0,{},{}
+2nd innings,Ireland,2.5,KJ O'Brien,LV van Beek,0,{},{}
+2nd innings,Ireland,2.6,KJ O'Brien,LV van Beek,0,{},{}
+2nd innings,Ireland,3.1,PR Stirling,BD Glover,0,{},{}
+2nd innings,Ireland,3.2,PR Stirling,BD Glover,0,{},{}
+2nd innings,Ireland,3.3,PR Stirling,BD Glover,6,{},{}
+2nd innings,Ireland,3.4,PR Stirling,BD Glover,1,{},{}
+2nd innings,Ireland,3.5,KJ O'Brien,BD Glover,0,{},"{'player_out': ""KJ O'Brien"", 'fielders': ['LV van Beek'], 'kind': 'caught'}"
+2nd innings,Ireland,3.6,A Balbirnie,BD Glover,0,{},{}
+2nd innings,Ireland,4.1,PR Stirling,FJ Klaassen,1,{},{}
+2nd innings,Ireland,4.2,A Balbirnie,FJ Klaassen,0,{},{}
+2nd innings,Ireland,4.3,A Balbirnie,FJ Klaassen,0,{},{}
+2nd innings,Ireland,4.4,A Balbirnie,FJ Klaassen,4,{},{}
+2nd innings,Ireland,4.5,A Balbirnie,FJ Klaassen,4,{},{}
+2nd innings,Ireland,4.6,A Balbirnie,FJ Klaassen,0,{},"{'player_out': 'A Balbirnie', 'fielders': ['RE van der Merwe'], 'kind': 'caught'}"
+2nd innings,Ireland,5.1,PR Stirling,LV van Beek,0,{},{}
+2nd innings,Ireland,5.2,PR Stirling,LV van Beek,1,{},{}
+2nd innings,Ireland,5.3,GJ Delany,LV van Beek,0,{},{}
+2nd innings,Ireland,5.4,GJ Delany,LV van Beek,0,{},{}
+2nd innings,Ireland,5.5,GJ Delany,LV van Beek,0,{},{}
+2nd innings,Ireland,5.6,GJ Delany,LV van Beek,1,{},{}
+2nd innings,Ireland,6.1,GJ Delany,RE van der Merwe,1,{},{}
+2nd innings,Ireland,6.2,PR Stirling,RE van der Merwe,1,{},{}
+2nd innings,Ireland,6.3,GJ Delany,RE van der Merwe,1,{},{}
+2nd innings,Ireland,6.4,PR Stirling,RE van der Merwe,1,{},{}
+2nd innings,Ireland,6.5,GJ Delany,RE van der Merwe,0,{},{}
+2nd innings,Ireland,6.6,GJ Delany,RE van der Merwe,4,{},{}
+2nd innings,Ireland,7.1,PR Stirling,BD Glover,0,{},{}
+2nd innings,Ireland,7.2,PR Stirling,BD Glover,0,{},{}
+2nd innings,Ireland,7.3,PR Stirling,BD Glover,1,{},{}
+2nd innings,Ireland,7.4,GJ Delany,BD Glover,1,{},{}
+2nd innings,Ireland,7.5,PR Stirling,BD Glover,1,{},{}
+2nd innings,Ireland,7.6,GJ Delany,BD Glover,1,{},{}
+2nd innings,Ireland,8.1,GJ Delany,PM Seelaar,1,{},{}
+2nd innings,Ireland,8.2,PR Stirling,PM Seelaar,1,{},{}
+2nd innings,Ireland,8.3,GJ Delany,PM Seelaar,1,{},{}
+2nd innings,Ireland,8.4,PR Stirling,PM Seelaar,1,{},{}
+2nd innings,Ireland,8.5,GJ Delany,PM Seelaar,1,{},{}
+2nd innings,Ireland,8.6,PR Stirling,PM Seelaar,0,{},{}
+2nd innings,Ireland,9.1,GJ Delany,RE van der Merwe,6,{},{}
+2nd innings,Ireland,9.2,GJ Delany,RE van der Merwe,1,{},{}
+2nd innings,Ireland,9.3,PR Stirling,RE van der Merwe,1,{},{}
+2nd innings,Ireland,9.4,GJ Delany,RE van der Merwe,1,{},{}
+2nd innings,Ireland,9.5,PR Stirling,RE van der Merwe,1,{},{}
+2nd innings,Ireland,9.6,GJ Delany,RE van der Merwe,1,{'wides': 1},{}
+2nd innings,Ireland,9.7,GJ Delany,RE van der Merwe,4,{},{}
+2nd innings,Ireland,10.1,PR Stirling,FJ Klaassen,1,{},{}
+2nd innings,Ireland,10.2,GJ Delany,FJ Klaassen,4,{},{}
+2nd innings,Ireland,10.3,GJ Delany,FJ Klaassen,0,{},{}
+2nd innings,Ireland,10.4,GJ Delany,FJ Klaassen,1,{'legbyes': 1},{}
+2nd innings,Ireland,10.5,PR Stirling,FJ Klaassen,1,{},{}
+2nd innings,Ireland,10.6,GJ Delany,FJ Klaassen,0,{},{}
+2nd innings,Ireland,11.1,PR Stirling,BD Glover,0,{},{}
+2nd innings,Ireland,11.2,PR Stirling,BD Glover,1,{},{}
+2nd innings,Ireland,11.3,GJ Delany,BD Glover,4,{},{}
+2nd innings,Ireland,11.4,GJ Delany,BD Glover,4,{},{}
+2nd innings,Ireland,11.5,GJ Delany,BD Glover,0,{},{}
+2nd innings,Ireland,11.6,GJ Delany,BD Glover,1,{},{}
+2nd innings,Ireland,12.1,GJ Delany,PM Seelaar,1,{},{}
+2nd innings,Ireland,12.2,PR Stirling,PM Seelaar,1,{},{}
+2nd innings,Ireland,12.3,GJ Delany,PM Seelaar,0,{},{}
+2nd innings,Ireland,12.4,GJ Delany,PM Seelaar,6,{},{}
+2nd innings,Ireland,12.5,GJ Delany,PM Seelaar,0,{},"{'player_out': 'GJ Delany', 'kind': 'bowled'}"
+2nd innings,Ireland,12.6,C Campher,PM Seelaar,0,{},{}
+2nd innings,Ireland,13.1,PR Stirling,RE van der Merwe,1,{},{}
+2nd innings,Ireland,13.2,C Campher,RE van der Merwe,0,{},{}
+2nd innings,Ireland,13.3,C Campher,RE van der Merwe,1,{},{}
+2nd innings,Ireland,13.4,PR Stirling,RE van der Merwe,0,{},{}
+2nd innings,Ireland,13.5,PR Stirling,RE van der Merwe,0,{},{}
+2nd innings,Ireland,13.6,PR Stirling,RE van der Merwe,0,{},{}
+2nd innings,Ireland,14.1,C Campher,LV van Beek,0,{},{}
+2nd innings,Ireland,14.2,C Campher,LV van Beek,4,{},{}
+2nd innings,Ireland,14.3,C Campher,LV van Beek,1,{},{}
+2nd innings,Ireland,14.4,PR Stirling,LV van Beek,0,{},{}
+2nd innings,Ireland,14.5,PR Stirling,LV van Beek,0,{},{}
+2nd innings,Ireland,14.6,PR Stirling,LV van Beek,4,{},{}
+2nd innings,Ireland,15.1,C Campher,PM Seelaar,1,{},{}

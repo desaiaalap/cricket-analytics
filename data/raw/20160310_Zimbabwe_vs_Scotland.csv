@@ -1,0 +1,247 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Zimbabwe,0.1,V Sibanda,MA Leask,0,{},{}
+1st innings,Zimbabwe,0.2,V Sibanda,MA Leask,1,{},{}
+1st innings,Zimbabwe,0.3,H Masakadza,MA Leask,0,{},{}
+1st innings,Zimbabwe,0.4,H Masakadza,MA Leask,4,{},{}
+1st innings,Zimbabwe,0.5,H Masakadza,MA Leask,0,{},{}
+1st innings,Zimbabwe,0.6,H Masakadza,MA Leask,0,{},{}
+1st innings,Zimbabwe,1.1,V Sibanda,JH Davey,0,{},{}
+1st innings,Zimbabwe,1.2,V Sibanda,JH Davey,0,{},{}
+1st innings,Zimbabwe,1.3,V Sibanda,JH Davey,2,{},{}
+1st innings,Zimbabwe,1.4,V Sibanda,JH Davey,0,{},{}
+1st innings,Zimbabwe,1.5,V Sibanda,JH Davey,1,{},{}
+1st innings,Zimbabwe,1.6,H Masakadza,JH Davey,0,{},{}
+1st innings,Zimbabwe,2.1,V Sibanda,AC Evans,1,{'legbyes': 1},{}
+1st innings,Zimbabwe,2.2,H Masakadza,AC Evans,0,{},{}
+1st innings,Zimbabwe,2.3,H Masakadza,AC Evans,4,{},{}
+1st innings,Zimbabwe,2.4,H Masakadza,AC Evans,0,{},{}
+1st innings,Zimbabwe,2.5,H Masakadza,AC Evans,0,{},{}
+1st innings,Zimbabwe,2.6,H Masakadza,AC Evans,4,{},{}
+1st innings,Zimbabwe,3.1,V Sibanda,MRJ Watt,0,{},{}
+1st innings,Zimbabwe,3.2,V Sibanda,MRJ Watt,0,{},"{'fielders': ['KJ Coetzer', 'MH Cross'], 'kind': 'run out', 'player_out': 'H Masakadza'}"
+1st innings,Zimbabwe,3.3,R Mutumbami,MRJ Watt,0,{},{}
+1st innings,Zimbabwe,3.4,R Mutumbami,MRJ Watt,0,{},{}
+1st innings,Zimbabwe,3.5,R Mutumbami,MRJ Watt,0,{},{}
+1st innings,Zimbabwe,3.6,R Mutumbami,MRJ Watt,1,{},{}
+1st innings,Zimbabwe,4.1,R Mutumbami,AC Evans,1,{},{}
+1st innings,Zimbabwe,4.2,V Sibanda,AC Evans,0,{},{}
+1st innings,Zimbabwe,4.3,V Sibanda,AC Evans,0,{},"{'fielders': ['MW Machan'], 'kind': 'caught', 'player_out': 'V Sibanda'}"
+1st innings,Zimbabwe,4.4,R Mutumbami,AC Evans,0,{},{}
+1st innings,Zimbabwe,4.5,R Mutumbami,AC Evans,0,{},{}
+1st innings,Zimbabwe,4.6,R Mutumbami,AC Evans,0,{},{}
+1st innings,Zimbabwe,5.1,SC Williams,SM Sharif,0,{},{}
+1st innings,Zimbabwe,5.2,SC Williams,SM Sharif,1,{},{}
+1st innings,Zimbabwe,5.3,R Mutumbami,SM Sharif,4,{},{}
+1st innings,Zimbabwe,5.4,R Mutumbami,SM Sharif,1,{},{}
+1st innings,Zimbabwe,5.5,SC Williams,SM Sharif,1,{},{}
+1st innings,Zimbabwe,5.6,R Mutumbami,SM Sharif,4,{},{}
+1st innings,Zimbabwe,6.1,SC Williams,JH Davey,1,{},{}
+1st innings,Zimbabwe,6.2,R Mutumbami,JH Davey,1,{'legbyes': 1},{}
+1st innings,Zimbabwe,6.3,SC Williams,JH Davey,4,{},{}
+1st innings,Zimbabwe,6.4,SC Williams,JH Davey,2,{},{}
+1st innings,Zimbabwe,6.5,SC Williams,JH Davey,1,{},{}
+1st innings,Zimbabwe,6.6,R Mutumbami,JH Davey,0,{},{}
+1st innings,Zimbabwe,7.1,SC Williams,MA Leask,1,{},{}
+1st innings,Zimbabwe,7.2,R Mutumbami,MA Leask,6,{},{}
+1st innings,Zimbabwe,7.3,R Mutumbami,MA Leask,1,{},{}
+1st innings,Zimbabwe,7.4,SC Williams,MA Leask,1,{},{}
+1st innings,Zimbabwe,7.5,R Mutumbami,MA Leask,1,{},{}
+1st innings,Zimbabwe,7.6,SC Williams,MA Leask,1,{},{}
+1st innings,Zimbabwe,8.1,SC Williams,MRJ Watt,1,{},{}
+1st innings,Zimbabwe,8.2,R Mutumbami,MRJ Watt,0,{},"{'fielders': ['MA Leask'], 'kind': 'caught', 'player_out': 'R Mutumbami'}"
+1st innings,Zimbabwe,8.3,Sikandar Raza,MRJ Watt,1,{},{}
+1st innings,Zimbabwe,8.4,SC Williams,MRJ Watt,1,{},{}
+1st innings,Zimbabwe,8.5,Sikandar Raza,MRJ Watt,0,{},{}
+1st innings,Zimbabwe,8.6,Sikandar Raza,MRJ Watt,1,{},{}
+1st innings,Zimbabwe,9.1,Sikandar Raza,MA Leask,0,{},{}
+1st innings,Zimbabwe,9.2,Sikandar Raza,MA Leask,1,{},{}
+1st innings,Zimbabwe,9.3,SC Williams,MA Leask,1,{},{}
+1st innings,Zimbabwe,9.4,Sikandar Raza,MA Leask,4,{},{}
+1st innings,Zimbabwe,9.5,Sikandar Raza,MA Leask,2,{},{}
+1st innings,Zimbabwe,9.6,Sikandar Raza,MA Leask,0,{},{}
+1st innings,Zimbabwe,10.1,SC Williams,AC Evans,4,{},{}
+1st innings,Zimbabwe,10.2,SC Williams,AC Evans,1,{},{}
+1st innings,Zimbabwe,10.3,Sikandar Raza,AC Evans,0,{},"{'kind': 'bowled', 'player_out': 'Sikandar Raza'}"
+1st innings,Zimbabwe,10.4,MN Waller,AC Evans,1,{},{}
+1st innings,Zimbabwe,10.5,SC Williams,AC Evans,1,{'wides': 1},{}
+1st innings,Zimbabwe,10.6,SC Williams,AC Evans,1,{'wides': 1},{}
+1st innings,Zimbabwe,10.7,SC Williams,AC Evans,1,{},{}
+1st innings,Zimbabwe,10.8,MN Waller,AC Evans,2,{},{}
+1st innings,Zimbabwe,11.1,SC Williams,MRJ Watt,4,{},{}
+1st innings,Zimbabwe,11.2,SC Williams,MRJ Watt,1,{},{}
+1st innings,Zimbabwe,11.3,MN Waller,MRJ Watt,0,{},{}
+1st innings,Zimbabwe,11.4,MN Waller,MRJ Watt,0,{},{}
+1st innings,Zimbabwe,11.5,MN Waller,MRJ Watt,1,{},{}
+1st innings,Zimbabwe,11.6,SC Williams,MRJ Watt,2,{},{}
+1st innings,Zimbabwe,12.1,MN Waller,SM Sharif,1,{},{}
+1st innings,Zimbabwe,12.2,SC Williams,SM Sharif,2,{},{}
+1st innings,Zimbabwe,12.3,SC Williams,SM Sharif,1,{},{}
+1st innings,Zimbabwe,12.4,MN Waller,SM Sharif,1,{},{}
+1st innings,Zimbabwe,12.5,SC Williams,SM Sharif,1,{},{}
+1st innings,Zimbabwe,12.6,MN Waller,SM Sharif,0,{},{}
+1st innings,Zimbabwe,13.1,SC Williams,MA Leask,4,{},{}
+1st innings,Zimbabwe,13.2,SC Williams,MA Leask,1,{},{}
+1st innings,Zimbabwe,13.3,MN Waller,MA Leask,0,{},{}
+1st innings,Zimbabwe,13.4,MN Waller,MA Leask,1,{},{}
+1st innings,Zimbabwe,13.5,SC Williams,MA Leask,2,{},{}
+1st innings,Zimbabwe,13.6,SC Williams,MA Leask,4,{},{}
+1st innings,Zimbabwe,14.1,MN Waller,MRJ Watt,2,{},{}
+1st innings,Zimbabwe,14.2,MN Waller,MRJ Watt,4,{},{}
+1st innings,Zimbabwe,14.3,MN Waller,MRJ Watt,0,{},"{'fielders': ['MA Leask'], 'kind': 'caught', 'player_out': 'MN Waller'}"
+1st innings,Zimbabwe,14.4,E Chigumbura,MRJ Watt,1,{},{}
+1st innings,Zimbabwe,14.5,SC Williams,MRJ Watt,0,{},{}
+1st innings,Zimbabwe,14.6,SC Williams,MRJ Watt,1,{},{}
+1st innings,Zimbabwe,15.1,SC Williams,JH Davey,0,{},{}
+1st innings,Zimbabwe,15.2,SC Williams,JH Davey,1,{},{}
+1st innings,Zimbabwe,15.3,E Chigumbura,JH Davey,1,{'legbyes': 1},{}
+1st innings,Zimbabwe,15.4,SC Williams,JH Davey,4,{},{}
+1st innings,Zimbabwe,15.5,SC Williams,JH Davey,1,{},{}
+1st innings,Zimbabwe,15.6,E Chigumbura,JH Davey,0,{},{}
+1st innings,Zimbabwe,16.1,SC Williams,AC Evans,4,{'byes': 4},{}
+1st innings,Zimbabwe,16.2,SC Williams,AC Evans,1,{'wides': 1},{}
+1st innings,Zimbabwe,16.3,SC Williams,AC Evans,1,{},{}
+1st innings,Zimbabwe,16.4,E Chigumbura,AC Evans,1,{},{}
+1st innings,Zimbabwe,16.5,SC Williams,AC Evans,1,{},{}
+1st innings,Zimbabwe,16.6,E Chigumbura,AC Evans,6,{},{}
+1st innings,Zimbabwe,16.7,E Chigumbura,AC Evans,0,{},{}
+1st innings,Zimbabwe,17.1,SC Williams,SM Sharif,0,{},"{'fielders': ['AC Evans'], 'kind': 'caught', 'player_out': 'SC Williams'}"
+1st innings,Zimbabwe,17.2,WP Masakadza,SM Sharif,1,{},{}
+1st innings,Zimbabwe,17.3,E Chigumbura,SM Sharif,1,{},{}
+1st innings,Zimbabwe,17.4,WP Masakadza,SM Sharif,1,{'byes': 1},{}
+1st innings,Zimbabwe,17.5,E Chigumbura,SM Sharif,1,{'wides': 1},{}
+1st innings,Zimbabwe,17.6,E Chigumbura,SM Sharif,1,{},{}
+1st innings,Zimbabwe,17.7,WP Masakadza,SM Sharif,1,{'wides': 1},{}
+1st innings,Zimbabwe,17.8,WP Masakadza,SM Sharif,1,{},{}
+1st innings,Zimbabwe,18.1,WP Masakadza,JH Davey,0,{},{}
+1st innings,Zimbabwe,18.2,WP Masakadza,JH Davey,1,{},{}
+1st innings,Zimbabwe,18.3,E Chigumbura,JH Davey,0,{},{}
+1st innings,Zimbabwe,18.4,E Chigumbura,JH Davey,1,{},{}
+1st innings,Zimbabwe,18.5,WP Masakadza,JH Davey,1,{},{}
+1st innings,Zimbabwe,18.6,E Chigumbura,JH Davey,1,{},{}
+1st innings,Zimbabwe,19.1,E Chigumbura,SM Sharif,2,{},{}
+1st innings,Zimbabwe,19.2,E Chigumbura,SM Sharif,0,{},{}
+1st innings,Zimbabwe,19.3,E Chigumbura,SM Sharif,2,{},{}
+1st innings,Zimbabwe,19.4,E Chigumbura,SM Sharif,0,{},{}
+1st innings,Zimbabwe,19.5,E Chigumbura,SM Sharif,4,{},{}
+1st innings,Zimbabwe,19.6,E Chigumbura,SM Sharif,0,{},"{'fielders': ['PL Mommsen'], 'kind': 'caught', 'player_out': 'E Chigumbura'}"
+2nd innings,Scotland,0.1,HG Munsey,WP Masakadza,0,{},{}
+2nd innings,Scotland,0.2,HG Munsey,WP Masakadza,0,{},{}
+2nd innings,Scotland,0.3,HG Munsey,WP Masakadza,0,{},{}
+2nd innings,Scotland,0.4,HG Munsey,WP Masakadza,4,{},{}
+2nd innings,Scotland,0.5,HG Munsey,WP Masakadza,4,{},{}
+2nd innings,Scotland,0.6,HG Munsey,WP Masakadza,0,{},"{'fielders': ['R Mutumbami'], 'kind': 'stumped', 'player_out': 'HG Munsey'}"
+2nd innings,Scotland,1.1,KJ Coetzer,TL Chatara,2,{},{}
+2nd innings,Scotland,1.2,KJ Coetzer,TL Chatara,1,{},{}
+2nd innings,Scotland,1.3,MH Cross,TL Chatara,0,{},"{'fielders': ['R Mutumbami'], 'kind': 'caught', 'player_out': 'MH Cross'}"
+2nd innings,Scotland,1.4,MW Machan,TL Chatara,0,{},{}
+2nd innings,Scotland,1.5,MW Machan,TL Chatara,1,{},{}
+2nd innings,Scotland,1.6,KJ Coetzer,TL Chatara,0,{},{}
+2nd innings,Scotland,2.1,MW Machan,WP Masakadza,0,{},{}
+2nd innings,Scotland,2.2,MW Machan,WP Masakadza,4,{},{}
+2nd innings,Scotland,2.3,MW Machan,WP Masakadza,4,{},{}
+2nd innings,Scotland,2.4,MW Machan,WP Masakadza,0,{},"{'fielders': ['CJ Chibhabha (sub)'], 'kind': 'caught', 'player_out': 'MW Machan'}"
+2nd innings,Scotland,2.5,RD Berrington,WP Masakadza,0,{},{}
+2nd innings,Scotland,2.6,RD Berrington,WP Masakadza,0,{},{}
+2nd innings,Scotland,3.1,KJ Coetzer,TL Chatara,0,{},"{'fielders': ['Sikandar Raza'], 'kind': 'caught', 'player_out': 'KJ Coetzer'}"
+2nd innings,Scotland,3.2,MA Leask,TL Chatara,0,{},{}
+2nd innings,Scotland,3.3,MA Leask,TL Chatara,1,{},{}
+2nd innings,Scotland,3.4,RD Berrington,TL Chatara,0,{},{}
+2nd innings,Scotland,3.5,RD Berrington,TL Chatara,0,{},{}
+2nd innings,Scotland,3.6,RD Berrington,TL Chatara,1,{},{}
+2nd innings,Scotland,4.1,RD Berrington,DT Tiripano,0,{},{}
+2nd innings,Scotland,4.2,RD Berrington,DT Tiripano,1,{},{}
+2nd innings,Scotland,4.3,MA Leask,DT Tiripano,0,{},{}
+2nd innings,Scotland,4.4,MA Leask,DT Tiripano,0,{},{}
+2nd innings,Scotland,4.5,MA Leask,DT Tiripano,0,{},{}
+2nd innings,Scotland,4.6,MA Leask,DT Tiripano,0,{},{}
+2nd innings,Scotland,5.1,RD Berrington,T Panyangara,0,{},{}
+2nd innings,Scotland,5.2,RD Berrington,T Panyangara,0,{},{}
+2nd innings,Scotland,5.3,RD Berrington,T Panyangara,1,{},{}
+2nd innings,Scotland,5.4,MA Leask,T Panyangara,1,{},{}
+2nd innings,Scotland,5.5,RD Berrington,T Panyangara,2,{},{}
+2nd innings,Scotland,5.6,RD Berrington,T Panyangara,1,{},{}
+2nd innings,Scotland,6.1,RD Berrington,DT Tiripano,1,{},{}
+2nd innings,Scotland,6.2,MA Leask,DT Tiripano,0,{},{}
+2nd innings,Scotland,6.3,MA Leask,DT Tiripano,1,{'legbyes': 1},{}
+2nd innings,Scotland,6.4,RD Berrington,DT Tiripano,1,{},{}
+2nd innings,Scotland,6.5,MA Leask,DT Tiripano,2,{},{}
+2nd innings,Scotland,6.6,MA Leask,DT Tiripano,4,{},{}
+2nd innings,Scotland,7.1,RD Berrington,SC Williams,2,{},{}
+2nd innings,Scotland,7.2,RD Berrington,SC Williams,1,{},{}
+2nd innings,Scotland,7.3,MA Leask,SC Williams,1,{},{}
+2nd innings,Scotland,7.4,RD Berrington,SC Williams,1,{},{}
+2nd innings,Scotland,7.5,MA Leask,SC Williams,0,{},"{'fielders': ['R Mutumbami'], 'kind': 'stumped', 'player_out': 'MA Leask'}"
+2nd innings,Scotland,7.6,PL Mommsen,SC Williams,1,{},{}
+2nd innings,Scotland,8.1,PL Mommsen,Sikandar Raza,2,{},{}
+2nd innings,Scotland,8.2,PL Mommsen,Sikandar Raza,0,{},{}
+2nd innings,Scotland,8.3,PL Mommsen,Sikandar Raza,1,{'wides': 1},{}
+2nd innings,Scotland,8.4,PL Mommsen,Sikandar Raza,1,{},{}
+2nd innings,Scotland,8.5,RD Berrington,Sikandar Raza,1,{},{}
+2nd innings,Scotland,8.6,PL Mommsen,Sikandar Raza,2,{},{}
+2nd innings,Scotland,8.7,PL Mommsen,Sikandar Raza,0,{},{}
+2nd innings,Scotland,9.1,RD Berrington,SC Williams,1,{},{}
+2nd innings,Scotland,9.2,PL Mommsen,SC Williams,2,{},{}
+2nd innings,Scotland,9.3,PL Mommsen,SC Williams,1,{},{}
+2nd innings,Scotland,9.4,RD Berrington,SC Williams,0,{},{}
+2nd innings,Scotland,9.5,RD Berrington,SC Williams,6,{},{}
+2nd innings,Scotland,9.6,RD Berrington,SC Williams,1,{},{}
+2nd innings,Scotland,10.1,RD Berrington,Sikandar Raza,1,{},{}
+2nd innings,Scotland,10.2,PL Mommsen,Sikandar Raza,4,{},{}
+2nd innings,Scotland,10.3,PL Mommsen,Sikandar Raza,1,{},{}
+2nd innings,Scotland,10.4,RD Berrington,Sikandar Raza,4,{},{}
+2nd innings,Scotland,10.5,RD Berrington,Sikandar Raza,1,{},{}
+2nd innings,Scotland,10.6,PL Mommsen,Sikandar Raza,1,{},{}
+2nd innings,Scotland,11.1,PL Mommsen,T Panyangara,2,{},{}
+2nd innings,Scotland,11.2,PL Mommsen,T Panyangara,0,{},{}
+2nd innings,Scotland,11.3,PL Mommsen,T Panyangara,0,{},{}
+2nd innings,Scotland,11.4,PL Mommsen,T Panyangara,1,{'wides': 1},{}
+2nd innings,Scotland,11.5,PL Mommsen,T Panyangara,0,{},{}
+2nd innings,Scotland,11.6,PL Mommsen,T Panyangara,0,{},{}
+2nd innings,Scotland,11.7,PL Mommsen,T Panyangara,1,{},{}
+2nd innings,Scotland,12.1,PL Mommsen,WP Masakadza,2,{},{}
+2nd innings,Scotland,12.2,PL Mommsen,WP Masakadza,0,{},{}
+2nd innings,Scotland,12.3,PL Mommsen,WP Masakadza,4,{},{}
+2nd innings,Scotland,12.4,PL Mommsen,WP Masakadza,0,{},{}
+2nd innings,Scotland,12.5,PL Mommsen,WP Masakadza,1,{},{}
+2nd innings,Scotland,12.6,RD Berrington,WP Masakadza,1,{},{}
+2nd innings,Scotland,13.1,RD Berrington,T Panyangara,0,{},{}
+2nd innings,Scotland,13.2,RD Berrington,T Panyangara,1,{},{}
+2nd innings,Scotland,13.3,PL Mommsen,T Panyangara,1,{},{}
+2nd innings,Scotland,13.4,RD Berrington,T Panyangara,1,{},{}
+2nd innings,Scotland,13.5,PL Mommsen,T Panyangara,2,{},{}
+2nd innings,Scotland,13.6,PL Mommsen,T Panyangara,1,{},{}
+2nd innings,Scotland,14.1,PL Mommsen,WP Masakadza,2,{},{}
+2nd innings,Scotland,14.2,PL Mommsen,WP Masakadza,0,{},"{'fielders': ['CJ Chibhabha (sub)'], 'kind': 'caught', 'player_out': 'PL Mommsen'}"
+2nd innings,Scotland,14.3,SM Sharif,WP Masakadza,0,{},{}
+2nd innings,Scotland,14.4,SM Sharif,WP Masakadza,1,{},{}
+2nd innings,Scotland,14.5,RD Berrington,WP Masakadza,1,{},{}
+2nd innings,Scotland,14.6,SM Sharif,WP Masakadza,0,{},"{'fielders': ['R Mutumbami'], 'kind': 'stumped', 'player_out': 'SM Sharif'}"
+2nd innings,Scotland,15.1,RD Berrington,SC Williams,1,{},{}
+2nd innings,Scotland,15.2,JH Davey,SC Williams,1,{},{}
+2nd innings,Scotland,15.3,RD Berrington,SC Williams,1,{},{}
+2nd innings,Scotland,15.4,JH Davey,SC Williams,1,{},{}
+2nd innings,Scotland,15.5,RD Berrington,SC Williams,0,{},{}
+2nd innings,Scotland,15.6,RD Berrington,SC Williams,1,{},{}
+2nd innings,Scotland,16.1,RD Berrington,TL Chatara,1,{},{}
+2nd innings,Scotland,16.2,JH Davey,TL Chatara,6,{},{}
+2nd innings,Scotland,16.3,JH Davey,TL Chatara,0,{},{}
+2nd innings,Scotland,16.4,JH Davey,TL Chatara,4,{},{}
+2nd innings,Scotland,16.5,JH Davey,TL Chatara,6,{},{}
+2nd innings,Scotland,16.6,JH Davey,TL Chatara,1,{},{}
+2nd innings,Scotland,17.1,JH Davey,DT Tiripano,1,{},{}
+2nd innings,Scotland,17.2,RD Berrington,DT Tiripano,1,{'wides': 1},{}
+2nd innings,Scotland,17.3,RD Berrington,DT Tiripano,0,{},{}
+2nd innings,Scotland,17.4,RD Berrington,DT Tiripano,1,{},{}
+2nd innings,Scotland,17.5,JH Davey,DT Tiripano,1,{},{}
+2nd innings,Scotland,17.6,RD Berrington,DT Tiripano,2,{'legbyes': 2},{}
+2nd innings,Scotland,17.7,RD Berrington,DT Tiripano,0,{},"{'fielders': ['TL Chatara'], 'kind': 'caught', 'player_out': 'RD Berrington'}"
+2nd innings,Scotland,18.1,JH Davey,T Panyangara,2,{},{}
+2nd innings,Scotland,18.2,JH Davey,T Panyangara,1,{},{}
+2nd innings,Scotland,18.3,MRJ Watt,T Panyangara,1,{},{}
+2nd innings,Scotland,18.4,JH Davey,T Panyangara,0,{},{}
+2nd innings,Scotland,18.5,JH Davey,T Panyangara,0,{},"{'fielders': ['Sikandar Raza'], 'kind': 'caught', 'player_out': 'JH Davey'}"
+2nd innings,Scotland,18.6,MRJ Watt,T Panyangara,1,{},{}
+2nd innings,Scotland,19.1,MRJ Watt,DT Tiripano,4,{},{}
+2nd innings,Scotland,19.2,MRJ Watt,DT Tiripano,2,{},{}
+2nd innings,Scotland,19.3,MRJ Watt,DT Tiripano,1,{},{}
+2nd innings,Scotland,19.4,AC Evans,DT Tiripano,0,{},"{'kind': 'bowled', 'player_out': 'AC Evans'}"

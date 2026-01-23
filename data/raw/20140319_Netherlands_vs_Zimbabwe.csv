@@ -1,0 +1,249 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Netherlands,0.1,MR Swart,P Utseya,0,{},{}
+1st innings,Netherlands,0.2,MR Swart,P Utseya,1,{},{}
+1st innings,Netherlands,0.3,SJ Myburgh,P Utseya,0,{},"{'kind': 'lbw', 'player_out': 'SJ Myburgh'}"
+1st innings,Netherlands,0.4,W Barresi,P Utseya,4,{},{}
+1st innings,Netherlands,0.5,W Barresi,P Utseya,0,{},{}
+1st innings,Netherlands,0.6,W Barresi,P Utseya,0,{},{}
+1st innings,Netherlands,1.1,MR Swart,T Panyangara,0,{},{}
+1st innings,Netherlands,1.2,MR Swart,T Panyangara,1,{},{}
+1st innings,Netherlands,1.3,W Barresi,T Panyangara,4,{},{}
+1st innings,Netherlands,1.4,W Barresi,T Panyangara,4,{},{}
+1st innings,Netherlands,1.5,W Barresi,T Panyangara,0,{},"{'kind': 'bowled', 'player_out': 'W Barresi'}"
+1st innings,Netherlands,1.6,PW Borren,T Panyangara,0,{},{}
+1st innings,Netherlands,2.1,MR Swart,P Utseya,0,{},{}
+1st innings,Netherlands,2.2,MR Swart,P Utseya,0,{},{}
+1st innings,Netherlands,2.3,MR Swart,P Utseya,1,{},{}
+1st innings,Netherlands,2.4,PW Borren,P Utseya,0,{},{}
+1st innings,Netherlands,2.5,PW Borren,P Utseya,0,{},{}
+1st innings,Netherlands,2.6,PW Borren,P Utseya,4,{},{}
+1st innings,Netherlands,3.1,MR Swart,TL Chatara,0,{},"{'fielders': ['TL Chatara'], 'kind': 'run out', 'player_out': 'MR Swart'}"
+1st innings,Netherlands,3.2,TLW Cooper,TL Chatara,4,{},{}
+1st innings,Netherlands,3.3,TLW Cooper,TL Chatara,0,{},{}
+1st innings,Netherlands,3.4,TLW Cooper,TL Chatara,0,{},{}
+1st innings,Netherlands,3.5,TLW Cooper,TL Chatara,4,{},{}
+1st innings,Netherlands,3.6,TLW Cooper,TL Chatara,0,{},{}
+1st innings,Netherlands,4.1,PW Borren,P Utseya,4,{},{}
+1st innings,Netherlands,4.2,PW Borren,P Utseya,4,{'byes': 4},{}
+1st innings,Netherlands,4.3,PW Borren,P Utseya,0,{},"{'fielders': ['E Chigumbura'], 'kind': 'caught', 'player_out': 'PW Borren'}"
+1st innings,Netherlands,4.4,BN Cooper,P Utseya,0,{},{}
+1st innings,Netherlands,4.5,BN Cooper,P Utseya,2,{},{}
+1st innings,Netherlands,4.6,BN Cooper,P Utseya,0,{},{}
+1st innings,Netherlands,5.1,TLW Cooper,TL Chatara,0,{},{}
+1st innings,Netherlands,5.2,TLW Cooper,TL Chatara,0,{},{}
+1st innings,Netherlands,5.3,TLW Cooper,TL Chatara,0,{},{}
+1st innings,Netherlands,5.4,TLW Cooper,TL Chatara,0,{},{}
+1st innings,Netherlands,5.5,TLW Cooper,TL Chatara,0,{},{}
+1st innings,Netherlands,5.6,TLW Cooper,TL Chatara,1,{},{}
+1st innings,Netherlands,6.1,TLW Cooper,N M'shangwe,1,{},{}
+1st innings,Netherlands,6.2,BN Cooper,N M'shangwe,1,{},{}
+1st innings,Netherlands,6.3,TLW Cooper,N M'shangwe,1,{},{}
+1st innings,Netherlands,6.4,BN Cooper,N M'shangwe,1,{'wides': 1},{}
+1st innings,Netherlands,6.5,BN Cooper,N M'shangwe,1,{},{}
+1st innings,Netherlands,6.6,TLW Cooper,N M'shangwe,4,{},{}
+1st innings,Netherlands,6.7,TLW Cooper,N M'shangwe,1,{},{}
+1st innings,Netherlands,7.1,TLW Cooper,SC Williams,1,{},{}
+1st innings,Netherlands,7.2,BN Cooper,SC Williams,1,{},{}
+1st innings,Netherlands,7.3,TLW Cooper,SC Williams,0,{},{}
+1st innings,Netherlands,7.4,TLW Cooper,SC Williams,1,{},{}
+1st innings,Netherlands,7.5,BN Cooper,SC Williams,1,{},{}
+1st innings,Netherlands,7.6,TLW Cooper,SC Williams,1,{},{}
+1st innings,Netherlands,8.1,TLW Cooper,N M'shangwe,1,{},{}
+1st innings,Netherlands,8.2,BN Cooper,N M'shangwe,1,{},{}
+1st innings,Netherlands,8.3,TLW Cooper,N M'shangwe,0,{},{}
+1st innings,Netherlands,8.4,TLW Cooper,N M'shangwe,1,{},{}
+1st innings,Netherlands,8.5,BN Cooper,N M'shangwe,0,{},{}
+1st innings,Netherlands,8.6,BN Cooper,N M'shangwe,1,{'wides': 1},{}
+1st innings,Netherlands,8.7,BN Cooper,N M'shangwe,1,{},{}
+1st innings,Netherlands,9.1,BN Cooper,SC Williams,1,{},{}
+1st innings,Netherlands,9.2,TLW Cooper,SC Williams,1,{},{}
+1st innings,Netherlands,9.3,BN Cooper,SC Williams,0,{},{}
+1st innings,Netherlands,9.4,BN Cooper,SC Williams,1,{},{}
+1st innings,Netherlands,9.5,TLW Cooper,SC Williams,1,{},{}
+1st innings,Netherlands,9.6,BN Cooper,SC Williams,0,{},{}
+1st innings,Netherlands,10.1,TLW Cooper,N M'shangwe,0,{},{}
+1st innings,Netherlands,10.2,TLW Cooper,N M'shangwe,1,{},{}
+1st innings,Netherlands,10.3,BN Cooper,N M'shangwe,1,{},{}
+1st innings,Netherlands,10.4,TLW Cooper,N M'shangwe,1,{},{}
+1st innings,Netherlands,10.5,BN Cooper,N M'shangwe,0,{},{}
+1st innings,Netherlands,10.6,BN Cooper,N M'shangwe,1,{},{}
+1st innings,Netherlands,11.1,BN Cooper,SC Williams,4,{},{}
+1st innings,Netherlands,11.2,BN Cooper,SC Williams,0,{},{}
+1st innings,Netherlands,11.3,BN Cooper,SC Williams,1,{},{}
+1st innings,Netherlands,11.4,TLW Cooper,SC Williams,2,{},{}
+1st innings,Netherlands,11.5,TLW Cooper,SC Williams,1,{},{}
+1st innings,Netherlands,11.6,BN Cooper,SC Williams,1,{},{}
+1st innings,Netherlands,12.1,BN Cooper,H Masakadza,1,{},{}
+1st innings,Netherlands,12.2,TLW Cooper,H Masakadza,0,{},{}
+1st innings,Netherlands,12.3,TLW Cooper,H Masakadza,1,{'wides': 1},{}
+1st innings,Netherlands,12.4,TLW Cooper,H Masakadza,1,{},{}
+1st innings,Netherlands,12.5,BN Cooper,H Masakadza,1,{},{}
+1st innings,Netherlands,12.6,TLW Cooper,H Masakadza,6,{},{}
+1st innings,Netherlands,12.7,TLW Cooper,H Masakadza,1,{},{}
+1st innings,Netherlands,13.1,TLW Cooper,N M'shangwe,0,{},{}
+1st innings,Netherlands,13.2,TLW Cooper,N M'shangwe,0,{},{}
+1st innings,Netherlands,13.3,TLW Cooper,N M'shangwe,0,{},{}
+1st innings,Netherlands,13.4,TLW Cooper,N M'shangwe,1,{},{}
+1st innings,Netherlands,13.5,BN Cooper,N M'shangwe,0,{},"{'fielders': ['T Panyangara'], 'kind': 'caught', 'player_out': 'BN Cooper'}"
+1st innings,Netherlands,13.6,TLW Cooper,N M'shangwe,4,{},{}
+1st innings,Netherlands,14.1,Mudassar Bukhari,SC Williams,0,{},{}
+1st innings,Netherlands,14.2,Mudassar Bukhari,SC Williams,1,{},{}
+1st innings,Netherlands,14.3,TLW Cooper,SC Williams,1,{},{}
+1st innings,Netherlands,14.4,Mudassar Bukhari,SC Williams,1,{},{}
+1st innings,Netherlands,14.5,TLW Cooper,SC Williams,0,{},{}
+1st innings,Netherlands,14.6,TLW Cooper,SC Williams,1,{},{}
+1st innings,Netherlands,15.1,TLW Cooper,T Panyangara,2,{},{}
+1st innings,Netherlands,15.2,TLW Cooper,T Panyangara,1,{},{}
+1st innings,Netherlands,15.3,Mudassar Bukhari,T Panyangara,1,{},{}
+1st innings,Netherlands,15.4,TLW Cooper,T Panyangara,1,{'wides': 1},{}
+1st innings,Netherlands,15.5,TLW Cooper,T Panyangara,1,{},{}
+1st innings,Netherlands,15.6,Mudassar Bukhari,T Panyangara,1,{},{}
+1st innings,Netherlands,15.7,TLW Cooper,T Panyangara,1,{},{}
+1st innings,Netherlands,16.1,TLW Cooper,P Utseya,4,{},{}
+1st innings,Netherlands,16.2,TLW Cooper,P Utseya,1,{},{}
+1st innings,Netherlands,16.3,Mudassar Bukhari,P Utseya,0,{},{}
+1st innings,Netherlands,16.4,Mudassar Bukhari,P Utseya,1,{},{}
+1st innings,Netherlands,16.5,TLW Cooper,P Utseya,1,{},{}
+1st innings,Netherlands,16.6,Mudassar Bukhari,P Utseya,1,{},{}
+1st innings,Netherlands,17.1,Mudassar Bukhari,T Panyangara,1,{},{}
+1st innings,Netherlands,17.2,TLW Cooper,T Panyangara,4,{},{}
+1st innings,Netherlands,17.3,TLW Cooper,T Panyangara,4,{},{}
+1st innings,Netherlands,17.4,TLW Cooper,T Panyangara,4,{},{}
+1st innings,Netherlands,17.5,TLW Cooper,T Panyangara,1,{'legbyes': 1},{}
+1st innings,Netherlands,17.6,Mudassar Bukhari,T Panyangara,1,{},{}
+1st innings,Netherlands,18.1,Mudassar Bukhari,TL Chatara,1,{},{}
+1st innings,Netherlands,18.2,TLW Cooper,TL Chatara,0,{},{}
+1st innings,Netherlands,18.3,TLW Cooper,TL Chatara,1,{'legbyes': 1},{}
+1st innings,Netherlands,18.4,Mudassar Bukhari,TL Chatara,1,{},{}
+1st innings,Netherlands,18.5,TLW Cooper,TL Chatara,1,{},{}
+1st innings,Netherlands,18.6,Mudassar Bukhari,TL Chatara,2,{},{}
+1st innings,Netherlands,19.1,TLW Cooper,T Panyangara,1,{'legbyes': 1},{}
+1st innings,Netherlands,19.2,Mudassar Bukhari,T Panyangara,0,{},{}
+1st innings,Netherlands,19.3,Mudassar Bukhari,T Panyangara,1,{},{}
+1st innings,Netherlands,19.4,TLW Cooper,T Panyangara,4,{},{}
+1st innings,Netherlands,19.5,TLW Cooper,T Panyangara,1,{},{}
+1st innings,Netherlands,19.6,Mudassar Bukhari,T Panyangara,1,{},{}
+2nd innings,Zimbabwe,0.1,H Masakadza,Mudassar Bukhari,0,{},{}
+2nd innings,Zimbabwe,0.2,H Masakadza,Mudassar Bukhari,4,{},{}
+2nd innings,Zimbabwe,0.3,H Masakadza,Mudassar Bukhari,4,{},{}
+2nd innings,Zimbabwe,0.4,H Masakadza,Mudassar Bukhari,0,{},{}
+2nd innings,Zimbabwe,0.5,H Masakadza,Mudassar Bukhari,1,{},{}
+2nd innings,Zimbabwe,0.6,Sikandar Raza,Mudassar Bukhari,0,{},{}
+2nd innings,Zimbabwe,1.1,H Masakadza,T van der Gugten,0,{},{}
+2nd innings,Zimbabwe,1.2,H Masakadza,T van der Gugten,0,{},{}
+2nd innings,Zimbabwe,1.3,H Masakadza,T van der Gugten,0,{},{}
+2nd innings,Zimbabwe,1.4,H Masakadza,T van der Gugten,0,{},{}
+2nd innings,Zimbabwe,1.5,H Masakadza,T van der Gugten,0,{},{}
+2nd innings,Zimbabwe,1.6,H Masakadza,T van der Gugten,2,{},{}
+2nd innings,Zimbabwe,2.1,Sikandar Raza,Ahsan Malik,4,{},{}
+2nd innings,Zimbabwe,2.2,Sikandar Raza,Ahsan Malik,0,{},{}
+2nd innings,Zimbabwe,2.3,Sikandar Raza,Ahsan Malik,0,{},{}
+2nd innings,Zimbabwe,2.4,Sikandar Raza,Ahsan Malik,1,{},{}
+2nd innings,Zimbabwe,2.5,H Masakadza,Ahsan Malik,0,{},{}
+2nd innings,Zimbabwe,2.6,H Masakadza,Ahsan Malik,0,{},{}
+2nd innings,Zimbabwe,3.1,Sikandar Raza,T van der Gugten,1,{},{}
+2nd innings,Zimbabwe,3.2,H Masakadza,T van der Gugten,0,{},{}
+2nd innings,Zimbabwe,3.3,H Masakadza,T van der Gugten,1,{'legbyes': 1},{}
+2nd innings,Zimbabwe,3.4,Sikandar Raza,T van der Gugten,4,{},{}
+2nd innings,Zimbabwe,3.5,Sikandar Raza,T van der Gugten,0,{},{}
+2nd innings,Zimbabwe,3.6,Sikandar Raza,T van der Gugten,1,{},{}
+2nd innings,Zimbabwe,4.1,Sikandar Raza,Ahsan Malik,0,{},{}
+2nd innings,Zimbabwe,4.2,Sikandar Raza,Ahsan Malik,2,{},{}
+2nd innings,Zimbabwe,4.3,Sikandar Raza,Ahsan Malik,0,{},"{'fielders': ['PM Seelaar'], 'kind': 'caught', 'player_out': 'Sikandar Raza'}"
+2nd innings,Zimbabwe,4.4,H Masakadza,Ahsan Malik,0,{},{}
+2nd innings,Zimbabwe,4.5,H Masakadza,Ahsan Malik,0,{},{}
+2nd innings,Zimbabwe,4.6,H Masakadza,Ahsan Malik,1,{},{}
+2nd innings,Zimbabwe,5.1,H Masakadza,LV van Beek,0,{},{}
+2nd innings,Zimbabwe,5.2,H Masakadza,LV van Beek,1,{},{}
+2nd innings,Zimbabwe,5.3,BRM Taylor,LV van Beek,1,{},{}
+2nd innings,Zimbabwe,5.4,H Masakadza,LV van Beek,1,{'wides': 1},{}
+2nd innings,Zimbabwe,5.5,H Masakadza,LV van Beek,1,{'wides': 1},{}
+2nd innings,Zimbabwe,5.6,H Masakadza,LV van Beek,1,{'wides': 1},{}
+2nd innings,Zimbabwe,5.7,H Masakadza,LV van Beek,1,{},{}
+2nd innings,Zimbabwe,5.8,BRM Taylor,LV van Beek,1,{},{}
+2nd innings,Zimbabwe,5.9,H Masakadza,LV van Beek,4,{},{}
+2nd innings,Zimbabwe,6.1,BRM Taylor,Mudassar Bukhari,0,{},{}
+2nd innings,Zimbabwe,6.2,BRM Taylor,Mudassar Bukhari,0,{},{}
+2nd innings,Zimbabwe,6.3,BRM Taylor,Mudassar Bukhari,2,{},{}
+2nd innings,Zimbabwe,6.4,BRM Taylor,Mudassar Bukhari,1,{},{}
+2nd innings,Zimbabwe,6.5,H Masakadza,Mudassar Bukhari,0,{},{}
+2nd innings,Zimbabwe,6.6,H Masakadza,Mudassar Bukhari,1,{},{}
+2nd innings,Zimbabwe,7.1,H Masakadza,PW Borren,0,{},{}
+2nd innings,Zimbabwe,7.2,H Masakadza,PW Borren,2,{},{}
+2nd innings,Zimbabwe,7.3,H Masakadza,PW Borren,1,{},{}
+2nd innings,Zimbabwe,7.4,BRM Taylor,PW Borren,1,{},{}
+2nd innings,Zimbabwe,7.5,H Masakadza,PW Borren,1,{},{}
+2nd innings,Zimbabwe,7.6,BRM Taylor,PW Borren,1,{},{}
+2nd innings,Zimbabwe,8.1,BRM Taylor,PM Seelaar,0,{},{}
+2nd innings,Zimbabwe,8.2,BRM Taylor,PM Seelaar,1,{},{}
+2nd innings,Zimbabwe,8.3,H Masakadza,PM Seelaar,0,{},{}
+2nd innings,Zimbabwe,8.4,H Masakadza,PM Seelaar,2,{},{}
+2nd innings,Zimbabwe,8.5,H Masakadza,PM Seelaar,2,{},{}
+2nd innings,Zimbabwe,8.6,H Masakadza,PM Seelaar,0,{},{}
+2nd innings,Zimbabwe,9.1,BRM Taylor,TLW Cooper,6,{},{}
+2nd innings,Zimbabwe,9.2,BRM Taylor,TLW Cooper,0,{},{}
+2nd innings,Zimbabwe,9.3,BRM Taylor,TLW Cooper,1,{},{}
+2nd innings,Zimbabwe,9.4,H Masakadza,TLW Cooper,6,{},{}
+2nd innings,Zimbabwe,9.5,H Masakadza,TLW Cooper,1,{'byes': 1},{}
+2nd innings,Zimbabwe,9.6,BRM Taylor,TLW Cooper,0,{},{}
+2nd innings,Zimbabwe,10.1,H Masakadza,Mudassar Bukhari,1,{},{}
+2nd innings,Zimbabwe,10.2,BRM Taylor,Mudassar Bukhari,1,{},{}
+2nd innings,Zimbabwe,10.3,H Masakadza,Mudassar Bukhari,1,{},{}
+2nd innings,Zimbabwe,10.4,BRM Taylor,Mudassar Bukhari,1,{},{}
+2nd innings,Zimbabwe,10.5,H Masakadza,Mudassar Bukhari,1,{},{}
+2nd innings,Zimbabwe,10.6,BRM Taylor,Mudassar Bukhari,1,{},{}
+2nd innings,Zimbabwe,11.1,BRM Taylor,LV van Beek,1,{},{}
+2nd innings,Zimbabwe,11.2,H Masakadza,LV van Beek,1,{},{}
+2nd innings,Zimbabwe,11.3,BRM Taylor,LV van Beek,1,{},{}
+2nd innings,Zimbabwe,11.4,H Masakadza,LV van Beek,1,{},{}
+2nd innings,Zimbabwe,11.5,BRM Taylor,LV van Beek,1,{},{}
+2nd innings,Zimbabwe,11.6,H Masakadza,LV van Beek,1,{},{}
+2nd innings,Zimbabwe,12.1,H Masakadza,Mudassar Bukhari,1,{},{}
+2nd innings,Zimbabwe,12.2,BRM Taylor,Mudassar Bukhari,1,{},{}
+2nd innings,Zimbabwe,12.3,H Masakadza,Mudassar Bukhari,1,{},{}
+2nd innings,Zimbabwe,12.4,BRM Taylor,Mudassar Bukhari,2,{},{}
+2nd innings,Zimbabwe,12.5,BRM Taylor,Mudassar Bukhari,1,{},{}
+2nd innings,Zimbabwe,12.6,H Masakadza,Mudassar Bukhari,1,{},{}
+2nd innings,Zimbabwe,13.1,H Masakadza,PM Seelaar,1,{},{}
+2nd innings,Zimbabwe,13.2,BRM Taylor,PM Seelaar,1,{},{}
+2nd innings,Zimbabwe,13.3,H Masakadza,PM Seelaar,0,{},"{'kind': 'bowled', 'player_out': 'H Masakadza'}"
+2nd innings,Zimbabwe,13.4,E Chigumbura,PM Seelaar,0,{},{}
+2nd innings,Zimbabwe,13.5,E Chigumbura,PM Seelaar,0,{},"{'fielders': ['PW Borren'], 'kind': 'caught', 'player_out': 'E Chigumbura'}"
+2nd innings,Zimbabwe,13.6,SC Williams,PM Seelaar,2,{},{}
+2nd innings,Zimbabwe,14.1,BRM Taylor,PW Borren,1,{},{}
+2nd innings,Zimbabwe,14.2,SC Williams,PW Borren,1,{},{}
+2nd innings,Zimbabwe,14.3,BRM Taylor,PW Borren,1,{},{}
+2nd innings,Zimbabwe,14.4,SC Williams,PW Borren,1,{},{}
+2nd innings,Zimbabwe,14.5,BRM Taylor,PW Borren,1,{},{}
+2nd innings,Zimbabwe,14.6,SC Williams,PW Borren,1,{},{}
+2nd innings,Zimbabwe,15.1,SC Williams,T van der Gugten,0,{},{}
+2nd innings,Zimbabwe,15.2,SC Williams,T van der Gugten,1,{},{}
+2nd innings,Zimbabwe,15.3,BRM Taylor,T van der Gugten,1,{},{}
+2nd innings,Zimbabwe,15.4,SC Williams,T van der Gugten,1,{},{}
+2nd innings,Zimbabwe,15.5,BRM Taylor,T van der Gugten,1,{},{}
+2nd innings,Zimbabwe,15.6,SC Williams,T van der Gugten,2,{},{}
+2nd innings,Zimbabwe,16.1,BRM Taylor,LV van Beek,4,{},{}
+2nd innings,Zimbabwe,16.2,BRM Taylor,LV van Beek,4,{},{}
+2nd innings,Zimbabwe,16.3,BRM Taylor,LV van Beek,1,{},{}
+2nd innings,Zimbabwe,16.4,SC Williams,LV van Beek,1,{},{}
+2nd innings,Zimbabwe,16.5,BRM Taylor,LV van Beek,1,{},{}
+2nd innings,Zimbabwe,16.6,SC Williams,LV van Beek,4,{},{}
+2nd innings,Zimbabwe,17.1,BRM Taylor,Ahsan Malik,2,{},{}
+2nd innings,Zimbabwe,17.2,BRM Taylor,Ahsan Malik,1,{'wides': 1},{}
+2nd innings,Zimbabwe,17.3,BRM Taylor,Ahsan Malik,1,{},{}
+2nd innings,Zimbabwe,17.4,SC Williams,Ahsan Malik,1,{},{}
+2nd innings,Zimbabwe,17.5,BRM Taylor,Ahsan Malik,2,{},{}
+2nd innings,Zimbabwe,17.6,BRM Taylor,Ahsan Malik,2,{},{}
+2nd innings,Zimbabwe,17.7,BRM Taylor,Ahsan Malik,1,{},{}
+2nd innings,Zimbabwe,18.1,BRM Taylor,T van der Gugten,0,{},"{'fielders': ['PW Borren'], 'kind': 'caught', 'player_out': 'BRM Taylor'}"
+2nd innings,Zimbabwe,18.2,V Sibanda,T van der Gugten,2,{},{}
+2nd innings,Zimbabwe,18.3,V Sibanda,T van der Gugten,1,{},{}
+2nd innings,Zimbabwe,18.4,SC Williams,T van der Gugten,2,{},{}
+2nd innings,Zimbabwe,18.5,SC Williams,T van der Gugten,2,{},{}
+2nd innings,Zimbabwe,18.6,SC Williams,T van der Gugten,1,{},{}
+2nd innings,Zimbabwe,19.1,SC Williams,Ahsan Malik,0,{},{}
+2nd innings,Zimbabwe,19.2,SC Williams,Ahsan Malik,2,{},{}
+2nd innings,Zimbabwe,19.3,SC Williams,Ahsan Malik,4,{},{}
+2nd innings,Zimbabwe,19.4,SC Williams,Ahsan Malik,0,{},{}
+2nd innings,Zimbabwe,19.5,SC Williams,Ahsan Malik,0,{},"{'fielders': ['Ahsan Malik'], 'kind': 'run out', 'player_out': 'SC Williams'}"
+2nd innings,Zimbabwe,19.6,V Sibanda,Ahsan Malik,6,{},{}

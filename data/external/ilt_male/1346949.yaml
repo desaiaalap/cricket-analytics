@@ -1,0 +1,2103 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-02-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  competition: International League T20
+  dates:
+  - '2023-02-12'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Gulf Giants
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - CR Brathwaite
+  players:
+    Desert Vipers:
+    - Rohan Mustafa
+    - AD Hales
+    - A Lyth
+    - SW Billings
+    - C Munro
+    - PWH de Silva
+    - TK Curran
+    - L Wood
+    - AAP Atkinson
+    - Ali Naseer
+    - SS Cottrell
+    Gulf Giants:
+    - JM Vince
+    - CA Lynn
+    - C de Grandhomme
+    - MG Erasmus
+    - SO Hetmyer
+    - D Wiese
+    - CR Brathwaite
+    - Aayan Afzal Khan
+    - CJ Jordan
+    - Qais Ahmad
+    - SM Sharma
+  registry:
+    people:
+      A Lyth: 70b8fd28
+      AAP Atkinson: 70d57519
+      AD Hales: 92aeac25
+      AG Wharf: 2e0fcc58
+      Aayan Afzal Khan: d2d15439
+      Ali Naseer: f5715b48
+      C Munro: af2c687b
+      C de Grandhomme: 94d7f855
+      CA Lynn: 45eda7c8
+      CJ Jordan: ffe699c0
+      CR Brathwaite: e342e5fb
+      D Wiese: aa8d28ae
+      JM Vince: a15618fe
+      L Wood: 65b6943c
+      LS Reifer: 5dee559a
+      MG Erasmus: 95a5e066
+      PWH de Silva: a97c8ec2
+      Qais Ahmad: 8d5d991e
+      RA Kettleborough: 4017868f
+      RSA Palliyaguruge: 4339c19d
+      Rohan Mustafa: d1988788
+      SJA Taufel: 4b43d5ac
+      SM Sharma: cec44e08
+      SO Hetmyer: 48a1d7b7
+      SS Cottrell: a1d053dd
+      SW Billings: c16d4035
+      TK Curran: e86754b2
+  teams:
+  - Desert Vipers
+  - Gulf Giants
+  toss:
+    winner: Gulf Giants
+    decision: field
+  umpires:
+  - AG Wharf
+  - RA Kettleborough
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: Desert Vipers
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: C de Grandhomme
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rohan Mustafa
+    - 0.2:
+        non_striker: AD Hales
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.3:
+        non_striker: AD Hales
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 0.4:
+        non_striker: AD Hales
+        bowler: C de Grandhomme
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rohan Mustafa
+    - 0.5:
+        non_striker: AD Hales
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.6:
+        non_striker: AD Hales
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 0.7:
+        non_striker: Rohan Mustafa
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 0.8:
+        non_striker: AD Hales
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 1.1:
+        non_striker: Rohan Mustafa
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          fielders:
+          - JM Vince
+          kind: caught
+    - 1.2:
+        non_striker: Rohan Mustafa
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Lyth
+    - 1.3:
+        non_striker: A Lyth
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 1.4:
+        non_striker: Rohan Mustafa
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lyth
+    - 1.5:
+        non_striker: A Lyth
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+        wicket:
+          player_out: Rohan Mustafa
+          fielders:
+          - CR Brathwaite
+          - Qais Ahmad
+          kind: run out
+    - 1.6:
+        non_striker: A Lyth
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 2.1:
+        non_striker: SW Billings
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lyth
+    - 2.2:
+        non_striker: A Lyth
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 2.3:
+        non_striker: SW Billings
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lyth
+    - 2.4:
+        non_striker: A Lyth
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 2.5:
+        non_striker: A Lyth
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 2.6:
+        non_striker: A Lyth
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 3.1:
+        non_striker: SW Billings
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+    - 3.2:
+        non_striker: SW Billings
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+    - 3.3:
+        non_striker: SW Billings
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lyth
+    - 3.4:
+        non_striker: SW Billings
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+    - 3.5:
+        non_striker: SW Billings
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Lyth
+    - 3.6:
+        non_striker: SW Billings
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lyth
+    - 4.1:
+        non_striker: SW Billings
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+    - 4.2:
+        non_striker: SW Billings
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+    - 4.3:
+        non_striker: SW Billings
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+        wicket:
+          player_out: A Lyth
+          fielders:
+          - CR Brathwaite
+          kind: caught
+    - 4.4:
+        non_striker: SW Billings
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 4.5:
+        non_striker: SW Billings
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 4.6:
+        non_striker: SW Billings
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 5.1:
+        non_striker: C Munro
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 5.2:
+        non_striker: SW Billings
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 5.3:
+        non_striker: C Munro
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 5.4:
+        non_striker: SW Billings
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 5.5:
+        non_striker: SW Billings
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 5.6:
+        non_striker: SW Billings
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 6.1:
+        non_striker: C Munro
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 6.2:
+        non_striker: SW Billings
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 6.3:
+        non_striker: C Munro
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 6.4:
+        non_striker: SW Billings
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 6.5:
+        non_striker: C Munro
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 6.6:
+        non_striker: C Munro
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 7.1:
+        non_striker: C Munro
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 7.2:
+        non_striker: C Munro
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 7.3:
+        non_striker: C Munro
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 7.4:
+        non_striker: SW Billings
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 7.5:
+        non_striker: C Munro
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 7.6:
+        non_striker: C Munro
+        bowler: Qais Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Billings
+    - 7.7:
+        non_striker: C Munro
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 8.1:
+        non_striker: C Munro
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 8.2:
+        non_striker: C Munro
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 8.3:
+        non_striker: SW Billings
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          kind: caught and bowled
+    - 8.4:
+        non_striker: SW Billings
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 8.5:
+        non_striker: PWH de Silva
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 8.6:
+        non_striker: SW Billings
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PWH de Silva
+    - 8.7:
+        non_striker: SW Billings
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 9.1:
+        non_striker: SW Billings
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 9.2:
+        non_striker: SW Billings
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 9.3:
+        non_striker: SW Billings
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 9.4:
+        non_striker: SW Billings
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 9.5:
+        non_striker: SW Billings
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 9.6:
+        non_striker: PWH de Silva
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 10.1:
+        non_striker: PWH de Silva
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 10.2:
+        non_striker: PWH de Silva
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 10.3:
+        non_striker: PWH de Silva
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 10.4:
+        non_striker: SW Billings
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 10.5:
+        non_striker: SW Billings
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 10.6:
+        non_striker: PWH de Silva
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 11.1:
+        non_striker: PWH de Silva
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 11.2:
+        non_striker: SW Billings
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 11.3:
+        non_striker: SW Billings
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 11.4:
+        non_striker: SW Billings
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 11.5:
+        non_striker: PWH de Silva
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 11.6:
+        non_striker: SW Billings
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 12.1:
+        non_striker: PWH de Silva
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 12.2:
+        non_striker: SW Billings
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 12.3:
+        non_striker: SW Billings
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 12.4:
+        non_striker: PWH de Silva
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 12.5:
+        non_striker: SW Billings
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 12.6:
+        non_striker: SW Billings
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 13.1:
+        non_striker: SW Billings
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWH de Silva
+    - 13.2:
+        non_striker: SW Billings
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 13.3:
+        non_striker: SW Billings
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWH de Silva
+    - 13.4:
+        non_striker: SW Billings
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 13.5:
+        non_striker: SW Billings
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 13.6:
+        non_striker: SW Billings
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 14.1:
+        non_striker: SW Billings
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 14.2:
+        non_striker: SW Billings
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 14.3:
+        non_striker: SW Billings
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 14.4:
+        non_striker: PWH de Silva
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+        wicket:
+          player_out: SW Billings
+          fielders:
+          - D Wiese
+          kind: caught
+    - 14.5:
+        non_striker: PWH de Silva
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 14.6:
+        non_striker: PWH de Silva
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 15.1:
+        non_striker: TK Curran
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+        wicket:
+          player_out: PWH de Silva
+          fielders:
+          - D Wiese
+          kind: caught
+    - 15.2:
+        non_striker: TK Curran
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wood
+    - 15.3:
+        non_striker: L Wood
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 15.4:
+        non_striker: L Wood
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TK Curran
+    - 15.5:
+        non_striker: L Wood
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 15.6:
+        non_striker: L Wood
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 16.1:
+        non_striker: TK Curran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wood
+    - 16.2:
+        non_striker: TK Curran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wood
+    - 16.3:
+        non_striker: L Wood
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran
+    - 16.4:
+        non_striker: L Wood
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TK Curran
+    - 16.5:
+        non_striker: L Wood
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 16.6:
+        non_striker: TK Curran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wood
+    - 17.1:
+        non_striker: L Wood
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 17.2:
+        non_striker: TK Curran
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wood
+    - 17.3:
+        non_striker: L Wood
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 17.4:
+        non_striker: TK Curran
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wood
+        wicket:
+          player_out: L Wood
+          fielders:
+          - CA Lynn
+          kind: caught
+    - 17.5:
+        non_striker: TK Curran
+        bowler: Qais Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AAP Atkinson
+    - 17.6:
+        non_striker: TK Curran
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 17.7:
+        non_striker: TK Curran
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 18.1:
+        non_striker: AAP Atkinson
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TK Curran
+    - 18.2:
+        non_striker: AAP Atkinson
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TK Curran
+    - 18.3:
+        non_striker: AAP Atkinson
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+        wicket:
+          player_out: TK Curran
+          kind: bowled
+    - 18.4:
+        non_striker: AAP Atkinson
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Naseer
+    - 18.5:
+        non_striker: AAP Atkinson
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Naseer
+    - 18.6:
+        non_striker: Ali Naseer
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Atkinson
+    - 18.7:
+        non_striker: AAP Atkinson
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Naseer
+    - 19.1:
+        non_striker: AAP Atkinson
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Naseer
+    - 19.2:
+        non_striker: Ali Naseer
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Atkinson
+    - 19.3:
+        non_striker: AAP Atkinson
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Naseer
+    - 19.4:
+        non_striker: AAP Atkinson
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Naseer
+    - 19.5:
+        non_striker: Ali Naseer
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 19.6:
+        non_striker: Ali Naseer
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Atkinson
+- 2nd innings:
+    team: Gulf Giants
+    deliveries:
+    - 0.1:
+        non_striker: CA Lynn
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 0.2:
+        non_striker: CA Lynn
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 0.3:
+        non_striker: CA Lynn
+        bowler: SS Cottrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Vince
+    - 0.4:
+        non_striker: CA Lynn
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 0.5:
+        non_striker: CA Lynn
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 0.6:
+        non_striker: CA Lynn
+        bowler: SS Cottrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Vince
+    - 0.7:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Lynn
+    - 0.8:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 1.1:
+        non_striker: CA Lynn
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 1.2:
+        non_striker: CA Lynn
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 1.3:
+        non_striker: JM Vince
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 1.4:
+        non_striker: CA Lynn
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Vince
+    - 1.5:
+        non_striker: CA Lynn
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 1.6:
+        non_striker: CA Lynn
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 2.1:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 2.2:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 2.3:
+        non_striker: CA Lynn
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 2.4:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 2.5:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 2.6:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 3.1:
+        non_striker: JM Vince
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 3.2:
+        non_striker: JM Vince
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 3.3:
+        non_striker: CA Lynn
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 3.4:
+        non_striker: CA Lynn
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 3.5:
+        non_striker: CA Lynn
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+        wicket:
+          player_out: JM Vince
+          fielders:
+          - SW Billings
+          kind: caught
+    - 3.6:
+        non_striker: CA Lynn
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 4.1:
+        non_striker: CA Lynn
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+        wicket:
+          player_out: C de Grandhomme
+          kind: bowled
+    - 4.2:
+        non_striker: CA Lynn
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 4.3:
+        non_striker: CA Lynn
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 4.4:
+        non_striker: MG Erasmus
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 4.5:
+        non_striker: CA Lynn
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 4.6:
+        non_striker: MG Erasmus
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 5.1:
+        non_striker: CA Lynn
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 5.2:
+        non_striker: CA Lynn
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 5.3:
+        non_striker: CA Lynn
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 5.4:
+        non_striker: MG Erasmus
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 5.5:
+        non_striker: MG Erasmus
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 5.6:
+        non_striker: MG Erasmus
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 6.1:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 6.2:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 6.3:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 6.4:
+        non_striker: MG Erasmus
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 6.5:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 6.6:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 7.1:
+        non_striker: MG Erasmus
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 7.2:
+        non_striker: CA Lynn
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 7.3:
+        non_striker: MG Erasmus
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 7.4:
+        non_striker: MG Erasmus
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 7.5:
+        non_striker: CA Lynn
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 7.6:
+        non_striker: CA Lynn
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 8.1:
+        non_striker: MG Erasmus
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 8.2:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 8.3:
+        non_striker: MG Erasmus
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Lynn
+    - 8.4:
+        non_striker: MG Erasmus
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 8.5:
+        non_striker: MG Erasmus
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 8.6:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 9.1:
+        non_striker: MG Erasmus
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 9.2:
+        non_striker: CA Lynn
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Erasmus
+    - 9.3:
+        non_striker: CA Lynn
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MG Erasmus
+    - 9.4:
+        non_striker: MG Erasmus
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 9.5:
+        non_striker: MG Erasmus
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 9.6:
+        non_striker: CA Lynn
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.1:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.2:
+        non_striker: MG Erasmus
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 10.3:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 10.4:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.5:
+        non_striker: MG Erasmus
+        bowler: PWH de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CA Lynn
+    - 10.6:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 11.1:
+        non_striker: MG Erasmus
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 11.2:
+        non_striker: MG Erasmus
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 11.3:
+        non_striker: CA Lynn
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 11.4:
+        non_striker: CA Lynn
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 11.5:
+        non_striker: MG Erasmus
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 11.6:
+        non_striker: CA Lynn
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.1:
+        non_striker: MG Erasmus
+        bowler: AAP Atkinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Lynn
+    - 12.2:
+        non_striker: MG Erasmus
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 12.3:
+        non_striker: MG Erasmus
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 12.4:
+        non_striker: MG Erasmus
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 12.5:
+        non_striker: CA Lynn
+        bowler: AAP Atkinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MG Erasmus
+    - 12.6:
+        non_striker: MG Erasmus
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 12.7:
+        non_striker: MG Erasmus
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 13.1:
+        non_striker: MG Erasmus
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 13.2:
+        non_striker: MG Erasmus
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 13.3:
+        non_striker: MG Erasmus
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 13.4:
+        non_striker: CA Lynn
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 13.5:
+        non_striker: CA Lynn
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 13.6:
+        non_striker: CA Lynn
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 14.1:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 14.2:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 14.3:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          fielders:
+          - TK Curran
+          kind: caught
+    - 14.4:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 14.5:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 14.6:
+        non_striker: CA Lynn
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 15.1:
+        non_striker: SO Hetmyer
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 15.2:
+        non_striker: SO Hetmyer
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 15.3:
+        non_striker: SO Hetmyer
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 15.4:
+        non_striker: SO Hetmyer
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 15.5:
+        non_striker: CA Lynn
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 15.6:
+        non_striker: SO Hetmyer
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 16.1:
+        non_striker: CA Lynn
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 16.2:
+        non_striker: CA Lynn
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 16.3:
+        non_striker: CA Lynn
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 16.4:
+        non_striker: SO Hetmyer
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 16.5:
+        non_striker: SO Hetmyer
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 16.6:
+        non_striker: SO Hetmyer
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 17.1:
+        non_striker: SO Hetmyer
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 17.2:
+        non_striker: CA Lynn
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 17.3:
+        non_striker: CA Lynn
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 17.4:
+        non_striker: CA Lynn
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 17.5:
+        non_striker: CA Lynn
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 17.6:
+        non_striker: CA Lynn
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 17.7:
+        non_striker: CA Lynn
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 18.1:
+        non_striker: SO Hetmyer
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 18.2:
+        non_striker: SO Hetmyer
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 18.3:
+        non_striker: CA Lynn
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 18.4:
+        non_striker: SO Hetmyer
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn

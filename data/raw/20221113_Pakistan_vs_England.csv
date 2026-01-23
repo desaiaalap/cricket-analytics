@@ -1,0 +1,246 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Pakistan,0.1,Mohammad Rizwan,BA Stokes,1,{'noballs': 1},{}
+1st innings,Pakistan,0.2,Mohammad Rizwan,BA Stokes,1,{'wides': 1},{}
+1st innings,Pakistan,0.3,Mohammad Rizwan,BA Stokes,0,{},{}
+1st innings,Pakistan,0.4,Mohammad Rizwan,BA Stokes,2,{},{}
+1st innings,Pakistan,0.5,Mohammad Rizwan,BA Stokes,0,{},{}
+1st innings,Pakistan,0.6,Mohammad Rizwan,BA Stokes,1,{},{}
+1st innings,Pakistan,0.7,Babar Azam,BA Stokes,0,{},{}
+1st innings,Pakistan,0.8,Babar Azam,BA Stokes,3,{},{}
+1st innings,Pakistan,1.1,Babar Azam,CR Woakes,1,{'wides': 1},{}
+1st innings,Pakistan,1.2,Babar Azam,CR Woakes,0,{},{}
+1st innings,Pakistan,1.3,Babar Azam,CR Woakes,0,{},{}
+1st innings,Pakistan,1.4,Babar Azam,CR Woakes,1,{},{}
+1st innings,Pakistan,1.5,Mohammad Rizwan,CR Woakes,1,{},{}
+1st innings,Pakistan,1.6,Babar Azam,CR Woakes,1,{},{}
+1st innings,Pakistan,1.7,Mohammad Rizwan,CR Woakes,0,{},{}
+1st innings,Pakistan,2.1,Babar Azam,SM Curran,0,{},{}
+1st innings,Pakistan,2.2,Babar Azam,SM Curran,1,{},{}
+1st innings,Pakistan,2.3,Mohammad Rizwan,SM Curran,2,{},{}
+1st innings,Pakistan,2.4,Mohammad Rizwan,SM Curran,1,{},{}
+1st innings,Pakistan,2.5,Babar Azam,SM Curran,0,{},{}
+1st innings,Pakistan,2.6,Babar Azam,SM Curran,0,{},{}
+1st innings,Pakistan,3.1,Mohammad Rizwan,CR Woakes,6,{},{}
+1st innings,Pakistan,3.2,Mohammad Rizwan,CR Woakes,1,{},{}
+1st innings,Pakistan,3.3,Babar Azam,CR Woakes,1,{},{}
+1st innings,Pakistan,3.4,Mohammad Rizwan,CR Woakes,0,{},{}
+1st innings,Pakistan,3.5,Mohammad Rizwan,CR Woakes,1,{},{}
+1st innings,Pakistan,3.6,Babar Azam,CR Woakes,3,{},{}
+1st innings,Pakistan,4.1,Babar Azam,SM Curran,1,{},{}
+1st innings,Pakistan,4.2,Mohammad Rizwan,SM Curran,0,{},"{'player_out': 'Mohammad Rizwan', 'kind': 'bowled'}"
+1st innings,Pakistan,4.3,Mohammad Haris,SM Curran,0,{},{}
+1st innings,Pakistan,4.4,Mohammad Haris,SM Curran,0,{},{}
+1st innings,Pakistan,4.5,Mohammad Haris,SM Curran,0,{},{}
+1st innings,Pakistan,4.6,Mohammad Haris,SM Curran,0,{},{}
+1st innings,Pakistan,5.1,Babar Azam,CR Woakes,0,{},{}
+1st innings,Pakistan,5.2,Babar Azam,CR Woakes,4,{},{}
+1st innings,Pakistan,5.3,Babar Azam,CR Woakes,1,{},{}
+1st innings,Pakistan,5.4,Mohammad Haris,CR Woakes,0,{},{}
+1st innings,Pakistan,5.5,Mohammad Haris,CR Woakes,0,{},{}
+1st innings,Pakistan,5.6,Mohammad Haris,CR Woakes,1,{'wides': 1},{}
+1st innings,Pakistan,5.7,Mohammad Haris,CR Woakes,4,{},{}
+1st innings,Pakistan,6.1,Babar Azam,BA Stokes,1,{},{}
+1st innings,Pakistan,6.2,Mohammad Haris,BA Stokes,1,{},{}
+1st innings,Pakistan,6.3,Babar Azam,BA Stokes,1,{},{}
+1st innings,Pakistan,6.4,Mohammad Haris,BA Stokes,0,{},{}
+1st innings,Pakistan,6.5,Mohammad Haris,BA Stokes,2,{},{}
+1st innings,Pakistan,6.6,Mohammad Haris,BA Stokes,1,{},{}
+1st innings,Pakistan,7.1,Mohammad Haris,AU Rashid,0,{},"{'player_out': 'Mohammad Haris', 'fielders': ['BA Stokes'], 'kind': 'caught'}"
+1st innings,Pakistan,7.2,Shan Masood,AU Rashid,0,{},{}
+1st innings,Pakistan,7.3,Shan Masood,AU Rashid,0,{},{}
+1st innings,Pakistan,7.4,Shan Masood,AU Rashid,1,{},{}
+1st innings,Pakistan,7.5,Babar Azam,AU Rashid,2,{},{}
+1st innings,Pakistan,7.6,Babar Azam,AU Rashid,2,{},{}
+1st innings,Pakistan,8.1,Shan Masood,CJ Jordan,1,{},{}
+1st innings,Pakistan,8.2,Babar Azam,CJ Jordan,4,{},{}
+1st innings,Pakistan,8.3,Babar Azam,CJ Jordan,1,{},{}
+1st innings,Pakistan,8.4,Shan Masood,CJ Jordan,2,{},{}
+1st innings,Pakistan,8.5,Shan Masood,CJ Jordan,1,{},{}
+1st innings,Pakistan,8.6,Babar Azam,CJ Jordan,0,{},{}
+1st innings,Pakistan,9.1,Shan Masood,AU Rashid,2,{},{}
+1st innings,Pakistan,9.2,Shan Masood,AU Rashid,1,{},{}
+1st innings,Pakistan,9.3,Babar Azam,AU Rashid,1,{},{}
+1st innings,Pakistan,9.4,Shan Masood,AU Rashid,1,{},{}
+1st innings,Pakistan,9.5,Babar Azam,AU Rashid,1,{},{}
+1st innings,Pakistan,9.6,Shan Masood,AU Rashid,1,{'wides': 1},{}
+1st innings,Pakistan,9.7,Shan Masood,AU Rashid,2,{},{}
+1st innings,Pakistan,10.1,Babar Azam,LS Livingstone,2,{},{}
+1st innings,Pakistan,10.2,Babar Azam,LS Livingstone,1,{},{}
+1st innings,Pakistan,10.3,Shan Masood,LS Livingstone,0,{},{}
+1st innings,Pakistan,10.4,Shan Masood,LS Livingstone,4,{},{}
+1st innings,Pakistan,10.5,Shan Masood,LS Livingstone,1,{'wides': 1},{}
+1st innings,Pakistan,10.6,Shan Masood,LS Livingstone,6,{},{}
+1st innings,Pakistan,10.7,Shan Masood,LS Livingstone,2,{},{}
+1st innings,Pakistan,11.1,Babar Azam,AU Rashid,0,{},"{'player_out': 'Babar Azam', 'kind': 'caught and bowled'}"
+1st innings,Pakistan,11.2,Iftikhar Ahmed,AU Rashid,0,{},{}
+1st innings,Pakistan,11.3,Iftikhar Ahmed,AU Rashid,0,{},{}
+1st innings,Pakistan,11.4,Iftikhar Ahmed,AU Rashid,0,{},{}
+1st innings,Pakistan,11.5,Iftikhar Ahmed,AU Rashid,0,{},{}
+1st innings,Pakistan,11.6,Iftikhar Ahmed,AU Rashid,0,{},{}
+1st innings,Pakistan,12.1,Shan Masood,BA Stokes,1,{'legbyes': 1},{}
+1st innings,Pakistan,12.2,Iftikhar Ahmed,BA Stokes,0,{},"{'player_out': 'Iftikhar Ahmed', 'fielders': ['JC Buttler'], 'kind': 'caught'}"
+1st innings,Pakistan,12.3,Shadab Khan,BA Stokes,1,{},{}
+1st innings,Pakistan,12.4,Shan Masood,BA Stokes,2,{},{}
+1st innings,Pakistan,12.5,Shan Masood,BA Stokes,1,{},{}
+1st innings,Pakistan,12.6,Shadab Khan,BA Stokes,1,{},{}
+1st innings,Pakistan,13.1,Shadab Khan,AU Rashid,1,{},{}
+1st innings,Pakistan,13.2,Shan Masood,AU Rashid,1,{},{}
+1st innings,Pakistan,13.3,Shadab Khan,AU Rashid,4,{},{}
+1st innings,Pakistan,13.4,Shadab Khan,AU Rashid,1,{},{}
+1st innings,Pakistan,13.5,Shan Masood,AU Rashid,1,{},{}
+1st innings,Pakistan,13.6,Shadab Khan,AU Rashid,0,{},{}
+1st innings,Pakistan,14.1,Shan Masood,CJ Jordan,0,{},{}
+1st innings,Pakistan,14.2,Shan Masood,CJ Jordan,1,{},{}
+1st innings,Pakistan,14.3,Shadab Khan,CJ Jordan,1,{},{}
+1st innings,Pakistan,14.4,Shan Masood,CJ Jordan,4,{},{}
+1st innings,Pakistan,14.5,Shan Masood,CJ Jordan,1,{},{}
+1st innings,Pakistan,14.6,Shadab Khan,CJ Jordan,1,{},{}
+1st innings,Pakistan,15.1,Shadab Khan,BA Stokes,2,{},{}
+1st innings,Pakistan,15.2,Shadab Khan,BA Stokes,1,{'wides': 1},{}
+1st innings,Pakistan,15.3,Shadab Khan,BA Stokes,4,{},{}
+1st innings,Pakistan,15.4,Shadab Khan,BA Stokes,1,{},{}
+1st innings,Pakistan,15.5,Shan Masood,BA Stokes,1,{},{}
+1st innings,Pakistan,15.6,Shadab Khan,BA Stokes,3,{},{}
+1st innings,Pakistan,15.7,Shan Masood,BA Stokes,1,{},{}
+1st innings,Pakistan,16.1,Shan Masood,SM Curran,2,{},{}
+1st innings,Pakistan,16.2,Shan Masood,SM Curran,0,{},{}
+1st innings,Pakistan,16.3,Shan Masood,SM Curran,0,{},"{'player_out': 'Shan Masood', 'fielders': ['LS Livingstone'], 'kind': 'caught'}"
+1st innings,Pakistan,16.4,Mohammad Nawaz,SM Curran,0,{},{}
+1st innings,Pakistan,16.5,Mohammad Nawaz,SM Curran,1,{},{}
+1st innings,Pakistan,16.6,Shadab Khan,SM Curran,0,{},{}
+1st innings,Pakistan,17.1,Mohammad Nawaz,CJ Jordan,1,{},{}
+1st innings,Pakistan,17.2,Shadab Khan,CJ Jordan,0,{},"{'player_out': 'Shadab Khan', 'fielders': ['CR Woakes'], 'kind': 'caught'}"
+1st innings,Pakistan,17.3,Mohammad Wasim,CJ Jordan,0,{},{}
+1st innings,Pakistan,17.4,Mohammad Wasim,CJ Jordan,3,{},{}
+1st innings,Pakistan,17.5,Mohammad Nawaz,CJ Jordan,1,{},{}
+1st innings,Pakistan,17.6,Mohammad Wasim,CJ Jordan,0,{},{}
+1st innings,Pakistan,18.1,Mohammad Nawaz,SM Curran,0,{},{}
+1st innings,Pakistan,18.2,Mohammad Nawaz,SM Curran,2,{},{}
+1st innings,Pakistan,18.3,Mohammad Nawaz,SM Curran,0,{},"{'player_out': 'Mohammad Nawaz', 'fielders': ['LS Livingstone'], 'kind': 'caught'}"
+1st innings,Pakistan,18.4,Shaheen Shah Afridi,SM Curran,1,{},{}
+1st innings,Pakistan,18.5,Mohammad Wasim,SM Curran,0,{},{}
+1st innings,Pakistan,18.6,Mohammad Wasim,SM Curran,1,{},{}
+1st innings,Pakistan,19.1,Mohammad Wasim,CJ Jordan,0,{},{}
+1st innings,Pakistan,19.2,Mohammad Wasim,CJ Jordan,0,{},{}
+1st innings,Pakistan,19.3,Mohammad Wasim,CJ Jordan,0,{},"{'player_out': 'Mohammad Wasim', 'fielders': ['LS Livingstone'], 'kind': 'caught'}"
+1st innings,Pakistan,19.4,Haris Rauf,CJ Jordan,1,{},{}
+1st innings,Pakistan,19.5,Shaheen Shah Afridi,CJ Jordan,4,{},{}
+1st innings,Pakistan,19.6,Shaheen Shah Afridi,CJ Jordan,1,{'byes': 1},{}
+2nd innings,England,0.1,JC Buttler,Shaheen Shah Afridi,3,{},{}
+2nd innings,England,0.2,AD Hales,Shaheen Shah Afridi,1,{},{}
+2nd innings,England,0.3,JC Buttler,Shaheen Shah Afridi,2,{},{}
+2nd innings,England,0.4,JC Buttler,Shaheen Shah Afridi,0,{},{}
+2nd innings,England,0.5,JC Buttler,Shaheen Shah Afridi,1,{},{}
+2nd innings,England,0.6,AD Hales,Shaheen Shah Afridi,0,{},"{'player_out': 'AD Hales', 'kind': 'bowled'}"
+2nd innings,England,1.1,JC Buttler,Naseem Shah,0,{},{}
+2nd innings,England,1.2,JC Buttler,Naseem Shah,4,{},{}
+2nd innings,England,1.3,JC Buttler,Naseem Shah,4,{},{}
+2nd innings,England,1.4,JC Buttler,Naseem Shah,1,{},{}
+2nd innings,England,1.5,PD Salt,Naseem Shah,4,{},{}
+2nd innings,England,1.6,PD Salt,Naseem Shah,1,{},{}
+2nd innings,England,2.1,PD Salt,Shaheen Shah Afridi,0,{},{}
+2nd innings,England,2.2,PD Salt,Shaheen Shah Afridi,1,{'legbyes': 1},{}
+2nd innings,England,2.3,JC Buttler,Shaheen Shah Afridi,4,{},{}
+2nd innings,England,2.4,JC Buttler,Shaheen Shah Afridi,1,{},{}
+2nd innings,England,2.5,PD Salt,Shaheen Shah Afridi,0,{},{}
+2nd innings,England,2.6,PD Salt,Shaheen Shah Afridi,1,{},{}
+2nd innings,England,3.1,PD Salt,Haris Rauf,4,{},{}
+2nd innings,England,3.2,PD Salt,Haris Rauf,0,{},{}
+2nd innings,England,3.3,PD Salt,Haris Rauf,0,{},"{'player_out': 'PD Salt', 'fielders': ['Iftikhar Ahmed'], 'kind': 'caught'}"
+2nd innings,England,3.4,BA Stokes,Haris Rauf,0,{},{}
+2nd innings,England,3.5,BA Stokes,Haris Rauf,0,{},{}
+2nd innings,England,3.6,BA Stokes,Haris Rauf,0,{},{}
+2nd innings,England,4.1,JC Buttler,Naseem Shah,0,{},{}
+2nd innings,England,4.2,JC Buttler,Naseem Shah,5,{'wides': 5},{}
+2nd innings,England,4.3,JC Buttler,Naseem Shah,0,{},{}
+2nd innings,England,4.4,JC Buttler,Naseem Shah,0,{},{}
+2nd innings,England,4.5,JC Buttler,Naseem Shah,6,{},{}
+2nd innings,England,4.6,JC Buttler,Naseem Shah,0,{},{}
+2nd innings,England,4.7,JC Buttler,Naseem Shah,0,{},{}
+2nd innings,England,5.1,BA Stokes,Haris Rauf,0,{},{}
+2nd innings,England,5.2,BA Stokes,Haris Rauf,1,{},{}
+2nd innings,England,5.3,JC Buttler,Haris Rauf,1,{'wides': 1},{}
+2nd innings,England,5.4,JC Buttler,Haris Rauf,0,{},"{'player_out': 'JC Buttler', 'fielders': ['Mohammad Rizwan'], 'kind': 'caught'}"
+2nd innings,England,5.5,HC Brook,Haris Rauf,0,{},{}
+2nd innings,England,5.6,HC Brook,Haris Rauf,4,{},{}
+2nd innings,England,5.7,HC Brook,Haris Rauf,0,{},{}
+2nd innings,England,6.1,BA Stokes,Shadab Khan,1,{},{}
+2nd innings,England,6.2,HC Brook,Shadab Khan,0,{},{}
+2nd innings,England,6.3,HC Brook,Shadab Khan,2,{},{}
+2nd innings,England,6.4,HC Brook,Shadab Khan,1,{},{}
+2nd innings,England,6.5,BA Stokes,Shadab Khan,0,{},{}
+2nd innings,England,6.6,BA Stokes,Shadab Khan,1,{},{}
+2nd innings,England,7.1,BA Stokes,Mohammad Wasim,1,{},{}
+2nd innings,England,7.2,HC Brook,Mohammad Wasim,1,{},{}
+2nd innings,England,7.3,BA Stokes,Mohammad Wasim,1,{'wides': 1},{}
+2nd innings,England,7.4,BA Stokes,Mohammad Wasim,1,{'wides': 1},{}
+2nd innings,England,7.5,BA Stokes,Mohammad Wasim,1,{},{}
+2nd innings,England,7.6,HC Brook,Mohammad Wasim,2,{},{}
+2nd innings,England,7.7,HC Brook,Mohammad Wasim,0,{},{}
+2nd innings,England,7.8,HC Brook,Mohammad Wasim,0,{},{}
+2nd innings,England,8.1,BA Stokes,Shadab Khan,1,{},{}
+2nd innings,England,8.2,HC Brook,Shadab Khan,1,{},{}
+2nd innings,England,8.3,BA Stokes,Shadab Khan,4,{},{}
+2nd innings,England,8.4,BA Stokes,Shadab Khan,1,{},{}
+2nd innings,England,8.5,HC Brook,Shadab Khan,0,{},{}
+2nd innings,England,8.6,HC Brook,Shadab Khan,1,{},{}
+2nd innings,England,9.1,HC Brook,Mohammad Wasim,1,{},{}
+2nd innings,England,9.2,BA Stokes,Mohammad Wasim,1,{},{}
+2nd innings,England,9.3,HC Brook,Mohammad Wasim,1,{},{}
+2nd innings,England,9.4,BA Stokes,Mohammad Wasim,4,{},{}
+2nd innings,England,9.5,BA Stokes,Mohammad Wasim,1,{},{}
+2nd innings,England,9.6,HC Brook,Mohammad Wasim,0,{},{}
+2nd innings,England,10.1,BA Stokes,Shadab Khan,0,{},{}
+2nd innings,England,10.2,BA Stokes,Shadab Khan,0,{},{}
+2nd innings,England,10.3,BA Stokes,Shadab Khan,0,{},{}
+2nd innings,England,10.4,BA Stokes,Shadab Khan,0,{},{}
+2nd innings,England,10.5,BA Stokes,Shadab Khan,1,{},{}
+2nd innings,England,10.6,HC Brook,Shadab Khan,1,{},{}
+2nd innings,England,11.1,HC Brook,Naseem Shah,0,{},{}
+2nd innings,England,11.2,HC Brook,Naseem Shah,0,{},{}
+2nd innings,England,11.3,HC Brook,Naseem Shah,3,{},{}
+2nd innings,England,11.4,BA Stokes,Naseem Shah,0,{},{}
+2nd innings,England,11.5,BA Stokes,Naseem Shah,0,{},{}
+2nd innings,England,11.6,BA Stokes,Naseem Shah,0,{},{}
+2nd innings,England,12.1,HC Brook,Shadab Khan,2,{},{}
+2nd innings,England,12.2,HC Brook,Shadab Khan,0,{},{}
+2nd innings,England,12.3,HC Brook,Shadab Khan,0,{},"{'player_out': 'HC Brook', 'fielders': ['Shaheen Shah Afridi'], 'kind': 'caught'}"
+2nd innings,England,12.4,MM Ali,Shadab Khan,1,{},{}
+2nd innings,England,12.5,BA Stokes,Shadab Khan,0,{},{}
+2nd innings,England,12.6,BA Stokes,Shadab Khan,2,{},{}
+2nd innings,England,13.1,MM Ali,Naseem Shah,0,{},{}
+2nd innings,England,13.2,MM Ali,Naseem Shah,1,{},{}
+2nd innings,England,13.3,BA Stokes,Naseem Shah,0,{},{}
+2nd innings,England,13.4,BA Stokes,Naseem Shah,0,{},{}
+2nd innings,England,13.5,BA Stokes,Naseem Shah,0,{},{}
+2nd innings,England,13.6,BA Stokes,Naseem Shah,1,{},{}
+2nd innings,England,14.1,BA Stokes,Haris Rauf,0,{},{}
+2nd innings,England,14.2,BA Stokes,Haris Rauf,2,{},{}
+2nd innings,England,14.3,BA Stokes,Haris Rauf,1,{},{}
+2nd innings,England,14.4,MM Ali,Haris Rauf,1,{},{}
+2nd innings,England,14.5,BA Stokes,Haris Rauf,0,{},{}
+2nd innings,England,14.6,BA Stokes,Haris Rauf,4,{},{}
+2nd innings,England,15.1,MM Ali,Shaheen Shah Afridi,0,{},{}
+2nd innings,England,15.2,MM Ali,Iftikhar Ahmed,1,{},{}
+2nd innings,England,15.3,BA Stokes,Iftikhar Ahmed,1,{},{}
+2nd innings,England,15.4,MM Ali,Iftikhar Ahmed,1,{},{}
+2nd innings,England,15.5,BA Stokes,Iftikhar Ahmed,4,{},{}
+2nd innings,England,15.6,BA Stokes,Iftikhar Ahmed,6,{},{}
+2nd innings,England,16.1,MM Ali,Mohammad Wasim,4,{},{}
+2nd innings,England,16.2,MM Ali,Mohammad Wasim,4,{},{}
+2nd innings,England,16.3,MM Ali,Mohammad Wasim,1,{},{}
+2nd innings,England,16.4,BA Stokes,Mohammad Wasim,2,{},{}
+2nd innings,England,16.5,BA Stokes,Mohammad Wasim,1,{},{}
+2nd innings,England,16.6,MM Ali,Mohammad Wasim,4,{},{}
+2nd innings,England,17.1,BA Stokes,Haris Rauf,1,{},{}
+2nd innings,England,17.2,MM Ali,Haris Rauf,1,{},{}
+2nd innings,England,17.3,BA Stokes,Haris Rauf,2,{},{}
+2nd innings,England,17.4,BA Stokes,Haris Rauf,0,{},{}
+2nd innings,England,17.5,BA Stokes,Haris Rauf,0,{},{}
+2nd innings,England,17.6,BA Stokes,Haris Rauf,1,{},{}
+2nd innings,England,18.1,BA Stokes,Mohammad Wasim,1,{},{}
+2nd innings,England,18.2,MM Ali,Mohammad Wasim,0,{},"{'player_out': 'MM Ali', 'kind': 'bowled'}"
+2nd innings,England,18.3,LS Livingstone,Mohammad Wasim,1,{},{}
+2nd innings,England,18.4,BA Stokes,Mohammad Wasim,4,{},{}
+2nd innings,England,18.5,BA Stokes,Mohammad Wasim,0,{},{}
+2nd innings,England,18.6,BA Stokes,Mohammad Wasim,1,{},{}

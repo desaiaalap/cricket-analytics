@@ -1,0 +1,1960 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-02-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sharjah
+  competition: International League T20
+  dates:
+  - '2024-02-15'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Dubai Capitals
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - JL du Plooy
+  players:
+    Gulf Giants:
+    - JM Vince
+    - Usman Khan
+    - CA Lynn
+    - JM Cox
+    - JL Smith
+    - SO Hetmyer
+    - CJ Jordan
+    - J Overton
+    - CR Brathwaite
+    - LA Dawson
+    - Aayan Afzal Khan
+    - DJ Worrall
+    Dubai Capitals:
+    - JL du Plooy
+    - T Banton
+    - TB Abell
+    - SW Billings
+    - R Powell
+    - Sikandar Raza
+    - SC Kuggeleijn
+    - JO Holder
+    - R Chopra
+    - OP Stone
+    - Haider Ali
+    - Zahir Khan
+  registry:
+    people:
+      AT Holdstock: 6fa3258c
+      Aayan Afzal Khan: d2d15439
+      CA Lynn: 45eda7c8
+      CJ Jordan: ffe699c0
+      CR Brathwaite: e342e5fb
+      DJ Worrall: 208f22ea
+      Haider Ali: dd572696
+      J Overton: 59559bc2
+      JL Smith: c834c290
+      JL du Plooy: 6e6fb538
+      JM Cox: ff154ecd
+      JM Vince: a15618fe
+      JO Holder: 0f721006
+      LA Dawson: 4a461c24
+      LS Reifer: 5dee559a
+      MJ Saggers: 402d5937
+      OP Stone: 3f659464
+      R Chopra: a71d0f89
+      R Powell: 650d5e49
+      RS Mahanama: '57910393'
+      RSA Palliyaguruge: 4339c19d
+      SC Kuggeleijn: fef92afc
+      SO Hetmyer: 48a1d7b7
+      SW Billings: c16d4035
+      Sikandar Raza: 26d041c4
+      T Banton: 25f7b7d6
+      TB Abell: ba9258a7
+      Usman Khan: bafb9238
+      Zahir Khan: 786b7fe8
+  teams:
+  - Gulf Giants
+  - Dubai Capitals
+  toss:
+    winner: Gulf Giants
+    decision: bat
+  umpires:
+  - AT Holdstock
+  - MJ Saggers
+  venue: Sharjah Cricket Stadium
+innings:
+- 1st innings:
+    team: Gulf Giants
+    deliveries:
+    - 0.1:
+        non_striker: Usman Khan
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 0.2:
+        non_striker: Usman Khan
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 0.3:
+        non_striker: JM Vince
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 0.4:
+        non_striker: JM Vince
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 0.5:
+        non_striker: JM Vince
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 0.6:
+        non_striker: JM Vince
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Usman Khan
+    - 1.1:
+        non_striker: Usman Khan
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 1.2:
+        non_striker: Usman Khan
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 1.3:
+        non_striker: Usman Khan
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 1.4:
+        non_striker: JM Vince
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 1.5:
+        non_striker: JM Vince
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 1.6:
+        non_striker: JM Vince
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 2.1:
+        non_striker: Usman Khan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 2.2:
+        non_striker: JM Vince
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 2.3:
+        non_striker: JM Vince
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 2.4:
+        non_striker: JM Vince
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 2.5:
+        non_striker: Usman Khan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 2.6:
+        non_striker: JM Vince
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+        wicket:
+          player_out: Usman Khan
+          fielders:
+          - SW Billings
+          kind: caught
+    - 3.1:
+        non_striker: CA Lynn
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 3.2:
+        non_striker: CA Lynn
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 3.3:
+        non_striker: CA Lynn
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 3.4:
+        non_striker: JM Vince
+        bowler: OP Stone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CA Lynn
+    - 3.5:
+        non_striker: CA Lynn
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 3.6:
+        non_striker: CA Lynn
+        bowler: OP Stone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Vince
+    - 4.1:
+        non_striker: CA Lynn
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 4.2:
+        non_striker: CA Lynn
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 4.3:
+        non_striker: CA Lynn
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 4.4:
+        non_striker: JM Vince
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 4.5:
+        non_striker: JM Vince
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+        wicket:
+          player_out: CA Lynn
+          kind: bowled
+    - 4.6:
+        non_striker: JM Vince
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 5.1:
+        non_striker: JM Cox
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 5.2:
+        non_striker: JM Vince
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 5.3:
+        non_striker: JM Cox
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Vince
+    - 5.4:
+        non_striker: JM Vince
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 5.5:
+        non_striker: JM Vince
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 5.6:
+        non_striker: JM Vince
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 6.1:
+        non_striker: JM Cox
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 6.2:
+        non_striker: JM Cox
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 6.3:
+        non_striker: JM Vince
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 6.4:
+        non_striker: JM Cox
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 6.5:
+        non_striker: JM Cox
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 6.6:
+        non_striker: JM Cox
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 7.1:
+        non_striker: JM Vince
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 7.2:
+        non_striker: JM Vince
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+        wicket:
+          player_out: JM Cox
+          fielders:
+          - SW Billings
+          - JO Holder
+          kind: run out
+    - 7.3:
+        non_striker: JM Vince
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+    - 7.4:
+        non_striker: JM Vince
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+        wicket:
+          player_out: JL Smith
+          fielders:
+          - OP Stone
+          kind: caught
+    - 7.5:
+        non_striker: JM Vince
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 7.6:
+        non_striker: JM Vince
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 8.1:
+        non_striker: SO Hetmyer
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 8.2:
+        non_striker: SO Hetmyer
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 8.3:
+        non_striker: SO Hetmyer
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 8.4:
+        non_striker: JM Vince
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 8.5:
+        non_striker: JM Vince
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 8.6:
+        non_striker: SO Hetmyer
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 9.1:
+        non_striker: JM Vince
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 9.2:
+        non_striker: SO Hetmyer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 9.3:
+        non_striker: SO Hetmyer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Vince
+    - 9.4:
+        non_striker: SO Hetmyer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 9.5:
+        non_striker: JM Vince
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 9.6:
+        non_striker: JM Vince
+        bowler: Sikandar Raza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 9.7:
+        non_striker: JM Vince
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 10.1:
+        non_striker: SO Hetmyer
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 10.2:
+        non_striker: SO Hetmyer
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 10.3:
+        non_striker: SO Hetmyer
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 10.4:
+        non_striker: JM Vince
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - Sikandar Raza
+          kind: caught
+    - 10.5:
+        non_striker: JM Vince
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 10.6:
+        non_striker: JM Vince
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 11.1:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 11.2:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 11.3:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Jordan
+    - 11.4:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 11.5:
+        non_striker: CJ Jordan
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 11.6:
+        non_striker: CJ Jordan
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 11.7:
+        non_striker: CJ Jordan
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 12.1:
+        non_striker: CJ Jordan
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 12.2:
+        non_striker: CJ Jordan
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 12.3:
+        non_striker: JM Vince
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 12.4:
+        non_striker: CJ Jordan
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 12.5:
+        non_striker: CJ Jordan
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 12.6:
+        non_striker: JM Vince
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 13.1:
+        non_striker: CJ Jordan
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 13.2:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 13.3:
+        non_striker: CJ Jordan
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 13.4:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 13.5:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 13.6:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 14.1:
+        non_striker: CJ Jordan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 14.2:
+        non_striker: CJ Jordan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Vince
+    - 14.3:
+        non_striker: CJ Jordan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 14.4:
+        non_striker: JM Vince
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 14.5:
+        non_striker: JM Vince
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 14.6:
+        non_striker: JM Vince
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 15.1:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 15.2:
+        non_striker: CJ Jordan
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 15.3:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 15.4:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Jordan
+    - 15.5:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Jordan
+    - 15.6:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 15.7:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 16.1:
+        non_striker: CJ Jordan
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 16.2:
+        non_striker: JM Vince
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 16.3:
+        non_striker: CJ Jordan
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 16.4:
+        non_striker: CJ Jordan
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 16.5:
+        non_striker: CJ Jordan
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 16.6:
+        non_striker: CJ Jordan
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 17.1:
+        non_striker: CJ Jordan
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 17.2:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 17.3:
+        non_striker: CJ Jordan
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 17.4:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Jordan
+    - 17.5:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Jordan
+    - 17.6:
+        non_striker: JM Vince
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 18.1:
+        non_striker: JM Vince
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: T Banton
+            out: Zahir Khan
+            team: Dubai Capitals
+            reason: impact_player
+        batsman: CJ Jordan
+    - 18.2:
+        non_striker: CJ Jordan
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+        wicket:
+          player_out: JM Vince
+          fielders:
+          - R Powell
+          kind: caught
+    - 18.3:
+        non_striker: CJ Jordan
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Overton
+    - 18.4:
+        non_striker: CJ Jordan
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 18.5:
+        non_striker: CJ Jordan
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Overton
+    - 18.6:
+        non_striker: CJ Jordan
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Overton
+    - 19.1:
+        non_striker: J Overton
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Jordan
+    - 19.2:
+        non_striker: J Overton
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 19.3:
+        non_striker: J Overton
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 19.4:
+        non_striker: CJ Jordan
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Overton
+    - 19.5:
+        non_striker: J Overton
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 19.6:
+        non_striker: CJ Jordan
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Overton
+- 2nd innings:
+    team: Dubai Capitals
+    deliveries:
+    - 0.1:
+        non_striker: T Banton
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: DJ Worrall
+            out: CA Lynn
+            team: Gulf Giants
+            reason: impact_player
+        batsman: JL du Plooy
+    - 0.2:
+        non_striker: T Banton
+        bowler: DJ Worrall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL du Plooy
+    - 0.3:
+        non_striker: T Banton
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 0.4:
+        non_striker: JL du Plooy
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 0.5:
+        non_striker: JL du Plooy
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 0.6:
+        non_striker: JL du Plooy
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 0.7:
+        non_striker: JL du Plooy
+        bowler: DJ Worrall
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: T Banton
+    - 0.8:
+        non_striker: JL du Plooy
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 1.1:
+        non_striker: T Banton
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 1.2:
+        non_striker: JL du Plooy
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 1.3:
+        non_striker: JL du Plooy
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 1.4:
+        non_striker: JL du Plooy
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 1.5:
+        non_striker: JL du Plooy
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 1.6:
+        non_striker: JL du Plooy
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 2.1:
+        non_striker: T Banton
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL du Plooy
+    - 2.2:
+        non_striker: T Banton
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 2.3:
+        non_striker: JL du Plooy
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 2.4:
+        non_striker: JL du Plooy
+        bowler: DJ Worrall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Banton
+    - 2.5:
+        non_striker: JL du Plooy
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 2.6:
+        non_striker: T Banton
+        bowler: DJ Worrall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL du Plooy
+    - 2.7:
+        non_striker: T Banton
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 2.8:
+        non_striker: JL du Plooy
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 3.1:
+        non_striker: T Banton
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 3.2:
+        non_striker: JL du Plooy
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 3.3:
+        non_striker: T Banton
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL du Plooy
+    - 3.4:
+        non_striker: T Banton
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: JL du Plooy
+    - 3.5:
+        non_striker: T Banton
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        batsman: JL du Plooy
+    - 3.6:
+        non_striker: T Banton
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 3.7:
+        non_striker: JL du Plooy
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 3.8:
+        non_striker: JL du Plooy
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 4.1:
+        non_striker: T Banton
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 4.2:
+        non_striker: JL du Plooy
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 4.3:
+        non_striker: JL du Plooy
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 4.4:
+        non_striker: T Banton
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 4.5:
+        non_striker: JL du Plooy
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 4.6:
+        non_striker: T Banton
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 5.1:
+        non_striker: T Banton
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL du Plooy
+    - 5.2:
+        non_striker: T Banton
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 5.3:
+        non_striker: JL du Plooy
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 5.4:
+        non_striker: T Banton
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 5.5:
+        non_striker: T Banton
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL du Plooy
+    - 5.6:
+        non_striker: T Banton
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL du Plooy
+    - 6.1:
+        non_striker: JL du Plooy
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 6.2:
+        non_striker: T Banton
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 6.3:
+        non_striker: JL du Plooy
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 6.4:
+        non_striker: T Banton
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 6.5:
+        non_striker: T Banton
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 6.6:
+        non_striker: T Banton
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL du Plooy
+    - 7.1:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 7.2:
+        non_striker: T Banton
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 7.3:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 7.4:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 7.5:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 7.6:
+        non_striker: T Banton
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 8.1:
+        non_striker: T Banton
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 8.2:
+        non_striker: JL du Plooy
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 8.3:
+        non_striker: JL du Plooy
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 8.4:
+        non_striker: JL du Plooy
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 8.5:
+        non_striker: T Banton
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 8.6:
+        non_striker: JL du Plooy
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 9.1:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 9.2:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 9.3:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 9.4:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 9.5:
+        non_striker: T Banton
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 9.6:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 10.1:
+        non_striker: JL du Plooy
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 10.2:
+        non_striker: JL du Plooy
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 10.3:
+        non_striker: JL du Plooy
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 10.4:
+        non_striker: T Banton
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 10.5:
+        non_striker: T Banton
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 10.6:
+        non_striker: T Banton
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 11.1:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+        wicket:
+          player_out: T Banton
+          fielders:
+          - J Overton
+          kind: caught
+    - 11.2:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Abell
+    - 11.3:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Abell
+    - 11.4:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Abell
+    - 11.5:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Abell
+    - 11.6:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Abell
+    - 12.1:
+        non_striker: TB Abell
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 12.2:
+        non_striker: JL du Plooy
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Abell
+    - 12.3:
+        non_striker: TB Abell
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 12.4:
+        non_striker: JL du Plooy
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Abell
+    - 12.5:
+        non_striker: JL du Plooy
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Abell
+    - 12.6:
+        non_striker: TB Abell
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL du Plooy
+    - 13.1:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Abell
+    - 13.2:
+        non_striker: TB Abell
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 13.3:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Abell
+    - 13.4:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TB Abell
+    - 13.5:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Abell
+    - 13.6:
+        non_striker: JL du Plooy
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Abell
+    - 14.1:
+        non_striker: TB Abell
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 14.2:
+        non_striker: JL du Plooy
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Abell
+    - 14.3:
+        non_striker: JL du Plooy
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Abell
+    - 14.4:
+        non_striker: JL du Plooy
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Abell
+    - 14.5:
+        non_striker: TB Abell
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL du Plooy
+    - 14.6:
+        non_striker: TB Abell
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 15.1:
+        non_striker: TB Abell
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 15.2:
+        non_striker: JL du Plooy
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Abell
+    - 15.3:
+        non_striker: TB Abell
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 15.4:
+        non_striker: JL du Plooy
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Abell
+    - 15.5:
+        non_striker: TB Abell
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL du Plooy

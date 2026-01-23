@@ -1,0 +1,237 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,United States of America,0.1,Shayan Jahangir,Arshdeep Singh,0,{},"{'player_out': 'Shayan Jahangir', 'kind': 'lbw'}"
+1st innings,United States of America,0.2,AGS Gous,Arshdeep Singh,0,{},{}
+1st innings,United States of America,0.3,AGS Gous,Arshdeep Singh,0,{},{}
+1st innings,United States of America,0.4,AGS Gous,Arshdeep Singh,1,{'wides': 1},{}
+1st innings,United States of America,0.5,AGS Gous,Arshdeep Singh,2,{},{}
+1st innings,United States of America,0.6,AGS Gous,Arshdeep Singh,0,{},{}
+1st innings,United States of America,0.7,AGS Gous,Arshdeep Singh,0,{},"{'player_out': 'AGS Gous', 'fielders': ['HH Pandya'], 'kind': 'caught'}"
+1st innings,United States of America,1.1,SR Taylor,Mohammed Siraj,1,{},{}
+1st innings,United States of America,1.2,Aaron Jones,Mohammed Siraj,0,{},{}
+1st innings,United States of America,1.3,Aaron Jones,Mohammed Siraj,1,{},{}
+1st innings,United States of America,1.4,SR Taylor,Mohammed Siraj,0,{},{}
+1st innings,United States of America,1.5,SR Taylor,Mohammed Siraj,0,{},{}
+1st innings,United States of America,1.6,SR Taylor,Mohammed Siraj,2,{},{}
+1st innings,United States of America,2.1,Aaron Jones,Arshdeep Singh,0,{},{}
+1st innings,United States of America,2.2,Aaron Jones,Arshdeep Singh,0,{},{}
+1st innings,United States of America,2.3,Aaron Jones,Arshdeep Singh,1,{},{}
+1st innings,United States of America,2.4,SR Taylor,Arshdeep Singh,0,{},{}
+1st innings,United States of America,2.5,SR Taylor,Arshdeep Singh,0,{},{}
+1st innings,United States of America,2.6,SR Taylor,Arshdeep Singh,0,{},{}
+1st innings,United States of America,3.1,Aaron Jones,Mohammed Siraj,0,{},{}
+1st innings,United States of America,3.2,Aaron Jones,Mohammed Siraj,2,{},{}
+1st innings,United States of America,3.3,Aaron Jones,Mohammed Siraj,0,{},{}
+1st innings,United States of America,3.4,Aaron Jones,Mohammed Siraj,0,{},{}
+1st innings,United States of America,3.5,Aaron Jones,Mohammed Siraj,0,{},{}
+1st innings,United States of America,3.6,Aaron Jones,Mohammed Siraj,6,{},{}
+1st innings,United States of America,4.1,SR Taylor,JJ Bumrah,1,{},{}
+1st innings,United States of America,4.2,Aaron Jones,JJ Bumrah,0,{},{}
+1st innings,United States of America,4.3,Aaron Jones,JJ Bumrah,0,{},{}
+1st innings,United States of America,4.4,Aaron Jones,JJ Bumrah,0,{},{}
+1st innings,United States of America,4.5,Aaron Jones,JJ Bumrah,0,{},{}
+1st innings,United States of America,4.6,Aaron Jones,JJ Bumrah,0,{},{}
+1st innings,United States of America,5.1,SR Taylor,HH Pandya,0,{},{}
+1st innings,United States of America,5.2,SR Taylor,HH Pandya,0,{},{}
+1st innings,United States of America,5.3,SR Taylor,HH Pandya,1,{},{}
+1st innings,United States of America,5.4,Aaron Jones,HH Pandya,0,{},{}
+1st innings,United States of America,5.5,Aaron Jones,HH Pandya,0,{},{}
+1st innings,United States of America,5.6,Aaron Jones,HH Pandya,0,{},{}
+1st innings,United States of America,6.1,SR Taylor,JJ Bumrah,0,{},{}
+1st innings,United States of America,6.2,SR Taylor,JJ Bumrah,1,{},{}
+1st innings,United States of America,6.3,Aaron Jones,JJ Bumrah,1,{},{}
+1st innings,United States of America,6.4,SR Taylor,JJ Bumrah,0,{},{}
+1st innings,United States of America,6.5,SR Taylor,JJ Bumrah,5,{'wides': 5},{}
+1st innings,United States of America,6.6,SR Taylor,JJ Bumrah,0,{},{}
+1st innings,United States of America,6.7,SR Taylor,JJ Bumrah,0,{},{}
+1st innings,United States of America,7.1,Aaron Jones,HH Pandya,0,{},{}
+1st innings,United States of America,7.2,Aaron Jones,HH Pandya,0,{},"{'player_out': 'Aaron Jones', 'fielders': ['Mohammed Siraj'], 'kind': 'caught'}"
+1st innings,United States of America,7.3,NR Kumar,HH Pandya,0,{},{}
+1st innings,United States of America,7.4,NR Kumar,HH Pandya,1,{},{}
+1st innings,United States of America,7.5,SR Taylor,HH Pandya,0,{},{}
+1st innings,United States of America,7.6,SR Taylor,HH Pandya,0,{},{}
+1st innings,United States of America,8.1,NR Kumar,S Dube,4,{},{}
+1st innings,United States of America,8.2,NR Kumar,S Dube,1,{},{}
+1st innings,United States of America,8.3,SR Taylor,S Dube,0,{},{}
+1st innings,United States of America,8.4,SR Taylor,S Dube,0,{},{}
+1st innings,United States of America,8.5,SR Taylor,S Dube,6,{},{}
+1st innings,United States of America,8.6,SR Taylor,S Dube,0,{},{}
+1st innings,United States of America,9.1,NR Kumar,AR Patel,0,{},{}
+1st innings,United States of America,9.2,NR Kumar,AR Patel,1,{},{}
+1st innings,United States of America,9.3,SR Taylor,AR Patel,1,{},{}
+1st innings,United States of America,9.4,NR Kumar,AR Patel,1,{},{}
+1st innings,United States of America,9.5,SR Taylor,AR Patel,1,{},{}
+1st innings,United States of America,9.6,NR Kumar,AR Patel,1,{},{}
+1st innings,United States of America,10.1,NR Kumar,Mohammed Siraj,0,{},{}
+1st innings,United States of America,10.2,NR Kumar,Mohammed Siraj,2,{},{}
+1st innings,United States of America,10.3,NR Kumar,Mohammed Siraj,1,{},{}
+1st innings,United States of America,10.4,SR Taylor,Mohammed Siraj,1,{},{}
+1st innings,United States of America,10.5,NR Kumar,Mohammed Siraj,1,{},{}
+1st innings,United States of America,10.6,SR Taylor,Mohammed Siraj,1,{},{}
+1st innings,United States of America,11.1,SR Taylor,AR Patel,2,{},{}
+1st innings,United States of America,11.2,SR Taylor,AR Patel,0,{},{}
+1st innings,United States of America,11.3,SR Taylor,AR Patel,6,{},{}
+1st innings,United States of America,11.4,SR Taylor,AR Patel,0,{},"{'player_out': 'SR Taylor', 'kind': 'bowled'}"
+1st innings,United States of America,11.5,CJ Anderson,AR Patel,1,{},{}
+1st innings,United States of America,11.6,NR Kumar,AR Patel,1,{'wides': 1},{}
+1st innings,United States of America,11.7,NR Kumar,AR Patel,1,{},{}
+1st innings,United States of America,12.1,NR Kumar,HH Pandya,2,{},{}
+1st innings,United States of America,12.2,NR Kumar,HH Pandya,0,{},{}
+1st innings,United States of America,12.3,NR Kumar,HH Pandya,6,{},{}
+1st innings,United States of America,12.4,NR Kumar,HH Pandya,0,{},{}
+1st innings,United States of America,12.5,NR Kumar,HH Pandya,4,{},{}
+1st innings,United States of America,12.6,NR Kumar,HH Pandya,0,{},{}
+1st innings,United States of America,13.1,CJ Anderson,AR Patel,0,{},{}
+1st innings,United States of America,13.2,CJ Anderson,AR Patel,1,{},{}
+1st innings,United States of America,13.3,NR Kumar,AR Patel,1,{},{}
+1st innings,United States of America,13.4,CJ Anderson,AR Patel,0,{},{}
+1st innings,United States of America,13.5,CJ Anderson,AR Patel,6,{},{}
+1st innings,United States of America,13.6,CJ Anderson,AR Patel,1,{},{}
+1st innings,United States of America,14.1,CJ Anderson,Arshdeep Singh,1,{},{}
+1st innings,United States of America,14.2,NR Kumar,Arshdeep Singh,0,{},{}
+1st innings,United States of America,14.3,NR Kumar,Arshdeep Singh,0,{},{}
+1st innings,United States of America,14.4,NR Kumar,Arshdeep Singh,0,{},"{'player_out': 'NR Kumar', 'fielders': ['Mohammed Siraj'], 'kind': 'caught'}"
+1st innings,United States of America,14.5,Harmeet Singh,Arshdeep Singh,0,{},{}
+1st innings,United States of America,14.6,Harmeet Singh,Arshdeep Singh,0,{},{}
+1st innings,United States of America,15.1,CJ Anderson,JJ Bumrah,4,{},{}
+1st innings,United States of America,15.2,CJ Anderson,JJ Bumrah,0,{},{}
+1st innings,United States of America,15.3,CJ Anderson,JJ Bumrah,1,{},{}
+1st innings,United States of America,15.4,Harmeet Singh,JJ Bumrah,6,{},{}
+1st innings,United States of America,15.5,Harmeet Singh,JJ Bumrah,3,{},{}
+1st innings,United States of America,15.6,CJ Anderson,JJ Bumrah,0,{},{}
+1st innings,United States of America,16.1,Harmeet Singh,HH Pandya,0,{},{}
+1st innings,United States of America,16.2,Harmeet Singh,HH Pandya,0,{},{}
+1st innings,United States of America,16.3,Harmeet Singh,HH Pandya,0,{},{}
+1st innings,United States of America,16.4,Harmeet Singh,HH Pandya,1,{'legbyes': 1},{}
+1st innings,United States of America,16.5,CJ Anderson,HH Pandya,0,{},"{'player_out': 'CJ Anderson', 'fielders': ['RR Pant'], 'kind': 'caught'}"
+1st innings,United States of America,16.6,SC van Schalkwyk,HH Pandya,0,{},{}
+1st innings,United States of America,17.1,Harmeet Singh,Arshdeep Singh,1,{},{}
+1st innings,United States of America,17.2,SC van Schalkwyk,Arshdeep Singh,1,{},{}
+1st innings,United States of America,17.3,Harmeet Singh,Arshdeep Singh,0,{},"{'player_out': 'Harmeet Singh', 'fielders': ['RR Pant'], 'kind': 'caught'}"
+1st innings,United States of America,17.4,Jasdeep Singh,Arshdeep Singh,1,{},{}
+1st innings,United States of America,17.5,SC van Schalkwyk,Arshdeep Singh,1,{},{}
+1st innings,United States of America,17.6,Jasdeep Singh,Arshdeep Singh,0,{},{}
+1st innings,United States of America,18.1,SC van Schalkwyk,JJ Bumrah,1,{},{}
+1st innings,United States of America,18.2,Jasdeep Singh,JJ Bumrah,0,{},{}
+1st innings,United States of America,18.3,Jasdeep Singh,JJ Bumrah,1,{},{}
+1st innings,United States of America,18.4,SC van Schalkwyk,JJ Bumrah,1,{},{}
+1st innings,United States of America,18.5,Jasdeep Singh,JJ Bumrah,0,{},{}
+1st innings,United States of America,18.6,Jasdeep Singh,JJ Bumrah,0,{},{}
+1st innings,United States of America,19.1,SC van Schalkwyk,Mohammed Siraj,0,{},{}
+1st innings,United States of America,19.2,SC van Schalkwyk,Mohammed Siraj,4,{},{}
+1st innings,United States of America,19.3,SC van Schalkwyk,Mohammed Siraj,0,{},{}
+1st innings,United States of America,19.4,SC van Schalkwyk,Mohammed Siraj,2,{},{}
+1st innings,United States of America,19.5,SC van Schalkwyk,Mohammed Siraj,1,{},{}
+1st innings,United States of America,19.6,Jasdeep Singh,Mohammed Siraj,0,{},"{'player_out': 'Jasdeep Singh', 'fielders': ['RR Pant', 'Mohammed Siraj'], 'kind': 'run out'}"
+2nd innings,India,0.1,RG Sharma,SN Netravalkar,1,{},{}
+2nd innings,India,0.2,V Kohli,SN Netravalkar,0,{},"{'player_out': 'V Kohli', 'fielders': ['AGS Gous'], 'kind': 'caught'}"
+2nd innings,India,0.3,RR Pant,SN Netravalkar,0,{},{}
+2nd innings,India,0.4,RR Pant,SN Netravalkar,0,{},{}
+2nd innings,India,0.5,RR Pant,SN Netravalkar,0,{},{}
+2nd innings,India,0.6,RR Pant,SN Netravalkar,1,{},{}
+2nd innings,India,1.1,RR Pant,Ali Khan,4,{},{}
+2nd innings,India,1.2,RR Pant,Ali Khan,1,{'legbyes': 1},{}
+2nd innings,India,1.3,RG Sharma,Ali Khan,1,{},{}
+2nd innings,India,1.4,RR Pant,Ali Khan,1,{},{}
+2nd innings,India,1.5,RG Sharma,Ali Khan,0,{},{}
+2nd innings,India,1.6,RG Sharma,Ali Khan,1,{},{}
+2nd innings,India,2.1,RG Sharma,SN Netravalkar,0,{},{}
+2nd innings,India,2.2,RG Sharma,SN Netravalkar,0,{},"{'player_out': 'RG Sharma', 'fielders': ['Harmeet Singh'], 'kind': 'caught'}"
+2nd innings,India,2.3,SA Yadav,SN Netravalkar,0,{},{}
+2nd innings,India,2.4,SA Yadav,SN Netravalkar,0,{},{}
+2nd innings,India,2.5,SA Yadav,SN Netravalkar,1,{},{}
+2nd innings,India,2.6,RR Pant,SN Netravalkar,1,{},{}
+2nd innings,India,3.1,RR Pant,Jasdeep Singh,1,{},{}
+2nd innings,India,3.2,SA Yadav,Jasdeep Singh,1,{},{}
+2nd innings,India,3.3,RR Pant,Jasdeep Singh,1,{},{}
+2nd innings,India,3.4,SA Yadav,Jasdeep Singh,0,{},{}
+2nd innings,India,3.5,SA Yadav,Jasdeep Singh,1,{},{}
+2nd innings,India,3.6,RR Pant,Jasdeep Singh,0,{},{}
+2nd innings,India,4.1,SA Yadav,SN Netravalkar,0,{},{}
+2nd innings,India,4.2,SA Yadav,SN Netravalkar,6,{},{}
+2nd innings,India,4.3,SA Yadav,SN Netravalkar,2,{},{}
+2nd innings,India,4.4,SA Yadav,SN Netravalkar,0,{},{}
+2nd innings,India,4.5,SA Yadav,SN Netravalkar,1,{},{}
+2nd innings,India,4.6,RR Pant,SN Netravalkar,0,{},{}
+2nd innings,India,5.1,SA Yadav,Jasdeep Singh,1,{'noballs': 1},{}
+2nd innings,India,5.2,SA Yadav,Jasdeep Singh,1,{},{}
+2nd innings,India,5.3,RR Pant,Jasdeep Singh,0,{},{}
+2nd innings,India,5.4,RR Pant,Jasdeep Singh,6,{},{}
+2nd innings,India,5.5,RR Pant,Jasdeep Singh,0,{},{}
+2nd innings,India,5.6,RR Pant,Jasdeep Singh,0,{},{}
+2nd innings,India,5.7,RR Pant,Jasdeep Singh,0,{},{}
+2nd innings,India,6.1,SA Yadav,SC van Schalkwyk,0,{},{}
+2nd innings,India,6.2,SA Yadav,SC van Schalkwyk,1,{},{}
+2nd innings,India,6.3,RR Pant,SC van Schalkwyk,1,{},{}
+2nd innings,India,6.4,SA Yadav,SC van Schalkwyk,0,{},{}
+2nd innings,India,6.5,SA Yadav,SC van Schalkwyk,0,{},{}
+2nd innings,India,6.6,SA Yadav,SC van Schalkwyk,1,{},{}
+2nd innings,India,7.1,SA Yadav,Ali Khan,1,{},{}
+2nd innings,India,7.2,RR Pant,Ali Khan,2,{},{}
+2nd innings,India,7.3,RR Pant,Ali Khan,0,{},"{'player_out': 'RR Pant', 'kind': 'bowled'}"
+2nd innings,India,7.4,S Dube,Ali Khan,0,{},{}
+2nd innings,India,7.5,S Dube,Ali Khan,0,{},{}
+2nd innings,India,7.6,S Dube,Ali Khan,0,{},{}
+2nd innings,India,8.1,SA Yadav,SC van Schalkwyk,0,{},{}
+2nd innings,India,8.2,SA Yadav,SC van Schalkwyk,0,{},{}
+2nd innings,India,8.3,SA Yadav,SC van Schalkwyk,1,{},{}
+2nd innings,India,8.4,S Dube,SC van Schalkwyk,0,{},{}
+2nd innings,India,8.5,S Dube,SC van Schalkwyk,0,{},{}
+2nd innings,India,8.6,S Dube,SC van Schalkwyk,1,{},{}
+2nd innings,India,9.1,S Dube,CJ Anderson,1,{},{}
+2nd innings,India,9.2,SA Yadav,CJ Anderson,2,{},{}
+2nd innings,India,9.3,SA Yadav,CJ Anderson,1,{},{}
+2nd innings,India,9.4,S Dube,CJ Anderson,1,{'wides': 1},{}
+2nd innings,India,9.5,S Dube,CJ Anderson,0,{},{}
+2nd innings,India,9.6,S Dube,CJ Anderson,1,{},{}
+2nd innings,India,9.7,SA Yadav,CJ Anderson,0,{},{}
+2nd innings,India,10.1,S Dube,Jasdeep Singh,2,{},{}
+2nd innings,India,10.2,S Dube,Jasdeep Singh,0,{},{}
+2nd innings,India,10.3,S Dube,Jasdeep Singh,0,{},{}
+2nd innings,India,10.4,S Dube,Jasdeep Singh,0,{},{}
+2nd innings,India,10.5,S Dube,Jasdeep Singh,0,{},{}
+2nd innings,India,10.6,S Dube,Jasdeep Singh,4,{},{}
+2nd innings,India,11.1,SA Yadav,CJ Anderson,1,{},{}
+2nd innings,India,11.2,S Dube,CJ Anderson,0,{},{}
+2nd innings,India,11.3,S Dube,CJ Anderson,1,{},{}
+2nd innings,India,11.4,SA Yadav,CJ Anderson,0,{},{}
+2nd innings,India,11.5,SA Yadav,CJ Anderson,0,{},{}
+2nd innings,India,11.6,SA Yadav,CJ Anderson,0,{},{}
+2nd innings,India,12.1,S Dube,SC van Schalkwyk,1,{},{}
+2nd innings,India,12.2,SA Yadav,SC van Schalkwyk,1,{},{}
+2nd innings,India,12.3,S Dube,SC van Schalkwyk,1,{},{}
+2nd innings,India,12.4,SA Yadav,SC van Schalkwyk,1,{},{}
+2nd innings,India,12.5,S Dube,SC van Schalkwyk,1,{},{}
+2nd innings,India,12.6,SA Yadav,SC van Schalkwyk,0,{},{}
+2nd innings,India,13.1,S Dube,Ali Khan,0,{},{}
+2nd innings,India,13.2,S Dube,Ali Khan,1,{},{}
+2nd innings,India,13.3,SA Yadav,Ali Khan,1,{},{}
+2nd innings,India,13.4,S Dube,Ali Khan,0,{},{}
+2nd innings,India,13.5,S Dube,Ali Khan,1,{},{}
+2nd innings,India,13.6,SA Yadav,Ali Khan,4,{},{}
+2nd innings,India,14.1,S Dube,CJ Anderson,0,{},{}
+2nd innings,India,14.2,S Dube,CJ Anderson,6,{},{}
+2nd innings,India,14.3,S Dube,CJ Anderson,1,{},{}
+2nd innings,India,14.4,SA Yadav,CJ Anderson,0,{},{}
+2nd innings,India,14.5,SA Yadav,CJ Anderson,1,{},{}
+2nd innings,India,14.6,S Dube,CJ Anderson,6,{'penalty': 5},{}
+2nd innings,India,15.1,S Dube,Jasdeep Singh,2,{},{}
+2nd innings,India,15.2,S Dube,Jasdeep Singh,1,{},{}
+2nd innings,India,15.3,SA Yadav,Jasdeep Singh,1,{},{}
+2nd innings,India,15.4,S Dube,Jasdeep Singh,1,{},{}
+2nd innings,India,15.5,SA Yadav,Jasdeep Singh,1,{},{}
+2nd innings,India,15.6,S Dube,Jasdeep Singh,0,{},{}
+2nd innings,India,16.1,SA Yadav,SC van Schalkwyk,1,{},{}
+2nd innings,India,16.2,S Dube,SC van Schalkwyk,1,{},{}
+2nd innings,India,16.3,SA Yadav,SC van Schalkwyk,6,{},{}
+2nd innings,India,16.4,SA Yadav,SC van Schalkwyk,4,{},{}
+2nd innings,India,16.5,SA Yadav,SC van Schalkwyk,2,{},{}
+2nd innings,India,16.6,SA Yadav,SC van Schalkwyk,1,{},{}
+2nd innings,India,17.1,SA Yadav,SN Netravalkar,2,{},{}
+2nd innings,India,17.2,SA Yadav,SN Netravalkar,1,{},{}
+2nd innings,India,17.3,S Dube,SN Netravalkar,1,{},{}
+2nd innings,India,17.4,SA Yadav,SN Netravalkar,0,{},{}
+2nd innings,India,17.5,SA Yadav,SN Netravalkar,0,{},{}
+2nd innings,India,17.6,SA Yadav,SN Netravalkar,1,{},{}
+2nd innings,India,18.1,SA Yadav,Ali Khan,1,{},{}
+2nd innings,India,18.2,S Dube,Ali Khan,1,{'wides': 1},{}
+2nd innings,India,18.3,S Dube,Ali Khan,2,{},{}

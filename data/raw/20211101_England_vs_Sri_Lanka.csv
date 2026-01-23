@@ -1,0 +1,241 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,England,0.1,JJ Roy,PVD Chameera,2,{},{}
+1st innings,England,0.2,JJ Roy,PVD Chameera,0,{},{}
+1st innings,England,0.3,JJ Roy,PVD Chameera,4,{},{}
+1st innings,England,0.4,JJ Roy,PVD Chameera,1,{},{}
+1st innings,England,0.5,JC Buttler,PVD Chameera,3,{},{}
+1st innings,England,0.6,JJ Roy,PVD Chameera,2,{},{}
+1st innings,England,1.1,JC Buttler,PWH de Silva,1,{},{}
+1st innings,England,1.2,JJ Roy,PWH de Silva,0,{},"{'player_out': 'JJ Roy', 'kind': 'bowled'}"
+1st innings,England,1.3,DJ Malan,PWH de Silva,0,{},{}
+1st innings,England,1.4,DJ Malan,PWH de Silva,1,{},{}
+1st innings,England,1.5,JC Buttler,PWH de Silva,0,{},{}
+1st innings,England,1.6,JC Buttler,PWH de Silva,1,{},{}
+1st innings,England,2.1,JC Buttler,CBRLS Kumara,4,{},{}
+1st innings,England,2.2,JC Buttler,CBRLS Kumara,0,{},{}
+1st innings,England,2.3,JC Buttler,CBRLS Kumara,4,{},{}
+1st innings,England,2.4,JC Buttler,CBRLS Kumara,0,{},{}
+1st innings,England,2.5,JC Buttler,CBRLS Kumara,2,{},{}
+1st innings,England,2.6,JC Buttler,CBRLS Kumara,0,{},{}
+1st innings,England,3.1,DJ Malan,M Theekshana,1,{},{}
+1st innings,England,3.2,JC Buttler,M Theekshana,0,{},{}
+1st innings,England,3.3,JC Buttler,M Theekshana,0,{},{}
+1st innings,England,3.4,JC Buttler,M Theekshana,0,{},{}
+1st innings,England,3.5,JC Buttler,M Theekshana,1,{},{}
+1st innings,England,3.6,DJ Malan,M Theekshana,1,{'wides': 1},{}
+1st innings,England,3.7,DJ Malan,M Theekshana,1,{'wides': 1},{}
+1st innings,England,3.8,DJ Malan,M Theekshana,0,{},{}
+1st innings,England,4.1,JC Buttler,PVD Chameera,0,{},{}
+1st innings,England,4.2,JC Buttler,PVD Chameera,1,{},{}
+1st innings,England,4.3,DJ Malan,PVD Chameera,4,{},{}
+1st innings,England,4.4,DJ Malan,PVD Chameera,0,{},{}
+1st innings,England,4.5,DJ Malan,PVD Chameera,0,{},{}
+1st innings,England,4.6,DJ Malan,PVD Chameera,0,{},"{'player_out': 'DJ Malan', 'kind': 'bowled'}"
+1st innings,England,5.1,JC Buttler,PWH de Silva,1,{},{}
+1st innings,England,5.2,JM Bairstow,PWH de Silva,0,{},"{'player_out': 'JM Bairstow', 'kind': 'lbw'}"
+1st innings,England,5.3,EJG Morgan,PWH de Silva,0,{},{}
+1st innings,England,5.4,EJG Morgan,PWH de Silva,1,{},{}
+1st innings,England,5.5,JC Buttler,PWH de Silva,0,{},{}
+1st innings,England,5.6,JC Buttler,PWH de Silva,0,{},{}
+1st innings,England,6.1,EJG Morgan,CBRLS Kumara,0,{},{}
+1st innings,England,6.2,EJG Morgan,CBRLS Kumara,0,{},{}
+1st innings,England,6.3,EJG Morgan,CBRLS Kumara,0,{},{}
+1st innings,England,6.4,EJG Morgan,CBRLS Kumara,0,{},{}
+1st innings,England,6.5,EJG Morgan,CBRLS Kumara,1,{},{}
+1st innings,England,6.6,JC Buttler,CBRLS Kumara,0,{},{}
+1st innings,England,7.1,EJG Morgan,M Theekshana,1,{},{}
+1st innings,England,7.2,JC Buttler,M Theekshana,1,{},{}
+1st innings,England,7.3,EJG Morgan,M Theekshana,0,{},{}
+1st innings,England,7.4,EJG Morgan,M Theekshana,1,{},{}
+1st innings,England,7.5,JC Buttler,M Theekshana,0,{},{}
+1st innings,England,7.6,JC Buttler,M Theekshana,1,{},{}
+1st innings,England,8.1,JC Buttler,C Karunaratne,0,{},{}
+1st innings,England,8.2,JC Buttler,C Karunaratne,1,{},{}
+1st innings,England,8.3,EJG Morgan,C Karunaratne,1,{},{}
+1st innings,England,8.4,JC Buttler,C Karunaratne,0,{},{}
+1st innings,England,8.5,JC Buttler,C Karunaratne,1,{},{}
+1st innings,England,8.6,EJG Morgan,C Karunaratne,0,{},{}
+1st innings,England,9.1,JC Buttler,M Theekshana,0,{},{}
+1st innings,England,9.2,JC Buttler,M Theekshana,1,{},{}
+1st innings,England,9.3,EJG Morgan,M Theekshana,0,{},{}
+1st innings,England,9.4,EJG Morgan,M Theekshana,0,{},{}
+1st innings,England,9.5,EJG Morgan,M Theekshana,1,{},{}
+1st innings,England,9.6,JC Buttler,M Theekshana,1,{},{}
+1st innings,England,10.1,JC Buttler,CBRLS Kumara,4,{},{}
+1st innings,England,10.2,JC Buttler,CBRLS Kumara,2,{},{}
+1st innings,England,10.3,JC Buttler,CBRLS Kumara,1,{'wides': 1},{}
+1st innings,England,10.4,JC Buttler,CBRLS Kumara,2,{},{}
+1st innings,England,10.5,JC Buttler,CBRLS Kumara,1,{},{}
+1st innings,England,10.6,EJG Morgan,CBRLS Kumara,1,{},{}
+1st innings,England,10.7,JC Buttler,CBRLS Kumara,1,{},{}
+1st innings,England,11.1,JC Buttler,M Theekshana,0,{},{}
+1st innings,England,11.2,JC Buttler,M Theekshana,0,{},{}
+1st innings,England,11.3,JC Buttler,M Theekshana,1,{},{}
+1st innings,England,11.4,EJG Morgan,M Theekshana,0,{},{}
+1st innings,England,11.5,EJG Morgan,M Theekshana,0,{},{}
+1st innings,England,11.6,EJG Morgan,M Theekshana,1,{},{}
+1st innings,England,12.1,EJG Morgan,C Karunaratne,1,{},{}
+1st innings,England,12.2,JC Buttler,C Karunaratne,4,{},{}
+1st innings,England,12.3,JC Buttler,C Karunaratne,6,{},{}
+1st innings,England,12.4,JC Buttler,C Karunaratne,2,{},{}
+1st innings,England,12.5,JC Buttler,C Karunaratne,0,{},{}
+1st innings,England,12.6,JC Buttler,C Karunaratne,1,{},{}
+1st innings,England,13.1,JC Buttler,PWH de Silva,1,{},{}
+1st innings,England,13.2,EJG Morgan,PWH de Silva,1,{},{}
+1st innings,England,13.3,JC Buttler,PWH de Silva,1,{},{}
+1st innings,England,13.4,EJG Morgan,PWH de Silva,4,{},{}
+1st innings,England,13.5,EJG Morgan,PWH de Silva,1,{},{}
+1st innings,England,13.6,JC Buttler,PWH de Silva,0,{},{}
+1st innings,England,14.1,EJG Morgan,CBRLS Kumara,6,{},{}
+1st innings,England,14.2,EJG Morgan,CBRLS Kumara,1,{'legbyes': 1},{}
+1st innings,England,14.3,JC Buttler,CBRLS Kumara,6,{},{}
+1st innings,England,14.4,JC Buttler,CBRLS Kumara,1,{},{}
+1st innings,England,14.5,EJG Morgan,CBRLS Kumara,1,{'wides': 1},{}
+1st innings,England,14.6,EJG Morgan,CBRLS Kumara,1,{},{}
+1st innings,England,14.7,JC Buttler,CBRLS Kumara,6,{},{}
+1st innings,England,15.1,EJG Morgan,MD Shanaka,0,{},{}
+1st innings,England,15.2,EJG Morgan,MD Shanaka,1,{},{}
+1st innings,England,15.3,JC Buttler,MD Shanaka,2,{},{}
+1st innings,England,15.4,JC Buttler,MD Shanaka,0,{},{}
+1st innings,England,15.5,JC Buttler,MD Shanaka,1,{},{}
+1st innings,England,15.6,EJG Morgan,MD Shanaka,1,{},{}
+1st innings,England,16.1,EJG Morgan,PVD Chameera,6,{},{}
+1st innings,England,16.2,EJG Morgan,PVD Chameera,1,{},{}
+1st innings,England,16.3,JC Buttler,PVD Chameera,1,{'wides': 1},{}
+1st innings,England,16.4,JC Buttler,PVD Chameera,2,{},{}
+1st innings,England,16.5,JC Buttler,PVD Chameera,0,{},{}
+1st innings,England,16.6,JC Buttler,PVD Chameera,1,{},{}
+1st innings,England,16.7,EJG Morgan,PVD Chameera,1,{},{}
+1st innings,England,17.1,EJG Morgan,MD Shanaka,1,{},{}
+1st innings,England,17.2,JC Buttler,MD Shanaka,6,{},{}
+1st innings,England,17.3,JC Buttler,MD Shanaka,6,{},{}
+1st innings,England,17.4,JC Buttler,MD Shanaka,4,{},{}
+1st innings,England,17.5,JC Buttler,MD Shanaka,1,{},{}
+1st innings,England,17.6,EJG Morgan,MD Shanaka,1,{},{}
+1st innings,England,18.1,EJG Morgan,PWH de Silva,6,{},{}
+1st innings,England,18.2,EJG Morgan,PWH de Silva,0,{},"{'player_out': 'EJG Morgan', 'kind': 'bowled'}"
+1st innings,England,18.3,MM Ali,PWH de Silva,0,{},{}
+1st innings,England,18.4,MM Ali,PWH de Silva,1,{},{}
+1st innings,England,18.5,JC Buttler,PWH de Silva,0,{},{}
+1st innings,England,18.6,JC Buttler,PWH de Silva,1,{},{}
+1st innings,England,19.1,JC Buttler,PVD Chameera,4,{},{}
+1st innings,England,19.2,JC Buttler,PVD Chameera,2,{},{}
+1st innings,England,19.3,JC Buttler,PVD Chameera,2,{},{}
+1st innings,England,19.4,JC Buttler,PVD Chameera,0,{},{}
+1st innings,England,19.5,JC Buttler,PVD Chameera,0,{},{}
+1st innings,England,19.6,JC Buttler,PVD Chameera,6,{},{}
+2nd innings,Sri Lanka,0.1,P Nissanka,MM Ali,1,{},{}
+2nd innings,Sri Lanka,0.2,MDKJ Perera,MM Ali,0,{},{}
+2nd innings,Sri Lanka,0.3,MDKJ Perera,MM Ali,0,{},"{'player_out': 'P Nissanka', 'fielders': ['JC Buttler', 'EJG Morgan'], 'kind': 'run out'}"
+2nd innings,Sri Lanka,0.4,KIC Asalanka,MM Ali,0,{},{}
+2nd innings,Sri Lanka,0.5,KIC Asalanka,MM Ali,0,{},{}
+2nd innings,Sri Lanka,0.6,KIC Asalanka,MM Ali,1,{},{}
+2nd innings,Sri Lanka,1.1,KIC Asalanka,CR Woakes,0,{},{}
+2nd innings,Sri Lanka,1.2,KIC Asalanka,CR Woakes,0,{},{}
+2nd innings,Sri Lanka,1.3,KIC Asalanka,CR Woakes,6,{},{}
+2nd innings,Sri Lanka,1.4,KIC Asalanka,CR Woakes,4,{},{}
+2nd innings,Sri Lanka,1.5,KIC Asalanka,CR Woakes,1,{},{}
+2nd innings,Sri Lanka,1.6,MDKJ Perera,CR Woakes,1,{},{}
+2nd innings,Sri Lanka,2.1,MDKJ Perera,MM Ali,1,{},{}
+2nd innings,Sri Lanka,2.2,KIC Asalanka,MM Ali,4,{},{}
+2nd innings,Sri Lanka,2.3,KIC Asalanka,MM Ali,0,{},{}
+2nd innings,Sri Lanka,2.4,KIC Asalanka,MM Ali,4,{},{}
+2nd innings,Sri Lanka,2.5,KIC Asalanka,MM Ali,0,{},{}
+2nd innings,Sri Lanka,2.6,KIC Asalanka,MM Ali,1,{},{}
+2nd innings,Sri Lanka,3.1,KIC Asalanka,AU Rashid,0,{},{}
+2nd innings,Sri Lanka,3.2,KIC Asalanka,AU Rashid,0,{},{}
+2nd innings,Sri Lanka,3.3,KIC Asalanka,AU Rashid,0,{},"{'player_out': 'KIC Asalanka', 'fielders': ['MM Ali'], 'kind': 'caught'}"
+2nd innings,Sri Lanka,3.4,MDKJ Perera,AU Rashid,2,{},{}
+2nd innings,Sri Lanka,3.5,MDKJ Perera,AU Rashid,0,{},{}
+2nd innings,Sri Lanka,3.6,MDKJ Perera,AU Rashid,2,{},{}
+2nd innings,Sri Lanka,4.1,WIA Fernando,CJ Jordan,0,{},{}
+2nd innings,Sri Lanka,4.2,WIA Fernando,CJ Jordan,0,{},{}
+2nd innings,Sri Lanka,4.3,WIA Fernando,CJ Jordan,4,{},{}
+2nd innings,Sri Lanka,4.4,WIA Fernando,CJ Jordan,0,{},{}
+2nd innings,Sri Lanka,4.5,WIA Fernando,CJ Jordan,1,{},{}
+2nd innings,Sri Lanka,4.6,MDKJ Perera,CJ Jordan,1,{},{}
+2nd innings,Sri Lanka,5.1,MDKJ Perera,AU Rashid,0,{},"{'player_out': 'MDKJ Perera', 'fielders': ['EJG Morgan'], 'kind': 'caught'}"
+2nd innings,Sri Lanka,5.2,WIA Fernando,AU Rashid,1,{},{}
+2nd innings,Sri Lanka,5.3,PBB Rajapaksa,AU Rashid,0,{},{}
+2nd innings,Sri Lanka,5.4,PBB Rajapaksa,AU Rashid,4,{},{}
+2nd innings,Sri Lanka,5.5,PBB Rajapaksa,AU Rashid,0,{},{}
+2nd innings,Sri Lanka,5.6,PBB Rajapaksa,AU Rashid,1,{},{}
+2nd innings,Sri Lanka,6.1,PBB Rajapaksa,LS Livingstone,1,{},{}
+2nd innings,Sri Lanka,6.2,WIA Fernando,LS Livingstone,1,{},{}
+2nd innings,Sri Lanka,6.3,PBB Rajapaksa,LS Livingstone,6,{},{}
+2nd innings,Sri Lanka,6.4,PBB Rajapaksa,LS Livingstone,0,{},{}
+2nd innings,Sri Lanka,6.5,PBB Rajapaksa,LS Livingstone,1,{},{}
+2nd innings,Sri Lanka,6.6,WIA Fernando,LS Livingstone,1,{},{}
+2nd innings,Sri Lanka,7.1,WIA Fernando,AU Rashid,0,{},{}
+2nd innings,Sri Lanka,7.2,WIA Fernando,AU Rashid,1,{},{}
+2nd innings,Sri Lanka,7.3,PBB Rajapaksa,AU Rashid,0,{},{}
+2nd innings,Sri Lanka,7.4,PBB Rajapaksa,AU Rashid,1,{},{}
+2nd innings,Sri Lanka,7.5,WIA Fernando,AU Rashid,0,{},{}
+2nd innings,Sri Lanka,7.6,WIA Fernando,AU Rashid,2,{},{}
+2nd innings,Sri Lanka,8.1,PBB Rajapaksa,CJ Jordan,1,{},{}
+2nd innings,Sri Lanka,8.2,WIA Fernando,CJ Jordan,2,{},{}
+2nd innings,Sri Lanka,8.3,WIA Fernando,CJ Jordan,0,{},"{'player_out': 'WIA Fernando', 'kind': 'lbw'}"
+2nd innings,Sri Lanka,8.4,MD Shanaka,CJ Jordan,0,{},{}
+2nd innings,Sri Lanka,8.5,MD Shanaka,CJ Jordan,0,{},{}
+2nd innings,Sri Lanka,8.6,MD Shanaka,CJ Jordan,1,{},{}
+2nd innings,Sri Lanka,9.1,MD Shanaka,TS Mills,1,{},{}
+2nd innings,Sri Lanka,9.2,PBB Rajapaksa,TS Mills,1,{'legbyes': 1},{}
+2nd innings,Sri Lanka,9.3,MD Shanaka,TS Mills,0,{},{}
+2nd innings,Sri Lanka,9.4,MD Shanaka,TS Mills,4,{},{}
+2nd innings,Sri Lanka,9.5,MD Shanaka,TS Mills,1,{},{}
+2nd innings,Sri Lanka,9.6,PBB Rajapaksa,TS Mills,1,{},{}
+2nd innings,Sri Lanka,10.1,PBB Rajapaksa,CR Woakes,0,{},{}
+2nd innings,Sri Lanka,10.2,PBB Rajapaksa,CR Woakes,0,{},{}
+2nd innings,Sri Lanka,10.3,PBB Rajapaksa,CR Woakes,6,{},{}
+2nd innings,Sri Lanka,10.4,PBB Rajapaksa,CR Woakes,4,{},{}
+2nd innings,Sri Lanka,10.5,PBB Rajapaksa,CR Woakes,0,{},"{'player_out': 'PBB Rajapaksa', 'fielders': ['JJ Roy'], 'kind': 'caught'}"
+2nd innings,Sri Lanka,10.6,PWH de Silva,CR Woakes,1,{},{}
+2nd innings,Sri Lanka,11.1,PWH de Silva,AU Rashid,1,{},{}
+2nd innings,Sri Lanka,11.2,MD Shanaka,AU Rashid,0,{},{}
+2nd innings,Sri Lanka,11.3,MD Shanaka,AU Rashid,1,{},{}
+2nd innings,Sri Lanka,11.4,PWH de Silva,AU Rashid,2,{},{}
+2nd innings,Sri Lanka,11.5,PWH de Silva,AU Rashid,0,{},{}
+2nd innings,Sri Lanka,11.6,PWH de Silva,AU Rashid,1,{},{}
+2nd innings,Sri Lanka,12.1,PWH de Silva,LS Livingstone,4,{},{}
+2nd innings,Sri Lanka,12.2,PWH de Silva,LS Livingstone,1,{},{}
+2nd innings,Sri Lanka,12.3,MD Shanaka,LS Livingstone,1,{},{}
+2nd innings,Sri Lanka,12.4,PWH de Silva,LS Livingstone,1,{},{}
+2nd innings,Sri Lanka,12.5,MD Shanaka,LS Livingstone,0,{},{}
+2nd innings,Sri Lanka,12.6,MD Shanaka,LS Livingstone,0,{},{}
+2nd innings,Sri Lanka,13.1,PWH de Silva,TS Mills,6,{},{}
+2nd innings,Sri Lanka,13.2,PWH de Silva,TS Mills,1,{},{}
+2nd innings,Sri Lanka,13.3,MD Shanaka,TS Mills,1,{'wides': 1},{}
+2nd innings,Sri Lanka,13.4,MD Shanaka,TS Mills,4,{},{}
+2nd innings,Sri Lanka,13.5,MD Shanaka,CR Woakes,1,{},{}
+2nd innings,Sri Lanka,13.6,PWH de Silva,CR Woakes,1,{},{}
+2nd innings,Sri Lanka,13.7,MD Shanaka,CR Woakes,0,{},{}
+2nd innings,Sri Lanka,14.1,PWH de Silva,LS Livingstone,1,{},{}
+2nd innings,Sri Lanka,14.2,MD Shanaka,LS Livingstone,0,{},{}
+2nd innings,Sri Lanka,14.3,MD Shanaka,LS Livingstone,1,{},{}
+2nd innings,Sri Lanka,14.4,PWH de Silva,LS Livingstone,1,{},{}
+2nd innings,Sri Lanka,14.5,MD Shanaka,LS Livingstone,6,{},{}
+2nd innings,Sri Lanka,14.6,MD Shanaka,LS Livingstone,1,{},{}
+2nd innings,Sri Lanka,15.1,MD Shanaka,CJ Jordan,1,{},{}
+2nd innings,Sri Lanka,15.2,PWH de Silva,CJ Jordan,1,{},{}
+2nd innings,Sri Lanka,15.3,MD Shanaka,CJ Jordan,1,{},{}
+2nd innings,Sri Lanka,15.4,PWH de Silva,CJ Jordan,2,{},{}
+2nd innings,Sri Lanka,15.5,PWH de Silva,CJ Jordan,4,{},{}
+2nd innings,Sri Lanka,15.6,PWH de Silva,CJ Jordan,1,{},{}
+2nd innings,Sri Lanka,16.1,PWH de Silva,LS Livingstone,0,{},{}
+2nd innings,Sri Lanka,16.2,PWH de Silva,LS Livingstone,1,{},{}
+2nd innings,Sri Lanka,16.3,MD Shanaka,LS Livingstone,1,{},{}
+2nd innings,Sri Lanka,16.4,PWH de Silva,LS Livingstone,4,{},{}
+2nd innings,Sri Lanka,16.5,PWH de Silva,LS Livingstone,0,{},"{'player_out': 'PWH de Silva', 'fielders': ['SW Billings (sub)'], 'kind': 'caught'}"
+2nd innings,Sri Lanka,16.6,MD Shanaka,LS Livingstone,1,{},{}
+2nd innings,Sri Lanka,17.1,MD Shanaka,CJ Jordan,0,{},{}
+2nd innings,Sri Lanka,17.2,MD Shanaka,CJ Jordan,0,{},"{'player_out': 'MD Shanaka', 'fielders': ['JC Buttler'], 'kind': 'run out'}"
+2nd innings,Sri Lanka,17.3,PVD Chameera,CJ Jordan,0,{},{}
+2nd innings,Sri Lanka,17.4,PVD Chameera,CJ Jordan,0,{},{}
+2nd innings,Sri Lanka,17.5,PVD Chameera,CJ Jordan,4,{},{}
+2nd innings,Sri Lanka,17.6,PVD Chameera,CJ Jordan,0,{},"{'player_out': 'PVD Chameera', 'fielders': ['DJ Malan'], 'kind': 'caught'}"
+2nd innings,Sri Lanka,18.1,C Karunaratne,MM Ali,0,{},{}
+2nd innings,Sri Lanka,18.2,C Karunaratne,MM Ali,0,{},"{'player_out': 'C Karunaratne', 'fielders': ['JJ Roy'], 'kind': 'caught'}"
+2nd innings,Sri Lanka,18.3,CBRLS Kumara,MM Ali,0,{},{}
+2nd innings,Sri Lanka,18.4,CBRLS Kumara,MM Ali,1,{},{}
+2nd innings,Sri Lanka,18.5,M Theekshana,MM Ali,2,{},{}
+2nd innings,Sri Lanka,18.6,M Theekshana,MM Ali,0,{},"{'player_out': 'M Theekshana', 'fielders': ['CJ Jordan'], 'kind': 'caught'}"

@@ -1,0 +1,1971 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-27'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Dubai
+  competition: International League T20
+  dates:
+  - '2023-01-15'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Desert Vipers
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - AD Hales
+  players:
+    Sharjah Warriors:
+    - Rahmanullah Gurbaz
+    - E Lewis
+    - DJ Malan
+    - T Kohler-Cadmore
+    - MM Ali
+    - JL Denly
+    - Mohammad Nabi
+    - CR Woakes
+    - Junaid Siddique
+    - Naveen-ul-Haq
+    - KP Meiyappan
+    Desert Vipers:
+    - Rohan Mustafa
+    - AD Hales
+    - C Munro
+    - SW Billings
+    - SE Rutherford
+    - BAC Howell
+    - TK Curran
+    - SS Cottrell
+    - TS Mills
+    - Ali Naseer
+    - AAP Atkinson
+  registry:
+    people:
+      AAP Atkinson: 70d57519
+      AD Hales: 92aeac25
+      AG Wharf: 2e0fcc58
+      Ali Naseer: f5715b48
+      BAC Howell: 0bec3a6c
+      C Munro: af2c687b
+      CR Woakes: 4c5d73db
+      DJ Malan: ad9c32a2
+      E Lewis: 0ebfb1ad
+      JL Denly: bdadf7da
+      Junaid Siddique: 84dc72db
+      KP Meiyappan: b91f2a31
+      LS Reifer: 5dee559a
+      MM Ali: bb351c23
+      Mohammad Nabi: 62af8546
+      Naveen-ul-Haq: c0c411cb
+      RJ Tucker: 38810cfc
+      RS Mahanama: '57910393'
+      Rahmanullah Gurbaz: 0bacade8
+      Rohan Mustafa: d1988788
+      SE Rutherford: d014d5ac
+      SS Cottrell: a1d053dd
+      SW Billings: c16d4035
+      Shiju Sam: 1e2f3eae
+      T Kohler-Cadmore: f836b33d
+      TK Curran: e86754b2
+      TS Mills: 245c97cb
+  teams:
+  - Sharjah Warriors
+  - Desert Vipers
+  toss:
+    winner: Desert Vipers
+    decision: field
+  umpires:
+  - LS Reifer
+  - Shiju Sam
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: Sharjah Warriors
+    deliveries:
+    - 0.1:
+        non_striker: E Lewis
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.2:
+        non_striker: E Lewis
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 0.3:
+        non_striker: E Lewis
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.4:
+        non_striker: E Lewis
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.5:
+        non_striker: E Lewis
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 0.6:
+        non_striker: E Lewis
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 1.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AAP Atkinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: E Lewis
+    - 1.3:
+        non_striker: E Lewis
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 1.4:
+        non_striker: E Lewis
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.5:
+        non_striker: E Lewis
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.6:
+        non_striker: E Lewis
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 2.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 2.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+        wicket:
+          player_out: E Lewis
+          fielders:
+          - TS Mills
+          kind: caught
+    - 2.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 2.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 2.5:
+        non_striker: DJ Malan
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 2.6:
+        non_striker: DJ Malan
+        bowler: SS Cottrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rahmanullah Gurbaz
+    - 3.1:
+        non_striker: DJ Malan
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 3.2:
+        non_striker: DJ Malan
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 3.3:
+        non_striker: DJ Malan
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          fielders:
+          - SW Billings
+          kind: caught
+    - 3.4:
+        non_striker: DJ Malan
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 3.5:
+        non_striker: T Kohler-Cadmore
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 3.6:
+        non_striker: DJ Malan
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 4.1:
+        non_striker: T Kohler-Cadmore
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 4.2:
+        non_striker: T Kohler-Cadmore
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 4.3:
+        non_striker: DJ Malan
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 4.4:
+        non_striker: DJ Malan
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 4.5:
+        non_striker: DJ Malan
+        bowler: SS Cottrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: T Kohler-Cadmore
+    - 4.6:
+        non_striker: DJ Malan
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 4.7:
+        non_striker: T Kohler-Cadmore
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 5.1:
+        non_striker: DJ Malan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 5.2:
+        non_striker: DJ Malan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 5.3:
+        non_striker: DJ Malan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+        wicket:
+          player_out: T Kohler-Cadmore
+          fielders:
+          - Rohan Mustafa
+          kind: caught
+    - 5.4:
+        non_striker: DJ Malan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 5.5:
+        non_striker: DJ Malan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Ali
+    - 5.6:
+        non_striker: DJ Malan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 6.1:
+        non_striker: MM Ali
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 6.2:
+        non_striker: DJ Malan
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 6.3:
+        non_striker: MM Ali
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 6.4:
+        non_striker: MM Ali
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 6.5:
+        non_striker: MM Ali
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 6.6:
+        non_striker: DJ Malan
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 7.1:
+        non_striker: DJ Malan
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Ali
+    - 7.2:
+        non_striker: DJ Malan
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 7.3:
+        non_striker: MM Ali
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 7.4:
+        non_striker: MM Ali
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 7.5:
+        non_striker: DJ Malan
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Ali
+    - 7.6:
+        non_striker: DJ Malan
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 8.1:
+        non_striker: DJ Malan
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 8.2:
+        non_striker: MM Ali
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 8.3:
+        non_striker: DJ Malan
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 8.4:
+        non_striker: MM Ali
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 8.5:
+        non_striker: DJ Malan
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Ali
+    - 8.6:
+        non_striker: DJ Malan
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 9.1:
+        non_striker: DJ Malan
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 9.2:
+        non_striker: DJ Malan
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Ali
+    - 9.3:
+        non_striker: MM Ali
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 9.4:
+        non_striker: MM Ali
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 9.5:
+        non_striker: MM Ali
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 9.6:
+        non_striker: DJ Malan
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+        wicket:
+          player_out: MM Ali
+          fielders:
+          - TK Curran
+          kind: caught
+    - 10.1:
+        non_striker: JL Denly
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 10.2:
+        non_striker: JL Denly
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 10.3:
+        non_striker: JL Denly
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 10.4:
+        non_striker: JL Denly
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 10.5:
+        non_striker: DJ Malan
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 10.6:
+        non_striker: JL Denly
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+        wicket:
+          player_out: DJ Malan
+          fielders:
+          - AD Hales
+          kind: caught
+    - 11.1:
+        non_striker: Mohammad Nabi
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 11.2:
+        non_striker: Mohammad Nabi
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 11.3:
+        non_striker: Mohammad Nabi
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 11.4:
+        non_striker: Mohammad Nabi
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 11.5:
+        non_striker: Mohammad Nabi
+        bowler: TK Curran
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: JL Denly
+    - 11.6:
+        non_striker: Mohammad Nabi
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Denly
+    - 12.1:
+        non_striker: JL Denly
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 12.2:
+        non_striker: JL Denly
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 12.3:
+        non_striker: Mohammad Nabi
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 12.4:
+        non_striker: JL Denly
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Nabi
+    - 12.5:
+        non_striker: JL Denly
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 12.6:
+        non_striker: Mohammad Nabi
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 13.1:
+        non_striker: Mohammad Nabi
+        bowler: TS Mills
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL Denly
+    - 13.2:
+        non_striker: Mohammad Nabi
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 13.3:
+        non_striker: JL Denly
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 13.4:
+        non_striker: JL Denly
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 13.5:
+        non_striker: JL Denly
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 13.6:
+        non_striker: Mohammad Nabi
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 13.7:
+        non_striker: JL Denly
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 14.1:
+        non_striker: JL Denly
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 14.2:
+        non_striker: Mohammad Nabi
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 14.3:
+        non_striker: JL Denly
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 14.4:
+        non_striker: Mohammad Nabi
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 14.5:
+        non_striker: JL Denly
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 14.6:
+        non_striker: Mohammad Nabi
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 15.1:
+        non_striker: Mohammad Nabi
+        bowler: AAP Atkinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JL Denly
+    - 15.2:
+        non_striker: JL Denly
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 15.3:
+        non_striker: Mohammad Nabi
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Denly
+    - 15.4:
+        non_striker: Mohammad Nabi
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Denly
+    - 15.5:
+        non_striker: Mohammad Nabi
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 15.6:
+        non_striker: Mohammad Nabi
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 16.1:
+        non_striker: Mohammad Nabi
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 16.2:
+        non_striker: JL Denly
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 16.3:
+        non_striker: Mohammad Nabi
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Denly
+    - 16.4:
+        non_striker: Mohammad Nabi
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 16.5:
+        non_striker: Mohammad Nabi
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Denly
+    - 16.6:
+        non_striker: Mohammad Nabi
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Denly
+    - 17.1:
+        non_striker: JL Denly
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 17.2:
+        non_striker: Mohammad Nabi
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 17.3:
+        non_striker: JL Denly
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 17.4:
+        non_striker: Mohammad Nabi
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 17.5:
+        non_striker: JL Denly
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 17.6:
+        non_striker: Mohammad Nabi
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Denly
+    - 18.1:
+        non_striker: JL Denly
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 18.2:
+        non_striker: Mohammad Nabi
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 18.3:
+        non_striker: Mohammad Nabi
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Denly
+    - 18.4:
+        non_striker: Mohammad Nabi
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Denly
+    - 18.5:
+        non_striker: Mohammad Nabi
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 18.6:
+        non_striker: Mohammad Nabi
+        bowler: SS Cottrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JL Denly
+    - 18.7:
+        non_striker: Mohammad Nabi
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 19.1:
+        non_striker: JL Denly
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Nabi
+    - 19.2:
+        non_striker: JL Denly
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Nabi
+    - 19.3:
+        non_striker: JL Denly
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 19.4:
+        non_striker: JL Denly
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Nabi
+    - 19.5:
+        non_striker: JL Denly
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 19.6:
+        non_striker: JL Denly
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 19.7:
+        non_striker: JL Denly
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Mohammad Nabi
+- 2nd innings:
+    team: Desert Vipers
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.2:
+        non_striker: AD Hales
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.3:
+        non_striker: AD Hales
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 0.4:
+        non_striker: AD Hales
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 0.5:
+        non_striker: AD Hales
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.6:
+        non_striker: AD Hales
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+        wicket:
+          player_out: Rohan Mustafa
+          fielders:
+          - CR Woakes
+          kind: caught
+    - 1.1:
+        non_striker: C Munro
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 1.2:
+        non_striker: C Munro
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.3:
+        non_striker: C Munro
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 1.4:
+        non_striker: C Munro
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 1.5:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 1.6:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          fielders:
+          - JL Denly
+          kind: caught
+    - 2.1:
+        non_striker: SW Billings
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.2:
+        non_striker: SW Billings
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 2.3:
+        non_striker: SW Billings
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 2.4:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 2.5:
+        non_striker: SW Billings
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 2.6:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 3.1:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 3.2:
+        non_striker: SW Billings
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 3.3:
+        non_striker: SW Billings
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 3.4:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 3.5:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 3.6:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 4.1:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 4.2:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 4.3:
+        non_striker: SW Billings
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 4.4:
+        non_striker: SW Billings
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 4.5:
+        non_striker: SW Billings
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 4.6:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 5.1:
+        non_striker: SW Billings
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 5.2:
+        non_striker: SW Billings
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 5.3:
+        non_striker: SW Billings
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 5.4:
+        non_striker: SW Billings
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 5.5:
+        non_striker: SW Billings
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 5.6:
+        non_striker: SW Billings
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 6.1:
+        non_striker: AD Hales
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 6.2:
+        non_striker: SW Billings
+        bowler: Junaid Siddique
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: AD Hales
+    - 6.3:
+        non_striker: SW Billings
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Hales
+    - 6.4:
+        non_striker: SW Billings
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 6.5:
+        non_striker: SW Billings
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 6.6:
+        non_striker: SW Billings
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 6.7:
+        non_striker: AD Hales
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Billings
+    - 6.8:
+        non_striker: AD Hales
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Billings
+    - 6.9:
+        non_striker: AD Hales
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 7.1:
+        non_striker: SW Billings
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 7.2:
+        non_striker: SW Billings
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 7.3:
+        non_striker: AD Hales
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 7.4:
+        non_striker: SW Billings
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 7.5:
+        non_striker: AD Hales
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 7.6:
+        non_striker: AD Hales
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 8.1:
+        non_striker: SW Billings
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 8.2:
+        non_striker: AD Hales
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 8.3:
+        non_striker: SW Billings
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 8.4:
+        non_striker: AD Hales
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 8.5:
+        non_striker: AD Hales
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 8.6:
+        non_striker: AD Hales
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 9.1:
+        non_striker: AD Hales
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 9.2:
+        non_striker: AD Hales
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 9.3:
+        non_striker: SW Billings
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 9.4:
+        non_striker: SW Billings
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 9.5:
+        non_striker: SW Billings
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 9.6:
+        non_striker: AD Hales
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 10.1:
+        non_striker: AD Hales
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 10.2:
+        non_striker: SW Billings
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 10.3:
+        non_striker: SW Billings
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 10.4:
+        non_striker: AD Hales
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SW Billings
+    - 10.5:
+        non_striker: AD Hales
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 10.6:
+        non_striker: SW Billings
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 11.1:
+        non_striker: SW Billings
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 11.2:
+        non_striker: AD Hales
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 11.3:
+        non_striker: SW Billings
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 11.4:
+        non_striker: AD Hales
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 11.5:
+        non_striker: SW Billings
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 11.6:
+        non_striker: AD Hales
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 12.1:
+        non_striker: SW Billings
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 12.2:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 12.3:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 12.4:
+        non_striker: AD Hales
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 12.5:
+        non_striker: SW Billings
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 12.6:
+        non_striker: SW Billings
+        bowler: Naveen-ul-Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 13.1:
+        non_striker: SW Billings
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 13.2:
+        non_striker: SW Billings
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 13.3:
+        non_striker: AD Hales
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 13.4:
+        non_striker: SW Billings
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 13.5:
+        non_striker: AD Hales
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 13.6:
+        non_striker: AD Hales
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 14.1:
+        non_striker: SW Billings
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 14.2:
+        non_striker: SW Billings
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 14.3:
+        non_striker: SW Billings
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 14.4:
+        non_striker: SW Billings
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 14.5:
+        non_striker: SW Billings
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 14.6:
+        non_striker: SW Billings
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 15.1:
+        non_striker: AD Hales
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 15.2:
+        non_striker: SW Billings
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 15.3:
+        non_striker: AD Hales
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 15.4:
+        non_striker: AD Hales
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 15.5:
+        non_striker: AD Hales
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 15.6:
+        non_striker: SW Billings
+        bowler: KP Meiyappan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 16.1:
+        non_striker: AD Hales
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+        wicket:
+          player_out: SW Billings
+          fielders:
+          - Naveen-ul-Haq
+          kind: caught
+    - 16.2:
+        non_striker: AD Hales
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 16.3:
+        non_striker: AD Hales
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 16.4:
+        non_striker: SE Rutherford
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales

@@ -1,0 +1,253 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Bangladesh,0.1,Nazmul Hossain Shanto,FJ Klaassen,1,{},{}
+1st innings,Bangladesh,0.2,Soumya Sarkar,FJ Klaassen,0,{},{}
+1st innings,Bangladesh,0.3,Soumya Sarkar,FJ Klaassen,1,{'wides': 1},{}
+1st innings,Bangladesh,0.4,Soumya Sarkar,FJ Klaassen,1,{'wides': 1},{}
+1st innings,Bangladesh,0.5,Soumya Sarkar,FJ Klaassen,4,{},{}
+1st innings,Bangladesh,0.6,Soumya Sarkar,FJ Klaassen,0,{},{}
+1st innings,Bangladesh,0.7,Soumya Sarkar,FJ Klaassen,4,{},{}
+1st innings,Bangladesh,0.8,Soumya Sarkar,FJ Klaassen,1,{},{}
+1st innings,Bangladesh,1.1,Soumya Sarkar,CN Ackermann,0,{},{}
+1st innings,Bangladesh,1.2,Soumya Sarkar,CN Ackermann,1,{},{}
+1st innings,Bangladesh,1.3,Nazmul Hossain Shanto,CN Ackermann,1,{},{}
+1st innings,Bangladesh,1.4,Soumya Sarkar,CN Ackermann,1,{},{}
+1st innings,Bangladesh,1.5,Nazmul Hossain Shanto,CN Ackermann,1,{},{}
+1st innings,Bangladesh,1.6,Soumya Sarkar,CN Ackermann,0,{},{}
+1st innings,Bangladesh,2.1,Nazmul Hossain Shanto,PA van Meekeren,0,{},{}
+1st innings,Bangladesh,2.2,Nazmul Hossain Shanto,PA van Meekeren,0,{},{}
+1st innings,Bangladesh,2.3,Nazmul Hossain Shanto,PA van Meekeren,1,{},{}
+1st innings,Bangladesh,2.4,Soumya Sarkar,PA van Meekeren,2,{},{}
+1st innings,Bangladesh,2.5,Soumya Sarkar,PA van Meekeren,0,{},{}
+1st innings,Bangladesh,2.6,Soumya Sarkar,PA van Meekeren,0,{},{}
+1st innings,Bangladesh,3.1,Nazmul Hossain Shanto,BFW de Leede,1,{'wides': 1},{}
+1st innings,Bangladesh,3.2,Nazmul Hossain Shanto,BFW de Leede,2,{},{}
+1st innings,Bangladesh,3.3,Nazmul Hossain Shanto,BFW de Leede,4,{},{}
+1st innings,Bangladesh,3.4,Nazmul Hossain Shanto,BFW de Leede,4,{},{}
+1st innings,Bangladesh,3.5,Nazmul Hossain Shanto,BFW de Leede,0,{},{}
+1st innings,Bangladesh,3.6,Nazmul Hossain Shanto,BFW de Leede,1,{'wides': 1},{}
+1st innings,Bangladesh,3.7,Nazmul Hossain Shanto,BFW de Leede,0,{},{}
+1st innings,Bangladesh,3.8,Nazmul Hossain Shanto,BFW de Leede,1,{'wides': 1},{}
+1st innings,Bangladesh,3.9,Nazmul Hossain Shanto,BFW de Leede,1,{},{}
+1st innings,Bangladesh,4.1,Nazmul Hossain Shanto,FJ Klaassen,4,{},{}
+1st innings,Bangladesh,4.2,Nazmul Hossain Shanto,FJ Klaassen,4,{},{}
+1st innings,Bangladesh,4.3,Nazmul Hossain Shanto,FJ Klaassen,0,{},{}
+1st innings,Bangladesh,4.4,Nazmul Hossain Shanto,FJ Klaassen,0,{},{}
+1st innings,Bangladesh,4.5,Nazmul Hossain Shanto,FJ Klaassen,1,{},{}
+1st innings,Bangladesh,4.6,Soumya Sarkar,FJ Klaassen,1,{},{}
+1st innings,Bangladesh,5.1,Soumya Sarkar,PA van Meekeren,0,{},"{'player_out': 'Soumya Sarkar', 'fielders': ['BFW de Leede'], 'kind': 'caught'}"
+1st innings,Bangladesh,5.2,Liton Das,PA van Meekeren,1,{},{}
+1st innings,Bangladesh,5.3,Nazmul Hossain Shanto,PA van Meekeren,0,{},{}
+1st innings,Bangladesh,5.4,Nazmul Hossain Shanto,PA van Meekeren,1,{},{}
+1st innings,Bangladesh,5.5,Liton Das,PA van Meekeren,0,{},{}
+1st innings,Bangladesh,5.6,Liton Das,PA van Meekeren,2,{},{}
+1st innings,Bangladesh,6.1,Nazmul Hossain Shanto,TJG Pringle,0,{},"{'player_out': 'Nazmul Hossain Shanto', 'fielders': ['LV van Beek'], 'kind': 'caught'}"
+1st innings,Bangladesh,6.2,Shakib Al Hasan,TJG Pringle,0,{},{}
+1st innings,Bangladesh,6.3,Shakib Al Hasan,TJG Pringle,1,{},{}
+1st innings,Bangladesh,6.4,Liton Das,TJG Pringle,1,{},{}
+1st innings,Bangladesh,6.5,Shakib Al Hasan,TJG Pringle,1,{},{}
+1st innings,Bangladesh,6.6,Liton Das,TJG Pringle,1,{'legbyes': 1},{}
+1st innings,Bangladesh,7.1,Liton Das,Shariz Ahmad,2,{},{}
+1st innings,Bangladesh,7.2,Liton Das,Shariz Ahmad,0,{},{}
+1st innings,Bangladesh,7.3,Liton Das,Shariz Ahmad,1,{},{}
+1st innings,Bangladesh,7.4,Shakib Al Hasan,Shariz Ahmad,1,{},{}
+1st innings,Bangladesh,7.5,Liton Das,Shariz Ahmad,1,{},{}
+1st innings,Bangladesh,7.6,Shakib Al Hasan,Shariz Ahmad,1,{},{}
+1st innings,Bangladesh,8.1,Shakib Al Hasan,LV van Beek,1,{},{}
+1st innings,Bangladesh,8.2,Liton Das,LV van Beek,1,{},{}
+1st innings,Bangladesh,8.3,Shakib Al Hasan,LV van Beek,1,{},{}
+1st innings,Bangladesh,8.4,Liton Das,LV van Beek,0,{},"{'player_out': 'Liton Das', 'fielders': ['TLW Cooper'], 'kind': 'caught'}"
+1st innings,Bangladesh,8.5,Afif Hossain,LV van Beek,1,{'wides': 1},{}
+1st innings,Bangladesh,8.6,Afif Hossain,LV van Beek,1,{'legbyes': 1},{}
+1st innings,Bangladesh,8.7,Shakib Al Hasan,LV van Beek,1,{},{}
+1st innings,Bangladesh,9.1,Shakib Al Hasan,Shariz Ahmad,0,{},"{'player_out': 'Shakib Al Hasan', 'fielders': ['BFW de Leede'], 'kind': 'caught'}"
+1st innings,Bangladesh,9.2,Yasir Ali Chowdhury,Shariz Ahmad,1,{},{}
+1st innings,Bangladesh,9.3,Afif Hossain,Shariz Ahmad,6,{},{}
+1st innings,Bangladesh,9.4,Afif Hossain,Shariz Ahmad,0,{},{}
+1st innings,Bangladesh,9.5,Afif Hossain,Shariz Ahmad,1,{},{}
+1st innings,Bangladesh,9.6,Yasir Ali Chowdhury,Shariz Ahmad,1,{},{}
+1st innings,Bangladesh,10.1,Yasir Ali Chowdhury,PA van Meekeren,1,{},{}
+1st innings,Bangladesh,10.2,Afif Hossain,PA van Meekeren,2,{},{}
+1st innings,Bangladesh,10.3,Afif Hossain,PA van Meekeren,0,{},{}
+1st innings,Bangladesh,10.4,Afif Hossain,PA van Meekeren,1,{},{}
+1st innings,Bangladesh,10.5,Yasir Ali Chowdhury,PA van Meekeren,0,{},{}
+1st innings,Bangladesh,10.6,Yasir Ali Chowdhury,PA van Meekeren,0,{},"{'player_out': 'Yasir Ali Chowdhury', 'kind': 'bowled'}"
+1st innings,Bangladesh,11.1,Afif Hossain,LV van Beek,1,{},{}
+1st innings,Bangladesh,11.2,Nurul Hasan,LV van Beek,0,{},{}
+1st innings,Bangladesh,11.3,Nurul Hasan,LV van Beek,0,{},{}
+1st innings,Bangladesh,11.4,Nurul Hasan,LV van Beek,1,{},{}
+1st innings,Bangladesh,11.5,Afif Hossain,LV van Beek,0,{},{}
+1st innings,Bangladesh,11.6,Afif Hossain,LV van Beek,1,{},{}
+1st innings,Bangladesh,12.1,Afif Hossain,TJG Pringle,1,{},{}
+1st innings,Bangladesh,12.2,Nurul Hasan,TJG Pringle,0,{},{}
+1st innings,Bangladesh,12.3,Nurul Hasan,TJG Pringle,3,{},{}
+1st innings,Bangladesh,12.4,Afif Hossain,TJG Pringle,1,{},{}
+1st innings,Bangladesh,12.5,Nurul Hasan,TJG Pringle,1,{},{}
+1st innings,Bangladesh,12.6,Afif Hossain,TJG Pringle,1,{},{}
+1st innings,Bangladesh,13.1,Afif Hossain,FJ Klaassen,1,{},{}
+1st innings,Bangladesh,13.2,Nurul Hasan,FJ Klaassen,1,{'wides': 1},{}
+1st innings,Bangladesh,13.3,Nurul Hasan,FJ Klaassen,2,{},{}
+1st innings,Bangladesh,13.4,Nurul Hasan,FJ Klaassen,2,{'legbyes': 2},{}
+1st innings,Bangladesh,13.5,Nurul Hasan,FJ Klaassen,0,{},{}
+1st innings,Bangladesh,13.6,Nurul Hasan,FJ Klaassen,1,{},{}
+1st innings,Bangladesh,13.7,Afif Hossain,FJ Klaassen,1,{},{}
+1st innings,Bangladesh,14.1,Afif Hossain,Shariz Ahmad,0,{},{}
+1st innings,Bangladesh,14.2,Afif Hossain,Shariz Ahmad,4,{},{}
+1st innings,Bangladesh,14.3,Afif Hossain,Shariz Ahmad,6,{},{}
+1st innings,Bangladesh,14.4,Afif Hossain,Shariz Ahmad,1,{},{}
+1st innings,Bangladesh,14.5,Nurul Hasan,Shariz Ahmad,0,{},{}
+1st innings,Bangladesh,14.6,Nurul Hasan,Shariz Ahmad,1,{},{}
+1st innings,Bangladesh,15.1,Nurul Hasan,LV van Beek,0,{},{}
+1st innings,Bangladesh,15.2,Nurul Hasan,LV van Beek,1,{},{}
+1st innings,Bangladesh,15.3,Afif Hossain,LV van Beek,1,{},{}
+1st innings,Bangladesh,15.4,Nurul Hasan,LV van Beek,1,{},{}
+1st innings,Bangladesh,15.5,Afif Hossain,LV van Beek,0,{},{}
+1st innings,Bangladesh,15.6,Afif Hossain,LV van Beek,1,{},{}
+1st innings,Bangladesh,16.1,Afif Hossain,PA van Meekeren,2,{},{}
+1st innings,Bangladesh,16.2,Afif Hossain,PA van Meekeren,1,{},{}
+1st innings,Bangladesh,16.3,Nurul Hasan,PA van Meekeren,1,{},{}
+1st innings,Bangladesh,16.4,Afif Hossain,PA van Meekeren,1,{},{}
+1st innings,Bangladesh,16.5,Nurul Hasan,PA van Meekeren,1,{},{}
+1st innings,Bangladesh,16.6,Afif Hossain,PA van Meekeren,4,{},{}
+1st innings,Bangladesh,17.1,Nurul Hasan,BFW de Leede,0,{},"{'player_out': 'Nurul Hasan', 'fielders': ['PA van Meekeren'], 'kind': 'caught'}"
+1st innings,Bangladesh,17.2,Mosaddek Hossain,BFW de Leede,4,{'legbyes': 4},{}
+1st innings,Bangladesh,17.3,Mosaddek Hossain,BFW de Leede,4,{},{}
+1st innings,Bangladesh,17.4,Mosaddek Hossain,BFW de Leede,0,{},{}
+1st innings,Bangladesh,17.5,Mosaddek Hossain,BFW de Leede,1,{},{}
+1st innings,Bangladesh,17.6,Afif Hossain,BFW de Leede,0,{},"{'player_out': 'Afif Hossain', 'fielders': ['SA Edwards'], 'kind': 'caught'}"
+1st innings,Bangladesh,18.1,Mosaddek Hossain,FJ Klaassen,4,{},{}
+1st innings,Bangladesh,18.2,Mosaddek Hossain,FJ Klaassen,1,{},{}
+1st innings,Bangladesh,18.3,Taskin Ahmed,FJ Klaassen,0,{},"{'player_out': 'Taskin Ahmed', 'fielders': ['LV van Beek'], 'kind': 'caught'}"
+1st innings,Bangladesh,18.4,Hasan Mahmud,FJ Klaassen,0,{},{}
+1st innings,Bangladesh,18.5,Hasan Mahmud,FJ Klaassen,0,{},{}
+1st innings,Bangladesh,18.6,Hasan Mahmud,FJ Klaassen,0,{},{}
+1st innings,Bangladesh,19.1,Mosaddek Hossain,BFW de Leede,0,{},{}
+1st innings,Bangladesh,19.2,Mosaddek Hossain,BFW de Leede,0,{},{}
+1st innings,Bangladesh,19.3,Mosaddek Hossain,BFW de Leede,6,{},{}
+1st innings,Bangladesh,19.4,Mosaddek Hossain,BFW de Leede,2,{},{}
+1st innings,Bangladesh,19.5,Mosaddek Hossain,BFW de Leede,0,{},{}
+1st innings,Bangladesh,19.6,Mosaddek Hossain,BFW de Leede,2,{},{}
+2nd innings,Netherlands,0.1,Vikramjit Singh,Taskin Ahmed,0,{},"{'player_out': 'Vikramjit Singh', 'fielders': ['Yasir Ali Chowdhury'], 'kind': 'caught'}"
+2nd innings,Netherlands,0.2,BFW de Leede,Taskin Ahmed,0,{},"{'player_out': 'BFW de Leede', 'fielders': ['Nurul Hasan'], 'kind': 'caught'}"
+2nd innings,Netherlands,0.3,CN Ackermann,Taskin Ahmed,3,{},{}
+2nd innings,Netherlands,0.4,MP O'Dowd,Taskin Ahmed,0,{},{}
+2nd innings,Netherlands,0.5,MP O'Dowd,Taskin Ahmed,0,{},{}
+2nd innings,Netherlands,0.6,MP O'Dowd,Taskin Ahmed,0,{},{}
+2nd innings,Netherlands,1.1,CN Ackermann,Hasan Mahmud,0,{},{}
+2nd innings,Netherlands,1.2,CN Ackermann,Hasan Mahmud,0,{},{}
+2nd innings,Netherlands,1.3,CN Ackermann,Hasan Mahmud,0,{},{}
+2nd innings,Netherlands,1.4,CN Ackermann,Hasan Mahmud,2,{},{}
+2nd innings,Netherlands,1.5,CN Ackermann,Hasan Mahmud,0,{},{}
+2nd innings,Netherlands,1.6,CN Ackermann,Hasan Mahmud,0,{},{}
+2nd innings,Netherlands,2.1,MP O'Dowd,Taskin Ahmed,0,{},{}
+2nd innings,Netherlands,2.2,MP O'Dowd,Taskin Ahmed,0,{},{}
+2nd innings,Netherlands,2.3,MP O'Dowd,Taskin Ahmed,1,{},{}
+2nd innings,Netherlands,2.4,CN Ackermann,Taskin Ahmed,0,{},{}
+2nd innings,Netherlands,2.5,CN Ackermann,Taskin Ahmed,0,{},{}
+2nd innings,Netherlands,2.6,CN Ackermann,Taskin Ahmed,0,{},{}
+2nd innings,Netherlands,3.1,MP O'Dowd,Shakib Al Hasan,6,{},{}
+2nd innings,Netherlands,3.2,MP O'Dowd,Shakib Al Hasan,1,{},"{'player_out': ""MP O'Dowd"", 'fielders': ['Shakib Al Hasan', 'Afif Hossain'], 'kind': 'run out'}"
+2nd innings,Netherlands,3.3,CN Ackermann,Shakib Al Hasan,0,{},{}
+2nd innings,Netherlands,3.4,CN Ackermann,Shakib Al Hasan,2,{},"{'player_out': 'TLW Cooper', 'fielders': ['Nazmul Hossain Shanto', 'Nurul Hasan'], 'kind': 'run out'}"
+2nd innings,Netherlands,3.5,SA Edwards,Shakib Al Hasan,1,{},{}
+2nd innings,Netherlands,3.6,CN Ackermann,Shakib Al Hasan,1,{},{}
+2nd innings,Netherlands,4.1,CN Ackermann,Taskin Ahmed,0,{},{}
+2nd innings,Netherlands,4.2,CN Ackermann,Taskin Ahmed,0,{},{}
+2nd innings,Netherlands,4.3,CN Ackermann,Taskin Ahmed,0,{},{}
+2nd innings,Netherlands,4.4,CN Ackermann,Taskin Ahmed,0,{},{}
+2nd innings,Netherlands,4.5,CN Ackermann,Taskin Ahmed,4,{},{}
+2nd innings,Netherlands,4.6,CN Ackermann,Taskin Ahmed,4,{},{}
+2nd innings,Netherlands,5.1,SA Edwards,Hasan Mahmud,0,{},{}
+2nd innings,Netherlands,5.2,SA Edwards,Hasan Mahmud,1,{},{}
+2nd innings,Netherlands,5.3,CN Ackermann,Hasan Mahmud,0,{},{}
+2nd innings,Netherlands,5.4,CN Ackermann,Hasan Mahmud,1,{},{}
+2nd innings,Netherlands,5.5,SA Edwards,Hasan Mahmud,1,{},{}
+2nd innings,Netherlands,5.6,CN Ackermann,Hasan Mahmud,4,{},{}
+2nd innings,Netherlands,6.1,SA Edwards,Mustafizur Rahman,0,{},{}
+2nd innings,Netherlands,6.2,SA Edwards,Mustafizur Rahman,0,{},{}
+2nd innings,Netherlands,6.3,SA Edwards,Mustafizur Rahman,0,{},{}
+2nd innings,Netherlands,6.4,SA Edwards,Mustafizur Rahman,4,{},{}
+2nd innings,Netherlands,6.5,SA Edwards,Mustafizur Rahman,0,{},{}
+2nd innings,Netherlands,6.6,SA Edwards,Mustafizur Rahman,0,{},{}
+2nd innings,Netherlands,7.1,CN Ackermann,Soumya Sarkar,4,{},{}
+2nd innings,Netherlands,7.2,CN Ackermann,Soumya Sarkar,0,{},{}
+2nd innings,Netherlands,7.3,CN Ackermann,Soumya Sarkar,1,{},{}
+2nd innings,Netherlands,7.4,SA Edwards,Soumya Sarkar,1,{},{}
+2nd innings,Netherlands,7.5,CN Ackermann,Soumya Sarkar,1,{},{}
+2nd innings,Netherlands,7.6,SA Edwards,Soumya Sarkar,0,{},{}
+2nd innings,Netherlands,8.1,CN Ackermann,Mustafizur Rahman,1,{},{}
+2nd innings,Netherlands,8.2,SA Edwards,Mustafizur Rahman,0,{},{}
+2nd innings,Netherlands,8.3,SA Edwards,Mustafizur Rahman,0,{},{}
+2nd innings,Netherlands,8.4,SA Edwards,Mustafizur Rahman,0,{},{}
+2nd innings,Netherlands,8.5,SA Edwards,Mustafizur Rahman,0,{},{}
+2nd innings,Netherlands,8.6,SA Edwards,Mustafizur Rahman,2,{},{}
+2nd innings,Netherlands,9.1,CN Ackermann,Shakib Al Hasan,1,{},{}
+2nd innings,Netherlands,9.2,SA Edwards,Shakib Al Hasan,0,{},{}
+2nd innings,Netherlands,9.3,SA Edwards,Shakib Al Hasan,1,{},{}
+2nd innings,Netherlands,9.4,CN Ackermann,Shakib Al Hasan,1,{},{}
+2nd innings,Netherlands,9.5,SA Edwards,Shakib Al Hasan,1,{},{}
+2nd innings,Netherlands,9.6,CN Ackermann,Shakib Al Hasan,1,{},{}
+2nd innings,Netherlands,10.1,CN Ackermann,Mustafizur Rahman,0,{},{}
+2nd innings,Netherlands,10.2,CN Ackermann,Mustafizur Rahman,1,{},{}
+2nd innings,Netherlands,10.3,SA Edwards,Mustafizur Rahman,1,{},{}
+2nd innings,Netherlands,10.4,CN Ackermann,Mustafizur Rahman,1,{},{}
+2nd innings,Netherlands,10.5,SA Edwards,Mustafizur Rahman,1,{},{}
+2nd innings,Netherlands,10.6,CN Ackermann,Mustafizur Rahman,1,{},{}
+2nd innings,Netherlands,11.1,CN Ackermann,Shakib Al Hasan,1,{},{}
+2nd innings,Netherlands,11.2,SA Edwards,Shakib Al Hasan,2,{},{}
+2nd innings,Netherlands,11.3,SA Edwards,Shakib Al Hasan,0,{},"{'player_out': 'SA Edwards', 'fielders': ['Hasan Mahmud'], 'kind': 'caught'}"
+2nd innings,Netherlands,11.4,TJG Pringle,Shakib Al Hasan,0,{},{}
+2nd innings,Netherlands,11.5,TJG Pringle,Shakib Al Hasan,1,{},{}
+2nd innings,Netherlands,11.6,CN Ackermann,Shakib Al Hasan,6,{},{}
+2nd innings,Netherlands,12.1,TJG Pringle,Hasan Mahmud,0,{},{}
+2nd innings,Netherlands,12.2,TJG Pringle,Hasan Mahmud,0,{},{}
+2nd innings,Netherlands,12.3,TJG Pringle,Hasan Mahmud,0,{},{}
+2nd innings,Netherlands,12.4,TJG Pringle,Hasan Mahmud,0,{},"{'player_out': 'TJG Pringle', 'kind': 'bowled'}"
+2nd innings,Netherlands,12.5,LV van Beek,Hasan Mahmud,0,{},{}
+2nd innings,Netherlands,12.6,LV van Beek,Hasan Mahmud,0,{},{}
+2nd innings,Netherlands,13.1,CN Ackermann,Mosaddek Hossain,6,{},{}
+2nd innings,Netherlands,13.2,CN Ackermann,Mosaddek Hossain,1,{},{}
+2nd innings,Netherlands,13.3,LV van Beek,Mosaddek Hossain,1,{},{}
+2nd innings,Netherlands,13.4,CN Ackermann,Mosaddek Hossain,2,{},{}
+2nd innings,Netherlands,13.5,CN Ackermann,Mosaddek Hossain,2,{'noballs': 1},{}
+2nd innings,Netherlands,13.6,LV van Beek,Mosaddek Hossain,1,{},{}
+2nd innings,Netherlands,13.7,CN Ackermann,Mosaddek Hossain,1,{},{}
+2nd innings,Netherlands,14.1,CN Ackermann,Hasan Mahmud,1,{},{}
+2nd innings,Netherlands,14.2,LV van Beek,Hasan Mahmud,0,{},"{'player_out': 'LV van Beek', 'fielders': ['Taskin Ahmed'], 'kind': 'caught'}"
+2nd innings,Netherlands,14.3,Shariz Ahmad,Hasan Mahmud,0,{},{}
+2nd innings,Netherlands,14.4,Shariz Ahmad,Hasan Mahmud,1,{},{}
+2nd innings,Netherlands,14.5,CN Ackermann,Hasan Mahmud,4,{},{}
+2nd innings,Netherlands,14.6,CN Ackermann,Hasan Mahmud,0,{},{}
+2nd innings,Netherlands,15.1,Shariz Ahmad,Shakib Al Hasan,1,{},{}
+2nd innings,Netherlands,15.2,CN Ackermann,Shakib Al Hasan,1,{},{}
+2nd innings,Netherlands,15.3,Shariz Ahmad,Shakib Al Hasan,2,{},{}
+2nd innings,Netherlands,15.4,Shariz Ahmad,Shakib Al Hasan,1,{'wides': 1},{}
+2nd innings,Netherlands,15.5,Shariz Ahmad,Shakib Al Hasan,0,{},{}
+2nd innings,Netherlands,15.6,Shariz Ahmad,Shakib Al Hasan,1,{},{}
+2nd innings,Netherlands,15.7,CN Ackermann,Shakib Al Hasan,0,{},{}
+2nd innings,Netherlands,16.1,Shariz Ahmad,Taskin Ahmed,4,{},{}
+2nd innings,Netherlands,16.2,Shariz Ahmad,Taskin Ahmed,0,{},"{'player_out': 'Shariz Ahmad', 'fielders': ['Hasan Mahmud'], 'kind': 'caught'}"
+2nd innings,Netherlands,16.3,FJ Klaassen,Taskin Ahmed,1,{},{}
+2nd innings,Netherlands,16.4,CN Ackermann,Taskin Ahmed,4,{},{}
+2nd innings,Netherlands,16.5,CN Ackermann,Taskin Ahmed,0,{},"{'player_out': 'CN Ackermann', 'fielders': ['Mosaddek Hossain'], 'kind': 'caught'}"
+2nd innings,Netherlands,16.6,PA van Meekeren,Taskin Ahmed,4,{},{}
+2nd innings,Netherlands,17.1,FJ Klaassen,Soumya Sarkar,1,{},{}
+2nd innings,Netherlands,17.2,PA van Meekeren,Soumya Sarkar,2,{},{}
+2nd innings,Netherlands,17.3,PA van Meekeren,Soumya Sarkar,4,{},{}
+2nd innings,Netherlands,17.4,PA van Meekeren,Soumya Sarkar,0,{},{}
+2nd innings,Netherlands,17.5,PA van Meekeren,Soumya Sarkar,0,{},{}
+2nd innings,Netherlands,17.6,PA van Meekeren,Soumya Sarkar,1,{},{}
+2nd innings,Netherlands,18.1,PA van Meekeren,Mustafizur Rahman,4,{},{}
+2nd innings,Netherlands,18.2,PA van Meekeren,Mustafizur Rahman,0,{},{}
+2nd innings,Netherlands,18.3,PA van Meekeren,Mustafizur Rahman,0,{},{}
+2nd innings,Netherlands,18.4,PA van Meekeren,Mustafizur Rahman,1,{},{}
+2nd innings,Netherlands,18.5,FJ Klaassen,Mustafizur Rahman,0,{},{}
+2nd innings,Netherlands,18.6,FJ Klaassen,Mustafizur Rahman,2,{'wides': 2},{}
+2nd innings,Netherlands,18.7,PA van Meekeren,Mustafizur Rahman,1,{'wides': 1},{}
+2nd innings,Netherlands,18.8,PA van Meekeren,Mustafizur Rahman,0,{},{}
+2nd innings,Netherlands,19.1,FJ Klaassen,Soumya Sarkar,2,{},{}
+2nd innings,Netherlands,19.2,FJ Klaassen,Soumya Sarkar,2,{},{}
+2nd innings,Netherlands,19.3,FJ Klaassen,Soumya Sarkar,1,{},{}
+2nd innings,Netherlands,19.4,PA van Meekeren,Soumya Sarkar,1,{'wides': 1},{}
+2nd innings,Netherlands,19.5,PA van Meekeren,Soumya Sarkar,6,{},{}
+2nd innings,Netherlands,19.6,PA van Meekeren,Soumya Sarkar,2,{},{}
+2nd innings,Netherlands,19.7,PA van Meekeren,Soumya Sarkar,0,{},"{'player_out': 'PA van Meekeren', 'fielders': ['Liton Das'], 'kind': 'caught'}"

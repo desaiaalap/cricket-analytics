@@ -1,0 +1,73 @@
+# GitHub Actions Workflow - Documentation
+# Validates and deploys documentation
+
+name: Documentation
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '**.md'
+      - 'docs/**'
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate-docs:
+    name: Validate Documentation
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Check for broken links in markdown
+      uses: gaurav-nelson/github-action-markdown-link-check@v1
+      with:
+        use-quiet-mode: 'yes'
+        config-file: '.github/markdown-link-check-config.json'
+
+    - name: Validate markdown format
+      run: |
+        echo "Checking markdown files..."
+        find . -name "*.md" -not -path "./node_modules/*" -exec echo "✓ {}" \;
+
+    - name: Check README completeness
+      run: |
+        python -c "
+        import re
+        from pathlib import Path
+
+        readme = Path('README.md').read_text()
+
+        # Check for required sections
+        required_sections = [
+            'Quick Start',
+            'Project Structure',
+            'Installation',
+            'Features'
+        ]
+
+        print('📋 README Validation')
+        print('=' * 60)
+
+        for section in required_sections:
+            if section.lower() in readme.lower():
+                print(f'✅ Found section: {section}')
+            else:
+                print(f'⚠️  Missing section: {section}')
+        "
+
+  check-todos:
+    name: Check for TODO comments
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Find TODO comments
+      run: |
+        echo "🔍 Searching for TODO comments..."
+        grep -r "TODO" scripts/ notebooks/ || echo "✅ No TODO comments found"
+        grep -r "FIXME" scripts/ notebooks/ || echo "✅ No FIXME comments found"

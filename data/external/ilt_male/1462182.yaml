@@ -1,0 +1,2066 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-01-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sharjah
+  competition: International League T20
+  dates:
+  - '2025-01-18'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Gulf Giants
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - MG Erasmus
+  players:
+    Dubai Capitals:
+    - SD Hope
+    - BR Dunk
+    - BJ McMullen
+    - Sikandar Raza
+    - R Powell
+    - MD Shanaka
+    - Gulbadin Naib
+    - SC Kuggeleijn
+    - OP Stone
+    - Haider Ali
+    - Farhan Khan
+    - OC McCoy
+    Gulf Giants:
+    - A Lyth
+    - JM Vince
+    - Ibrahim Zadran
+    - JM Cox
+    - MG Erasmus
+    - SO Hetmyer
+    - Aayan Afzal Khan
+    - Uzair Khan
+    - B Muzarabani
+    - MR Adair
+    - TS Mills
+    - Wahidullah Zadran
+  registry:
+    people:
+      A Lyth: 70b8fd28
+      AT Holdstock: 6fa3258c
+      Aasif Iqbal: 42c41e1a
+      Aayan Afzal Khan: d2d15439
+      Akbar Ali: e753931d
+      B Muzarabani: 449f4e3c
+      BJ McMullen: 436c763a
+      BR Dunk: 272d796e
+      Farhan Khan: 617040e4
+      Gulbadin Naib: 9f77963a
+      Haider Ali: dd572696
+      Ibrahim Zadran: d4550956
+      JM Cox: ff154ecd
+      JM Vince: a15618fe
+      MD Shanaka: 3ff033bb
+      MG Erasmus: 95a5e066
+      MR Adair: fc55ec67
+      OC McCoy: 529eb9e0
+      OP Stone: 3f659464
+      P Wilson: 68304a36
+      R Powell: 650d5e49
+      SC Kuggeleijn: fef92afc
+      SD Hope: 1fc6ef83
+      SJA Taufel: 4b43d5ac
+      SO Hetmyer: 48a1d7b7
+      Sikandar Raza: 26d041c4
+      TS Mills: 245c97cb
+      Uzair Khan: 1d3782c8
+      Wahidullah Zadran: c6cc27f4
+  teams:
+  - Dubai Capitals
+  - Gulf Giants
+  toss:
+    winner: Gulf Giants
+    decision: field
+  umpires:
+  - AT Holdstock
+  - Akbar Ali
+  venue: Sharjah Cricket Stadium
+innings:
+- 1st innings:
+    team: Dubai Capitals
+    deliveries:
+    - 0.1:
+        non_striker: BR Dunk
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 0.2:
+        non_striker: BR Dunk
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 0.3:
+        non_striker: BR Dunk
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 0.4:
+        non_striker: SD Hope
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 0.5:
+        non_striker: SD Hope
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Dunk
+    - 0.6:
+        non_striker: BR Dunk
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 1.1:
+        non_striker: SD Hope
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 1.2:
+        non_striker: SD Hope
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 1.3:
+        non_striker: SD Hope
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 1.4:
+        non_striker: SD Hope
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BR Dunk
+    - 1.5:
+        non_striker: SD Hope
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BR Dunk
+    - 1.6:
+        non_striker: SD Hope
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 2.1:
+        non_striker: BR Dunk
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 2.2:
+        non_striker: BR Dunk
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SD Hope
+    - 2.3:
+        non_striker: BR Dunk
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 2.4:
+        non_striker: SD Hope
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 2.5:
+        non_striker: SD Hope
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 2.6:
+        non_striker: SD Hope
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: BR Dunk
+    - 2.7:
+        non_striker: SD Hope
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 3.1:
+        non_striker: BR Dunk
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 3.2:
+        non_striker: BR Dunk
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+        wicket:
+          player_out: SD Hope
+          fielders:
+          - Uzair Khan
+          kind: caught
+    - 3.3:
+        non_striker: BR Dunk
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 3.4:
+        non_striker: BJ McMullen
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 3.5:
+        non_striker: BJ McMullen
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BR Dunk
+    - 3.6:
+        non_striker: BJ McMullen
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Dunk
+    - 4.1:
+        non_striker: BJ McMullen
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Dunk
+    - 4.2:
+        non_striker: BR Dunk
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 4.3:
+        non_striker: BR Dunk
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 4.4:
+        non_striker: BR Dunk
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 4.5:
+        non_striker: BJ McMullen
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 4.6:
+        non_striker: BJ McMullen
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Dunk
+    - 5.1:
+        non_striker: BJ McMullen
+        bowler: Uzair Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BR Dunk
+    - 5.2:
+        non_striker: BJ McMullen
+        bowler: Uzair Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+        wicket:
+          player_out: BR Dunk
+          fielders:
+          - SO Hetmyer
+          kind: caught
+    - 5.3:
+        non_striker: BJ McMullen
+        bowler: Uzair Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 5.4:
+        non_striker: BJ McMullen
+        bowler: Uzair Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 5.5:
+        non_striker: Sikandar Raza
+        bowler: Uzair Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ McMullen
+    - 5.6:
+        non_striker: Sikandar Raza
+        bowler: Uzair Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 5.7:
+        non_striker: BJ McMullen
+        bowler: Uzair Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 6.1:
+        non_striker: BJ McMullen
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 6.2:
+        non_striker: BJ McMullen
+        bowler: TS Mills
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 6.3:
+        non_striker: BJ McMullen
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 6.4:
+        non_striker: Sikandar Raza
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 6.5:
+        non_striker: BJ McMullen
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 6.6:
+        non_striker: BJ McMullen
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 6.7:
+        non_striker: Sikandar Raza
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ McMullen
+    - 7.1:
+        non_striker: BJ McMullen
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 7.2:
+        non_striker: Sikandar Raza
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 7.3:
+        non_striker: Sikandar Raza
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 7.4:
+        non_striker: BJ McMullen
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 7.5:
+        non_striker: Sikandar Raza
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+        wicket:
+          player_out: BJ McMullen
+          fielders:
+          - JM Cox
+          kind: stumped
+    - 7.6:
+        non_striker: Sikandar Raza
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 8.1:
+        non_striker: Sikandar Raza
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 8.2:
+        non_striker: Sikandar Raza
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 8.3:
+        non_striker: Sikandar Raza
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 8.4:
+        non_striker: Sikandar Raza
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 8.5:
+        non_striker: Sikandar Raza
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 8.6:
+        non_striker: Sikandar Raza
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 9.1:
+        non_striker: R Powell
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 9.2:
+        non_striker: R Powell
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 9.3:
+        non_striker: R Powell
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 9.4:
+        non_striker: Sikandar Raza
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 9.5:
+        non_striker: Sikandar Raza
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 9.6:
+        non_striker: R Powell
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 9.7:
+        non_striker: Sikandar Raza
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 10.1:
+        non_striker: R Powell
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 10.2:
+        non_striker: R Powell
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 10.3:
+        non_striker: R Powell
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 10.4:
+        non_striker: R Powell
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 10.5:
+        non_striker: R Powell
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 10.6:
+        non_striker: R Powell
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 11.1:
+        non_striker: R Powell
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 11.2:
+        non_striker: Sikandar Raza
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 11.3:
+        non_striker: Sikandar Raza
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 11.4:
+        non_striker: R Powell
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 11.5:
+        non_striker: R Powell
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 11.6:
+        non_striker: Sikandar Raza
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 12.1:
+        non_striker: Sikandar Raza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 12.2:
+        non_striker: Sikandar Raza
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 12.3:
+        non_striker: Sikandar Raza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 12.4:
+        non_striker: Sikandar Raza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 12.5:
+        non_striker: Sikandar Raza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 12.6:
+        non_striker: Sikandar Raza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 12.7:
+        non_striker: R Powell
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.1:
+        non_striker: R Powell
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - B Muzarabani
+          kind: caught
+    - 13.2:
+        non_striker: R Powell
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 13.3:
+        non_striker: R Powell
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 13.4:
+        non_striker: MD Shanaka
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 13.5:
+        non_striker: R Powell
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 13.6:
+        non_striker: MD Shanaka
+        bowler: Wahidullah Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 14.1:
+        non_striker: MD Shanaka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: A Lyth
+            out: Wahidullah Zadran
+            team: Gulf Giants
+            reason: impact_player
+        batsman: R Powell
+    - 14.2:
+        non_striker: MD Shanaka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 14.3:
+        non_striker: R Powell
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 14.4:
+        non_striker: R Powell
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 14.5:
+        non_striker: MD Shanaka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 14.6:
+        non_striker: R Powell
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 15.1:
+        non_striker: MD Shanaka
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          fielders:
+          - SO Hetmyer
+          kind: caught
+    - 15.2:
+        non_striker: MD Shanaka
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 15.3:
+        non_striker: Gulbadin Naib
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 15.4:
+        non_striker: MD Shanaka
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 15.5:
+        non_striker: MD Shanaka
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 15.6:
+        non_striker: Gulbadin Naib
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 16.1:
+        non_striker: Gulbadin Naib
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 16.2:
+        non_striker: MD Shanaka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 16.3:
+        non_striker: Gulbadin Naib
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 16.4:
+        non_striker: Gulbadin Naib
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 16.5:
+        non_striker: MD Shanaka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 16.6:
+        non_striker: MD Shanaka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 17.1:
+        non_striker: MD Shanaka
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 17.2:
+        non_striker: Gulbadin Naib
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 17.3:
+        non_striker: Gulbadin Naib
+        bowler: TS Mills
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MD Shanaka
+    - 17.4:
+        non_striker: MD Shanaka
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 17.5:
+        non_striker: Gulbadin Naib
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 17.6:
+        non_striker: MD Shanaka
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 18.1:
+        non_striker: MD Shanaka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gulbadin Naib
+    - 18.2:
+        non_striker: MD Shanaka
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Gulbadin Naib
+    - 18.3:
+        non_striker: MD Shanaka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Gulbadin Naib
+    - 18.4:
+        non_striker: MD Shanaka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+        wicket:
+          player_out: Gulbadin Naib
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 18.5:
+        non_striker: MD Shanaka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Kuggeleijn
+    - 18.6:
+        non_striker: MD Shanaka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Kuggeleijn
+        wicket:
+          player_out: SC Kuggeleijn
+          fielders:
+          - A Lyth
+          kind: caught
+    - 18.7:
+        non_striker: MD Shanaka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Stone
+    - 19.1:
+        non_striker: OP Stone
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 19.2:
+        non_striker: OP Stone
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 19.3:
+        non_striker: OP Stone
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 19.4:
+        non_striker: OP Stone
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 19.5:
+        non_striker: OP Stone
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 19.6:
+        non_striker: OP Stone
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MD Shanaka
+- 2nd innings:
+    team: Gulf Giants
+    deliveries:
+    - 0.1:
+        non_striker: JM Vince
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: OC McCoy
+            out: BR Dunk
+            team: Dubai Capitals
+            reason: impact_player
+        batsman: A Lyth
+    - 0.2:
+        non_striker: JM Vince
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Lyth
+    - 0.3:
+        non_striker: JM Vince
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Lyth
+    - 0.4:
+        non_striker: JM Vince
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+    - 0.5:
+        non_striker: JM Vince
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lyth
+    - 0.6:
+        non_striker: A Lyth
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 1.1:
+        non_striker: A Lyth
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 1.2:
+        non_striker: A Lyth
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 1.3:
+        non_striker: A Lyth
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 1.4:
+        non_striker: A Lyth
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 1.5:
+        non_striker: A Lyth
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 1.6:
+        non_striker: JM Vince
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lyth
+    - 2.1:
+        non_striker: A Lyth
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 2.2:
+        non_striker: A Lyth
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 2.3:
+        non_striker: A Lyth
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 2.4:
+        non_striker: JM Vince
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lyth
+    - 2.5:
+        non_striker: A Lyth
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 2.6:
+        non_striker: JM Vince
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lyth
+    - 3.1:
+        non_striker: A Lyth
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+        wicket:
+          player_out: JM Vince
+          fielders:
+          - Gulbadin Naib
+          kind: caught
+    - 3.2:
+        non_striker: A Lyth
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 3.3:
+        non_striker: A Lyth
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 3.4:
+        non_striker: A Lyth
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 3.5:
+        non_striker: A Lyth
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ibrahim Zadran
+    - 3.6:
+        non_striker: A Lyth
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 4.1:
+        non_striker: A Lyth
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 4.2:
+        non_striker: A Lyth
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 4.3:
+        non_striker: A Lyth
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+        wicket:
+          player_out: Ibrahim Zadran
+          fielders:
+          - R Powell
+          kind: caught
+    - 4.4:
+        non_striker: A Lyth
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 4.5:
+        non_striker: JM Cox
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lyth
+    - 4.6:
+        non_striker: JM Cox
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+    - 5.1:
+        non_striker: A Lyth
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 5.2:
+        non_striker: A Lyth
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 5.3:
+        non_striker: A Lyth
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 5.4:
+        non_striker: A Lyth
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 5.5:
+        non_striker: JM Cox
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lyth
+    - 5.6:
+        non_striker: A Lyth
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 6.1:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lyth
+    - 6.2:
+        non_striker: A Lyth
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 6.3:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lyth
+    - 6.4:
+        non_striker: A Lyth
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 6.5:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Lyth
+    - 6.6:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lyth
+    - 7.1:
+        non_striker: JM Cox
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lyth
+    - 7.2:
+        non_striker: JM Cox
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lyth
+        wicket:
+          player_out: A Lyth
+          fielders:
+          - MD Shanaka
+          kind: caught
+    - 7.3:
+        non_striker: JM Cox
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 7.4:
+        non_striker: JM Cox
+        bowler: Farhan Khan
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: MG Erasmus
+    - 7.5:
+        non_striker: MG Erasmus
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Cox
+    - 7.6:
+        non_striker: MG Erasmus
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 7.7:
+        non_striker: MG Erasmus
+        bowler: Farhan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Cox
+    - 8.1:
+        non_striker: JM Cox
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 8.2:
+        non_striker: MG Erasmus
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Cox
+    - 8.3:
+        non_striker: MG Erasmus
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 8.4:
+        non_striker: JM Cox
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 8.5:
+        non_striker: JM Cox
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 8.6:
+        non_striker: MG Erasmus
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Cox
+    - 9.1:
+        non_striker: JM Cox
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 9.2:
+        non_striker: JM Cox
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 9.3:
+        non_striker: MG Erasmus
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 9.4:
+        non_striker: MG Erasmus
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Cox
+    - 9.5:
+        non_striker: MG Erasmus
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 9.6:
+        non_striker: JM Cox
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.1:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.2:
+        non_striker: MG Erasmus
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Cox
+    - 10.3:
+        non_striker: MG Erasmus
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 10.4:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.5:
+        non_striker: MG Erasmus
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+        wicket:
+          player_out: JM Cox
+          fielders:
+          - OP Stone
+          kind: caught
+    - 10.6:
+        non_striker: MG Erasmus
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 11.1:
+        non_striker: SO Hetmyer
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 11.2:
+        non_striker: SO Hetmyer
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 11.3:
+        non_striker: SO Hetmyer
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 11.4:
+        non_striker: MG Erasmus
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 11.5:
+        non_striker: MG Erasmus
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 11.6:
+        non_striker: MG Erasmus
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.1:
+        non_striker: MG Erasmus
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.2:
+        non_striker: SO Hetmyer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.3:
+        non_striker: SO Hetmyer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.4:
+        non_striker: MG Erasmus
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.5:
+        non_striker: SO Hetmyer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.6:
+        non_striker: MG Erasmus
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.1:
+        non_striker: MG Erasmus
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.2:
+        non_striker: SO Hetmyer
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 13.3:
+        non_striker: SO Hetmyer
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 13.4:
+        non_striker: MG Erasmus
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.5:
+        non_striker: SO Hetmyer
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 13.6:
+        non_striker: SO Hetmyer
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 14.1:
+        non_striker: MG Erasmus
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 14.2:
+        non_striker: MG Erasmus
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.3:
+        non_striker: SO Hetmyer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 14.4:
+        non_striker: SO Hetmyer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 14.5:
+        non_striker: SO Hetmyer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 14.6:
+        non_striker: SO Hetmyer
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 15.1:
+        non_striker: SO Hetmyer
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 15.2:
+        non_striker: SO Hetmyer
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 15.3:
+        non_striker: SO Hetmyer
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 15.4:
+        non_striker: SO Hetmyer
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Erasmus
+    - 15.5:
+        non_striker: SO Hetmyer
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 15.6:
+        non_striker: SO Hetmyer
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 16.1:
+        non_striker: MG Erasmus
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 16.2:
+        non_striker: MG Erasmus
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 16.3:
+        non_striker: MG Erasmus
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 16.4:
+        non_striker: MG Erasmus
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 16.5:
+        non_striker: MG Erasmus
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 16.6:
+        non_striker: SO Hetmyer
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 17.1:
+        non_striker: SO Hetmyer
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 17.2:
+        non_striker: SO Hetmyer
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 17.3:
+        non_striker: SO Hetmyer
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 17.4:
+        non_striker: MG Erasmus
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 17.5:
+        non_striker: MG Erasmus
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 17.6:
+        non_striker: MG Erasmus
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 18.1:
+        non_striker: MG Erasmus
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer

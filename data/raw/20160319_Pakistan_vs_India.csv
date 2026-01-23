@@ -1,0 +1,213 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Pakistan,0.1,Sharjeel Khan,A Nehra,1,{},{}
+1st innings,Pakistan,0.2,Ahmed Shehzad,A Nehra,1,{},{}
+1st innings,Pakistan,0.3,Sharjeel Khan,A Nehra,0,{},{}
+1st innings,Pakistan,0.4,Sharjeel Khan,A Nehra,1,{},{}
+1st innings,Pakistan,0.5,Ahmed Shehzad,A Nehra,0,{},{}
+1st innings,Pakistan,0.6,Ahmed Shehzad,A Nehra,0,{},{}
+1st innings,Pakistan,1.1,Sharjeel Khan,R Ashwin,0,{},{}
+1st innings,Pakistan,1.2,Sharjeel Khan,R Ashwin,0,{},{}
+1st innings,Pakistan,1.3,Sharjeel Khan,R Ashwin,0,{},{}
+1st innings,Pakistan,1.4,Sharjeel Khan,R Ashwin,0,{},{}
+1st innings,Pakistan,1.5,Sharjeel Khan,R Ashwin,1,{},{}
+1st innings,Pakistan,1.6,Ahmed Shehzad,R Ashwin,1,{'byes': 1},{}
+1st innings,Pakistan,2.1,Ahmed Shehzad,A Nehra,1,{},{}
+1st innings,Pakistan,2.2,Sharjeel Khan,A Nehra,1,{},{}
+1st innings,Pakistan,2.3,Ahmed Shehzad,A Nehra,0,{},{}
+1st innings,Pakistan,2.4,Ahmed Shehzad,A Nehra,0,{},{}
+1st innings,Pakistan,2.5,Ahmed Shehzad,A Nehra,1,{},{}
+1st innings,Pakistan,2.6,Sharjeel Khan,A Nehra,4,{},{}
+1st innings,Pakistan,3.1,Ahmed Shehzad,R Ashwin,1,{},{}
+1st innings,Pakistan,3.2,Sharjeel Khan,R Ashwin,0,{},{}
+1st innings,Pakistan,3.3,Sharjeel Khan,R Ashwin,1,{},{}
+1st innings,Pakistan,3.4,Ahmed Shehzad,R Ashwin,4,{},{}
+1st innings,Pakistan,3.5,Ahmed Shehzad,R Ashwin,0,{},{}
+1st innings,Pakistan,3.6,Ahmed Shehzad,R Ashwin,1,{},{}
+1st innings,Pakistan,4.1,Ahmed Shehzad,JJ Bumrah,1,{},{}
+1st innings,Pakistan,4.2,Sharjeel Khan,JJ Bumrah,0,{},{}
+1st innings,Pakistan,4.3,Sharjeel Khan,JJ Bumrah,0,{},{}
+1st innings,Pakistan,4.4,Sharjeel Khan,JJ Bumrah,0,{},{}
+1st innings,Pakistan,4.5,Sharjeel Khan,JJ Bumrah,0,{},{}
+1st innings,Pakistan,4.6,Sharjeel Khan,JJ Bumrah,4,{},{}
+1st innings,Pakistan,5.1,Ahmed Shehzad,R Ashwin,0,{},{}
+1st innings,Pakistan,5.2,Ahmed Shehzad,R Ashwin,1,{},{}
+1st innings,Pakistan,5.3,Sharjeel Khan,R Ashwin,1,{},{}
+1st innings,Pakistan,5.4,Ahmed Shehzad,R Ashwin,1,{},{}
+1st innings,Pakistan,5.5,Sharjeel Khan,R Ashwin,0,{},{}
+1st innings,Pakistan,5.6,Sharjeel Khan,R Ashwin,1,{},{}
+1st innings,Pakistan,6.1,Sharjeel Khan,RA Jadeja,1,{'wides': 1},{}
+1st innings,Pakistan,6.2,Sharjeel Khan,RA Jadeja,0,{},{}
+1st innings,Pakistan,6.3,Sharjeel Khan,RA Jadeja,1,{},{}
+1st innings,Pakistan,6.4,Ahmed Shehzad,RA Jadeja,0,{},{}
+1st innings,Pakistan,6.5,Ahmed Shehzad,RA Jadeja,4,{},{}
+1st innings,Pakistan,6.6,Ahmed Shehzad,RA Jadeja,0,{},{}
+1st innings,Pakistan,6.7,Ahmed Shehzad,RA Jadeja,0,{},{}
+1st innings,Pakistan,7.1,Sharjeel Khan,SK Raina,1,{},{}
+1st innings,Pakistan,7.2,Ahmed Shehzad,SK Raina,2,{},{}
+1st innings,Pakistan,7.3,Ahmed Shehzad,SK Raina,1,{},{}
+1st innings,Pakistan,7.4,Sharjeel Khan,SK Raina,0,{},"{'fielders': ['HH Pandya'], 'kind': 'caught', 'player_out': 'Sharjeel Khan'}"
+1st innings,Pakistan,7.5,Ahmed Shehzad,SK Raina,0,{},{}
+1st innings,Pakistan,7.6,Ahmed Shehzad,SK Raina,1,{'legbyes': 1},{}
+1st innings,Pakistan,8.1,Ahmed Shehzad,RA Jadeja,1,{},{}
+1st innings,Pakistan,8.2,Shahid Afridi,RA Jadeja,0,{},{}
+1st innings,Pakistan,8.3,Shahid Afridi,RA Jadeja,0,{},{}
+1st innings,Pakistan,8.4,Shahid Afridi,RA Jadeja,1,{},{}
+1st innings,Pakistan,8.5,Ahmed Shehzad,RA Jadeja,1,{},{}
+1st innings,Pakistan,8.6,Shahid Afridi,RA Jadeja,0,{},{}
+1st innings,Pakistan,9.1,Ahmed Shehzad,JJ Bumrah,4,{},{}
+1st innings,Pakistan,9.2,Ahmed Shehzad,JJ Bumrah,0,{},"{'fielders': ['RA Jadeja'], 'kind': 'caught', 'player_out': 'Ahmed Shehzad'}"
+1st innings,Pakistan,9.3,Shahid Afridi,JJ Bumrah,4,{},{}
+1st innings,Pakistan,9.4,Shahid Afridi,JJ Bumrah,0,{},{}
+1st innings,Pakistan,9.5,Shahid Afridi,JJ Bumrah,0,{},{}
+1st innings,Pakistan,9.6,Shahid Afridi,JJ Bumrah,1,{},{}
+1st innings,Pakistan,10.1,Shahid Afridi,RA Jadeja,0,{},{}
+1st innings,Pakistan,10.2,Shahid Afridi,RA Jadeja,1,{},{}
+1st innings,Pakistan,10.3,Umar Akmal,RA Jadeja,0,{},{}
+1st innings,Pakistan,10.4,Umar Akmal,RA Jadeja,0,{},{}
+1st innings,Pakistan,10.5,Umar Akmal,RA Jadeja,1,{},{}
+1st innings,Pakistan,10.6,Shahid Afridi,RA Jadeja,1,{},{}
+1st innings,Pakistan,11.1,Shahid Afridi,HH Pandya,1,{'legbyes': 1},{}
+1st innings,Pakistan,11.2,Umar Akmal,HH Pandya,4,{},{}
+1st innings,Pakistan,11.3,Umar Akmal,HH Pandya,1,{},{}
+1st innings,Pakistan,11.4,Shahid Afridi,HH Pandya,0,{},{}
+1st innings,Pakistan,11.5,Shahid Afridi,HH Pandya,0,{},"{'fielders': ['V Kohli'], 'kind': 'caught', 'player_out': 'Shahid Afridi'}"
+1st innings,Pakistan,11.6,Umar Akmal,HH Pandya,5,{},{}
+1st innings,Pakistan,12.1,Umar Akmal,A Nehra,0,{},{}
+1st innings,Pakistan,12.2,Umar Akmal,A Nehra,0,{},{}
+1st innings,Pakistan,12.3,Umar Akmal,A Nehra,1,{},{}
+1st innings,Pakistan,12.4,Shoaib Malik,A Nehra,0,{},{}
+1st innings,Pakistan,12.5,Shoaib Malik,A Nehra,0,{},{}
+1st innings,Pakistan,12.6,Shoaib Malik,A Nehra,1,{},{}
+1st innings,Pakistan,13.1,Shoaib Malik,HH Pandya,1,{},{}
+1st innings,Pakistan,13.2,Umar Akmal,HH Pandya,1,{},{}
+1st innings,Pakistan,13.3,Shoaib Malik,HH Pandya,0,{},{}
+1st innings,Pakistan,13.4,Shoaib Malik,HH Pandya,6,{},{}
+1st innings,Pakistan,13.5,Shoaib Malik,HH Pandya,1,{},{}
+1st innings,Pakistan,13.6,Umar Akmal,HH Pandya,6,{},{}
+1st innings,Pakistan,14.1,Shoaib Malik,JJ Bumrah,1,{},{}
+1st innings,Pakistan,14.2,Umar Akmal,JJ Bumrah,2,{'noballs': 1},{}
+1st innings,Pakistan,14.3,Shoaib Malik,JJ Bumrah,1,{},{}
+1st innings,Pakistan,14.4,Umar Akmal,JJ Bumrah,1,{},{}
+1st innings,Pakistan,14.5,Shoaib Malik,JJ Bumrah,4,{},{}
+1st innings,Pakistan,14.6,Shoaib Malik,JJ Bumrah,4,{},{}
+1st innings,Pakistan,14.7,Shoaib Malik,JJ Bumrah,0,{},{}
+1st innings,Pakistan,15.1,Umar Akmal,RA Jadeja,0,{},{}
+1st innings,Pakistan,15.2,Umar Akmal,RA Jadeja,1,{},{}
+1st innings,Pakistan,15.3,Shoaib Malik,RA Jadeja,4,{},{}
+1st innings,Pakistan,15.4,Shoaib Malik,RA Jadeja,1,{},{}
+1st innings,Pakistan,15.5,Umar Akmal,RA Jadeja,0,{},"{'fielders': ['MS Dhoni'], 'kind': 'caught', 'player_out': 'Umar Akmal'}"
+1st innings,Pakistan,15.6,Sarfraz Ahmed,RA Jadeja,2,{},{}
+1st innings,Pakistan,16.1,Shoaib Malik,A Nehra,2,{},{}
+1st innings,Pakistan,16.2,Shoaib Malik,A Nehra,0,{},"{'fielders': ['R Ashwin'], 'kind': 'caught', 'player_out': 'Shoaib Malik'}"
+1st innings,Pakistan,16.3,Sarfraz Ahmed,A Nehra,1,{},{}
+1st innings,Pakistan,16.4,Mohammad Hafeez,A Nehra,1,{},{}
+1st innings,Pakistan,16.5,Sarfraz Ahmed,A Nehra,4,{},{}
+1st innings,Pakistan,16.6,Sarfraz Ahmed,A Nehra,0,{},{}
+1st innings,Pakistan,17.1,Mohammad Hafeez,JJ Bumrah,1,{},{}
+1st innings,Pakistan,17.2,Sarfraz Ahmed,JJ Bumrah,1,{},{}
+1st innings,Pakistan,17.3,Mohammad Hafeez,JJ Bumrah,2,{},{}
+1st innings,Pakistan,17.4,Mohammad Hafeez,JJ Bumrah,1,{},{}
+1st innings,Pakistan,17.5,Sarfraz Ahmed,JJ Bumrah,1,{'byes': 1},{}
+1st innings,Pakistan,17.6,Mohammad Hafeez,JJ Bumrah,1,{'legbyes': 1},{}
+2nd innings,India,0.1,RG Sharma,Mohammad Amir,0,{},{}
+2nd innings,India,0.2,RG Sharma,Mohammad Amir,0,{},{}
+2nd innings,India,0.3,RG Sharma,Mohammad Amir,1,{'wides': 1},{}
+2nd innings,India,0.4,RG Sharma,Mohammad Amir,1,{'legbyes': 1},{}
+2nd innings,India,0.5,S Dhawan,Mohammad Amir,1,{},{}
+2nd innings,India,0.6,RG Sharma,Mohammad Amir,1,{},{}
+2nd innings,India,0.7,S Dhawan,Mohammad Amir,0,{},{}
+2nd innings,India,1.1,RG Sharma,Mohammad Irfan,4,{},{}
+2nd innings,India,1.2,RG Sharma,Mohammad Irfan,1,{'wides': 1},{}
+2nd innings,India,1.3,RG Sharma,Mohammad Irfan,0,{},{}
+2nd innings,India,1.4,RG Sharma,Mohammad Irfan,0,{},{}
+2nd innings,India,1.5,RG Sharma,Mohammad Irfan,0,{},{}
+2nd innings,India,1.6,RG Sharma,Mohammad Irfan,4,{},{}
+2nd innings,India,1.7,RG Sharma,Mohammad Irfan,1,{},{}
+2nd innings,India,2.1,RG Sharma,Mohammad Amir,0,{},"{'fielders': ['Shoaib Malik'], 'kind': 'caught', 'player_out': 'RG Sharma'}"
+2nd innings,India,2.2,S Dhawan,Mohammad Amir,2,{'legbyes': 2},{}
+2nd innings,India,2.3,S Dhawan,Mohammad Amir,0,{},{}
+2nd innings,India,2.4,S Dhawan,Mohammad Amir,0,{},{}
+2nd innings,India,2.5,S Dhawan,Mohammad Amir,0,{},{}
+2nd innings,India,2.6,S Dhawan,Mohammad Amir,0,{},{}
+2nd innings,India,3.1,V Kohli,Mohammad Irfan,1,{},{}
+2nd innings,India,3.2,S Dhawan,Mohammad Irfan,0,{},{}
+2nd innings,India,3.3,S Dhawan,Mohammad Irfan,0,{},{}
+2nd innings,India,3.4,S Dhawan,Mohammad Irfan,0,{},{}
+2nd innings,India,3.5,S Dhawan,Mohammad Irfan,1,{},{}
+2nd innings,India,3.6,V Kohli,Mohammad Irfan,0,{},{}
+2nd innings,India,4.1,S Dhawan,Mohammad Sami,4,{},{}
+2nd innings,India,4.2,S Dhawan,Mohammad Sami,1,{'noballs': 1},{}
+2nd innings,India,4.3,S Dhawan,Mohammad Sami,0,{},{}
+2nd innings,India,4.4,S Dhawan,Mohammad Sami,0,{},"{'kind': 'bowled', 'player_out': 'S Dhawan'}"
+2nd innings,India,4.5,SK Raina,Mohammad Sami,0,{},"{'kind': 'bowled', 'player_out': 'SK Raina'}"
+2nd innings,India,4.6,Yuvraj Singh,Mohammad Sami,0,{},{}
+2nd innings,India,4.7,Yuvraj Singh,Mohammad Sami,0,{},{}
+2nd innings,India,5.1,V Kohli,Shahid Afridi,1,{},{}
+2nd innings,India,5.2,Yuvraj Singh,Shahid Afridi,1,{},{}
+2nd innings,India,5.3,V Kohli,Shahid Afridi,1,{},{}
+2nd innings,India,5.4,Yuvraj Singh,Shahid Afridi,1,{'wides': 1},{}
+2nd innings,India,5.5,Yuvraj Singh,Shahid Afridi,0,{},{}
+2nd innings,India,5.6,Yuvraj Singh,Shahid Afridi,0,{},{}
+2nd innings,India,5.7,Yuvraj Singh,Shahid Afridi,1,{'wides': 1},{}
+2nd innings,India,5.8,Yuvraj Singh,Shahid Afridi,0,{},{}
+2nd innings,India,6.1,V Kohli,Mohammad Sami,4,{},{}
+2nd innings,India,6.2,V Kohli,Mohammad Sami,1,{},{}
+2nd innings,India,6.3,Yuvraj Singh,Mohammad Sami,4,{},{}
+2nd innings,India,6.4,Yuvraj Singh,Mohammad Sami,1,{},{}
+2nd innings,India,6.5,V Kohli,Mohammad Sami,2,{},{}
+2nd innings,India,6.6,V Kohli,Mohammad Sami,0,{},{}
+2nd innings,India,7.1,Yuvraj Singh,Shahid Afridi,1,{},{}
+2nd innings,India,7.2,V Kohli,Shahid Afridi,1,{},{}
+2nd innings,India,7.3,Yuvraj Singh,Shahid Afridi,1,{},{}
+2nd innings,India,7.4,V Kohli,Shahid Afridi,1,{},{}
+2nd innings,India,7.5,Yuvraj Singh,Shahid Afridi,1,{},{}
+2nd innings,India,7.6,V Kohli,Shahid Afridi,1,{},{}
+2nd innings,India,8.1,V Kohli,Shoaib Malik,1,{},{}
+2nd innings,India,8.2,Yuvraj Singh,Shoaib Malik,1,{},{}
+2nd innings,India,8.3,V Kohli,Shoaib Malik,1,{'wides': 1},{}
+2nd innings,India,8.4,V Kohli,Shoaib Malik,1,{},{}
+2nd innings,India,8.5,Yuvraj Singh,Shoaib Malik,2,{},{}
+2nd innings,India,8.6,Yuvraj Singh,Shoaib Malik,0,{},{}
+2nd innings,India,8.7,Yuvraj Singh,Shoaib Malik,2,{},{}
+2nd innings,India,9.1,V Kohli,Wahab Riaz,4,{},{}
+2nd innings,India,9.2,V Kohli,Wahab Riaz,1,{},{}
+2nd innings,India,9.3,Yuvraj Singh,Wahab Riaz,0,{},{}
+2nd innings,India,9.4,Yuvraj Singh,Wahab Riaz,0,{},{}
+2nd innings,India,9.5,Yuvraj Singh,Wahab Riaz,1,{},{}
+2nd innings,India,9.6,V Kohli,Wahab Riaz,0,{},{}
+2nd innings,India,10.1,Yuvraj Singh,Shoaib Malik,2,{'wides': 2},{}
+2nd innings,India,10.2,V Kohli,Shoaib Malik,1,{},{}
+2nd innings,India,10.3,Yuvraj Singh,Shoaib Malik,1,{},{}
+2nd innings,India,10.4,V Kohli,Shoaib Malik,6,{},{}
+2nd innings,India,10.5,V Kohli,Shoaib Malik,0,{},{}
+2nd innings,India,10.6,V Kohli,Shoaib Malik,4,{},{}
+2nd innings,India,10.7,V Kohli,Shoaib Malik,0,{},{}
+2nd innings,India,11.1,Yuvraj Singh,Wahab Riaz,6,{},{}
+2nd innings,India,11.2,Yuvraj Singh,Wahab Riaz,1,{},{}
+2nd innings,India,11.3,V Kohli,Wahab Riaz,1,{},{}
+2nd innings,India,11.4,Yuvraj Singh,Wahab Riaz,1,{},{}
+2nd innings,India,11.5,V Kohli,Wahab Riaz,1,{},{}
+2nd innings,India,11.6,Yuvraj Singh,Wahab Riaz,0,{},"{'fielders': ['Mohammad Sami'], 'kind': 'caught', 'player_out': 'Yuvraj Singh'}"
+2nd innings,India,12.1,V Kohli,Shahid Afridi,4,{},{}
+2nd innings,India,12.2,V Kohli,Shahid Afridi,0,{},{}
+2nd innings,India,12.3,V Kohli,Shahid Afridi,0,{},{}
+2nd innings,India,12.4,V Kohli,Shahid Afridi,1,{},{}
+2nd innings,India,12.5,MS Dhoni,Shahid Afridi,1,{},{}
+2nd innings,India,12.6,V Kohli,Shahid Afridi,1,{},{}
+2nd innings,India,13.1,V Kohli,Mohammad Amir,1,{},{}
+2nd innings,India,13.2,MS Dhoni,Mohammad Amir,1,{},{}
+2nd innings,India,13.3,V Kohli,Mohammad Amir,1,{},{}
+2nd innings,India,13.4,MS Dhoni,Mohammad Amir,1,{},{}
+2nd innings,India,13.5,V Kohli,Mohammad Amir,0,{},{}
+2nd innings,India,13.6,V Kohli,Mohammad Amir,4,{},{}
+2nd innings,India,14.1,MS Dhoni,Shahid Afridi,1,{},{}
+2nd innings,India,14.2,V Kohli,Shahid Afridi,4,{},{}
+2nd innings,India,14.3,V Kohli,Shahid Afridi,1,{},{}
+2nd innings,India,14.4,MS Dhoni,Shahid Afridi,0,{},{}
+2nd innings,India,14.5,MS Dhoni,Shahid Afridi,1,{},{}
+2nd innings,India,14.6,V Kohli,Shahid Afridi,0,{},{}
+2nd innings,India,15.1,MS Dhoni,Mohammad Irfan,1,{},{}
+2nd innings,India,15.2,V Kohli,Mohammad Irfan,4,{},{}
+2nd innings,India,15.3,V Kohli,Mohammad Irfan,1,{},{}
+2nd innings,India,15.4,MS Dhoni,Mohammad Irfan,6,{},{}
+2nd innings,India,15.5,MS Dhoni,Mohammad Irfan,1,{},{}

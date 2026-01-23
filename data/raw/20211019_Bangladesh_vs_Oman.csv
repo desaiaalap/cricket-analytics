@@ -1,0 +1,254 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Bangladesh,0.1,Mohammad Naim,Bilal Khan,0,{},{}
+1st innings,Bangladesh,0.2,Mohammad Naim,Bilal Khan,0,{},{}
+1st innings,Bangladesh,0.3,Mohammad Naim,Bilal Khan,0,{},{}
+1st innings,Bangladesh,0.4,Mohammad Naim,Bilal Khan,0,{},{}
+1st innings,Bangladesh,0.5,Mohammad Naim,Bilal Khan,1,{'wides': 1},{}
+1st innings,Bangladesh,0.6,Mohammad Naim,Bilal Khan,0,{},{}
+1st innings,Bangladesh,0.7,Mohammad Naim,Bilal Khan,1,{'wides': 1},{}
+1st innings,Bangladesh,0.8,Mohammad Naim,Bilal Khan,1,{},{}
+1st innings,Bangladesh,1.1,Mohammad Naim,Kaleemullah,0,{},{}
+1st innings,Bangladesh,1.2,Mohammad Naim,Kaleemullah,0,{},{}
+1st innings,Bangladesh,1.3,Mohammad Naim,Kaleemullah,1,{},{}
+1st innings,Bangladesh,1.4,Liton Das,Kaleemullah,0,{},{}
+1st innings,Bangladesh,1.5,Liton Das,Kaleemullah,2,{},{}
+1st innings,Bangladesh,1.6,Liton Das,Kaleemullah,1,{},{}
+1st innings,Bangladesh,2.1,Liton Das,Bilal Khan,1,{},{}
+1st innings,Bangladesh,2.2,Mohammad Naim,Bilal Khan,1,{},{}
+1st innings,Bangladesh,2.3,Liton Das,Bilal Khan,0,{},{}
+1st innings,Bangladesh,2.4,Liton Das,Bilal Khan,2,{},{}
+1st innings,Bangladesh,2.5,Liton Das,Bilal Khan,0,{},"{'player_out': 'Liton Das', 'kind': 'lbw'}"
+1st innings,Bangladesh,2.6,Mahedi Hasan,Bilal Khan,0,{},{}
+1st innings,Bangladesh,3.1,Mohammad Naim,Kaleemullah,0,{},{}
+1st innings,Bangladesh,3.2,Mohammad Naim,Kaleemullah,0,{},{}
+1st innings,Bangladesh,3.3,Mohammad Naim,Kaleemullah,4,{},{}
+1st innings,Bangladesh,3.4,Mohammad Naim,Kaleemullah,6,{},{}
+1st innings,Bangladesh,3.5,Mohammad Naim,Kaleemullah,0,{},{}
+1st innings,Bangladesh,3.6,Mohammad Naim,Kaleemullah,0,{},{}
+1st innings,Bangladesh,4.1,Mahedi Hasan,Fayyaz Butt,0,{},{}
+1st innings,Bangladesh,4.2,Mahedi Hasan,Fayyaz Butt,0,{},{}
+1st innings,Bangladesh,4.3,Mahedi Hasan,Fayyaz Butt,0,{},"{'player_out': 'Mahedi Hasan', 'kind': 'caught and bowled'}"
+1st innings,Bangladesh,4.4,Shakib Al Hasan,Fayyaz Butt,4,{},{}
+1st innings,Bangladesh,4.5,Shakib Al Hasan,Fayyaz Butt,0,{},{}
+1st innings,Bangladesh,4.6,Shakib Al Hasan,Fayyaz Butt,0,{},{}
+1st innings,Bangladesh,5.1,Mohammad Naim,Mohammad Nadeem,0,{},{}
+1st innings,Bangladesh,5.2,Mohammad Naim,Mohammad Nadeem,1,{},{}
+1st innings,Bangladesh,5.3,Shakib Al Hasan,Mohammad Nadeem,0,{},{}
+1st innings,Bangladesh,5.4,Shakib Al Hasan,Mohammad Nadeem,1,{},{}
+1st innings,Bangladesh,5.5,Mohammad Naim,Mohammad Nadeem,1,{},{}
+1st innings,Bangladesh,5.6,Shakib Al Hasan,Mohammad Nadeem,1,{},{}
+1st innings,Bangladesh,6.1,Shakib Al Hasan,Fayyaz Butt,1,{},{}
+1st innings,Bangladesh,6.2,Mohammad Naim,Fayyaz Butt,1,{},{}
+1st innings,Bangladesh,6.3,Shakib Al Hasan,Fayyaz Butt,1,{},{}
+1st innings,Bangladesh,6.4,Mohammad Naim,Fayyaz Butt,2,{},{}
+1st innings,Bangladesh,6.5,Mohammad Naim,Fayyaz Butt,6,{},{}
+1st innings,Bangladesh,6.6,Mohammad Naim,Fayyaz Butt,1,{},{}
+1st innings,Bangladesh,7.1,Mohammad Naim,Mohammad Nadeem,1,{'wides': 1},{}
+1st innings,Bangladesh,7.2,Mohammad Naim,Mohammad Nadeem,1,{},{}
+1st innings,Bangladesh,7.3,Shakib Al Hasan,Mohammad Nadeem,0,{},{}
+1st innings,Bangladesh,7.4,Shakib Al Hasan,Mohammad Nadeem,1,{},{}
+1st innings,Bangladesh,7.5,Mohammad Naim,Mohammad Nadeem,0,{},{}
+1st innings,Bangladesh,7.6,Mohammad Naim,Mohammad Nadeem,1,{},{}
+1st innings,Bangladesh,7.7,Shakib Al Hasan,Mohammad Nadeem,0,{},{}
+1st innings,Bangladesh,8.1,Mohammad Naim,Aqib Ilyas,1,{},{}
+1st innings,Bangladesh,8.2,Shakib Al Hasan,Aqib Ilyas,4,{},{}
+1st innings,Bangladesh,8.3,Shakib Al Hasan,Aqib Ilyas,1,{},{}
+1st innings,Bangladesh,8.4,Mohammad Naim,Aqib Ilyas,1,{},{}
+1st innings,Bangladesh,8.5,Shakib Al Hasan,Aqib Ilyas,1,{},{}
+1st innings,Bangladesh,8.6,Mohammad Naim,Aqib Ilyas,1,{},{}
+1st innings,Bangladesh,9.1,Mohammad Naim,Kaleemullah,1,{},{}
+1st innings,Bangladesh,9.2,Shakib Al Hasan,Kaleemullah,4,{},{}
+1st innings,Bangladesh,9.3,Shakib Al Hasan,Kaleemullah,0,{},{}
+1st innings,Bangladesh,9.4,Shakib Al Hasan,Kaleemullah,1,{},{}
+1st innings,Bangladesh,9.5,Mohammad Naim,Kaleemullah,1,{},{}
+1st innings,Bangladesh,9.6,Shakib Al Hasan,Kaleemullah,2,{},{}
+1st innings,Bangladesh,10.1,Mohammad Naim,Aqib Ilyas,0,{},{}
+1st innings,Bangladesh,10.2,Mohammad Naim,Aqib Ilyas,1,{'byes': 1},{}
+1st innings,Bangladesh,10.3,Shakib Al Hasan,Aqib Ilyas,4,{},{}
+1st innings,Bangladesh,10.4,Shakib Al Hasan,Aqib Ilyas,0,{},{}
+1st innings,Bangladesh,10.5,Shakib Al Hasan,Aqib Ilyas,2,{},{}
+1st innings,Bangladesh,10.6,Shakib Al Hasan,Aqib Ilyas,1,{},{}
+1st innings,Bangladesh,11.1,Shakib Al Hasan,Mohammad Nadeem,4,{},{}
+1st innings,Bangladesh,11.2,Shakib Al Hasan,Mohammad Nadeem,4,{},{}
+1st innings,Bangladesh,11.3,Shakib Al Hasan,Mohammad Nadeem,1,{},{}
+1st innings,Bangladesh,11.4,Mohammad Naim,Mohammad Nadeem,6,{},{}
+1st innings,Bangladesh,11.5,Mohammad Naim,Mohammad Nadeem,2,{},{}
+1st innings,Bangladesh,11.6,Mohammad Naim,Mohammad Nadeem,0,{},{}
+1st innings,Bangladesh,12.1,Shakib Al Hasan,Zeeshan Maqsood,2,{},{}
+1st innings,Bangladesh,12.2,Shakib Al Hasan,Zeeshan Maqsood,1,{},{}
+1st innings,Bangladesh,12.3,Mohammad Naim,Zeeshan Maqsood,4,{},{}
+1st innings,Bangladesh,12.4,Mohammad Naim,Zeeshan Maqsood,1,{},{}
+1st innings,Bangladesh,12.5,Shakib Al Hasan,Zeeshan Maqsood,1,{},{}
+1st innings,Bangladesh,12.6,Mohammad Naim,Zeeshan Maqsood,1,{'legbyes': 1},{}
+1st innings,Bangladesh,13.1,Mohammad Naim,Fayyaz Butt,2,{},{}
+1st innings,Bangladesh,13.2,Mohammad Naim,Fayyaz Butt,1,{},{}
+1st innings,Bangladesh,13.3,Shakib Al Hasan,Fayyaz Butt,0,{},"{'player_out': 'Shakib Al Hasan', 'fielders': ['Aqib Ilyas'], 'kind': 'run out'}"
+1st innings,Bangladesh,13.4,Mohammad Naim,Fayyaz Butt,1,{},{}
+1st innings,Bangladesh,13.5,Nurul Hasan,Fayyaz Butt,1,{},{}
+1st innings,Bangladesh,13.6,Nurul Hasan,Fayyaz Butt,1,{},{}
+1st innings,Bangladesh,14.1,Nurul Hasan,Zeeshan Maqsood,1,{},{}
+1st innings,Bangladesh,14.2,Mohammad Naim,Zeeshan Maqsood,4,{},{}
+1st innings,Bangladesh,14.3,Mohammad Naim,Zeeshan Maqsood,0,{},{}
+1st innings,Bangladesh,14.4,Mohammad Naim,Zeeshan Maqsood,2,{},{}
+1st innings,Bangladesh,14.5,Mohammad Naim,Zeeshan Maqsood,1,{},{}
+1st innings,Bangladesh,14.6,Nurul Hasan,Zeeshan Maqsood,0,{},"{'player_out': 'Nurul Hasan', 'fielders': ['Sandeep Goud'], 'kind': 'caught'}"
+1st innings,Bangladesh,15.1,Mohammad Naim,Bilal Khan,6,{},{}
+1st innings,Bangladesh,15.2,Mohammad Naim,Bilal Khan,1,{},{}
+1st innings,Bangladesh,15.3,Afif Hossain,Bilal Khan,0,{},{}
+1st innings,Bangladesh,15.4,Afif Hossain,Bilal Khan,0,{},{}
+1st innings,Bangladesh,15.5,Afif Hossain,Bilal Khan,0,{},{}
+1st innings,Bangladesh,15.6,Afif Hossain,Bilal Khan,1,{},{}
+1st innings,Bangladesh,16.1,Afif Hossain,Kaleemullah,0,{},"{'player_out': 'Afif Hossain', 'fielders': ['Jatinder Singh'], 'kind': 'caught'}"
+1st innings,Bangladesh,16.2,Mohammad Naim,Kaleemullah,1,{},{}
+1st innings,Bangladesh,16.3,Mahmudullah,Kaleemullah,1,{},{}
+1st innings,Bangladesh,16.4,Mohammad Naim,Kaleemullah,0,{},"{'player_out': 'Mohammad Naim', 'fielders': ['Ayan Khan'], 'kind': 'caught'}"
+1st innings,Bangladesh,16.5,Mahmudullah,Kaleemullah,1,{},{}
+1st innings,Bangladesh,16.6,Mushfiqur Rahim,Kaleemullah,4,{},{}
+1st innings,Bangladesh,17.1,Mahmudullah,Mohammad Nadeem,0,{},{}
+1st innings,Bangladesh,17.2,Mahmudullah,Mohammad Nadeem,1,{},{}
+1st innings,Bangladesh,17.3,Mushfiqur Rahim,Mohammad Nadeem,1,{},{}
+1st innings,Bangladesh,17.4,Mahmudullah,Mohammad Nadeem,6,{},{}
+1st innings,Bangladesh,17.5,Mahmudullah,Mohammad Nadeem,1,{},{}
+1st innings,Bangladesh,17.6,Mushfiqur Rahim,Mohammad Nadeem,1,{},{}
+1st innings,Bangladesh,18.1,Mushfiqur Rahim,Fayyaz Butt,1,{'wides': 1},{}
+1st innings,Bangladesh,18.2,Mushfiqur Rahim,Fayyaz Butt,0,{},"{'player_out': 'Mushfiqur Rahim', 'fielders': ['Naseem Khushi'], 'kind': 'caught'}"
+1st innings,Bangladesh,18.3,Mohammad Saifuddin,Fayyaz Butt,0,{},"{'player_out': 'Mohammad Saifuddin', 'fielders': ['Jatinder Singh'], 'kind': 'caught'}"
+1st innings,Bangladesh,18.4,Mahmudullah,Fayyaz Butt,2,{},{}
+1st innings,Bangladesh,18.5,Mahmudullah,Fayyaz Butt,1,{},{}
+1st innings,Bangladesh,18.6,Taskin Ahmed,Fayyaz Butt,1,{'byes': 1},{}
+1st innings,Bangladesh,18.7,Mahmudullah,Fayyaz Butt,4,{},{}
+1st innings,Bangladesh,19.1,Taskin Ahmed,Bilal Khan,4,{'legbyes': 4},{}
+1st innings,Bangladesh,19.2,Taskin Ahmed,Bilal Khan,1,{},{}
+1st innings,Bangladesh,19.3,Mahmudullah,Bilal Khan,0,{},"{'player_out': 'Mahmudullah', 'kind': 'bowled'}"
+1st innings,Bangladesh,19.4,Mustafizur Rahman,Bilal Khan,0,{},{}
+1st innings,Bangladesh,19.5,Mustafizur Rahman,Bilal Khan,2,{},{}
+1st innings,Bangladesh,19.6,Mustafizur Rahman,Bilal Khan,0,{},"{'player_out': 'Mustafizur Rahman', 'fielders': ['Zeeshan Maqsood'], 'kind': 'caught'}"
+2nd innings,Oman,0.1,Aqib Ilyas,Taskin Ahmed,2,{},{}
+2nd innings,Oman,0.2,Aqib Ilyas,Taskin Ahmed,4,{},{}
+2nd innings,Oman,0.3,Aqib Ilyas,Taskin Ahmed,0,{},{}
+2nd innings,Oman,0.4,Aqib Ilyas,Taskin Ahmed,1,{'legbyes': 1},{}
+2nd innings,Oman,0.5,Jatinder Singh,Taskin Ahmed,2,{},{}
+2nd innings,Oman,0.6,Jatinder Singh,Taskin Ahmed,2,{'wides': 2},{}
+2nd innings,Oman,0.7,Aqib Ilyas,Taskin Ahmed,1,{'legbyes': 1},{}
+2nd innings,Oman,1.1,Aqib Ilyas,Mustafizur Rahman,1,{'wides': 1},{}
+2nd innings,Oman,1.2,Aqib Ilyas,Mustafizur Rahman,0,{},"{'player_out': 'Aqib Ilyas', 'kind': 'lbw'}"
+2nd innings,Oman,1.3,KH Prajapati,Mustafizur Rahman,0,{},{}
+2nd innings,Oman,1.4,KH Prajapati,Mustafizur Rahman,0,{},{}
+2nd innings,Oman,1.5,KH Prajapati,Mustafizur Rahman,1,{'wides': 1},{}
+2nd innings,Oman,1.6,KH Prajapati,Mustafizur Rahman,1,{'wides': 1},{}
+2nd innings,Oman,1.7,KH Prajapati,Mustafizur Rahman,0,{},{}
+2nd innings,Oman,1.8,KH Prajapati,Mustafizur Rahman,1,{'wides': 1},{}
+2nd innings,Oman,1.9,KH Prajapati,Mustafizur Rahman,6,{},{}
+2nd innings,Oman,1.1,KH Prajapati,Mustafizur Rahman,1,{'wides': 1},{}
+2nd innings,Oman,1.11,KH Prajapati,Mustafizur Rahman,1,{},{}
+2nd innings,Oman,2.1,KH Prajapati,Mohammad Saifuddin,0,{},{}
+2nd innings,Oman,2.2,KH Prajapati,Mohammad Saifuddin,0,{},{}
+2nd innings,Oman,2.3,KH Prajapati,Mohammad Saifuddin,0,{},{}
+2nd innings,Oman,2.4,KH Prajapati,Mohammad Saifuddin,1,{},{}
+2nd innings,Oman,2.5,Jatinder Singh,Mohammad Saifuddin,0,{},{}
+2nd innings,Oman,2.6,Jatinder Singh,Mohammad Saifuddin,1,{},{}
+2nd innings,Oman,3.1,Jatinder Singh,Shakib Al Hasan,0,{},{}
+2nd innings,Oman,3.2,Jatinder Singh,Shakib Al Hasan,4,{},{}
+2nd innings,Oman,3.3,Jatinder Singh,Shakib Al Hasan,0,{},{}
+2nd innings,Oman,3.4,Jatinder Singh,Shakib Al Hasan,1,{},{}
+2nd innings,Oman,3.5,KH Prajapati,Shakib Al Hasan,0,{},{}
+2nd innings,Oman,3.6,KH Prajapati,Shakib Al Hasan,2,{},{}
+2nd innings,Oman,4.1,Jatinder Singh,Mohammad Saifuddin,1,{},{}
+2nd innings,Oman,4.2,KH Prajapati,Mohammad Saifuddin,0,{},{}
+2nd innings,Oman,4.3,KH Prajapati,Mohammad Saifuddin,1,{},{}
+2nd innings,Oman,4.4,Jatinder Singh,Mohammad Saifuddin,1,{},{}
+2nd innings,Oman,4.5,KH Prajapati,Mohammad Saifuddin,0,{},{}
+2nd innings,Oman,4.6,KH Prajapati,Mohammad Saifuddin,4,{},{}
+2nd innings,Oman,5.1,Jatinder Singh,Mustafizur Rahman,1,{},{}
+2nd innings,Oman,5.2,KH Prajapati,Mustafizur Rahman,0,{},{}
+2nd innings,Oman,5.3,KH Prajapati,Mustafizur Rahman,6,{},{}
+2nd innings,Oman,5.4,KH Prajapati,Mustafizur Rahman,0,{},"{'player_out': 'KH Prajapati', 'fielders': ['Nurul Hasan'], 'kind': 'caught'}"
+2nd innings,Oman,5.5,Zeeshan Maqsood,Mustafizur Rahman,0,{},{}
+2nd innings,Oman,5.6,Zeeshan Maqsood,Mustafizur Rahman,0,{},{}
+2nd innings,Oman,6.1,Jatinder Singh,Shakib Al Hasan,0,{},{}
+2nd innings,Oman,6.2,Jatinder Singh,Shakib Al Hasan,4,{},{}
+2nd innings,Oman,6.3,Jatinder Singh,Shakib Al Hasan,6,{},{}
+2nd innings,Oman,6.4,Jatinder Singh,Shakib Al Hasan,0,{},{}
+2nd innings,Oman,6.5,Jatinder Singh,Shakib Al Hasan,0,{},{}
+2nd innings,Oman,6.6,Jatinder Singh,Shakib Al Hasan,0,{},{}
+2nd innings,Oman,7.1,Zeeshan Maqsood,Mahedi Hasan,0,{},{}
+2nd innings,Oman,7.2,Zeeshan Maqsood,Mahedi Hasan,0,{},{}
+2nd innings,Oman,7.3,Zeeshan Maqsood,Mahedi Hasan,0,{},{}
+2nd innings,Oman,7.4,Zeeshan Maqsood,Mahedi Hasan,0,{},{}
+2nd innings,Oman,7.5,Zeeshan Maqsood,Mahedi Hasan,1,{},{}
+2nd innings,Oman,7.6,Jatinder Singh,Mahedi Hasan,1,{},{}
+2nd innings,Oman,8.1,Jatinder Singh,Taskin Ahmed,0,{},{}
+2nd innings,Oman,8.2,Jatinder Singh,Taskin Ahmed,0,{},{}
+2nd innings,Oman,8.3,Jatinder Singh,Taskin Ahmed,1,{},{}
+2nd innings,Oman,8.4,Zeeshan Maqsood,Taskin Ahmed,1,{},{}
+2nd innings,Oman,8.5,Jatinder Singh,Taskin Ahmed,4,{},{}
+2nd innings,Oman,8.6,Jatinder Singh,Taskin Ahmed,1,{},{}
+2nd innings,Oman,9.1,Jatinder Singh,Mahedi Hasan,1,{},{}
+2nd innings,Oman,9.2,Zeeshan Maqsood,Mahedi Hasan,0,{},{}
+2nd innings,Oman,9.3,Zeeshan Maqsood,Mahedi Hasan,1,{},{}
+2nd innings,Oman,9.4,Jatinder Singh,Mahedi Hasan,0,{},{}
+2nd innings,Oman,9.5,Jatinder Singh,Mahedi Hasan,1,{},{}
+2nd innings,Oman,9.6,Zeeshan Maqsood,Mahedi Hasan,1,{},{}
+2nd innings,Oman,10.1,Zeeshan Maqsood,Taskin Ahmed,1,{},{}
+2nd innings,Oman,10.2,Jatinder Singh,Taskin Ahmed,1,{},{}
+2nd innings,Oman,10.3,Zeeshan Maqsood,Taskin Ahmed,6,{},{}
+2nd innings,Oman,10.4,Zeeshan Maqsood,Taskin Ahmed,1,{},{}
+2nd innings,Oman,10.5,Jatinder Singh,Taskin Ahmed,1,{},{}
+2nd innings,Oman,10.6,Zeeshan Maqsood,Taskin Ahmed,0,{},{}
+2nd innings,Oman,11.1,Jatinder Singh,Mahedi Hasan,1,{},{}
+2nd innings,Oman,11.2,Zeeshan Maqsood,Mahedi Hasan,0,{},"{'player_out': 'Zeeshan Maqsood', 'fielders': ['Mustafizur Rahman'], 'kind': 'caught'}"
+2nd innings,Oman,11.3,Jatinder Singh,Mahedi Hasan,1,{},{}
+2nd innings,Oman,11.4,Ayan Khan,Mahedi Hasan,0,{},{}
+2nd innings,Oman,11.5,Ayan Khan,Mahedi Hasan,0,{},{}
+2nd innings,Oman,11.6,Ayan Khan,Mahedi Hasan,0,{},{}
+2nd innings,Oman,12.1,Jatinder Singh,Shakib Al Hasan,4,{},{}
+2nd innings,Oman,12.2,Jatinder Singh,Shakib Al Hasan,1,{},{}
+2nd innings,Oman,12.3,Ayan Khan,Shakib Al Hasan,1,{},{}
+2nd innings,Oman,12.4,Jatinder Singh,Shakib Al Hasan,1,{},{}
+2nd innings,Oman,12.5,Ayan Khan,Shakib Al Hasan,1,{},{}
+2nd innings,Oman,12.6,Jatinder Singh,Shakib Al Hasan,0,{},"{'player_out': 'Jatinder Singh', 'fielders': ['Liton Das'], 'kind': 'caught'}"
+2nd innings,Oman,13.1,Ayan Khan,Mahedi Hasan,2,{},{}
+2nd innings,Oman,13.2,Ayan Khan,Mahedi Hasan,1,{},{}
+2nd innings,Oman,13.3,Sandeep Goud,Mahedi Hasan,2,{},{}
+2nd innings,Oman,13.4,Sandeep Goud,Mahedi Hasan,0,{},{}
+2nd innings,Oman,13.5,Sandeep Goud,Mahedi Hasan,0,{},{}
+2nd innings,Oman,13.6,Sandeep Goud,Mahedi Hasan,1,{},{}
+2nd innings,Oman,14.1,Sandeep Goud,Taskin Ahmed,0,{},{}
+2nd innings,Oman,14.2,Sandeep Goud,Taskin Ahmed,1,{},{}
+2nd innings,Oman,14.3,Ayan Khan,Taskin Ahmed,2,{},{}
+2nd innings,Oman,14.4,Ayan Khan,Taskin Ahmed,0,{},{}
+2nd innings,Oman,14.5,Ayan Khan,Taskin Ahmed,0,{},{}
+2nd innings,Oman,14.6,Ayan Khan,Taskin Ahmed,1,{},{}
+2nd innings,Oman,15.1,Ayan Khan,Mohammad Saifuddin,1,{},{}
+2nd innings,Oman,15.2,Sandeep Goud,Mohammad Saifuddin,0,{},{}
+2nd innings,Oman,15.3,Sandeep Goud,Mohammad Saifuddin,0,{},"{'player_out': 'Sandeep Goud', 'fielders': ['Mushfiqur Rahim'], 'kind': 'caught'}"
+2nd innings,Oman,15.4,Naseem Khushi,Mohammad Saifuddin,0,{},{}
+2nd innings,Oman,15.5,Naseem Khushi,Mohammad Saifuddin,2,{},{}
+2nd innings,Oman,15.6,Naseem Khushi,Mohammad Saifuddin,1,{},{}
+2nd innings,Oman,16.1,Naseem Khushi,Shakib Al Hasan,0,{},{}
+2nd innings,Oman,16.2,Naseem Khushi,Shakib Al Hasan,1,{},{}
+2nd innings,Oman,16.3,Ayan Khan,Shakib Al Hasan,0,{},"{'player_out': 'Ayan Khan', 'fielders': ['Mahmudullah'], 'kind': 'caught'}"
+2nd innings,Oman,16.4,Naseem Khushi,Shakib Al Hasan,0,{},"{'player_out': 'Naseem Khushi', 'fielders': ['Mahmudullah'], 'kind': 'caught'}"
+2nd innings,Oman,16.5,Mohammad Nadeem,Shakib Al Hasan,1,{},{}
+2nd innings,Oman,16.6,Kaleemullah,Shakib Al Hasan,1,{},{}
+2nd innings,Oman,17.1,Kaleemullah,Mustafizur Rahman,1,{'wides': 1},{}
+2nd innings,Oman,17.2,Kaleemullah,Mustafizur Rahman,4,{},{}
+2nd innings,Oman,17.3,Kaleemullah,Mustafizur Rahman,0,{},{}
+2nd innings,Oman,17.4,Kaleemullah,Mustafizur Rahman,0,{},{}
+2nd innings,Oman,17.5,Kaleemullah,Mustafizur Rahman,0,{},"{'player_out': 'Kaleemullah', 'fielders': ['Nurul Hasan'], 'kind': 'caught'}"
+2nd innings,Oman,17.6,Fayyaz Butt,Mustafizur Rahman,0,{},{}
+2nd innings,Oman,17.7,Fayyaz Butt,Mustafizur Rahman,0,{},"{'player_out': 'Fayyaz Butt', 'fielders': ['Mushfiqur Rahim'], 'kind': 'caught'}"
+2nd innings,Oman,18.1,Mohammad Nadeem,Mohammad Saifuddin,2,{},{}
+2nd innings,Oman,18.2,Mohammad Nadeem,Mohammad Saifuddin,0,{},{}
+2nd innings,Oman,18.3,Mohammad Nadeem,Mohammad Saifuddin,0,{},{}
+2nd innings,Oman,18.4,Mohammad Nadeem,Mohammad Saifuddin,0,{},{}
+2nd innings,Oman,18.5,Mohammad Nadeem,Mohammad Saifuddin,1,{},{}
+2nd innings,Oman,18.6,Bilal Khan,Mohammad Saifuddin,0,{},{}
+2nd innings,Oman,19.1,Mohammad Nadeem,Mustafizur Rahman,1,{'wides': 1},{}
+2nd innings,Oman,19.2,Mohammad Nadeem,Mustafizur Rahman,4,{},{}
+2nd innings,Oman,19.3,Mohammad Nadeem,Mustafizur Rahman,0,{},{}
+2nd innings,Oman,19.4,Mohammad Nadeem,Mustafizur Rahman,0,{},{}
+2nd innings,Oman,19.5,Mohammad Nadeem,Mustafizur Rahman,1,{'wides': 1},{}
+2nd innings,Oman,19.6,Mohammad Nadeem,Mustafizur Rahman,0,{},{}
+2nd innings,Oman,19.7,Mohammad Nadeem,Mustafizur Rahman,6,{},{}
+2nd innings,Oman,19.8,Mohammad Nadeem,Mustafizur Rahman,0,{},{}

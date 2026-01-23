@@ -1,0 +1,2062 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-01-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abu Dhabi
+  competition: International League T20
+  dates:
+  - '2024-01-27'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Abu Dhabi Knight Riders
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - A Sharafu
+  players:
+    Desert Vipers:
+    - TS Mills
+    - C Munro
+    - AD Hales
+    - AJ Hose
+    - PWH de Silva
+    - Azam Khan
+    - Shadab Khan
+    - SE Rutherford
+    - Shaheen Shah Afridi
+    - Aryan Lakra
+    - Rohan Mustafa
+    - Mohammad Amir
+    Abu Dhabi Knight Riders:
+    - Ali Khan
+    - AGS Gous
+    - JM Clarke
+    - A Sharafu
+    - SR Hain
+    - Imad Wasim
+    - AD Russell
+    - LJ Evans
+    - SP Narine
+    - DJ Willey
+    - Matiullah Khan
+    - M de Lange
+  registry:
+    people:
+      A Sharafu: 06cad4f0
+      AD Hales: 92aeac25
+      AD Russell: bbd41817
+      AGS Gous: d1305df0
+      AJ Hose: 104e88a4
+      Aasif Iqbal: 42c41e1a
+      Aleem Dar: f02778d1
+      Ali Khan: b0eaaac6
+      Aryan Lakra: '099135ad'
+      Azam Khan: ee8f1a6d
+      C Munro: af2c687b
+      DJ Willey: 7f048519
+      Imad Wasim: 9cb8d7a6
+      JM Clarke: 2eca67f5
+      LJ Evans: 1c513d54
+      M de Lange: d4eef961
+      Matiullah Khan: '083e01d9'
+      Mohammad Amir: e174dadd
+      P Wilson: 68304a36
+      PWH de Silva: a97c8ec2
+      RSA Palliyaguruge: 4339c19d
+      Rohan Mustafa: d1988788
+      SE Rutherford: d014d5ac
+      SP Narine: 9d430b40
+      SR Bernard: 800187dc
+      SR Hain: 67b9536c
+      Shadab Khan: 9de62878
+      Shaheen Shah Afridi: 45a7e761
+      TS Mills: 245c97cb
+  teams:
+  - Desert Vipers
+  - Abu Dhabi Knight Riders
+  toss:
+    winner: Abu Dhabi Knight Riders
+    decision: field
+  umpires:
+  - Aasif Iqbal
+  - Aleem Dar
+  venue: Zayed Cricket Stadium, Abu Dhabi
+innings:
+- 1st innings:
+    team: Desert Vipers
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.2:
+        non_striker: AD Hales
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.3:
+        non_striker: AD Hales
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.4:
+        non_striker: AD Hales
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 0.5:
+        non_striker: C Munro
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 0.6:
+        non_striker: C Munro
+        bowler: Imad Wasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Hales
+    - 0.7:
+        non_striker: C Munro
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.1:
+        non_striker: AD Hales
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 1.2:
+        non_striker: AD Hales
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 1.3:
+        non_striker: AD Hales
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 1.4:
+        non_striker: AD Hales
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 1.5:
+        non_striker: C Munro
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.6:
+        non_striker: C Munro
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.1:
+        non_striker: AD Hales
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 2.2:
+        non_striker: C Munro
+        bowler: Imad Wasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Hales
+    - 2.3:
+        non_striker: C Munro
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          fielders:
+          - DJ Willey
+          kind: caught
+    - 2.4:
+        non_striker: C Munro
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 2.5:
+        non_striker: AJ Hose
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 2.6:
+        non_striker: AJ Hose
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 2.7:
+        non_striker: AJ Hose
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 3.1:
+        non_striker: C Munro
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Hose
+    - 3.2:
+        non_striker: C Munro
+        bowler: DJ Willey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Hose
+    - 3.3:
+        non_striker: C Munro
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hose
+    - 3.4:
+        non_striker: C Munro
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 3.5:
+        non_striker: C Munro
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 3.6:
+        non_striker: C Munro
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 3.7:
+        non_striker: AJ Hose
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 4.1:
+        non_striker: C Munro
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 4.2:
+        non_striker: C Munro
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+        wicket:
+          player_out: AJ Hose
+          fielders:
+          - AGS Gous
+          kind: stumped
+    - 4.3:
+        non_striker: C Munro
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 4.4:
+        non_striker: C Munro
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 4.5:
+        non_striker: C Munro
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 4.6:
+        non_striker: C Munro
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 5.1:
+        non_striker: PWH de Silva
+        bowler: M de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 5.2:
+        non_striker: PWH de Silva
+        bowler: M de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 5.3:
+        non_striker: PWH de Silva
+        bowler: M de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 5.4:
+        non_striker: PWH de Silva
+        bowler: M de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 5.5:
+        non_striker: C Munro
+        bowler: M de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 5.6:
+        non_striker: C Munro
+        bowler: M de Lange
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWH de Silva
+    - 6.1:
+        non_striker: PWH de Silva
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Munro
+    - 6.2:
+        non_striker: PWH de Silva
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 6.3:
+        non_striker: PWH de Silva
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 6.4:
+        non_striker: C Munro
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 6.5:
+        non_striker: C Munro
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+        wicket:
+          player_out: PWH de Silva
+          fielders:
+          - Imad Wasim
+          kind: caught
+    - 6.6:
+        non_striker: C Munro
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Azam Khan
+    - 6.7:
+        non_striker: C Munro
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 6.8:
+        non_striker: Azam Khan
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 7.1:
+        non_striker: Azam Khan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 7.2:
+        non_striker: Azam Khan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 7.3:
+        non_striker: C Munro
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 7.4:
+        non_striker: Azam Khan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 7.5:
+        non_striker: Azam Khan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 7.6:
+        non_striker: Azam Khan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 8.1:
+        non_striker: Azam Khan
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 8.2:
+        non_striker: Azam Khan
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 8.3:
+        non_striker: C Munro
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Azam Khan
+    - 8.4:
+        non_striker: C Munro
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 8.5:
+        non_striker: C Munro
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azam Khan
+    - 8.6:
+        non_striker: C Munro
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Azam Khan
+    - 8.7:
+        non_striker: C Munro
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 8.8:
+        non_striker: Azam Khan
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 9.1:
+        non_striker: C Munro
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 9.2:
+        non_striker: C Munro
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 9.3:
+        non_striker: C Munro
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+        wicket:
+          player_out: Azam Khan
+          kind: bowled
+    - 9.4:
+        non_striker: C Munro
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 9.5:
+        non_striker: C Munro
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 9.6:
+        non_striker: C Munro
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 10.1:
+        non_striker: Shadab Khan
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 10.2:
+        non_striker: C Munro
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 10.3:
+        non_striker: Shadab Khan
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 10.4:
+        non_striker: C Munro
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 10.5:
+        non_striker: Shadab Khan
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 10.6:
+        non_striker: Shadab Khan
+        bowler: Imad Wasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 11.1:
+        non_striker: C Munro
+        bowler: SP Narine
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Shadab Khan
+    - 11.2:
+        non_striker: C Munro
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 11.3:
+        non_striker: C Munro
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 11.4:
+        non_striker: Shadab Khan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 11.5:
+        non_striker: Shadab Khan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 11.6:
+        non_striker: Shadab Khan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 12.1:
+        non_striker: C Munro
+        bowler: M de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+        wicket:
+          player_out: Shadab Khan
+          fielders:
+          - AGS Gous
+          kind: caught
+    - 12.2:
+        non_striker: C Munro
+        bowler: M de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 12.3:
+        non_striker: C Munro
+        bowler: M de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 12.4:
+        non_striker: SE Rutherford
+        bowler: M de Lange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 12.5:
+        non_striker: SE Rutherford
+        bowler: M de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 12.6:
+        non_striker: C Munro
+        bowler: M de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 13.1:
+        non_striker: SE Rutherford
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 13.2:
+        non_striker: C Munro
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 13.3:
+        non_striker: C Munro
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 13.4:
+        non_striker: C Munro
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 13.5:
+        non_striker: SE Rutherford
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 13.6:
+        non_striker: C Munro
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 14.1:
+        non_striker: SE Rutherford
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 14.2:
+        non_striker: C Munro
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 14.3:
+        non_striker: C Munro
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 14.4:
+        non_striker: SE Rutherford
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 14.5:
+        non_striker: C Munro
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 14.6:
+        non_striker: SE Rutherford
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 15.1:
+        non_striker: C Munro
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 15.2:
+        non_striker: C Munro
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 15.3:
+        non_striker: C Munro
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 15.4:
+        non_striker: SE Rutherford
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 15.5:
+        non_striker: SE Rutherford
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          kind: bowled
+    - 15.6:
+        non_striker: SE Rutherford
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 16.1:
+        non_striker: SE Rutherford
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 16.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 16.3:
+        non_striker: Shaheen Shah Afridi
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 16.4:
+        non_striker: Shaheen Shah Afridi
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 16.5:
+        non_striker: Shaheen Shah Afridi
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 16.6:
+        non_striker: SE Rutherford
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 17.1:
+        non_striker: SE Rutherford
+        bowler: Ali Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shaheen Shah Afridi
+    - 17.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 17.3:
+        non_striker: SE Rutherford
+        bowler: Ali Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shaheen Shah Afridi
+    - 17.4:
+        non_striker: Shaheen Shah Afridi
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 17.5:
+        non_striker: Shaheen Shah Afridi
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 17.6:
+        non_striker: SE Rutherford
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shaheen Shah Afridi
+    - 18.1:
+        non_striker: Shaheen Shah Afridi
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          fielders:
+          - A Sharafu
+          kind: caught
+    - 18.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aryan Lakra
+    - 18.3:
+        non_striker: Shaheen Shah Afridi
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aryan Lakra
+    - 18.4:
+        non_striker: Aryan Lakra
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaheen Shah Afridi
+    - 18.5:
+        non_striker: Aryan Lakra
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 18.6:
+        non_striker: Shaheen Shah Afridi
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aryan Lakra
+    - 19.1:
+        non_striker: Shaheen Shah Afridi
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aryan Lakra
+    - 19.2:
+        non_striker: Aryan Lakra
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaheen Shah Afridi
+    - 19.3:
+        non_striker: Aryan Lakra
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+        wicket:
+          player_out: Shaheen Shah Afridi
+          fielders:
+          - AGS Gous
+          - DJ Willey
+          kind: run out
+    - 19.4:
+        non_striker: Aryan Lakra
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 19.5:
+        non_striker: Rohan Mustafa
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aryan Lakra
+    - 19.6:
+        non_striker: Aryan Lakra
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+- 2nd innings:
+    team: Abu Dhabi Knight Riders
+    deliveries:
+    - 0.1:
+        non_striker: JM Clarke
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: JM Clarke
+            out: Ali Khan
+            team: Abu Dhabi Knight Riders
+            reason: impact_player
+          - in: TS Mills
+            out: AD Hales
+            team: Desert Vipers
+            reason: impact_player
+        batsman: AGS Gous
+    - 0.2:
+        non_striker: AGS Gous
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 0.3:
+        non_striker: AGS Gous
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 0.4:
+        non_striker: JM Clarke
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 0.5:
+        non_striker: JM Clarke
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 0.6:
+        non_striker: JM Clarke
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 1.1:
+        non_striker: AGS Gous
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 1.2:
+        non_striker: JM Clarke
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+        wicket:
+          player_out: JM Clarke
+          fielders:
+          - Mohammad Amir
+          kind: run out
+    - 1.3:
+        non_striker: A Sharafu
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 1.4:
+        non_striker: A Sharafu
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 1.5:
+        non_striker: AGS Gous
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 1.6:
+        non_striker: AGS Gous
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 2.1:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 2.2:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 2.3:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 2.4:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 2.5:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 2.6:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 3.1:
+        non_striker: AGS Gous
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 3.2:
+        non_striker: AGS Gous
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 3.3:
+        non_striker: AGS Gous
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 3.4:
+        non_striker: A Sharafu
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+        wicket:
+          player_out: AGS Gous
+          fielders:
+          - Azam Khan
+          kind: caught
+    - 3.5:
+        non_striker: A Sharafu
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Hain
+    - 3.6:
+        non_striker: A Sharafu
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Hain
+    - 4.1:
+        non_striker: SR Hain
+        bowler: TS Mills
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Sharafu
+    - 4.2:
+        non_striker: SR Hain
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 4.3:
+        non_striker: A Sharafu
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 4.4:
+        non_striker: SR Hain
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 4.5:
+        non_striker: SR Hain
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 4.6:
+        non_striker: SR Hain
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 4.7:
+        non_striker: SR Hain
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 5.1:
+        non_striker: A Sharafu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Hain
+    - 5.2:
+        non_striker: A Sharafu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Hain
+    - 5.3:
+        non_striker: A Sharafu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Hain
+        wicket:
+          player_out: SR Hain
+          kind: lbw
+    - 5.4:
+        non_striker: A Sharafu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 5.5:
+        non_striker: A Sharafu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 5.6:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: A Sharafu
+    - 6.1:
+        non_striker: A Sharafu
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 6.2:
+        non_striker: Imad Wasim
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 6.3:
+        non_striker: A Sharafu
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 6.4:
+        non_striker: Imad Wasim
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 6.5:
+        non_striker: A Sharafu
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 6.6:
+        non_striker: Imad Wasim
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 7.1:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 7.2:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 7.3:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 7.4:
+        non_striker: A Sharafu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 7.5:
+        non_striker: A Sharafu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 7.6:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 8.1:
+        non_striker: A Sharafu
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 8.2:
+        non_striker: Imad Wasim
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 8.3:
+        non_striker: Imad Wasim
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sharafu
+    - 8.4:
+        non_striker: Imad Wasim
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 8.5:
+        non_striker: Imad Wasim
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sharafu
+    - 8.6:
+        non_striker: Imad Wasim
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 9.1:
+        non_striker: A Sharafu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 9.2:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 9.3:
+        non_striker: Imad Wasim
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 9.4:
+        non_striker: A Sharafu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 9.5:
+        non_striker: A Sharafu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 9.6:
+        non_striker: A Sharafu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 10.1:
+        non_striker: A Sharafu
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Imad Wasim
+    - 10.2:
+        non_striker: A Sharafu
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 10.3:
+        non_striker: Imad Wasim
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 10.4:
+        non_striker: A Sharafu
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 10.5:
+        non_striker: A Sharafu
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 10.6:
+        non_striker: Imad Wasim
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 11.1:
+        non_striker: A Sharafu
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 11.2:
+        non_striker: Imad Wasim
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 11.3:
+        non_striker: Imad Wasim
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sharafu
+    - 11.4:
+        non_striker: Imad Wasim
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 11.5:
+        non_striker: Imad Wasim
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sharafu
+    - 11.6:
+        non_striker: Imad Wasim
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 12.1:
+        non_striker: A Sharafu
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imad Wasim
+    - 12.2:
+        non_striker: A Sharafu
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 12.3:
+        non_striker: Imad Wasim
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 12.4:
+        non_striker: Imad Wasim
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 12.5:
+        non_striker: Imad Wasim
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 12.6:
+        non_striker: Imad Wasim
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 13.1:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imad Wasim
+    - 13.2:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imad Wasim
+    - 13.3:
+        non_striker: Imad Wasim
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sharafu
+    - 13.4:
+        non_striker: Imad Wasim
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 13.5:
+        non_striker: Imad Wasim
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: A Sharafu
+    - 13.6:
+        non_striker: Imad Wasim
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 14.1:
+        non_striker: A Sharafu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imad Wasim
+    - 14.2:
+        non_striker: A Sharafu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+    - 14.3:
+        non_striker: A Sharafu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imad Wasim
+        wicket:
+          player_out: Imad Wasim
+          fielders:
+          - SE Rutherford
+          kind: caught
+    - 14.4:
+        non_striker: A Sharafu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 14.5:
+        non_striker: A Sharafu
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 14.6:
+        non_striker: AD Russell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 15.1:
+        non_striker: AD Russell
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 15.2:
+        non_striker: AD Russell
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 15.3:
+        non_striker: AD Russell
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 15.4:
+        non_striker: AD Russell
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sharafu
+    - 15.5:
+        non_striker: AD Russell
+        bowler: TS Mills
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Sharafu
+    - 15.6:
+        non_striker: AD Russell
+        bowler: TS Mills
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Sharafu
+    - 15.7:
+        non_striker: A Sharafu
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Russell
+    - 15.8:
+        non_striker: A Sharafu
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 16.1:
+        non_striker: AD Russell
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 16.2:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 16.3:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 16.4:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 16.5:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 16.6:
+        non_striker: AD Russell
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 17.1:
+        non_striker: A Sharafu
+        bowler: Aryan Lakra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Russell
+    - 17.2:
+        non_striker: A Sharafu
+        bowler: Aryan Lakra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell

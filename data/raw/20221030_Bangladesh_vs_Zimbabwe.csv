@@ -1,0 +1,249 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Bangladesh,0.1,Nazmul Hossain Shanto,R Ngarava,0,{},{}
+1st innings,Bangladesh,0.2,Nazmul Hossain Shanto,R Ngarava,0,{},{}
+1st innings,Bangladesh,0.3,Nazmul Hossain Shanto,R Ngarava,0,{},{}
+1st innings,Bangladesh,0.4,Nazmul Hossain Shanto,R Ngarava,4,{},{}
+1st innings,Bangladesh,0.5,Nazmul Hossain Shanto,R Ngarava,0,{},{}
+1st innings,Bangladesh,0.6,Nazmul Hossain Shanto,R Ngarava,1,{},{}
+1st innings,Bangladesh,1.1,Nazmul Hossain Shanto,B Muzarabani,4,{},{}
+1st innings,Bangladesh,1.2,Nazmul Hossain Shanto,B Muzarabani,1,{},{}
+1st innings,Bangladesh,1.3,Soumya Sarkar,B Muzarabani,0,{},{}
+1st innings,Bangladesh,1.4,Soumya Sarkar,B Muzarabani,0,{},"{'player_out': 'Soumya Sarkar', 'fielders': ['RW Chakabva'], 'kind': 'caught'}"
+1st innings,Bangladesh,1.5,Liton Das,B Muzarabani,4,{},{}
+1st innings,Bangladesh,1.6,Liton Das,B Muzarabani,0,{},{}
+1st innings,Bangladesh,2.1,Nazmul Hossain Shanto,TL Chatara,0,{},{}
+1st innings,Bangladesh,2.2,Nazmul Hossain Shanto,TL Chatara,0,{},{}
+1st innings,Bangladesh,2.3,Nazmul Hossain Shanto,TL Chatara,2,{},{}
+1st innings,Bangladesh,2.4,Nazmul Hossain Shanto,TL Chatara,1,{},{}
+1st innings,Bangladesh,2.5,Liton Das,TL Chatara,0,{},{}
+1st innings,Bangladesh,2.6,Liton Das,TL Chatara,0,{},{}
+1st innings,Bangladesh,3.1,Nazmul Hossain Shanto,R Ngarava,1,{},{}
+1st innings,Bangladesh,3.2,Liton Das,R Ngarava,0,{},{}
+1st innings,Bangladesh,3.3,Liton Das,R Ngarava,0,{},{}
+1st innings,Bangladesh,3.4,Liton Das,R Ngarava,1,{},{}
+1st innings,Bangladesh,3.5,Nazmul Hossain Shanto,R Ngarava,1,{},{}
+1st innings,Bangladesh,3.6,Liton Das,R Ngarava,4,{},{}
+1st innings,Bangladesh,4.1,Nazmul Hossain Shanto,TL Chatara,1,{},{}
+1st innings,Bangladesh,4.2,Liton Das,TL Chatara,1,{},{}
+1st innings,Bangladesh,4.3,Nazmul Hossain Shanto,TL Chatara,2,{},{}
+1st innings,Bangladesh,4.4,Nazmul Hossain Shanto,TL Chatara,0,{},{}
+1st innings,Bangladesh,4.5,Nazmul Hossain Shanto,TL Chatara,0,{},{}
+1st innings,Bangladesh,4.6,Nazmul Hossain Shanto,TL Chatara,0,{},{}
+1st innings,Bangladesh,5.1,Liton Das,B Muzarabani,4,{},{}
+1st innings,Bangladesh,5.2,Liton Das,B Muzarabani,0,{},{}
+1st innings,Bangladesh,5.3,Liton Das,B Muzarabani,0,{},"{'player_out': 'Liton Das', 'fielders': ['TL Chatara'], 'kind': 'caught'}"
+1st innings,Bangladesh,5.4,Shakib Al Hasan,B Muzarabani,0,{},{}
+1st innings,Bangladesh,5.5,Shakib Al Hasan,B Muzarabani,0,{},{}
+1st innings,Bangladesh,5.6,Shakib Al Hasan,B Muzarabani,0,{},{}
+1st innings,Bangladesh,6.1,Nazmul Hossain Shanto,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,6.2,Shakib Al Hasan,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,6.3,Nazmul Hossain Shanto,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,6.4,Shakib Al Hasan,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,6.5,Nazmul Hossain Shanto,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,6.6,Shakib Al Hasan,Sikandar Raza,4,{},{}
+1st innings,Bangladesh,7.1,Nazmul Hossain Shanto,B Evans,1,{},{}
+1st innings,Bangladesh,7.2,Shakib Al Hasan,B Evans,2,{},{}
+1st innings,Bangladesh,7.3,Shakib Al Hasan,B Evans,1,{},{}
+1st innings,Bangladesh,7.4,Nazmul Hossain Shanto,B Evans,1,{},{}
+1st innings,Bangladesh,7.5,Shakib Al Hasan,B Evans,1,{'wides': 1},{}
+1st innings,Bangladesh,7.6,Shakib Al Hasan,B Evans,1,{},{}
+1st innings,Bangladesh,7.7,Nazmul Hossain Shanto,B Evans,4,{},{}
+1st innings,Bangladesh,8.1,Shakib Al Hasan,W Madhevere,2,{},{}
+1st innings,Bangladesh,8.2,Shakib Al Hasan,W Madhevere,1,{},{}
+1st innings,Bangladesh,8.3,Nazmul Hossain Shanto,W Madhevere,1,{},{}
+1st innings,Bangladesh,8.4,Shakib Al Hasan,W Madhevere,1,{},{}
+1st innings,Bangladesh,8.5,Nazmul Hossain Shanto,W Madhevere,1,{},{}
+1st innings,Bangladesh,8.6,Shakib Al Hasan,W Madhevere,1,{},{}
+1st innings,Bangladesh,9.1,Shakib Al Hasan,B Evans,1,{},{}
+1st innings,Bangladesh,9.2,Nazmul Hossain Shanto,B Evans,0,{},{}
+1st innings,Bangladesh,9.3,Nazmul Hossain Shanto,B Evans,0,{},{}
+1st innings,Bangladesh,9.4,Nazmul Hossain Shanto,B Evans,1,{},{}
+1st innings,Bangladesh,9.5,Shakib Al Hasan,B Evans,1,{},{}
+1st innings,Bangladesh,9.6,Nazmul Hossain Shanto,B Evans,1,{},{}
+1st innings,Bangladesh,10.1,Nazmul Hossain Shanto,W Madhevere,1,{},{}
+1st innings,Bangladesh,10.2,Shakib Al Hasan,W Madhevere,2,{},{}
+1st innings,Bangladesh,10.3,Shakib Al Hasan,W Madhevere,1,{},{}
+1st innings,Bangladesh,10.4,Nazmul Hossain Shanto,W Madhevere,4,{},{}
+1st innings,Bangladesh,10.5,Nazmul Hossain Shanto,W Madhevere,1,{},{}
+1st innings,Bangladesh,10.6,Shakib Al Hasan,W Madhevere,2,{},{}
+1st innings,Bangladesh,11.1,Nazmul Hossain Shanto,TL Chatara,4,{},{}
+1st innings,Bangladesh,11.2,Nazmul Hossain Shanto,TL Chatara,2,{},{}
+1st innings,Bangladesh,11.3,Nazmul Hossain Shanto,TL Chatara,2,{},{}
+1st innings,Bangladesh,11.4,Nazmul Hossain Shanto,TL Chatara,1,{},{}
+1st innings,Bangladesh,11.5,Shakib Al Hasan,TL Chatara,1,{},{}
+1st innings,Bangladesh,11.6,Nazmul Hossain Shanto,TL Chatara,1,{},{}
+1st innings,Bangladesh,12.1,Nazmul Hossain Shanto,SC Williams,0,{},{}
+1st innings,Bangladesh,12.2,Nazmul Hossain Shanto,SC Williams,0,{},{}
+1st innings,Bangladesh,12.3,Nazmul Hossain Shanto,SC Williams,0,{},{}
+1st innings,Bangladesh,12.4,Nazmul Hossain Shanto,SC Williams,1,{},{}
+1st innings,Bangladesh,12.5,Shakib Al Hasan,SC Williams,0,{},"{'player_out': 'Shakib Al Hasan', 'fielders': ['B Muzarabani'], 'kind': 'caught'}"
+1st innings,Bangladesh,12.6,Afif Hossain,SC Williams,1,{},{}
+1st innings,Bangladesh,13.1,Afif Hossain,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,13.2,Nazmul Hossain Shanto,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,13.3,Afif Hossain,Sikandar Raza,4,{},{}
+1st innings,Bangladesh,13.4,Afif Hossain,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,13.5,Nazmul Hossain Shanto,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,13.6,Afif Hossain,Sikandar Raza,0,{},{}
+1st innings,Bangladesh,14.1,Nazmul Hossain Shanto,SC Williams,1,{},{}
+1st innings,Bangladesh,14.2,Afif Hossain,SC Williams,1,{},{}
+1st innings,Bangladesh,14.3,Nazmul Hossain Shanto,SC Williams,1,{},{}
+1st innings,Bangladesh,14.4,Afif Hossain,SC Williams,2,{},{}
+1st innings,Bangladesh,14.5,Afif Hossain,SC Williams,1,{},{}
+1st innings,Bangladesh,14.6,Nazmul Hossain Shanto,SC Williams,1,{'wides': 1},{}
+1st innings,Bangladesh,14.7,Nazmul Hossain Shanto,SC Williams,1,{},{}
+1st innings,Bangladesh,15.1,Nazmul Hossain Shanto,B Evans,6,{},{}
+1st innings,Bangladesh,15.2,Nazmul Hossain Shanto,B Evans,4,{},{}
+1st innings,Bangladesh,15.3,Nazmul Hossain Shanto,B Evans,1,{},{}
+1st innings,Bangladesh,15.4,Afif Hossain,B Evans,1,{},{}
+1st innings,Bangladesh,15.5,Nazmul Hossain Shanto,B Evans,4,{},{}
+1st innings,Bangladesh,15.6,Nazmul Hossain Shanto,B Evans,1,{},{}
+1st innings,Bangladesh,16.1,Nazmul Hossain Shanto,Sikandar Raza,2,{},{}
+1st innings,Bangladesh,16.2,Nazmul Hossain Shanto,Sikandar Raza,0,{},"{'player_out': 'Nazmul Hossain Shanto', 'fielders': ['CR Ervine'], 'kind': 'caught'}"
+1st innings,Bangladesh,16.3,Mosaddek Hossain,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,16.4,Afif Hossain,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,16.5,Mosaddek Hossain,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,16.6,Afif Hossain,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,17.1,Afif Hossain,R Ngarava,1,{'wides': 1},{}
+1st innings,Bangladesh,17.2,Afif Hossain,R Ngarava,1,{},{}
+1st innings,Bangladesh,17.3,Mosaddek Hossain,R Ngarava,0,{},{}
+1st innings,Bangladesh,17.4,Mosaddek Hossain,R Ngarava,0,{},{}
+1st innings,Bangladesh,17.5,Mosaddek Hossain,R Ngarava,0,{},{}
+1st innings,Bangladesh,17.6,Mosaddek Hossain,R Ngarava,1,{},{}
+1st innings,Bangladesh,17.7,Afif Hossain,R Ngarava,2,{},{}
+1st innings,Bangladesh,18.1,Mosaddek Hossain,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,18.2,Afif Hossain,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,18.3,Mosaddek Hossain,Sikandar Raza,2,{},{}
+1st innings,Bangladesh,18.4,Mosaddek Hossain,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,18.5,Afif Hossain,Sikandar Raza,6,{},{}
+1st innings,Bangladesh,18.6,Afif Hossain,Sikandar Raza,1,{},{}
+1st innings,Bangladesh,19.1,Afif Hossain,R Ngarava,1,{'wides': 1},{}
+1st innings,Bangladesh,19.2,Afif Hossain,R Ngarava,3,{},{}
+1st innings,Bangladesh,19.3,Mosaddek Hossain,R Ngarava,0,{},"{'player_out': 'Mosaddek Hossain', 'fielders': ['TL Chatara'], 'kind': 'caught'}"
+1st innings,Bangladesh,19.4,Nurul Hasan,R Ngarava,1,{},{}
+1st innings,Bangladesh,19.5,Afif Hossain,R Ngarava,1,{},"{'player_out': 'Nurul Hasan', 'fielders': ['SC Williams', 'RW Chakabva'], 'kind': 'run out'}"
+1st innings,Bangladesh,19.6,Yasir Ali Chowdhury,R Ngarava,1,{},{}
+1st innings,Bangladesh,19.7,Afif Hossain,R Ngarava,0,{},"{'player_out': 'Afif Hossain', 'kind': 'lbw'}"
+2nd innings,Zimbabwe,0.1,W Madhevere,Taskin Ahmed,0,{},{}
+2nd innings,Zimbabwe,0.2,W Madhevere,Taskin Ahmed,4,{},{}
+2nd innings,Zimbabwe,0.3,W Madhevere,Taskin Ahmed,0,{},"{'player_out': 'W Madhevere', 'fielders': ['Mustafizur Rahman'], 'kind': 'caught'}"
+2nd innings,Zimbabwe,0.4,M Shumba,Taskin Ahmed,0,{},{}
+2nd innings,Zimbabwe,0.5,M Shumba,Taskin Ahmed,0,{},{}
+2nd innings,Zimbabwe,0.6,M Shumba,Taskin Ahmed,1,{'legbyes': 1},{}
+2nd innings,Zimbabwe,1.1,M Shumba,Hasan Mahmud,0,{},{}
+2nd innings,Zimbabwe,1.2,M Shumba,Hasan Mahmud,1,{},{}
+2nd innings,Zimbabwe,1.3,CR Ervine,Hasan Mahmud,1,{'wides': 1},{}
+2nd innings,Zimbabwe,1.4,CR Ervine,Hasan Mahmud,4,{},{}
+2nd innings,Zimbabwe,1.5,CR Ervine,Hasan Mahmud,0,{},{}
+2nd innings,Zimbabwe,1.6,CR Ervine,Hasan Mahmud,1,{'wides': 1},{}
+2nd innings,Zimbabwe,1.7,CR Ervine,Hasan Mahmud,0,{},{}
+2nd innings,Zimbabwe,1.8,CR Ervine,Hasan Mahmud,0,{},{}
+2nd innings,Zimbabwe,2.1,M Shumba,Taskin Ahmed,1,{},{}
+2nd innings,Zimbabwe,2.2,CR Ervine,Taskin Ahmed,0,{},{}
+2nd innings,Zimbabwe,2.3,CR Ervine,Taskin Ahmed,4,{},{}
+2nd innings,Zimbabwe,2.4,CR Ervine,Taskin Ahmed,0,{},"{'player_out': 'CR Ervine', 'fielders': ['Nurul Hasan'], 'kind': 'caught'}"
+2nd innings,Zimbabwe,2.5,SC Williams,Taskin Ahmed,0,{},{}
+2nd innings,Zimbabwe,2.6,SC Williams,Taskin Ahmed,0,{},{}
+2nd innings,Zimbabwe,3.1,M Shumba,Hasan Mahmud,0,{},{}
+2nd innings,Zimbabwe,3.2,M Shumba,Hasan Mahmud,1,{'legbyes': 1},{}
+2nd innings,Zimbabwe,3.3,SC Williams,Hasan Mahmud,0,{},{}
+2nd innings,Zimbabwe,3.4,SC Williams,Hasan Mahmud,1,{},{}
+2nd innings,Zimbabwe,3.5,M Shumba,Hasan Mahmud,4,{},{}
+2nd innings,Zimbabwe,3.6,M Shumba,Hasan Mahmud,1,{},{}
+2nd innings,Zimbabwe,4.1,M Shumba,Mosaddek Hossain,0,{},{}
+2nd innings,Zimbabwe,4.2,M Shumba,Mosaddek Hossain,0,{},{}
+2nd innings,Zimbabwe,4.3,M Shumba,Mosaddek Hossain,1,{},{}
+2nd innings,Zimbabwe,4.4,SC Williams,Mosaddek Hossain,2,{},{}
+2nd innings,Zimbabwe,4.5,SC Williams,Mosaddek Hossain,4,{},{}
+2nd innings,Zimbabwe,4.6,SC Williams,Mosaddek Hossain,4,{},{}
+2nd innings,Zimbabwe,5.1,M Shumba,Mustafizur Rahman,0,{},{}
+2nd innings,Zimbabwe,5.2,M Shumba,Mustafizur Rahman,0,{},"{'player_out': 'M Shumba', 'fielders': ['Shakib Al Hasan'], 'kind': 'caught'}"
+2nd innings,Zimbabwe,5.3,Sikandar Raza,Mustafizur Rahman,0,{},{}
+2nd innings,Zimbabwe,5.4,Sikandar Raza,Mustafizur Rahman,0,{},{}
+2nd innings,Zimbabwe,5.5,Sikandar Raza,Mustafizur Rahman,0,{},"{'player_out': 'Sikandar Raza', 'fielders': ['Afif Hossain'], 'kind': 'caught'}"
+2nd innings,Zimbabwe,5.6,RW Chakabva,Mustafizur Rahman,1,{},{}
+2nd innings,Zimbabwe,6.1,RW Chakabva,Shakib Al Hasan,0,{},{}
+2nd innings,Zimbabwe,6.2,RW Chakabva,Shakib Al Hasan,1,{},{}
+2nd innings,Zimbabwe,6.3,SC Williams,Shakib Al Hasan,2,{},{}
+2nd innings,Zimbabwe,6.4,SC Williams,Shakib Al Hasan,1,{},{}
+2nd innings,Zimbabwe,6.5,RW Chakabva,Shakib Al Hasan,1,{},{}
+2nd innings,Zimbabwe,6.6,SC Williams,Shakib Al Hasan,1,{},{}
+2nd innings,Zimbabwe,7.1,SC Williams,Mustafizur Rahman,0,{},{}
+2nd innings,Zimbabwe,7.2,SC Williams,Mustafizur Rahman,1,{},{}
+2nd innings,Zimbabwe,7.3,RW Chakabva,Mustafizur Rahman,0,{},{}
+2nd innings,Zimbabwe,7.4,RW Chakabva,Mustafizur Rahman,2,{},{}
+2nd innings,Zimbabwe,7.5,RW Chakabva,Mustafizur Rahman,0,{},{}
+2nd innings,Zimbabwe,7.6,RW Chakabva,Mustafizur Rahman,1,{},{}
+2nd innings,Zimbabwe,8.1,RW Chakabva,Shakib Al Hasan,1,{},{}
+2nd innings,Zimbabwe,8.2,SC Williams,Shakib Al Hasan,4,{},{}
+2nd innings,Zimbabwe,8.3,SC Williams,Shakib Al Hasan,0,{},{}
+2nd innings,Zimbabwe,8.4,SC Williams,Shakib Al Hasan,1,{},{}
+2nd innings,Zimbabwe,8.5,RW Chakabva,Shakib Al Hasan,2,{'legbyes': 2},{}
+2nd innings,Zimbabwe,8.6,RW Chakabva,Shakib Al Hasan,1,{},{}
+2nd innings,Zimbabwe,9.1,RW Chakabva,Hasan Mahmud,1,{},{}
+2nd innings,Zimbabwe,9.2,SC Williams,Hasan Mahmud,1,{},{}
+2nd innings,Zimbabwe,9.3,RW Chakabva,Hasan Mahmud,2,{},{}
+2nd innings,Zimbabwe,9.4,RW Chakabva,Hasan Mahmud,1,{},{}
+2nd innings,Zimbabwe,9.5,SC Williams,Hasan Mahmud,4,{},{}
+2nd innings,Zimbabwe,9.6,SC Williams,Hasan Mahmud,0,{},{}
+2nd innings,Zimbabwe,10.1,RW Chakabva,Mosaddek Hossain,1,{},{}
+2nd innings,Zimbabwe,10.2,SC Williams,Mosaddek Hossain,0,{},{}
+2nd innings,Zimbabwe,10.3,SC Williams,Mosaddek Hossain,1,{},{}
+2nd innings,Zimbabwe,10.4,RW Chakabva,Mosaddek Hossain,1,{},{}
+2nd innings,Zimbabwe,10.5,SC Williams,Mosaddek Hossain,1,{},{}
+2nd innings,Zimbabwe,10.6,RW Chakabva,Mosaddek Hossain,1,{},{}
+2nd innings,Zimbabwe,11.1,RW Chakabva,Taskin Ahmed,0,{},{}
+2nd innings,Zimbabwe,11.2,RW Chakabva,Taskin Ahmed,0,{},"{'player_out': 'RW Chakabva', 'fielders': ['Nurul Hasan'], 'kind': 'caught'}"
+2nd innings,Zimbabwe,11.3,RP Burl,Taskin Ahmed,0,{},{}
+2nd innings,Zimbabwe,11.4,RP Burl,Taskin Ahmed,0,{},{}
+2nd innings,Zimbabwe,11.5,RP Burl,Taskin Ahmed,0,{},{}
+2nd innings,Zimbabwe,11.6,RP Burl,Taskin Ahmed,0,{},{}
+2nd innings,Zimbabwe,12.1,SC Williams,Mosaddek Hossain,1,{},{}
+2nd innings,Zimbabwe,12.2,RP Burl,Mosaddek Hossain,0,{},{}
+2nd innings,Zimbabwe,12.3,RP Burl,Mosaddek Hossain,4,{},{}
+2nd innings,Zimbabwe,12.4,RP Burl,Mosaddek Hossain,0,{},{}
+2nd innings,Zimbabwe,12.5,RP Burl,Mosaddek Hossain,0,{},{}
+2nd innings,Zimbabwe,12.6,RP Burl,Mosaddek Hossain,6,{},{}
+2nd innings,Zimbabwe,13.1,SC Williams,Mustafizur Rahman,1,{},{}
+2nd innings,Zimbabwe,13.2,RP Burl,Mustafizur Rahman,0,{},{}
+2nd innings,Zimbabwe,13.3,RP Burl,Mustafizur Rahman,0,{},{}
+2nd innings,Zimbabwe,13.4,RP Burl,Mustafizur Rahman,1,{},{}
+2nd innings,Zimbabwe,13.5,SC Williams,Mustafizur Rahman,1,{},{}
+2nd innings,Zimbabwe,13.6,RP Burl,Mustafizur Rahman,1,{},{}
+2nd innings,Zimbabwe,14.1,RP Burl,Shakib Al Hasan,4,{},{}
+2nd innings,Zimbabwe,14.2,RP Burl,Shakib Al Hasan,1,{},{}
+2nd innings,Zimbabwe,14.3,SC Williams,Shakib Al Hasan,2,{},{}
+2nd innings,Zimbabwe,14.4,SC Williams,Shakib Al Hasan,2,{},{}
+2nd innings,Zimbabwe,14.5,SC Williams,Shakib Al Hasan,2,{},{}
+2nd innings,Zimbabwe,14.6,SC Williams,Shakib Al Hasan,0,{},{}
+2nd innings,Zimbabwe,15.1,RP Burl,Taskin Ahmed,1,{},{}
+2nd innings,Zimbabwe,15.2,SC Williams,Taskin Ahmed,1,{},{}
+2nd innings,Zimbabwe,15.3,RP Burl,Taskin Ahmed,2,{},{}
+2nd innings,Zimbabwe,15.4,RP Burl,Taskin Ahmed,1,{},{}
+2nd innings,Zimbabwe,15.5,SC Williams,Taskin Ahmed,4,{},{}
+2nd innings,Zimbabwe,15.6,SC Williams,Taskin Ahmed,1,{},{}
+2nd innings,Zimbabwe,16.1,SC Williams,Mustafizur Rahman,1,{},{}
+2nd innings,Zimbabwe,16.2,RP Burl,Mustafizur Rahman,1,{},{}
+2nd innings,Zimbabwe,16.3,SC Williams,Mustafizur Rahman,2,{},{}
+2nd innings,Zimbabwe,16.4,SC Williams,Mustafizur Rahman,1,{},{}
+2nd innings,Zimbabwe,16.5,RP Burl,Mustafizur Rahman,1,{},{}
+2nd innings,Zimbabwe,16.6,SC Williams,Mustafizur Rahman,0,{},{}
+2nd innings,Zimbabwe,17.1,RP Burl,Hasan Mahmud,1,{},{}
+2nd innings,Zimbabwe,17.2,SC Williams,Hasan Mahmud,1,{'wides': 1},{}
+2nd innings,Zimbabwe,17.3,SC Williams,Hasan Mahmud,2,{},{}
+2nd innings,Zimbabwe,17.4,SC Williams,Hasan Mahmud,1,{},{}
+2nd innings,Zimbabwe,17.5,RP Burl,Hasan Mahmud,1,{},{}
+2nd innings,Zimbabwe,17.6,SC Williams,Hasan Mahmud,4,{},{}
+2nd innings,Zimbabwe,17.7,SC Williams,Hasan Mahmud,4,{},{}
+2nd innings,Zimbabwe,18.1,RP Burl,Shakib Al Hasan,1,{},{}
+2nd innings,Zimbabwe,18.2,SC Williams,Shakib Al Hasan,2,{},{}
+2nd innings,Zimbabwe,18.3,SC Williams,Shakib Al Hasan,4,{},{}
+2nd innings,Zimbabwe,18.4,SC Williams,Shakib Al Hasan,0,{},"{'player_out': 'SC Williams', 'fielders': ['Shakib Al Hasan'], 'kind': 'run out'}"
+2nd innings,Zimbabwe,18.5,RP Burl,Shakib Al Hasan,1,{},{}
+2nd innings,Zimbabwe,18.6,B Evans,Shakib Al Hasan,2,{},{}
+2nd innings,Zimbabwe,19.1,RP Burl,Mosaddek Hossain,1,{'legbyes': 1},{}
+2nd innings,Zimbabwe,19.2,B Evans,Mosaddek Hossain,0,{},"{'player_out': 'B Evans', 'fielders': ['Afif Hossain'], 'kind': 'caught'}"
+2nd innings,Zimbabwe,19.3,R Ngarava,Mosaddek Hossain,4,{'legbyes': 4},{}
+2nd innings,Zimbabwe,19.4,R Ngarava,Mosaddek Hossain,6,{},{}
+2nd innings,Zimbabwe,19.5,R Ngarava,Mosaddek Hossain,0,{},"{'player_out': 'R Ngarava', 'fielders': ['Nurul Hasan'], 'kind': 'stumped'}"
+2nd innings,Zimbabwe,19.6,B Muzarabani,Mosaddek Hossain,1,{'noballs': 1},{}
+2nd innings,Zimbabwe,19.7,B Muzarabani,Mosaddek Hossain,0,{},{}

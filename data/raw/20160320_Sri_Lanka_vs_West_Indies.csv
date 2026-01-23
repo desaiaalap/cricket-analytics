@@ -1,0 +1,240 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Sri Lanka,0.1,LD Chandimal,AD Russell,1,{},{}
+1st innings,Sri Lanka,0.2,TM Dilshan,AD Russell,6,{},{}
+1st innings,Sri Lanka,0.3,TM Dilshan,AD Russell,4,{},{}
+1st innings,Sri Lanka,0.4,TM Dilshan,AD Russell,1,{'legbyes': 1},{}
+1st innings,Sri Lanka,0.5,LD Chandimal,AD Russell,1,{'legbyes': 1},{}
+1st innings,Sri Lanka,0.6,TM Dilshan,AD Russell,0,{},{}
+1st innings,Sri Lanka,1.1,LD Chandimal,S Badree,0,{},{}
+1st innings,Sri Lanka,1.2,LD Chandimal,S Badree,0,{},{}
+1st innings,Sri Lanka,1.3,LD Chandimal,S Badree,0,{},{}
+1st innings,Sri Lanka,1.4,LD Chandimal,S Badree,1,{},{}
+1st innings,Sri Lanka,1.5,TM Dilshan,S Badree,1,{},{}
+1st innings,Sri Lanka,1.6,LD Chandimal,S Badree,4,{},{}
+1st innings,Sri Lanka,2.1,TM Dilshan,SJ Benn,0,{},{}
+1st innings,Sri Lanka,2.2,TM Dilshan,SJ Benn,0,{},{}
+1st innings,Sri Lanka,2.3,TM Dilshan,SJ Benn,0,{},{}
+1st innings,Sri Lanka,2.4,TM Dilshan,SJ Benn,1,{},{}
+1st innings,Sri Lanka,2.5,LD Chandimal,SJ Benn,0,{},{}
+1st innings,Sri Lanka,2.6,LD Chandimal,SJ Benn,0,{},{}
+1st innings,Sri Lanka,3.1,TM Dilshan,CR Brathwaite,0,{},"{'kind': 'lbw', 'player_out': 'TM Dilshan'}"
+1st innings,Sri Lanka,3.2,HDRL Thirimanne,CR Brathwaite,1,{'legbyes': 1},{}
+1st innings,Sri Lanka,3.3,LD Chandimal,CR Brathwaite,1,{},{}
+1st innings,Sri Lanka,3.4,HDRL Thirimanne,CR Brathwaite,1,{'legbyes': 1},{}
+1st innings,Sri Lanka,3.5,LD Chandimal,CR Brathwaite,6,{},{}
+1st innings,Sri Lanka,3.6,LD Chandimal,CR Brathwaite,1,{},{}
+1st innings,Sri Lanka,4.1,LD Chandimal,S Badree,0,{},{}
+1st innings,Sri Lanka,4.2,LD Chandimal,S Badree,2,{},{}
+1st innings,Sri Lanka,4.3,LD Chandimal,S Badree,0,{},{}
+1st innings,Sri Lanka,4.4,LD Chandimal,S Badree,0,{},{}
+1st innings,Sri Lanka,4.5,LD Chandimal,S Badree,0,{},{}
+1st innings,Sri Lanka,4.6,LD Chandimal,S Badree,0,{},"{'fielders': ['J Charles', 'D Ramdin'], 'kind': 'run out', 'player_out': 'LD Chandimal'}"
+1st innings,Sri Lanka,5.1,HDRL Thirimanne,AD Russell,0,{},{}
+1st innings,Sri Lanka,5.2,HDRL Thirimanne,AD Russell,0,{},{}
+1st innings,Sri Lanka,5.3,HDRL Thirimanne,AD Russell,4,{},{}
+1st innings,Sri Lanka,5.4,HDRL Thirimanne,AD Russell,1,{},{}
+1st innings,Sri Lanka,5.5,CK Kapugedera,AD Russell,0,{},{}
+1st innings,Sri Lanka,5.6,CK Kapugedera,AD Russell,4,{},{}
+1st innings,Sri Lanka,6.1,HDRL Thirimanne,S Badree,0,{},"{'fielders': ['ADS Fletcher'], 'kind': 'caught', 'player_out': 'HDRL Thirimanne'}"
+1st innings,Sri Lanka,6.2,AD Mathews,S Badree,0,{},{}
+1st innings,Sri Lanka,6.3,AD Mathews,S Badree,1,{},{}
+1st innings,Sri Lanka,6.4,CK Kapugedera,S Badree,0,{},{}
+1st innings,Sri Lanka,6.5,CK Kapugedera,S Badree,0,{},{}
+1st innings,Sri Lanka,6.6,CK Kapugedera,S Badree,1,{},{}
+1st innings,Sri Lanka,7.1,CK Kapugedera,CR Brathwaite,0,{},{}
+1st innings,Sri Lanka,7.2,CK Kapugedera,CR Brathwaite,0,{},{}
+1st innings,Sri Lanka,7.3,CK Kapugedera,CR Brathwaite,1,{},{}
+1st innings,Sri Lanka,7.4,AD Mathews,CR Brathwaite,1,{},{}
+1st innings,Sri Lanka,7.5,CK Kapugedera,CR Brathwaite,1,{'wides': 1},{}
+1st innings,Sri Lanka,7.6,CK Kapugedera,CR Brathwaite,1,{'legbyes': 1},{}
+1st innings,Sri Lanka,7.7,AD Mathews,CR Brathwaite,0,{},{}
+1st innings,Sri Lanka,8.1,CK Kapugedera,S Badree,0,{},"{'fielders': ['D Ramdin'], 'kind': 'stumped', 'player_out': 'CK Kapugedera'}"
+1st innings,Sri Lanka,8.2,TAM Siriwardana,S Badree,0,{},{}
+1st innings,Sri Lanka,8.3,TAM Siriwardana,S Badree,0,{},{}
+1st innings,Sri Lanka,8.4,TAM Siriwardana,S Badree,0,{},"{'fielders': ['CH Gayle'], 'kind': 'caught', 'player_out': 'TAM Siriwardana'}"
+1st innings,Sri Lanka,8.5,NLTC Perera,S Badree,1,{},{}
+1st innings,Sri Lanka,8.6,AD Mathews,S Badree,1,{},{}
+1st innings,Sri Lanka,9.1,AD Mathews,DJ Bravo,0,{},{}
+1st innings,Sri Lanka,9.2,AD Mathews,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,9.3,NLTC Perera,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,9.4,AD Mathews,DJ Bravo,0,{},{}
+1st innings,Sri Lanka,9.5,AD Mathews,DJ Bravo,2,{},{}
+1st innings,Sri Lanka,9.6,AD Mathews,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,10.1,AD Mathews,SJ Benn,1,{},{}
+1st innings,Sri Lanka,10.2,NLTC Perera,SJ Benn,1,{'legbyes': 1},{}
+1st innings,Sri Lanka,10.3,AD Mathews,SJ Benn,0,{},{}
+1st innings,Sri Lanka,10.4,AD Mathews,SJ Benn,0,{},{}
+1st innings,Sri Lanka,10.5,AD Mathews,SJ Benn,0,{},{}
+1st innings,Sri Lanka,10.6,AD Mathews,SJ Benn,1,{},{}
+1st innings,Sri Lanka,11.1,AD Mathews,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,11.2,NLTC Perera,DJ Bravo,2,{'wides': 2},{}
+1st innings,Sri Lanka,11.3,AD Mathews,DJ Bravo,0,{},{}
+1st innings,Sri Lanka,11.4,AD Mathews,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,11.5,NLTC Perera,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,11.6,AD Mathews,DJ Bravo,2,{},{}
+1st innings,Sri Lanka,11.7,AD Mathews,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,12.1,AD Mathews,SJ Benn,0,{},{}
+1st innings,Sri Lanka,12.2,AD Mathews,SJ Benn,0,{},{}
+1st innings,Sri Lanka,12.3,AD Mathews,SJ Benn,0,{},{}
+1st innings,Sri Lanka,12.4,AD Mathews,SJ Benn,0,{},{}
+1st innings,Sri Lanka,12.5,AD Mathews,SJ Benn,1,{},{}
+1st innings,Sri Lanka,12.6,NLTC Perera,SJ Benn,1,{},{}
+1st innings,Sri Lanka,13.1,NLTC Perera,AD Russell,0,{},{}
+1st innings,Sri Lanka,13.2,NLTC Perera,AD Russell,4,{},{}
+1st innings,Sri Lanka,13.3,NLTC Perera,AD Russell,0,{},{}
+1st innings,Sri Lanka,13.4,NLTC Perera,AD Russell,1,{},{}
+1st innings,Sri Lanka,13.5,AD Mathews,AD Russell,1,{},{}
+1st innings,Sri Lanka,13.6,NLTC Perera,AD Russell,0,{},{}
+1st innings,Sri Lanka,14.1,AD Mathews,SJ Benn,0,{},{}
+1st innings,Sri Lanka,14.2,AD Mathews,SJ Benn,1,{},{}
+1st innings,Sri Lanka,14.3,NLTC Perera,SJ Benn,4,{},{}
+1st innings,Sri Lanka,14.4,NLTC Perera,SJ Benn,1,{},{}
+1st innings,Sri Lanka,14.5,AD Mathews,SJ Benn,1,{},{}
+1st innings,Sri Lanka,14.6,NLTC Perera,SJ Benn,1,{},{}
+1st innings,Sri Lanka,15.1,NLTC Perera,CR Brathwaite,0,{},{}
+1st innings,Sri Lanka,15.2,NLTC Perera,CR Brathwaite,5,{'noballs': 1},{}
+1st innings,Sri Lanka,15.3,NLTC Perera,CR Brathwaite,1,{},{}
+1st innings,Sri Lanka,15.4,AD Mathews,CR Brathwaite,1,{},{}
+1st innings,Sri Lanka,15.5,NLTC Perera,CR Brathwaite,0,{},{}
+1st innings,Sri Lanka,15.6,NLTC Perera,CR Brathwaite,1,{},{}
+1st innings,Sri Lanka,15.7,AD Mathews,CR Brathwaite,1,{},{}
+1st innings,Sri Lanka,16.1,AD Mathews,DJ Bravo,1,{'wides': 1},{}
+1st innings,Sri Lanka,16.2,AD Mathews,DJ Bravo,0,{},"{'fielders': ['D Ramdin'], 'kind': 'caught', 'player_out': 'AD Mathews'}"
+1st innings,Sri Lanka,16.3,KMDN Kulasekara,DJ Bravo,0,{},{}
+1st innings,Sri Lanka,16.4,KMDN Kulasekara,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,16.5,NLTC Perera,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,16.6,KMDN Kulasekara,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,16.7,NLTC Perera,DJ Bravo,0,{},{}
+1st innings,Sri Lanka,17.1,KMDN Kulasekara,CR Brathwaite,1,{'wides': 1},{}
+1st innings,Sri Lanka,17.2,KMDN Kulasekara,CR Brathwaite,1,{},{}
+1st innings,Sri Lanka,17.3,NLTC Perera,CR Brathwaite,4,{},{}
+1st innings,Sri Lanka,17.4,NLTC Perera,CR Brathwaite,6,{},{}
+1st innings,Sri Lanka,17.5,NLTC Perera,CR Brathwaite,1,{},{}
+1st innings,Sri Lanka,17.6,KMDN Kulasekara,CR Brathwaite,2,{},{}
+1st innings,Sri Lanka,17.7,KMDN Kulasekara,CR Brathwaite,1,{},{}
+1st innings,Sri Lanka,18.1,KMDN Kulasekara,AD Russell,1,{},{}
+1st innings,Sri Lanka,18.2,NLTC Perera,AD Russell,4,{},{}
+1st innings,Sri Lanka,18.3,NLTC Perera,AD Russell,0,{},{}
+1st innings,Sri Lanka,18.4,NLTC Perera,AD Russell,1,{},{}
+1st innings,Sri Lanka,18.5,KMDN Kulasekara,AD Russell,0,{},"{'kind': 'bowled', 'player_out': 'KMDN Kulasekara'}"
+1st innings,Sri Lanka,18.6,HMRKB Herath,AD Russell,2,{},{}
+1st innings,Sri Lanka,19.1,NLTC Perera,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,19.2,HMRKB Herath,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,19.3,NLTC Perera,DJ Bravo,1,{},{}
+1st innings,Sri Lanka,19.4,HMRKB Herath,DJ Bravo,0,{},"{'fielders': ['DJ Bravo'], 'kind': 'run out', 'player_out': 'HMRKB Herath'}"
+1st innings,Sri Lanka,19.5,NLTC Perera,DJ Bravo,0,{},"{'fielders': ['AD Russell'], 'kind': 'caught', 'player_out': 'NLTC Perera'}"
+1st innings,Sri Lanka,19.6,JDF Vandersay,DJ Bravo,1,{'legbyes': 1},{}
+2nd innings,West Indies,0.1,ADS Fletcher,AD Mathews,4,{},{}
+2nd innings,West Indies,0.2,ADS Fletcher,AD Mathews,1,{},{}
+2nd innings,West Indies,0.3,J Charles,AD Mathews,1,{},{}
+2nd innings,West Indies,0.4,ADS Fletcher,AD Mathews,6,{},{}
+2nd innings,West Indies,0.5,ADS Fletcher,AD Mathews,1,{},{}
+2nd innings,West Indies,0.6,J Charles,AD Mathews,0,{},{}
+2nd innings,West Indies,1.1,ADS Fletcher,HMRKB Herath,0,{},{}
+2nd innings,West Indies,1.2,ADS Fletcher,HMRKB Herath,6,{},{}
+2nd innings,West Indies,1.3,ADS Fletcher,HMRKB Herath,0,{},{}
+2nd innings,West Indies,1.4,ADS Fletcher,HMRKB Herath,0,{},{}
+2nd innings,West Indies,1.5,ADS Fletcher,HMRKB Herath,4,{},{}
+2nd innings,West Indies,1.6,ADS Fletcher,HMRKB Herath,0,{},{}
+2nd innings,West Indies,2.1,J Charles,KMDN Kulasekara,0,{},{}
+2nd innings,West Indies,2.2,J Charles,KMDN Kulasekara,4,{},{}
+2nd innings,West Indies,2.3,J Charles,KMDN Kulasekara,0,{},{}
+2nd innings,West Indies,2.4,J Charles,KMDN Kulasekara,1,{},{}
+2nd innings,West Indies,2.5,ADS Fletcher,KMDN Kulasekara,1,{'wides': 1},{}
+2nd innings,West Indies,2.6,ADS Fletcher,KMDN Kulasekara,0,{},{}
+2nd innings,West Indies,2.7,ADS Fletcher,KMDN Kulasekara,0,{},{}
+2nd innings,West Indies,3.1,J Charles,JDF Vandersay,0,{},{}
+2nd innings,West Indies,3.2,J Charles,JDF Vandersay,1,{},{}
+2nd innings,West Indies,3.3,ADS Fletcher,JDF Vandersay,0,{},{}
+2nd innings,West Indies,3.4,ADS Fletcher,JDF Vandersay,0,{},{}
+2nd innings,West Indies,3.5,ADS Fletcher,JDF Vandersay,0,{},{}
+2nd innings,West Indies,3.6,ADS Fletcher,JDF Vandersay,0,{},{}
+2nd innings,West Indies,4.1,J Charles,HMRKB Herath,1,{},{}
+2nd innings,West Indies,4.2,ADS Fletcher,HMRKB Herath,1,{},{}
+2nd innings,West Indies,4.3,J Charles,HMRKB Herath,1,{},{}
+2nd innings,West Indies,4.4,ADS Fletcher,HMRKB Herath,1,{},{}
+2nd innings,West Indies,4.5,J Charles,HMRKB Herath,1,{},{}
+2nd innings,West Indies,4.6,ADS Fletcher,HMRKB Herath,4,{},{}
+2nd innings,West Indies,5.1,J Charles,JDF Vandersay,0,{},{}
+2nd innings,West Indies,5.2,J Charles,JDF Vandersay,0,{},"{'kind': 'bowled', 'player_out': 'J Charles'}"
+2nd innings,West Indies,5.3,MN Samuels,JDF Vandersay,0,{},{}
+2nd innings,West Indies,5.4,MN Samuels,JDF Vandersay,0,{},{}
+2nd innings,West Indies,5.5,MN Samuels,JDF Vandersay,0,{},{}
+2nd innings,West Indies,5.6,MN Samuels,JDF Vandersay,0,{},{}
+2nd innings,West Indies,6.1,ADS Fletcher,HMRKB Herath,1,{},{}
+2nd innings,West Indies,6.2,MN Samuels,HMRKB Herath,0,{},{}
+2nd innings,West Indies,6.3,MN Samuels,HMRKB Herath,1,{},{}
+2nd innings,West Indies,6.4,ADS Fletcher,HMRKB Herath,0,{},{}
+2nd innings,West Indies,6.5,ADS Fletcher,HMRKB Herath,4,{},{}
+2nd innings,West Indies,6.6,ADS Fletcher,HMRKB Herath,0,{},{}
+2nd innings,West Indies,7.1,MN Samuels,JDF Vandersay,0,{},{}
+2nd innings,West Indies,7.2,MN Samuels,JDF Vandersay,0,{},{}
+2nd innings,West Indies,7.3,MN Samuels,JDF Vandersay,0,{},{}
+2nd innings,West Indies,7.4,MN Samuels,JDF Vandersay,1,{},{}
+2nd innings,West Indies,7.5,ADS Fletcher,JDF Vandersay,6,{},{}
+2nd innings,West Indies,7.6,ADS Fletcher,JDF Vandersay,0,{},{}
+2nd innings,West Indies,8.1,MN Samuels,TAM Siriwardana,1,{},{}
+2nd innings,West Indies,8.2,ADS Fletcher,TAM Siriwardana,1,{},{}
+2nd innings,West Indies,8.3,MN Samuels,TAM Siriwardana,0,{},"{'fielders': ['LD Chandimal'], 'kind': 'stumped', 'player_out': 'MN Samuels'}"
+2nd innings,West Indies,8.4,D Ramdin,TAM Siriwardana,0,{},{}
+2nd innings,West Indies,8.5,D Ramdin,TAM Siriwardana,0,{},{}
+2nd innings,West Indies,8.6,D Ramdin,TAM Siriwardana,0,{},{}
+2nd innings,West Indies,9.1,ADS Fletcher,HMRKB Herath,0,{},{}
+2nd innings,West Indies,9.2,ADS Fletcher,HMRKB Herath,0,{},{}
+2nd innings,West Indies,9.3,ADS Fletcher,HMRKB Herath,0,{},{}
+2nd innings,West Indies,9.4,ADS Fletcher,HMRKB Herath,1,{},{}
+2nd innings,West Indies,9.5,D Ramdin,HMRKB Herath,1,{},{}
+2nd innings,West Indies,9.6,ADS Fletcher,HMRKB Herath,0,{},{}
+2nd innings,West Indies,10.1,D Ramdin,TAM Siriwardana,0,{},{}
+2nd innings,West Indies,10.2,D Ramdin,TAM Siriwardana,1,{},{}
+2nd innings,West Indies,10.3,ADS Fletcher,TAM Siriwardana,4,{},{}
+2nd innings,West Indies,10.4,ADS Fletcher,TAM Siriwardana,1,{},{}
+2nd innings,West Indies,10.5,D Ramdin,TAM Siriwardana,0,{},{}
+2nd innings,West Indies,10.6,D Ramdin,TAM Siriwardana,1,{},{}
+2nd innings,West Indies,11.1,D Ramdin,PVD Chameera,0,{},{}
+2nd innings,West Indies,11.2,D Ramdin,PVD Chameera,0,{},{}
+2nd innings,West Indies,11.3,D Ramdin,PVD Chameera,1,{},{}
+2nd innings,West Indies,11.4,ADS Fletcher,PVD Chameera,1,{},{}
+2nd innings,West Indies,11.5,D Ramdin,PVD Chameera,1,{},{}
+2nd innings,West Indies,11.6,ADS Fletcher,PVD Chameera,1,{},{}
+2nd innings,West Indies,12.1,ADS Fletcher,TAM Siriwardana,0,{},{}
+2nd innings,West Indies,12.2,ADS Fletcher,TAM Siriwardana,2,{},{}
+2nd innings,West Indies,12.3,ADS Fletcher,TAM Siriwardana,2,{},{}
+2nd innings,West Indies,12.4,ADS Fletcher,TAM Siriwardana,1,{},{}
+2nd innings,West Indies,12.5,D Ramdin,TAM Siriwardana,0,{},"{'kind': 'bowled', 'player_out': 'D Ramdin'}"
+2nd innings,West Indies,12.6,AD Russell,TAM Siriwardana,0,{},{}
+2nd innings,West Indies,13.1,ADS Fletcher,JDF Vandersay,0,{},{}
+2nd innings,West Indies,13.2,ADS Fletcher,JDF Vandersay,0,{},{}
+2nd innings,West Indies,13.3,ADS Fletcher,JDF Vandersay,0,{},{}
+2nd innings,West Indies,13.4,ADS Fletcher,JDF Vandersay,2,{},{}
+2nd innings,West Indies,13.5,ADS Fletcher,JDF Vandersay,1,{},{}
+2nd innings,West Indies,13.6,AD Russell,JDF Vandersay,0,{},{}
+2nd innings,West Indies,14.1,ADS Fletcher,TAM Siriwardana,6,{},{}
+2nd innings,West Indies,14.2,ADS Fletcher,TAM Siriwardana,6,{},{}
+2nd innings,West Indies,14.3,ADS Fletcher,TAM Siriwardana,0,{},{}
+2nd innings,West Indies,14.4,ADS Fletcher,TAM Siriwardana,2,{},{}
+2nd innings,West Indies,14.5,ADS Fletcher,TAM Siriwardana,1,{},{}
+2nd innings,West Indies,14.6,AD Russell,TAM Siriwardana,4,{},{}
+2nd innings,West Indies,15.1,ADS Fletcher,PVD Chameera,0,{},{}
+2nd innings,West Indies,15.2,ADS Fletcher,PVD Chameera,1,{},{}
+2nd innings,West Indies,15.3,AD Russell,PVD Chameera,2,{'wides': 2},{}
+2nd innings,West Indies,15.4,ADS Fletcher,PVD Chameera,0,{},{}
+2nd innings,West Indies,15.5,ADS Fletcher,PVD Chameera,0,{},{}
+2nd innings,West Indies,15.6,ADS Fletcher,PVD Chameera,0,{},{}
+2nd innings,West Indies,15.7,ADS Fletcher,PVD Chameera,1,{'wides': 1},{}
+2nd innings,West Indies,15.8,ADS Fletcher,PVD Chameera,1,{},{}
+2nd innings,West Indies,16.1,ADS Fletcher,KMDN Kulasekara,0,{},{}
+2nd innings,West Indies,16.2,ADS Fletcher,KMDN Kulasekara,1,{},{}
+2nd innings,West Indies,16.3,AD Russell,KMDN Kulasekara,4,{},{}
+2nd innings,West Indies,16.4,AD Russell,KMDN Kulasekara,1,{},{}
+2nd innings,West Indies,16.5,ADS Fletcher,KMDN Kulasekara,4,{},{}
+2nd innings,West Indies,16.6,ADS Fletcher,KMDN Kulasekara,1,{},{}
+2nd innings,West Indies,17.1,ADS Fletcher,PVD Chameera,0,{},{}
+2nd innings,West Indies,17.2,ADS Fletcher,PVD Chameera,0,{},{}
+2nd innings,West Indies,17.3,ADS Fletcher,PVD Chameera,1,{},{}
+2nd innings,West Indies,17.4,AD Russell,PVD Chameera,1,{},{}
+2nd innings,West Indies,17.5,ADS Fletcher,PVD Chameera,2,{},{}
+2nd innings,West Indies,17.6,ADS Fletcher,PVD Chameera,2,{},{}
+2nd innings,West Indies,18.1,AD Russell,NLTC Perera,4,{},{}
+2nd innings,West Indies,18.2,AD Russell,NLTC Perera,1,{'wides': 1},{}
+2nd innings,West Indies,18.3,AD Russell,NLTC Perera,6,{},{}

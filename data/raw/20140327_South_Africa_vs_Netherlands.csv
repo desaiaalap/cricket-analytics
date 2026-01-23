@@ -1,0 +1,240 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,South Africa,0.1,HM Amla,MR Swart,0,{},{}
+1st innings,South Africa,0.2,HM Amla,MR Swart,2,{},{}
+1st innings,South Africa,0.3,HM Amla,MR Swart,1,{},{}
+1st innings,South Africa,0.4,Q de Kock,MR Swart,0,{},{}
+1st innings,South Africa,0.5,Q de Kock,MR Swart,0,{},"{'fielders': ['SJ Myburgh'], 'kind': 'caught', 'player_out': 'Q de Kock'}"
+1st innings,South Africa,0.6,F du Plessis,MR Swart,0,{},{}
+1st innings,South Africa,1.1,HM Amla,T van der Gugten,2,{},{}
+1st innings,South Africa,1.2,HM Amla,T van der Gugten,4,{},{}
+1st innings,South Africa,1.3,HM Amla,T van der Gugten,0,{},{}
+1st innings,South Africa,1.4,HM Amla,T van der Gugten,0,{},{}
+1st innings,South Africa,1.5,HM Amla,T van der Gugten,0,{},{}
+1st innings,South Africa,1.6,HM Amla,T van der Gugten,1,{},{}
+1st innings,South Africa,2.1,HM Amla,MR Swart,1,{'wides': 1},{}
+1st innings,South Africa,2.2,HM Amla,MR Swart,0,{},{}
+1st innings,South Africa,2.3,HM Amla,MR Swart,6,{},{}
+1st innings,South Africa,2.4,HM Amla,MR Swart,4,{},{}
+1st innings,South Africa,2.5,HM Amla,MR Swart,4,{},{}
+1st innings,South Africa,2.6,HM Amla,MR Swart,4,{},{}
+1st innings,South Africa,2.7,HM Amla,MR Swart,4,{},{}
+1st innings,South Africa,3.1,F du Plessis,T van der Gugten,1,{},{}
+1st innings,South Africa,3.2,HM Amla,T van der Gugten,4,{},{}
+1st innings,South Africa,3.3,HM Amla,T van der Gugten,0,{},{}
+1st innings,South Africa,3.4,HM Amla,T van der Gugten,0,{},{}
+1st innings,South Africa,3.5,HM Amla,T van der Gugten,1,{},{}
+1st innings,South Africa,3.6,F du Plessis,T van der Gugten,0,{},{}
+1st innings,South Africa,4.1,HM Amla,Ahsan Malik,2,{},{}
+1st innings,South Africa,4.2,HM Amla,Ahsan Malik,4,{},{}
+1st innings,South Africa,4.3,HM Amla,Ahsan Malik,0,{},"{'fielders': ['W Barresi'], 'kind': 'caught', 'player_out': 'HM Amla'}"
+1st innings,South Africa,4.4,AB de Villiers,Ahsan Malik,0,{},{}
+1st innings,South Africa,4.5,AB de Villiers,Ahsan Malik,0,{},{}
+1st innings,South Africa,4.6,AB de Villiers,Ahsan Malik,1,{},{}
+1st innings,South Africa,5.1,AB de Villiers,LV van Beek,0,{},{}
+1st innings,South Africa,5.2,AB de Villiers,LV van Beek,0,{},{}
+1st innings,South Africa,5.3,AB de Villiers,LV van Beek,1,{},{}
+1st innings,South Africa,5.4,F du Plessis,LV van Beek,4,{},{}
+1st innings,South Africa,5.5,F du Plessis,LV van Beek,1,{'wides': 1},{}
+1st innings,South Africa,5.6,F du Plessis,LV van Beek,1,{'wides': 1},{}
+1st innings,South Africa,5.7,F du Plessis,LV van Beek,1,{},{}
+1st innings,South Africa,5.8,AB de Villiers,LV van Beek,4,{},{}
+1st innings,South Africa,6.1,F du Plessis,Mudassar Bukhari,1,{},{}
+1st innings,South Africa,6.2,AB de Villiers,Mudassar Bukhari,1,{},{}
+1st innings,South Africa,6.3,F du Plessis,Mudassar Bukhari,0,{},{}
+1st innings,South Africa,6.4,F du Plessis,Mudassar Bukhari,1,{},{}
+1st innings,South Africa,6.5,AB de Villiers,Mudassar Bukhari,1,{},{}
+1st innings,South Africa,6.6,F du Plessis,Mudassar Bukhari,4,{},{}
+1st innings,South Africa,7.1,AB de Villiers,PM Seelaar,0,{},{}
+1st innings,South Africa,7.2,AB de Villiers,PM Seelaar,1,{},{}
+1st innings,South Africa,7.3,F du Plessis,PM Seelaar,4,{},{}
+1st innings,South Africa,7.4,F du Plessis,PM Seelaar,1,{},{}
+1st innings,South Africa,7.5,AB de Villiers,PM Seelaar,2,{},{}
+1st innings,South Africa,7.6,AB de Villiers,PM Seelaar,1,{},{}
+1st innings,South Africa,8.1,AB de Villiers,TLW Cooper,1,{},{}
+1st innings,South Africa,8.2,F du Plessis,TLW Cooper,1,{},{}
+1st innings,South Africa,8.3,AB de Villiers,TLW Cooper,1,{},{}
+1st innings,South Africa,8.4,F du Plessis,TLW Cooper,6,{},{}
+1st innings,South Africa,8.5,F du Plessis,TLW Cooper,0,{},"{'fielders': ['LV van Beek'], 'kind': 'caught', 'player_out': 'F du Plessis'}"
+1st innings,South Africa,8.6,AB de Villiers,TLW Cooper,1,{},{}
+1st innings,South Africa,9.1,AB de Villiers,Mudassar Bukhari,2,{},{}
+1st innings,South Africa,9.2,AB de Villiers,Mudassar Bukhari,2,{},{}
+1st innings,South Africa,9.3,AB de Villiers,Mudassar Bukhari,1,{},{}
+1st innings,South Africa,9.4,JA Morkel,Mudassar Bukhari,0,{},{}
+1st innings,South Africa,9.5,JA Morkel,Mudassar Bukhari,1,{},{}
+1st innings,South Africa,9.6,AB de Villiers,Mudassar Bukhari,1,{},{}
+1st innings,South Africa,10.1,AB de Villiers,LV van Beek,0,{},"{'fielders': ['BN Cooper'], 'kind': 'caught', 'player_out': 'AB de Villiers'}"
+1st innings,South Africa,10.2,JA Morkel,LV van Beek,1,{},{}
+1st innings,South Africa,10.3,JP Duminy,LV van Beek,0,{},{}
+1st innings,South Africa,10.4,JP Duminy,LV van Beek,0,{},{}
+1st innings,South Africa,10.5,JP Duminy,LV van Beek,1,{},{}
+1st innings,South Africa,10.6,JA Morkel,LV van Beek,0,{},{}
+1st innings,South Africa,11.1,JP Duminy,TLW Cooper,2,{},{}
+1st innings,South Africa,11.2,JP Duminy,TLW Cooper,1,{},{}
+1st innings,South Africa,11.3,JA Morkel,TLW Cooper,0,{},{}
+1st innings,South Africa,11.4,JA Morkel,TLW Cooper,1,{},{}
+1st innings,South Africa,11.5,JP Duminy,TLW Cooper,1,{},{}
+1st innings,South Africa,11.6,JA Morkel,TLW Cooper,1,{},{}
+1st innings,South Africa,12.1,JA Morkel,Ahsan Malik,0,{},{}
+1st innings,South Africa,12.2,JA Morkel,Ahsan Malik,1,{},{}
+1st innings,South Africa,12.3,JP Duminy,Ahsan Malik,0,{},{}
+1st innings,South Africa,12.4,JP Duminy,Ahsan Malik,1,{},{}
+1st innings,South Africa,12.5,JA Morkel,Ahsan Malik,0,{},{}
+1st innings,South Africa,12.6,JA Morkel,Ahsan Malik,0,{},"{'fielders': ['BN Cooper'], 'kind': 'caught', 'player_out': 'JA Morkel'}"
+1st innings,South Africa,13.1,DA Miller,TLW Cooper,1,{},{}
+1st innings,South Africa,13.2,JP Duminy,TLW Cooper,1,{},{}
+1st innings,South Africa,13.3,DA Miller,TLW Cooper,0,{},{}
+1st innings,South Africa,13.4,DA Miller,TLW Cooper,1,{},{}
+1st innings,South Africa,13.5,JP Duminy,TLW Cooper,2,{},{}
+1st innings,South Africa,13.6,JP Duminy,TLW Cooper,1,{},{}
+1st innings,South Africa,14.1,JP Duminy,Mudassar Bukhari,1,{},{}
+1st innings,South Africa,14.2,DA Miller,Mudassar Bukhari,1,{},{}
+1st innings,South Africa,14.3,JP Duminy,Mudassar Bukhari,0,{},{}
+1st innings,South Africa,14.4,JP Duminy,Mudassar Bukhari,1,{},{}
+1st innings,South Africa,14.5,DA Miller,Mudassar Bukhari,2,{},{}
+1st innings,South Africa,14.6,DA Miller,Mudassar Bukhari,1,{},{}
+1st innings,South Africa,15.1,DA Miller,T van der Gugten,2,{},{}
+1st innings,South Africa,15.2,DA Miller,T van der Gugten,0,{},{}
+1st innings,South Africa,15.3,DA Miller,T van der Gugten,1,{'wides': 1},{}
+1st innings,South Africa,15.4,DA Miller,T van der Gugten,2,{},{}
+1st innings,South Africa,15.5,DA Miller,T van der Gugten,1,{},{}
+1st innings,South Africa,15.6,JP Duminy,T van der Gugten,0,{},"{'fielders': ['W Barresi'], 'kind': 'caught', 'player_out': 'JP Duminy'}"
+1st innings,South Africa,15.7,DW Steyn,T van der Gugten,0,{},{}
+1st innings,South Africa,16.1,DA Miller,Ahsan Malik,1,{},{}
+1st innings,South Africa,16.2,DW Steyn,Ahsan Malik,1,{},{}
+1st innings,South Africa,16.3,DA Miller,Ahsan Malik,1,{},{}
+1st innings,South Africa,16.4,DW Steyn,Ahsan Malik,4,{},{}
+1st innings,South Africa,16.5,DW Steyn,Ahsan Malik,0,{},"{'fielders': ['W Barresi'], 'kind': 'caught', 'player_out': 'DW Steyn'}"
+1st innings,South Africa,16.6,BE Hendricks,Ahsan Malik,1,{},{}
+1st innings,South Africa,17.1,BE Hendricks,Mudassar Bukhari,1,{},{}
+1st innings,South Africa,17.2,DA Miller,Mudassar Bukhari,0,{},{}
+1st innings,South Africa,17.3,DA Miller,Mudassar Bukhari,1,{},{}
+1st innings,South Africa,17.4,BE Hendricks,Mudassar Bukhari,1,{},{}
+1st innings,South Africa,17.5,DA Miller,Mudassar Bukhari,0,{},{}
+1st innings,South Africa,17.6,DA Miller,Mudassar Bukhari,2,{},{}
+1st innings,South Africa,18.1,BE Hendricks,Ahsan Malik,0,{},"{'fielders': ['PW Borren'], 'kind': 'caught', 'player_out': 'BE Hendricks'}"
+1st innings,South Africa,18.2,DA Miller,Ahsan Malik,1,{},{}
+1st innings,South Africa,18.3,Imran Tahir,Ahsan Malik,0,{},{}
+1st innings,South Africa,18.4,Imran Tahir,Ahsan Malik,1,{},{}
+1st innings,South Africa,18.5,DA Miller,Ahsan Malik,0,{},"{'kind': 'bowled', 'player_out': 'DA Miller'}"
+1st innings,South Africa,18.6,LL Tsotsobe,Ahsan Malik,0,{},{}
+1st innings,South Africa,19.1,Imran Tahir,T van der Gugten,4,{},{}
+1st innings,South Africa,19.2,Imran Tahir,T van der Gugten,2,{},{}
+1st innings,South Africa,19.3,Imran Tahir,T van der Gugten,2,{},{}
+1st innings,South Africa,19.4,Imran Tahir,T van der Gugten,0,{},{}
+1st innings,South Africa,19.5,Imran Tahir,T van der Gugten,1,{'byes': 1},{}
+1st innings,South Africa,19.6,LL Tsotsobe,T van der Gugten,1,{},{}
+2nd innings,Netherlands,0.1,SJ Myburgh,JA Morkel,1,{},{}
+2nd innings,Netherlands,0.2,MR Swart,JA Morkel,0,{},{}
+2nd innings,Netherlands,0.3,MR Swart,JA Morkel,0,{},{}
+2nd innings,Netherlands,0.4,MR Swart,JA Morkel,1,{},{}
+2nd innings,Netherlands,0.5,SJ Myburgh,JA Morkel,0,{},{}
+2nd innings,Netherlands,0.6,SJ Myburgh,JA Morkel,4,{},{}
+2nd innings,Netherlands,1.1,MR Swart,BE Hendricks,4,{},{}
+2nd innings,Netherlands,1.2,MR Swart,BE Hendricks,0,{},{}
+2nd innings,Netherlands,1.3,MR Swart,BE Hendricks,1,{},{}
+2nd innings,Netherlands,1.4,SJ Myburgh,BE Hendricks,0,{},{}
+2nd innings,Netherlands,1.5,SJ Myburgh,BE Hendricks,0,{},{}
+2nd innings,Netherlands,1.6,SJ Myburgh,BE Hendricks,1,{},{}
+2nd innings,Netherlands,2.1,SJ Myburgh,LL Tsotsobe,4,{},{}
+2nd innings,Netherlands,2.2,SJ Myburgh,LL Tsotsobe,4,{},{}
+2nd innings,Netherlands,2.3,SJ Myburgh,LL Tsotsobe,0,{},{}
+2nd innings,Netherlands,2.4,SJ Myburgh,LL Tsotsobe,6,{},{}
+2nd innings,Netherlands,2.5,SJ Myburgh,LL Tsotsobe,0,{},{}
+2nd innings,Netherlands,2.6,SJ Myburgh,LL Tsotsobe,4,{},{}
+2nd innings,Netherlands,3.1,MR Swart,DW Steyn,1,{},{}
+2nd innings,Netherlands,3.2,SJ Myburgh,DW Steyn,0,{},{}
+2nd innings,Netherlands,3.3,SJ Myburgh,DW Steyn,1,{},{}
+2nd innings,Netherlands,3.4,MR Swart,DW Steyn,4,{'byes': 4},{}
+2nd innings,Netherlands,3.5,MR Swart,DW Steyn,0,{},{}
+2nd innings,Netherlands,3.6,MR Swart,DW Steyn,0,{},{}
+2nd innings,Netherlands,4.1,SJ Myburgh,LL Tsotsobe,0,{},{}
+2nd innings,Netherlands,4.2,SJ Myburgh,LL Tsotsobe,4,{},{}
+2nd innings,Netherlands,4.3,SJ Myburgh,LL Tsotsobe,4,{},{}
+2nd innings,Netherlands,4.4,SJ Myburgh,LL Tsotsobe,0,{},{}
+2nd innings,Netherlands,4.5,SJ Myburgh,LL Tsotsobe,6,{},{}
+2nd innings,Netherlands,4.6,SJ Myburgh,LL Tsotsobe,1,{},{}
+2nd innings,Netherlands,5.1,SJ Myburgh,DW Steyn,1,{'legbyes': 1},{}
+2nd innings,Netherlands,5.2,MR Swart,DW Steyn,1,{},{}
+2nd innings,Netherlands,5.3,SJ Myburgh,DW Steyn,4,{},{}
+2nd innings,Netherlands,5.4,SJ Myburgh,DW Steyn,1,{},{}
+2nd innings,Netherlands,5.5,MR Swart,DW Steyn,0,{},"{'fielders': ['F du Plessis'], 'kind': 'caught', 'player_out': 'MR Swart'}"
+2nd innings,Netherlands,5.6,SJ Myburgh,DW Steyn,1,{'wides': 1},{}
+2nd innings,Netherlands,5.7,SJ Myburgh,DW Steyn,4,{},{}
+2nd innings,Netherlands,6.1,W Barresi,Imran Tahir,1,{},{}
+2nd innings,Netherlands,6.2,SJ Myburgh,Imran Tahir,1,{},{}
+2nd innings,Netherlands,6.3,W Barresi,Imran Tahir,1,{},{}
+2nd innings,Netherlands,6.4,SJ Myburgh,Imran Tahir,1,{},{}
+2nd innings,Netherlands,6.5,W Barresi,Imran Tahir,0,{},{}
+2nd innings,Netherlands,6.6,W Barresi,Imran Tahir,1,{},{}
+2nd innings,Netherlands,7.1,W Barresi,JP Duminy,4,{},{}
+2nd innings,Netherlands,7.2,W Barresi,JP Duminy,1,{'wides': 1},{}
+2nd innings,Netherlands,7.3,W Barresi,JP Duminy,6,{},{}
+2nd innings,Netherlands,7.4,W Barresi,JP Duminy,1,{},{}
+2nd innings,Netherlands,7.5,SJ Myburgh,JP Duminy,0,{},{}
+2nd innings,Netherlands,7.6,SJ Myburgh,JP Duminy,0,{},"{'kind': 'bowled', 'player_out': 'SJ Myburgh'}"
+2nd innings,Netherlands,7.7,PW Borren,JP Duminy,0,{},{}
+2nd innings,Netherlands,8.1,W Barresi,Imran Tahir,1,{'legbyes': 1},{}
+2nd innings,Netherlands,8.2,PW Borren,Imran Tahir,1,{},{}
+2nd innings,Netherlands,8.3,W Barresi,Imran Tahir,0,{},"{'kind': 'lbw', 'player_out': 'W Barresi'}"
+2nd innings,Netherlands,8.4,TLW Cooper,Imran Tahir,1,{},{}
+2nd innings,Netherlands,8.5,PW Borren,Imran Tahir,1,{},{}
+2nd innings,Netherlands,8.6,TLW Cooper,Imran Tahir,0,{},{}
+2nd innings,Netherlands,9.1,PW Borren,BE Hendricks,0,{},{}
+2nd innings,Netherlands,9.2,PW Borren,BE Hendricks,0,{},{}
+2nd innings,Netherlands,9.3,PW Borren,BE Hendricks,1,{},{}
+2nd innings,Netherlands,9.4,TLW Cooper,BE Hendricks,1,{},{}
+2nd innings,Netherlands,9.5,PW Borren,BE Hendricks,0,{},{}
+2nd innings,Netherlands,9.6,PW Borren,BE Hendricks,4,{},{}
+2nd innings,Netherlands,10.1,TLW Cooper,Imran Tahir,1,{},{}
+2nd innings,Netherlands,10.2,PW Borren,Imran Tahir,6,{},{}
+2nd innings,Netherlands,10.3,PW Borren,Imran Tahir,0,{},"{'kind': 'lbw', 'player_out': 'PW Borren'}"
+2nd innings,Netherlands,10.4,BN Cooper,Imran Tahir,2,{},{}
+2nd innings,Netherlands,10.5,BN Cooper,Imran Tahir,1,{},{}
+2nd innings,Netherlands,10.6,TLW Cooper,Imran Tahir,1,{},{}
+2nd innings,Netherlands,11.1,TLW Cooper,JA Morkel,1,{},{}
+2nd innings,Netherlands,11.2,BN Cooper,JA Morkel,1,{},{}
+2nd innings,Netherlands,11.3,TLW Cooper,JA Morkel,4,{},{}
+2nd innings,Netherlands,11.4,TLW Cooper,JA Morkel,1,{'wides': 1},{}
+2nd innings,Netherlands,11.5,TLW Cooper,JA Morkel,2,{},{}
+2nd innings,Netherlands,11.6,TLW Cooper,JA Morkel,4,{},{}
+2nd innings,Netherlands,11.7,TLW Cooper,JA Morkel,0,{},{}
+2nd innings,Netherlands,12.1,BN Cooper,DW Steyn,1,{},{}
+2nd innings,Netherlands,12.2,TLW Cooper,DW Steyn,0,{},{}
+2nd innings,Netherlands,12.3,TLW Cooper,DW Steyn,1,{},{}
+2nd innings,Netherlands,12.4,BN Cooper,DW Steyn,0,{},{}
+2nd innings,Netherlands,12.5,BN Cooper,DW Steyn,0,{},"{'fielders': ['Q de Kock'], 'kind': 'caught', 'player_out': 'BN Cooper'}"
+2nd innings,Netherlands,12.6,Mudassar Bukhari,DW Steyn,0,{},{}
+2nd innings,Netherlands,13.1,TLW Cooper,Imran Tahir,0,{},"{'kind': 'bowled', 'player_out': 'TLW Cooper'}"
+2nd innings,Netherlands,13.2,PM Seelaar,Imran Tahir,2,{},{}
+2nd innings,Netherlands,13.3,PM Seelaar,Imran Tahir,0,{},{}
+2nd innings,Netherlands,13.4,PM Seelaar,Imran Tahir,0,{},{}
+2nd innings,Netherlands,13.5,PM Seelaar,Imran Tahir,0,{},"{'fielders': ['JP Duminy'], 'kind': 'caught', 'player_out': 'PM Seelaar'}"
+2nd innings,Netherlands,13.6,Mudassar Bukhari,Imran Tahir,0,{},{}
+2nd innings,Netherlands,14.1,LV van Beek,BE Hendricks,0,{},{}
+2nd innings,Netherlands,14.2,LV van Beek,BE Hendricks,0,{},{}
+2nd innings,Netherlands,14.3,LV van Beek,BE Hendricks,1,{},{}
+2nd innings,Netherlands,14.4,Mudassar Bukhari,BE Hendricks,1,{},{}
+2nd innings,Netherlands,14.5,LV van Beek,BE Hendricks,0,{},{}
+2nd innings,Netherlands,14.6,LV van Beek,BE Hendricks,0,{},{}
+2nd innings,Netherlands,15.1,Mudassar Bukhari,LL Tsotsobe,4,{},{}
+2nd innings,Netherlands,15.2,Mudassar Bukhari,LL Tsotsobe,1,{},"{'fielders': ['DA Miller', 'Q de Kock'], 'kind': 'run out', 'player_out': 'LV van Beek'}"
+2nd innings,Netherlands,15.3,T van der Gugten,LL Tsotsobe,0,{},{}
+2nd innings,Netherlands,15.4,T van der Gugten,LL Tsotsobe,1,{},{}
+2nd innings,Netherlands,15.5,Mudassar Bukhari,LL Tsotsobe,1,{},{}
+2nd innings,Netherlands,15.6,T van der Gugten,LL Tsotsobe,1,{},{}
+2nd innings,Netherlands,16.1,T van der Gugten,DW Steyn,1,{},{}
+2nd innings,Netherlands,16.2,Mudassar Bukhari,DW Steyn,0,{},{}
+2nd innings,Netherlands,16.3,Mudassar Bukhari,DW Steyn,0,{},{}
+2nd innings,Netherlands,16.4,Mudassar Bukhari,DW Steyn,3,{},{}
+2nd innings,Netherlands,16.5,T van der Gugten,DW Steyn,0,{},{}
+2nd innings,Netherlands,16.6,T van der Gugten,DW Steyn,0,{},{}
+2nd innings,Netherlands,17.1,Mudassar Bukhari,LL Tsotsobe,0,{},{}
+2nd innings,Netherlands,17.2,Mudassar Bukhari,LL Tsotsobe,1,{},{}
+2nd innings,Netherlands,17.3,T van der Gugten,LL Tsotsobe,1,{},{}
+2nd innings,Netherlands,17.4,Mudassar Bukhari,LL Tsotsobe,0,{},"{'fielders': ['DA Miller'], 'kind': 'caught', 'player_out': 'Mudassar Bukhari'}"
+2nd innings,Netherlands,17.5,T van der Gugten,LL Tsotsobe,2,{},{}
+2nd innings,Netherlands,17.6,T van der Gugten,LL Tsotsobe,1,{},{}
+2nd innings,Netherlands,18.1,T van der Gugten,BE Hendricks,1,{},{}
+2nd innings,Netherlands,18.2,Ahsan Malik,BE Hendricks,1,{},{}
+2nd innings,Netherlands,18.3,T van der Gugten,BE Hendricks,0,{},{}
+2nd innings,Netherlands,18.4,T van der Gugten,BE Hendricks,0,{},"{'fielders': ['Q de Kock'], 'kind': 'caught', 'player_out': 'T van der Gugten'}"

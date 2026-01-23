@@ -1,0 +1,105 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Oman,0.1,PS Athavale,RJW Topley,1,{},{}
+1st innings,Oman,0.2,KH Prajapati,RJW Topley,0,{},{}
+1st innings,Oman,0.3,KH Prajapati,RJW Topley,0,{},{}
+1st innings,Oman,0.4,KH Prajapati,RJW Topley,0,{},{}
+1st innings,Oman,0.5,KH Prajapati,RJW Topley,0,{},{}
+1st innings,Oman,0.6,KH Prajapati,RJW Topley,0,{},{}
+1st innings,Oman,1.1,PS Athavale,JC Archer,1,{'wides': 1},{}
+1st innings,Oman,1.2,PS Athavale,JC Archer,4,{},{}
+1st innings,Oman,1.3,PS Athavale,JC Archer,0,{},"{'player_out': 'PS Athavale', 'fielders': ['PD Salt'], 'kind': 'caught'}"
+1st innings,Oman,1.4,Aqib Ilyas,JC Archer,0,{},{}
+1st innings,Oman,1.5,Aqib Ilyas,JC Archer,4,{},{}
+1st innings,Oman,1.6,Aqib Ilyas,JC Archer,1,{},{}
+1st innings,Oman,1.7,KH Prajapati,JC Archer,0,{},{}
+1st innings,Oman,2.1,Aqib Ilyas,RJW Topley,0,{},{}
+1st innings,Oman,2.2,Aqib Ilyas,RJW Topley,0,{},{}
+1st innings,Oman,2.3,Aqib Ilyas,RJW Topley,1,{},{}
+1st innings,Oman,2.4,KH Prajapati,RJW Topley,1,{},{}
+1st innings,Oman,2.5,Aqib Ilyas,RJW Topley,0,{},{}
+1st innings,Oman,2.6,Aqib Ilyas,RJW Topley,1,{},{}
+1st innings,Oman,3.1,Aqib Ilyas,JC Archer,1,{},{}
+1st innings,Oman,3.2,KH Prajapati,JC Archer,1,{},{}
+1st innings,Oman,3.3,Aqib Ilyas,JC Archer,0,{},"{'player_out': 'Aqib Ilyas', 'fielders': ['WG Jacks'], 'kind': 'caught'}"
+1st innings,Oman,3.4,Zeeshan Maqsood,JC Archer,0,{},{}
+1st innings,Oman,3.5,Zeeshan Maqsood,JC Archer,0,{},{}
+1st innings,Oman,3.6,Zeeshan Maqsood,JC Archer,0,{},{}
+1st innings,Oman,4.1,KH Prajapati,RJW Topley,0,{},{}
+1st innings,Oman,4.2,KH Prajapati,RJW Topley,1,{},{}
+1st innings,Oman,4.3,Zeeshan Maqsood,RJW Topley,1,{},{}
+1st innings,Oman,4.4,KH Prajapati,RJW Topley,0,{},{}
+1st innings,Oman,4.5,KH Prajapati,RJW Topley,6,{},{}
+1st innings,Oman,4.6,KH Prajapati,RJW Topley,0,{},{}
+1st innings,Oman,5.1,Zeeshan Maqsood,MA Wood,0,{},"{'player_out': 'Zeeshan Maqsood', 'kind': 'caught and bowled'}"
+1st innings,Oman,5.2,Khalid Kail,MA Wood,0,{},{}
+1st innings,Oman,5.3,Khalid Kail,MA Wood,1,{},{}
+1st innings,Oman,5.4,KH Prajapati,MA Wood,0,{},{}
+1st innings,Oman,5.5,KH Prajapati,MA Wood,0,{},{}
+1st innings,Oman,5.6,KH Prajapati,MA Wood,0,{},"{'player_out': 'KH Prajapati', 'fielders': ['LS Livingstone'], 'kind': 'caught'}"
+1st innings,Oman,6.1,Khalid Kail,AU Rashid,0,{},"{'player_out': 'Khalid Kail', 'fielders': ['JC Buttler'], 'kind': 'stumped'}"
+1st innings,Oman,6.2,Shoaib Khan,AU Rashid,0,{},{}
+1st innings,Oman,6.3,Shoaib Khan,AU Rashid,1,{'wides': 1},{}
+1st innings,Oman,6.4,Shoaib Khan,AU Rashid,0,{},{}
+1st innings,Oman,6.5,Shoaib Khan,AU Rashid,0,{},{}
+1st innings,Oman,6.6,Shoaib Khan,AU Rashid,4,{},{}
+1st innings,Oman,6.7,Shoaib Khan,AU Rashid,0,{},{}
+1st innings,Oman,7.1,Ayan Khan,MA Wood,0,{},{}
+1st innings,Oman,7.2,Ayan Khan,MA Wood,0,{},{}
+1st innings,Oman,7.3,Ayan Khan,MA Wood,0,{},{}
+1st innings,Oman,7.4,Ayan Khan,MA Wood,1,{},{}
+1st innings,Oman,7.5,Shoaib Khan,MA Wood,1,{},{}
+1st innings,Oman,7.6,Ayan Khan,MA Wood,0,{},"{'player_out': 'Ayan Khan', 'kind': 'bowled'}"
+1st innings,Oman,8.1,Shoaib Khan,AU Rashid,0,{},{}
+1st innings,Oman,8.2,Shoaib Khan,AU Rashid,1,{},{}
+1st innings,Oman,8.3,Mehran Khan,AU Rashid,0,{},{}
+1st innings,Oman,8.4,Mehran Khan,AU Rashid,0,{},"{'player_out': 'Mehran Khan', 'fielders': ['MM Ali'], 'kind': 'caught'}"
+1st innings,Oman,8.5,Fayyaz Butt,AU Rashid,0,{},{}
+1st innings,Oman,8.6,Fayyaz Butt,AU Rashid,2,{},{}
+1st innings,Oman,9.1,Shoaib Khan,JC Archer,0,{},{}
+1st innings,Oman,9.2,Shoaib Khan,JC Archer,0,{},{}
+1st innings,Oman,9.3,Shoaib Khan,JC Archer,0,{},{}
+1st innings,Oman,9.4,Shoaib Khan,JC Archer,0,{},{}
+1st innings,Oman,9.5,Shoaib Khan,JC Archer,0,{},{}
+1st innings,Oman,9.6,Shoaib Khan,JC Archer,0,{},{}
+1st innings,Oman,10.1,Fayyaz Butt,AU Rashid,0,{},{}
+1st innings,Oman,10.2,Fayyaz Butt,AU Rashid,0,{},{}
+1st innings,Oman,10.3,Fayyaz Butt,AU Rashid,1,{'wides': 1},{}
+1st innings,Oman,10.4,Fayyaz Butt,AU Rashid,0,{},{}
+1st innings,Oman,10.5,Fayyaz Butt,AU Rashid,0,{},{}
+1st innings,Oman,10.6,Fayyaz Butt,AU Rashid,0,{},"{'player_out': 'Fayyaz Butt', 'kind': 'bowled'}"
+1st innings,Oman,10.7,Kaleemullah,AU Rashid,0,{},{}
+1st innings,Oman,11.1,Shoaib Khan,MA Wood,2,{},{}
+1st innings,Oman,11.2,Shoaib Khan,MA Wood,1,{},{}
+1st innings,Oman,11.3,Kaleemullah,MA Wood,4,{},{}
+1st innings,Oman,11.4,Kaleemullah,MA Wood,0,{},{}
+1st innings,Oman,11.5,Kaleemullah,MA Wood,1,{},{}
+1st innings,Oman,11.6,Shoaib Khan,MA Wood,1,{},{}
+1st innings,Oman,12.1,Shoaib Khan,AU Rashid,1,{'wides': 1},{}
+1st innings,Oman,12.2,Shoaib Khan,AU Rashid,0,{},{}
+1st innings,Oman,12.3,Shoaib Khan,AU Rashid,0,{},{}
+1st innings,Oman,12.4,Shoaib Khan,AU Rashid,0,{},{}
+1st innings,Oman,12.5,Shoaib Khan,AU Rashid,1,{},{}
+1st innings,Oman,12.6,Kaleemullah,AU Rashid,0,{},"{'player_out': 'Kaleemullah', 'kind': 'bowled'}"
+1st innings,Oman,12.7,Bilal Khan,AU Rashid,0,{},{}
+1st innings,Oman,13.1,Shoaib Khan,JC Archer,0,{},{}
+1st innings,Oman,13.2,Shoaib Khan,JC Archer,0,{},"{'player_out': 'Shoaib Khan', 'fielders': ['JC Buttler'], 'kind': 'caught'}"
+2nd innings,England,0.1,PD Salt,Bilal Khan,6,{},{}
+2nd innings,England,0.2,PD Salt,Bilal Khan,6,{},{}
+2nd innings,England,0.3,PD Salt,Bilal Khan,0,{},"{'player_out': 'PD Salt', 'kind': 'bowled'}"
+2nd innings,England,0.4,WG Jacks,Bilal Khan,0,{},{}
+2nd innings,England,0.5,WG Jacks,Bilal Khan,1,{},{}
+2nd innings,England,0.6,JC Buttler,Bilal Khan,1,{},{}
+2nd innings,England,1.1,JC Buttler,Kaleemullah,1,{},{}
+2nd innings,England,1.2,WG Jacks,Kaleemullah,5,{'noballs': 1},{}
+2nd innings,England,1.3,WG Jacks,Kaleemullah,0,{},{}
+2nd innings,England,1.4,WG Jacks,Kaleemullah,0,{},{}
+2nd innings,England,1.5,WG Jacks,Kaleemullah,0,{},{}
+2nd innings,England,1.6,WG Jacks,Kaleemullah,0,{},"{'player_out': 'WG Jacks', 'fielders': ['KH Prajapati'], 'kind': 'caught'}"
+2nd innings,England,1.7,JM Bairstow,Kaleemullah,4,{},{}
+2nd innings,England,2.1,JC Buttler,Bilal Khan,4,{},{}
+2nd innings,England,2.2,JC Buttler,Bilal Khan,0,{},{}
+2nd innings,England,2.3,JC Buttler,Bilal Khan,4,{},{}
+2nd innings,England,2.4,JC Buttler,Bilal Khan,4,{},{}
+2nd innings,England,2.5,JC Buttler,Bilal Khan,6,{},{}
+2nd innings,England,2.6,JC Buttler,Bilal Khan,4,{},{}
+2nd innings,England,3.1,JM Bairstow,Fayyaz Butt,4,{},{}

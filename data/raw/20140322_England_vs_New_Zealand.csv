@@ -1,0 +1,159 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,England,0.1,MJ Lumb,KD Mills,1,{},{}
+1st innings,England,0.2,AD Hales,KD Mills,0,{},{}
+1st innings,England,0.3,AD Hales,KD Mills,0,{},"{'player_out': 'AD Hales', 'fielders': ['CJ Anderson'], 'kind': 'caught'}"
+1st innings,England,0.4,MJ Lumb,KD Mills,0,{},{}
+1st innings,England,0.5,MJ Lumb,KD Mills,0,{},{}
+1st innings,England,0.6,MJ Lumb,KD Mills,0,{},{}
+1st innings,England,1.1,MM Ali,MJ McClenaghan,0,{},{}
+1st innings,England,1.2,MM Ali,MJ McClenaghan,4,{},{}
+1st innings,England,1.3,MM Ali,MJ McClenaghan,1,{},{}
+1st innings,England,1.4,MJ Lumb,MJ McClenaghan,3,{'legbyes': 3},{}
+1st innings,England,1.5,MM Ali,MJ McClenaghan,0,{},{}
+1st innings,England,1.6,MM Ali,MJ McClenaghan,0,{},{}
+1st innings,England,2.1,MJ Lumb,KD Mills,1,{},{}
+1st innings,England,2.2,MM Ali,KD Mills,0,{},{}
+1st innings,England,2.3,MM Ali,KD Mills,0,{},{}
+1st innings,England,2.4,MM Ali,KD Mills,1,{'wides': 1},{}
+1st innings,England,2.5,MM Ali,KD Mills,4,{},{}
+1st innings,England,2.6,MM Ali,KD Mills,6,{},{}
+1st innings,England,2.7,MM Ali,KD Mills,4,{},{}
+1st innings,England,3.1,MJ Lumb,MJ McClenaghan,1,{},{}
+1st innings,England,3.2,MM Ali,MJ McClenaghan,1,{},{}
+1st innings,England,3.3,MJ Lumb,MJ McClenaghan,0,{},{}
+1st innings,England,3.4,MJ Lumb,MJ McClenaghan,4,{},{}
+1st innings,England,3.5,MJ Lumb,MJ McClenaghan,0,{},{}
+1st innings,England,3.6,MJ Lumb,MJ McClenaghan,0,{},{}
+1st innings,England,4.1,MM Ali,TG Southee,4,{},{}
+1st innings,England,4.2,MM Ali,TG Southee,4,{},{}
+1st innings,England,4.3,MM Ali,TG Southee,0,{},{}
+1st innings,England,4.4,MM Ali,TG Southee,1,{},{}
+1st innings,England,4.5,MJ Lumb,TG Southee,6,{},{}
+1st innings,England,4.6,MJ Lumb,TG Southee,2,{},{}
+1st innings,England,5.1,MM Ali,CJ Anderson,1,{},{}
+1st innings,England,5.2,MJ Lumb,CJ Anderson,1,{},{}
+1st innings,England,5.3,MM Ali,CJ Anderson,1,{'wides': 1},{}
+1st innings,England,5.4,MM Ali,CJ Anderson,0,{},{}
+1st innings,England,5.5,MM Ali,CJ Anderson,4,{},{}
+1st innings,England,5.6,MM Ali,CJ Anderson,0,{},{}
+1st innings,England,5.7,MM Ali,CJ Anderson,0,{},{}
+1st innings,England,6.1,MJ Lumb,NL McCullum,1,{},{}
+1st innings,England,6.2,MM Ali,NL McCullum,1,{},{}
+1st innings,England,6.3,MJ Lumb,NL McCullum,4,{},{}
+1st innings,England,6.4,MJ Lumb,NL McCullum,4,{},{}
+1st innings,England,6.5,MJ Lumb,NL McCullum,0,{},{}
+1st innings,England,6.6,MJ Lumb,NL McCullum,1,{},{}
+1st innings,England,7.1,MJ Lumb,CJ Anderson,4,{},{}
+1st innings,England,7.2,MJ Lumb,CJ Anderson,1,{},{}
+1st innings,England,7.3,MM Ali,CJ Anderson,1,{},{}
+1st innings,England,7.4,MJ Lumb,CJ Anderson,1,{'legbyes': 1},{}
+1st innings,England,7.5,MM Ali,CJ Anderson,0,{},"{'player_out': 'MM Ali', 'fielders': ['MJ McClenaghan'], 'kind': 'caught'}"
+1st innings,England,7.6,MJ Lumb,CJ Anderson,2,{},{}
+1st innings,England,8.1,EJG Morgan,MJ McClenaghan,0,{},{}
+1st innings,England,8.2,EJG Morgan,MJ McClenaghan,0,{},{}
+1st innings,England,8.3,EJG Morgan,MJ McClenaghan,1,{},{}
+1st innings,England,8.4,MJ Lumb,MJ McClenaghan,0,{},"{'player_out': 'MJ Lumb', 'fielders': ['CJ Anderson'], 'kind': 'caught'}"
+1st innings,England,8.5,EJG Morgan,MJ McClenaghan,0,{},{}
+1st innings,England,8.6,EJG Morgan,MJ McClenaghan,1,{},{}
+1st innings,England,9.1,EJG Morgan,NL McCullum,0,{},{}
+1st innings,England,9.2,EJG Morgan,NL McCullum,0,{},{}
+1st innings,England,9.3,EJG Morgan,NL McCullum,1,{'wides': 1},{}
+1st innings,England,9.4,EJG Morgan,NL McCullum,2,{},{}
+1st innings,England,9.5,EJG Morgan,NL McCullum,2,{},{}
+1st innings,England,9.6,EJG Morgan,NL McCullum,1,{},{}
+1st innings,England,9.7,JC Buttler,NL McCullum,1,{},{}
+1st innings,England,10.1,JC Buttler,MJ McClenaghan,2,{},{}
+1st innings,England,10.2,JC Buttler,MJ McClenaghan,1,{},{}
+1st innings,England,10.3,EJG Morgan,MJ McClenaghan,4,{},{}
+1st innings,England,10.4,EJG Morgan,MJ McClenaghan,1,{},{}
+1st innings,England,10.5,JC Buttler,MJ McClenaghan,1,{},{}
+1st innings,England,10.6,EJG Morgan,MJ McClenaghan,0,{},{}
+1st innings,England,11.1,JC Buttler,NL McCullum,4,{},{}
+1st innings,England,11.2,JC Buttler,NL McCullum,0,{},{}
+1st innings,England,11.3,JC Buttler,NL McCullum,4,{},{}
+1st innings,England,11.4,JC Buttler,NL McCullum,0,{},{}
+1st innings,England,11.5,JC Buttler,NL McCullum,2,{},{}
+1st innings,England,11.6,JC Buttler,NL McCullum,0,{},{}
+1st innings,England,12.1,EJG Morgan,TG Southee,0,{},{}
+1st innings,England,12.2,EJG Morgan,TG Southee,0,{},"{'player_out': 'EJG Morgan', 'fielders': ['BB McCullum'], 'kind': 'caught'}"
+1st innings,England,12.3,RS Bopara,TG Southee,1,{'wides': 1},{}
+1st innings,England,12.4,RS Bopara,TG Southee,1,{},{}
+1st innings,England,12.5,JC Buttler,TG Southee,0,{},{}
+1st innings,England,12.6,JC Buttler,TG Southee,0,{},{}
+1st innings,England,12.7,JC Buttler,TG Southee,0,{},{}
+1st innings,England,13.1,RS Bopara,KD Mills,1,{'wides': 1},{}
+1st innings,England,13.2,RS Bopara,KD Mills,1,{},{}
+1st innings,England,13.3,JC Buttler,KD Mills,2,{},{}
+1st innings,England,13.4,JC Buttler,KD Mills,1,{},{}
+1st innings,England,13.5,RS Bopara,KD Mills,1,{},{}
+1st innings,England,13.6,JC Buttler,KD Mills,2,{},{}
+1st innings,England,13.7,JC Buttler,KD Mills,1,{},{}
+1st innings,England,14.1,JC Buttler,TG Southee,0,{},{}
+1st innings,England,14.2,JC Buttler,TG Southee,3,{},{}
+1st innings,England,14.3,RS Bopara,TG Southee,1,{},{}
+1st innings,England,14.4,JC Buttler,TG Southee,4,{},{}
+1st innings,England,14.5,JC Buttler,TG Southee,0,{},{}
+1st innings,England,14.6,JC Buttler,TG Southee,4,{},{}
+1st innings,England,15.1,RS Bopara,CJ Anderson,2,{},{}
+1st innings,England,15.2,RS Bopara,CJ Anderson,0,{},{}
+1st innings,England,15.3,RS Bopara,CJ Anderson,1,{},{}
+1st innings,England,15.4,JC Buttler,CJ Anderson,0,{},"{'player_out': 'JC Buttler', 'kind': 'bowled'}"
+1st innings,England,15.5,CJ Jordan,CJ Anderson,0,{},{}
+1st innings,England,15.6,CJ Jordan,CJ Anderson,1,{},{}
+1st innings,England,16.1,CJ Jordan,TG Southee,1,{},{}
+1st innings,England,16.2,RS Bopara,TG Southee,0,{},{}
+1st innings,England,16.3,RS Bopara,TG Southee,6,{},{}
+1st innings,England,16.4,RS Bopara,TG Southee,0,{},{}
+1st innings,England,16.5,RS Bopara,TG Southee,1,{},{}
+1st innings,England,16.6,CJ Jordan,TG Southee,1,{'wides': 1},{}
+1st innings,England,16.7,CJ Jordan,TG Southee,6,{},{}
+1st innings,England,17.1,RS Bopara,NL McCullum,2,{},{}
+1st innings,England,17.2,RS Bopara,NL McCullum,1,{},{}
+1st innings,England,17.3,CJ Jordan,NL McCullum,0,{},{}
+1st innings,England,17.4,CJ Jordan,NL McCullum,0,{},"{'player_out': 'CJ Jordan', 'fielders': ['TG Southee'], 'kind': 'caught'}"
+1st innings,England,17.5,TT Bresnan,NL McCullum,1,{},{}
+1st innings,England,17.6,RS Bopara,NL McCullum,0,{},{}
+1st innings,England,18.1,TT Bresnan,KD Mills,0,{},{}
+1st innings,England,18.2,TT Bresnan,KD Mills,1,{},{}
+1st innings,England,18.3,RS Bopara,KD Mills,1,{},{}
+1st innings,England,18.4,TT Bresnan,KD Mills,0,{},{}
+1st innings,England,18.5,TT Bresnan,KD Mills,4,{},{}
+1st innings,England,18.6,TT Bresnan,KD Mills,4,{},{}
+1st innings,England,19.1,RS Bopara,CJ Anderson,2,{},{}
+1st innings,England,19.2,RS Bopara,CJ Anderson,2,{},{}
+1st innings,England,19.3,RS Bopara,CJ Anderson,1,{},{}
+1st innings,England,19.4,TT Bresnan,CJ Anderson,6,{},{}
+1st innings,England,19.5,TT Bresnan,CJ Anderson,1,{},{}
+1st innings,England,19.6,RS Bopara,CJ Anderson,1,{},{}
+2nd innings,New Zealand,0.1,MJ Guptill,MM Ali,0,{},{}
+2nd innings,New Zealand,0.2,MJ Guptill,MM Ali,1,{},{}
+2nd innings,New Zealand,0.3,KS Williamson,MM Ali,1,{},{}
+2nd innings,New Zealand,0.4,MJ Guptill,MM Ali,1,{},{}
+2nd innings,New Zealand,0.5,KS Williamson,MM Ali,0,{},{}
+2nd innings,New Zealand,0.6,KS Williamson,MM Ali,4,{},{}
+2nd innings,New Zealand,1.1,MJ Guptill,JW Dernbach,1,{'legbyes': 1},{}
+2nd innings,New Zealand,1.2,KS Williamson,JW Dernbach,1,{},{}
+2nd innings,New Zealand,1.3,MJ Guptill,JW Dernbach,4,{},{}
+2nd innings,New Zealand,1.4,MJ Guptill,JW Dernbach,1,{},{}
+2nd innings,New Zealand,1.5,KS Williamson,JW Dernbach,0,{},{}
+2nd innings,New Zealand,1.6,KS Williamson,JW Dernbach,1,{},{}
+2nd innings,New Zealand,2.1,KS Williamson,TT Bresnan,0,{},{}
+2nd innings,New Zealand,2.2,KS Williamson,TT Bresnan,4,{},{}
+2nd innings,New Zealand,2.3,KS Williamson,TT Bresnan,4,{},{}
+2nd innings,New Zealand,2.4,KS Williamson,TT Bresnan,2,{},{}
+2nd innings,New Zealand,2.5,KS Williamson,TT Bresnan,0,{},{}
+2nd innings,New Zealand,2.6,KS Williamson,TT Bresnan,0,{},{}
+2nd innings,New Zealand,3.1,MJ Guptill,JW Dernbach,4,{},{}
+2nd innings,New Zealand,3.2,MJ Guptill,JW Dernbach,0,{},{}
+2nd innings,New Zealand,3.3,MJ Guptill,JW Dernbach,0,{},"{'player_out': 'MJ Guptill', 'fielders': ['CJ Jordan'], 'kind': 'caught'}"
+2nd innings,New Zealand,3.4,KS Williamson,JW Dernbach,0,{},{}
+2nd innings,New Zealand,3.5,KS Williamson,JW Dernbach,2,{},{}
+2nd innings,New Zealand,3.6,KS Williamson,JW Dernbach,0,{},{}
+2nd innings,New Zealand,4.1,BB McCullum,SCJ Broad,0,{},{}
+2nd innings,New Zealand,4.2,BB McCullum,SCJ Broad,0,{},{}
+2nd innings,New Zealand,4.3,BB McCullum,SCJ Broad,6,{},{}
+2nd innings,New Zealand,4.4,BB McCullum,SCJ Broad,4,{},{}
+2nd innings,New Zealand,4.5,BB McCullum,SCJ Broad,0,{},{}
+2nd innings,New Zealand,4.6,BB McCullum,SCJ Broad,6,{},{}
+2nd innings,New Zealand,5.1,KS Williamson,CJ Jordan,4,{},{}
+2nd innings,New Zealand,5.2,KS Williamson,CJ Jordan,1,{},{}

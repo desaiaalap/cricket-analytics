@@ -1,0 +1,1981 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-01-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  competition: International League T20
+  dates:
+  - '2024-01-20'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Dubai Capitals
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Sikandar Raza
+  players:
+    MI Emirates:
+    - Fazalhaq Farooqi
+    - Waseem Muhammad
+    - WCF Smeed
+    - ADS Fletcher
+    - N Pooran
+    - AT Rayudu
+    - TH David
+    - CJ Anderson
+    - DJ Bravo
+    - AJ Hosein
+    - TA Boult
+    - Zahoor Khan
+    Dubai Capitals:
+    - PA van Meekeren
+    - DA Warner
+    - Rahmanullah Gurbaz
+    - J Fraser-McGurk
+    - SW Billings
+    - R Powell
+    - Sikandar Raza
+    - JO Holder
+    - R Chopra
+    - RE van der Merwe
+    - Akif Raja
+    - PVD Chameera
+  registry:
+    people:
+      ADS Fletcher: 1bae756b
+      AJ Hosein: 4d7f517e
+      AT Rayudu: 70d205c9
+      Ahmed Shah Pakteen: '43602937'
+      Akif Raja: 9d0344f3
+      CJ Anderson: 8abdf100
+      DA Warner: dcce6f09
+      DJ Bravo: 87e562a9
+      Fazalhaq Farooqi: e9c7f0d0
+      J Fraser-McGurk: 9b6e1b3f
+      JO Holder: 0f721006
+      LS Reifer: 5dee559a
+      N Pooran: 3241e3fd
+      PA van Meekeren: 4557dc54
+      PVD Chameera: 327b58d3
+      R Chopra: a71d0f89
+      R Powell: 650d5e49
+      RE van der Merwe: 05c2ca46
+      RJ Tucker: 38810cfc
+      RSA Palliyaguruge: 4339c19d
+      Rahmanullah Gurbaz: 0bacade8
+      SJA Taufel: 4b43d5ac
+      SW Billings: c16d4035
+      Sikandar Raza: 26d041c4
+      TA Boult: a818c1be
+      TH David: f1f99156
+      WCF Smeed: 4e18e961
+      Waseem Muhammad: 6f02fe2a
+      Zahoor Khan: f0e293b0
+  teams:
+  - MI Emirates
+  - Dubai Capitals
+  toss:
+    winner: Dubai Capitals
+    decision: field
+  umpires:
+  - RJ Tucker
+  - RSA Palliyaguruge
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: MI Emirates
+    deliveries:
+    - 0.1:
+        non_striker: WCF Smeed
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.2:
+        non_striker: WCF Smeed
+        bowler: PVD Chameera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Waseem Muhammad
+    - 0.3:
+        non_striker: Waseem Muhammad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 0.4:
+        non_striker: Waseem Muhammad
+        bowler: PVD Chameera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WCF Smeed
+    - 0.5:
+        non_striker: Waseem Muhammad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WCF Smeed
+    - 0.6:
+        non_striker: Waseem Muhammad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 0.7:
+        non_striker: Waseem Muhammad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WCF Smeed
+    - 1.1:
+        non_striker: Waseem Muhammad
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 1.2:
+        non_striker: Waseem Muhammad
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+        wicket:
+          player_out: WCF Smeed
+          fielders:
+          - SW Billings
+          kind: caught
+    - 1.3:
+        non_striker: Waseem Muhammad
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 1.4:
+        non_striker: Waseem Muhammad
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 1.5:
+        non_striker: Waseem Muhammad
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ADS Fletcher
+    - 1.6:
+        non_striker: ADS Fletcher
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.1:
+        non_striker: Waseem Muhammad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 2.2:
+        non_striker: ADS Fletcher
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 2.3:
+        non_striker: ADS Fletcher
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 2.4:
+        non_striker: Waseem Muhammad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.5:
+        non_striker: Waseem Muhammad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.6:
+        non_striker: Waseem Muhammad
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 3.1:
+        non_striker: ADS Fletcher
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 3.2:
+        non_striker: ADS Fletcher
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 3.3:
+        non_striker: ADS Fletcher
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 3.4:
+        non_striker: ADS Fletcher
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 3.5:
+        non_striker: ADS Fletcher
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 3.6:
+        non_striker: ADS Fletcher
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 4.1:
+        non_striker: Waseem Muhammad
+        bowler: PA van Meekeren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ADS Fletcher
+    - 4.2:
+        non_striker: Waseem Muhammad
+        bowler: PA van Meekeren
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: ADS Fletcher
+    - 4.3:
+        non_striker: ADS Fletcher
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 4.4:
+        non_striker: ADS Fletcher
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 4.5:
+        non_striker: Waseem Muhammad
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 4.6:
+        non_striker: Waseem Muhammad
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.7:
+        non_striker: Waseem Muhammad
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 4.8:
+        non_striker: Waseem Muhammad
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 5.1:
+        non_striker: ADS Fletcher
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 5.2:
+        non_striker: ADS Fletcher
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 5.3:
+        non_striker: ADS Fletcher
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Muhammad
+    - 5.4:
+        non_striker: ADS Fletcher
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Waseem Muhammad
+    - 5.5:
+        non_striker: Waseem Muhammad
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 5.6:
+        non_striker: Waseem Muhammad
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 5.7:
+        non_striker: Waseem Muhammad
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 6.1:
+        non_striker: Waseem Muhammad
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 6.2:
+        non_striker: Waseem Muhammad
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 6.3:
+        non_striker: ADS Fletcher
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 6.4:
+        non_striker: ADS Fletcher
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 6.5:
+        non_striker: Waseem Muhammad
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: ADS Fletcher
+          fielders:
+          - R Powell
+          kind: caught
+    - 6.6:
+        non_striker: Waseem Muhammad
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 7.1:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 7.2:
+        non_striker: Waseem Muhammad
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 7.3:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 7.4:
+        non_striker: Waseem Muhammad
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 7.5:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 7.6:
+        non_striker: Waseem Muhammad
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 8.1:
+        non_striker: N Pooran
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 8.2:
+        non_striker: N Pooran
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 8.3:
+        non_striker: Waseem Muhammad
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 8.4:
+        non_striker: N Pooran
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 8.5:
+        non_striker: N Pooran
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 8.6:
+        non_striker: Waseem Muhammad
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 9.1:
+        non_striker: Waseem Muhammad
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 9.2:
+        non_striker: Waseem Muhammad
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 9.3:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          fielders:
+          - JO Holder
+          kind: caught
+    - 9.4:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 9.5:
+        non_striker: AT Rayudu
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 9.6:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+        wicket:
+          player_out: AT Rayudu
+          kind: caught and bowled
+    - 10.1:
+        non_striker: TH David
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 10.2:
+        non_striker: N Pooran
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 10.3:
+        non_striker: N Pooran
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 10.4:
+        non_striker: TH David
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 10.5:
+        non_striker: TH David
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 10.6:
+        non_striker: TH David
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 11.1:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 11.2:
+        non_striker: TH David
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 11.3:
+        non_striker: TH David
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 11.4:
+        non_striker: TH David
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 11.5:
+        non_striker: TH David
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 11.6:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 12.1:
+        non_striker: N Pooran
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 12.2:
+        non_striker: N Pooran
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 12.3:
+        non_striker: TH David
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 12.4:
+        non_striker: N Pooran
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 12.5:
+        non_striker: TH David
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 12.6:
+        non_striker: TH David
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 13.1:
+        non_striker: TH David
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 13.2:
+        non_striker: TH David
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 13.3:
+        non_striker: N Pooran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 13.4:
+        non_striker: TH David
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          kind: bowled
+    - 13.5:
+        non_striker: TH David
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 13.6:
+        non_striker: CJ Anderson
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 14.1:
+        non_striker: CJ Anderson
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 14.2:
+        non_striker: TH David
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Anderson
+        wicket:
+          player_out: CJ Anderson
+          fielders:
+          - SW Billings
+          kind: caught
+    - 14.3:
+        non_striker: TH David
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 14.4:
+        non_striker: DJ Bravo
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 14.5:
+        non_striker: TH David
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 14.6:
+        non_striker: TH David
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 15.1:
+        non_striker: TH David
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+        wicket:
+          player_out: DJ Bravo
+          kind: lbw
+    - 15.2:
+        non_striker: TH David
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 15.3:
+        non_striker: TH David
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 15.4:
+        non_striker: TH David
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 15.5:
+        non_striker: AJ Hosein
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 15.6:
+        non_striker: TH David
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 16.1:
+        non_striker: TH David
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 16.2:
+        non_striker: AJ Hosein
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 16.3:
+        non_striker: TH David
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 16.4:
+        non_striker: AJ Hosein
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 16.5:
+        non_striker: TH David
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 16.6:
+        non_striker: TH David
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hosein
+    - 17.1:
+        non_striker: AJ Hosein
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 17.2:
+        non_striker: TH David
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 17.3:
+        non_striker: TH David
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 17.4:
+        non_striker: TH David
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 17.5:
+        non_striker: TH David
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 17.6:
+        non_striker: TH David
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 18.1:
+        non_striker: AJ Hosein
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: TH David
+    - 18.2:
+        non_striker: TH David
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 18.3:
+        non_striker: AJ Hosein
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 18.4:
+        non_striker: TH David
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+        wicket:
+          player_out: AJ Hosein
+          fielders:
+          - SW Billings
+          kind: caught
+    - 18.5:
+        non_striker: TH David
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Boult
+    - 18.6:
+        non_striker: TH David
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TA Boult
+    - 18.7:
+        non_striker: TH David
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Boult
+    - 19.1:
+        non_striker: TA Boult
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 19.2:
+        non_striker: TA Boult
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David
+    - 19.3:
+        non_striker: TA Boult
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David
+    - 19.4:
+        non_striker: TA Boult
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 19.5:
+        non_striker: TA Boult
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+        wicket:
+          player_out: TH David
+          fielders:
+          - JO Holder
+          kind: caught
+    - 19.6:
+        non_striker: TA Boult
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahoor Khan
+- 2nd innings:
+    team: Dubai Capitals
+    deliveries:
+    - 0.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: Fazalhaq Farooqi
+            out: AT Rayudu
+            team: MI Emirates
+            reason: impact_player
+          - in: J Fraser-McGurk
+            out: PA van Meekeren
+            team: Dubai Capitals
+            reason: impact_player
+        batsman: DA Warner
+    - 0.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 0.3:
+        non_striker: DA Warner
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 0.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 0.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 0.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.1:
+        non_striker: DA Warner
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rahmanullah Gurbaz
+    - 1.2:
+        non_striker: DA Warner
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 1.3:
+        non_striker: DA Warner
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 1.4:
+        non_striker: DA Warner
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 1.5:
+        non_striker: DA Warner
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.6:
+        non_striker: DA Warner
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.7:
+        non_striker: DA Warner
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 2.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 2.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+        wicket:
+          player_out: DA Warner
+          fielders:
+          - Zahoor Khan
+          kind: caught
+    - 2.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 2.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 2.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Fraser-McGurk
+    - 2.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Fraser-McGurk
+    - 3.1:
+        non_striker: J Fraser-McGurk
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 3.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Fraser-McGurk
+    - 3.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Fraser-McGurk
+    - 3.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 3.5:
+        non_striker: J Fraser-McGurk
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 3.6:
+        non_striker: J Fraser-McGurk
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 4.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Fraser-McGurk
+    - 4.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Fraser-McGurk
+    - 4.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Fraser-McGurk
+    - 4.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 4.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 4.6:
+        non_striker: J Fraser-McGurk
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 4.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 5.1:
+        non_striker: J Fraser-McGurk
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 5.2:
+        non_striker: J Fraser-McGurk
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 5.3:
+        non_striker: J Fraser-McGurk
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 5.4:
+        non_striker: J Fraser-McGurk
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 5.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Fraser-McGurk
+    - 5.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 6.1:
+        non_striker: J Fraser-McGurk
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 6.2:
+        non_striker: J Fraser-McGurk
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 6.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Fraser-McGurk
+    - 6.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Fraser-McGurk
+    - 6.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 6.6:
+        non_striker: J Fraser-McGurk
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 7.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 7.2:
+        non_striker: J Fraser-McGurk
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 7.3:
+        non_striker: J Fraser-McGurk
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 7.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 7.5:
+        non_striker: J Fraser-McGurk
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 7.6:
+        non_striker: J Fraser-McGurk
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 8.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Fraser-McGurk
+    - 8.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Fraser-McGurk
+    - 8.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 8.4:
+        non_striker: J Fraser-McGurk
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 8.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: Zahoor Khan
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: J Fraser-McGurk
+    - 8.6:
+        non_striker: J Fraser-McGurk
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 8.7:
+        non_striker: J Fraser-McGurk
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 9.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 9.2:
+        non_striker: J Fraser-McGurk
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 9.3:
+        non_striker: J Fraser-McGurk
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 9.4:
+        non_striker: J Fraser-McGurk
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 9.5:
+        non_striker: J Fraser-McGurk
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 9.6:
+        non_striker: J Fraser-McGurk
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 10.1:
+        non_striker: J Fraser-McGurk
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 10.2:
+        non_striker: J Fraser-McGurk
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 10.3:
+        non_striker: J Fraser-McGurk
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 10.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+        wicket:
+          player_out: J Fraser-McGurk
+          fielders:
+          - CJ Anderson
+          kind: caught
+    - 10.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 10.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 11.1:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 11.2:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 11.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 11.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 11.5:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 11.6:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 12.1:
+        non_striker: SW Billings
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 12.2:
+        non_striker: SW Billings
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          fielders:
+          - Waseem Muhammad
+          kind: caught
+    - 12.3:
+        non_striker: SW Billings
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 12.4:
+        non_striker: SW Billings
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 12.5:
+        non_striker: R Powell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 12.6:
+        non_striker: R Powell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 13.1:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 13.2:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 13.3:
+        non_striker: R Powell
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 13.4:
+        non_striker: R Powell
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 13.5:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 13.6:
+        non_striker: R Powell
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 14.1:
+        non_striker: R Powell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 14.2:
+        non_striker: R Powell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 14.3:
+        non_striker: SW Billings
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 14.4:
+        non_striker: R Powell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 14.5:
+        non_striker: R Powell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 14.6:
+        non_striker: SW Billings
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 15.1:
+        non_striker: SW Billings
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 15.2:
+        non_striker: R Powell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 15.3:
+        non_striker: R Powell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 15.4:
+        non_striker: R Powell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 15.5:
+        non_striker: SW Billings
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 15.6:
+        non_striker: R Powell
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 16.1:
+        non_striker: R Powell
+        bowler: TH David
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Billings

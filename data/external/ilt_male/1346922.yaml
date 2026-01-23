@@ -1,0 +1,1915 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  competition: International League T20
+  dates:
+  - '2023-01-18'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Desert Vipers
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - PWH de Silva
+  players:
+    Abu Dhabi Knight Riders:
+    - BA King
+    - K Lewis
+    - DM de Silva
+    - CA Ingram
+    - KIC Asalanka
+    - AD Russell
+    - SP Narine
+    - AJ Hosein
+    - Matiullah Khan
+    - Sabir Ali
+    - CBRLS Kumara
+    Desert Vipers:
+    - Rohan Mustafa
+    - AD Hales
+    - C Munro
+    - SW Billings
+    - SE Rutherford
+    - BAC Howell
+    - PWH de Silva
+    - TK Curran
+    - SS Cottrell
+    - AAP Atkinson
+    - Shiraz Ahmed
+  registry:
+    people:
+      AAP Atkinson: 70d57519
+      AD Hales: 92aeac25
+      AD Russell: bbd41817
+      AG Wharf: 2e0fcc58
+      AJ Hosein: 4d7f517e
+      BA King: 7fca84b7
+      BAC Howell: 0bec3a6c
+      C Munro: af2c687b
+      CA Ingram: c995d726
+      CBRLS Kumara: 4751caa3
+      DM de Silva: 7d608e12
+      K Lewis: b0081e62
+      KIC Asalanka: 732c038e
+      LS Reifer: 5dee559a
+      Matiullah Khan: '083e01d9'
+      PWH de Silva: a97c8ec2
+      RJ Tucker: 38810cfc
+      RS Mahanama: '57910393'
+      Rohan Mustafa: d1988788
+      SE Rutherford: d014d5ac
+      SP Narine: 9d430b40
+      SS Cottrell: a1d053dd
+      SW Billings: c16d4035
+      Sabir Ali: 2a04400b
+      Shiju Sam: 1e2f3eae
+      Shiraz Ahmed: 101dcc31
+      TK Curran: e86754b2
+  teams:
+  - Abu Dhabi Knight Riders
+  - Desert Vipers
+  toss:
+    winner: Desert Vipers
+    decision: field
+  umpires:
+  - RJ Tucker
+  - Shiju Sam
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: Abu Dhabi Knight Riders
+    deliveries:
+    - 0.1:
+        non_striker: K Lewis
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.2:
+        non_striker: K Lewis
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA King
+    - 0.3:
+        non_striker: K Lewis
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.4:
+        non_striker: K Lewis
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 0.5:
+        non_striker: BA King
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+    - 0.6:
+        non_striker: BA King
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Lewis
+    - 1.1:
+        non_striker: BA King
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+        wicket:
+          player_out: K Lewis
+          fielders:
+          - SW Billings
+          kind: caught
+    - 1.2:
+        non_striker: BA King
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 1.3:
+        non_striker: BA King
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 1.4:
+        non_striker: DM de Silva
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 1.5:
+        non_striker: DM de Silva
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 1.6:
+        non_striker: BA King
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DM de Silva
+    - 2.1:
+        non_striker: DM de Silva
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 2.2:
+        non_striker: DM de Silva
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 2.3:
+        non_striker: BA King
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+        wicket:
+          player_out: DM de Silva
+          fielders:
+          - SW Billings
+          kind: caught
+    - 2.4:
+        non_striker: BA King
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 2.5:
+        non_striker: CA Ingram
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 2.6:
+        non_striker: CA Ingram
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 3.1:
+        non_striker: BA King
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 3.2:
+        non_striker: BA King
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 3.3:
+        non_striker: BA King
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 3.4:
+        non_striker: BA King
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 3.5:
+        non_striker: CA Ingram
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 3.6:
+        non_striker: CA Ingram
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 4.1:
+        non_striker: BA King
+        bowler: SS Cottrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Ingram
+    - 4.2:
+        non_striker: BA King
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 4.3:
+        non_striker: CA Ingram
+        bowler: SS Cottrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BA King
+    - 4.4:
+        non_striker: BA King
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 4.5:
+        non_striker: BA King
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 4.6:
+        non_striker: BA King
+        bowler: SS Cottrell
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: CA Ingram
+    - 4.7:
+        non_striker: BA King
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 5.1:
+        non_striker: CA Ingram
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 5.2:
+        non_striker: BA King
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Ingram
+    - 5.3:
+        non_striker: BA King
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 5.4:
+        non_striker: BA King
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CA Ingram
+    - 5.5:
+        non_striker: CA Ingram
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BA King
+    - 5.6:
+        non_striker: BA King
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 5.7:
+        non_striker: CA Ingram
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA King
+    - 6.1:
+        non_striker: BA King
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 6.2:
+        non_striker: BA King
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 6.3:
+        non_striker: CA Ingram
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 6.4:
+        non_striker: BA King
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 6.5:
+        non_striker: CA Ingram
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 6.6:
+        non_striker: CA Ingram
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 7.1:
+        non_striker: CA Ingram
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 7.2:
+        non_striker: BA King
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 7.3:
+        non_striker: BA King
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 7.4:
+        non_striker: BA King
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 7.5:
+        non_striker: CA Ingram
+        bowler: Rohan Mustafa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BA King
+    - 7.6:
+        non_striker: BA King
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+        wicket:
+          player_out: CA Ingram
+          fielders:
+          - TK Curran
+          kind: caught
+    - 8.1:
+        non_striker: KIC Asalanka
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 8.2:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 8.3:
+        non_striker: KIC Asalanka
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 8.4:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 8.5:
+        non_striker: KIC Asalanka
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 8.6:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 9.1:
+        non_striker: BA King
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 9.2:
+        non_striker: KIC Asalanka
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 9.3:
+        non_striker: BA King
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KIC Asalanka
+    - 9.4:
+        non_striker: BA King
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KIC Asalanka
+    - 9.5:
+        non_striker: BA King
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 9.6:
+        non_striker: BA King
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 10.1:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 10.2:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 10.3:
+        non_striker: KIC Asalanka
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 10.4:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 10.5:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 10.6:
+        non_striker: KIC Asalanka
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA King
+    - 11.1:
+        non_striker: BA King
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 11.2:
+        non_striker: KIC Asalanka
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 11.3:
+        non_striker: KIC Asalanka
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 11.4:
+        non_striker: KIC Asalanka
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 11.5:
+        non_striker: BA King
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KIC Asalanka
+    - 11.6:
+        non_striker: BA King
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 12.1:
+        non_striker: BA King
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KIC Asalanka
+    - 12.2:
+        non_striker: BA King
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 12.3:
+        non_striker: BA King
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KIC Asalanka
+    - 12.4:
+        non_striker: BA King
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 12.5:
+        non_striker: KIC Asalanka
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 12.6:
+        non_striker: BA King
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 12.7:
+        non_striker: KIC Asalanka
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 13.1:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 13.2:
+        non_striker: KIC Asalanka
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 13.3:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+        wicket:
+          player_out: KIC Asalanka
+          fielders:
+          - Rohan Mustafa
+          kind: caught
+    - 13.4:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+        wicket:
+          player_out: AD Russell
+          fielders:
+          - TK Curran
+          kind: caught
+    - 13.5:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 13.6:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Narine
+    - 14.1:
+        non_striker: BA King
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Narine
+    - 14.2:
+        non_striker: SP Narine
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 14.3:
+        non_striker: SP Narine
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 14.4:
+        non_striker: BA King
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 14.5:
+        non_striker: BA King
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Narine
+    - 14.6:
+        non_striker: SP Narine
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 15.1:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+        wicket:
+          player_out: SP Narine
+          fielders:
+          - AD Hales
+          kind: caught
+    - 15.2:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 15.3:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 15.4:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 15.5:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 15.6:
+        non_striker: BA King
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 16.1:
+        non_striker: AJ Hosein
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 16.2:
+        non_striker: BA King
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 16.3:
+        non_striker: BA King
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 16.4:
+        non_striker: BA King
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 16.5:
+        non_striker: BA King
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Hosein
+    - 16.6:
+        non_striker: BA King
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 16.7:
+        non_striker: BA King
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 17.1:
+        non_striker: BA King
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 17.2:
+        non_striker: AJ Hosein
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 17.3:
+        non_striker: BA King
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 17.4:
+        non_striker: AJ Hosein
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA King
+    - 17.5:
+        non_striker: AJ Hosein
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 17.6:
+        non_striker: BA King
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Hosein
+    - 18.1:
+        non_striker: AJ Hosein
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 18.2:
+        non_striker: AJ Hosein
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 18.3:
+        non_striker: BA King
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 18.4:
+        non_striker: BA King
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+    - 18.5:
+        non_striker: BA King
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 18.6:
+        non_striker: AJ Hosein
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 19.1:
+        non_striker: AJ Hosein
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+        wicket:
+          player_out: BA King
+          kind: bowled
+    - 19.2:
+        non_striker: AJ Hosein
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Matiullah Khan
+    - 19.3:
+        non_striker: Matiullah Khan
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 19.4:
+        non_striker: AJ Hosein
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Matiullah Khan
+    - 19.5:
+        non_striker: Matiullah Khan
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 19.6:
+        non_striker: AJ Hosein
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Matiullah Khan
+        wicket:
+          player_out: Matiullah Khan
+          fielders:
+          - SW Billings
+          - AAP Atkinson
+          kind: run out
+- 2nd innings:
+    team: Desert Vipers
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 0.2:
+        non_striker: Rohan Mustafa
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 0.3:
+        non_striker: Rohan Mustafa
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 0.4:
+        non_striker: AD Hales
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.5:
+        non_striker: AD Hales
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rohan Mustafa
+    - 0.6:
+        non_striker: AD Hales
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 1.1:
+        non_striker: Rohan Mustafa
+        bowler: Sabir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.2:
+        non_striker: Rohan Mustafa
+        bowler: Sabir Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 1.3:
+        non_striker: Rohan Mustafa
+        bowler: Sabir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 1.4:
+        non_striker: AD Hales
+        bowler: Sabir Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 1.5:
+        non_striker: AD Hales
+        bowler: Sabir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 1.6:
+        non_striker: AD Hales
+        bowler: Sabir Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 2.1:
+        non_striker: Rohan Mustafa
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 2.2:
+        non_striker: Rohan Mustafa
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.3:
+        non_striker: Rohan Mustafa
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 2.4:
+        non_striker: AD Hales
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 2.5:
+        non_striker: AD Hales
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 2.6:
+        non_striker: AD Hales
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 3.1:
+        non_striker: Rohan Mustafa
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 3.2:
+        non_striker: Rohan Mustafa
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 3.3:
+        non_striker: AD Hales
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+        wicket:
+          player_out: Rohan Mustafa
+          fielders:
+          - CBRLS Kumara
+          kind: caught
+    - 3.4:
+        non_striker: AD Hales
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 3.5:
+        non_striker: AD Hales
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 3.6:
+        non_striker: C Munro
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 4.1:
+        non_striker: C Munro
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 4.2:
+        non_striker: C Munro
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 4.3:
+        non_striker: AD Hales
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          fielders:
+          - DM de Silva
+          kind: caught
+    - 4.4:
+        non_striker: AD Hales
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 4.5:
+        non_striker: AD Hales
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 4.6:
+        non_striker: AD Hales
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 5.1:
+        non_striker: AD Hales
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 5.2:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 5.3:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 5.4:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 5.5:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 5.6:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 6.1:
+        non_striker: AD Hales
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 6.2:
+        non_striker: AD Hales
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 6.3:
+        non_striker: SW Billings
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 6.4:
+        non_striker: SW Billings
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 6.5:
+        non_striker: SW Billings
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 6.6:
+        non_striker: AD Hales
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 7.1:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 7.2:
+        non_striker: AD Hales
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 7.3:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 7.4:
+        non_striker: AD Hales
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 7.5:
+        non_striker: AD Hales
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 7.6:
+        non_striker: AD Hales
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 8.1:
+        non_striker: SW Billings
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 8.2:
+        non_striker: AD Hales
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 8.3:
+        non_striker: AD Hales
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 8.4:
+        non_striker: AD Hales
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 8.5:
+        non_striker: AD Hales
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 8.6:
+        non_striker: SW Billings
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 9.1:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 9.2:
+        non_striker: AD Hales
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 9.3:
+        non_striker: AD Hales
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 9.4:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 9.5:
+        non_striker: AD Hales
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 9.6:
+        non_striker: SW Billings
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 10.1:
+        non_striker: SW Billings
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 10.2:
+        non_striker: AD Hales
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 10.3:
+        non_striker: SW Billings
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 10.4:
+        non_striker: AD Hales
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 10.5:
+        non_striker: SW Billings
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 10.6:
+        non_striker: AD Hales
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 11.1:
+        non_striker: SW Billings
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 11.2:
+        non_striker: AD Hales
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 11.3:
+        non_striker: SW Billings
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 11.4:
+        non_striker: SW Billings
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 11.5:
+        non_striker: SW Billings
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 11.6:
+        non_striker: SW Billings
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 12.1:
+        non_striker: AD Hales
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 12.2:
+        non_striker: SW Billings
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 12.3:
+        non_striker: SW Billings
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 12.4:
+        non_striker: SW Billings
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 12.5:
+        non_striker: AD Hales
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 12.6:
+        non_striker: SW Billings
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 13.1:
+        non_striker: SW Billings
+        bowler: CBRLS Kumara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Hales
+    - 13.2:
+        non_striker: SW Billings
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 13.3:
+        non_striker: SW Billings
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 13.4:
+        non_striker: SW Billings
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 13.5:
+        non_striker: AD Hales
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 13.6:
+        non_striker: SW Billings
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 13.7:
+        non_striker: SW Billings
+        bowler: CBRLS Kumara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 14.1:
+        non_striker: SW Billings
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 14.2:
+        non_striker: SW Billings
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          kind: bowled
+    - 14.3:
+        non_striker: SW Billings
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 14.4:
+        non_striker: SW Billings
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SE Rutherford
+    - 14.5:
+        non_striker: SE Rutherford
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 14.6:
+        non_striker: SW Billings
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 15.1:
+        non_striker: SE Rutherford
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 15.2:
+        non_striker: SE Rutherford
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 15.3:
+        non_striker: SE Rutherford
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 15.4:
+        non_striker: SW Billings
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford

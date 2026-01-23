@@ -1,0 +1,237 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Zimbabwe,0.1,W Madhevere,FJ Klaassen,0,{},{}
+1st innings,Zimbabwe,0.2,W Madhevere,FJ Klaassen,0,{},{}
+1st innings,Zimbabwe,0.3,W Madhevere,FJ Klaassen,1,{'wides': 1},{}
+1st innings,Zimbabwe,0.4,W Madhevere,FJ Klaassen,1,{},{}
+1st innings,Zimbabwe,0.5,CR Ervine,FJ Klaassen,0,{},{}
+1st innings,Zimbabwe,0.6,CR Ervine,FJ Klaassen,1,{},{}
+1st innings,Zimbabwe,0.7,W Madhevere,FJ Klaassen,0,{},{}
+1st innings,Zimbabwe,1.1,CR Ervine,PA van Meekeren,5,{'wides': 5},{}
+1st innings,Zimbabwe,1.2,CR Ervine,PA van Meekeren,0,{},{}
+1st innings,Zimbabwe,1.3,CR Ervine,PA van Meekeren,1,{},{}
+1st innings,Zimbabwe,1.4,W Madhevere,PA van Meekeren,0,{},"{'player_out': 'W Madhevere', 'kind': 'bowled'}"
+1st innings,Zimbabwe,1.5,RW Chakabva,PA van Meekeren,0,{},{}
+1st innings,Zimbabwe,1.6,RW Chakabva,PA van Meekeren,0,{},{}
+1st innings,Zimbabwe,1.7,RW Chakabva,PA van Meekeren,4,{},{}
+1st innings,Zimbabwe,2.1,CR Ervine,FJ Klaassen,0,{},{}
+1st innings,Zimbabwe,2.2,CR Ervine,FJ Klaassen,1,{},{}
+1st innings,Zimbabwe,2.3,RW Chakabva,FJ Klaassen,0,{},{}
+1st innings,Zimbabwe,2.4,RW Chakabva,FJ Klaassen,0,{},{}
+1st innings,Zimbabwe,2.5,RW Chakabva,FJ Klaassen,0,{},{}
+1st innings,Zimbabwe,2.6,RW Chakabva,FJ Klaassen,0,{},{}
+1st innings,Zimbabwe,3.1,CR Ervine,BD Glover,0,{},{}
+1st innings,Zimbabwe,3.2,CR Ervine,BD Glover,0,{},{}
+1st innings,Zimbabwe,3.3,CR Ervine,BD Glover,0,{},{}
+1st innings,Zimbabwe,3.4,CR Ervine,BD Glover,0,{},{}
+1st innings,Zimbabwe,3.5,CR Ervine,BD Glover,0,{},{}
+1st innings,Zimbabwe,3.6,CR Ervine,BD Glover,0,{},"{'player_out': 'CR Ervine', 'fielders': ['SA Edwards'], 'kind': 'caught'}"
+1st innings,Zimbabwe,4.1,RW Chakabva,FJ Klaassen,1,{},{}
+1st innings,Zimbabwe,4.2,SC Williams,FJ Klaassen,0,{},{}
+1st innings,Zimbabwe,4.3,SC Williams,FJ Klaassen,3,{},{}
+1st innings,Zimbabwe,4.4,RW Chakabva,FJ Klaassen,0,{},{}
+1st innings,Zimbabwe,4.5,RW Chakabva,FJ Klaassen,0,{},{}
+1st innings,Zimbabwe,4.6,RW Chakabva,FJ Klaassen,0,{},{}
+1st innings,Zimbabwe,5.1,SC Williams,BD Glover,1,{'legbyes': 1},{}
+1st innings,Zimbabwe,5.2,RW Chakabva,BD Glover,1,{'wides': 1},{}
+1st innings,Zimbabwe,5.3,RW Chakabva,BD Glover,0,{},{}
+1st innings,Zimbabwe,5.4,RW Chakabva,BD Glover,0,{},{}
+1st innings,Zimbabwe,5.5,RW Chakabva,BD Glover,0,{},{}
+1st innings,Zimbabwe,5.6,RW Chakabva,BD Glover,0,{},{}
+1st innings,Zimbabwe,5.7,RW Chakabva,BD Glover,0,{},"{'player_out': 'RW Chakabva', 'kind': 'lbw'}"
+1st innings,Zimbabwe,6.1,SC Williams,PA van Meekeren,4,{},{}
+1st innings,Zimbabwe,6.2,SC Williams,PA van Meekeren,2,{},{}
+1st innings,Zimbabwe,6.3,SC Williams,PA van Meekeren,0,{},{}
+1st innings,Zimbabwe,6.4,SC Williams,PA van Meekeren,2,{},{}
+1st innings,Zimbabwe,6.5,SC Williams,PA van Meekeren,1,{},{}
+1st innings,Zimbabwe,6.6,Sikandar Raza,PA van Meekeren,1,{'wides': 1},{}
+1st innings,Zimbabwe,6.7,Sikandar Raza,PA van Meekeren,0,{},{}
+1st innings,Zimbabwe,7.1,SC Williams,LV van Beek,0,{},{}
+1st innings,Zimbabwe,7.2,SC Williams,LV van Beek,0,{},{}
+1st innings,Zimbabwe,7.3,SC Williams,LV van Beek,0,{},{}
+1st innings,Zimbabwe,7.4,SC Williams,LV van Beek,2,{},{}
+1st innings,Zimbabwe,7.5,SC Williams,LV van Beek,0,{},{}
+1st innings,Zimbabwe,7.6,SC Williams,LV van Beek,4,{},{}
+1st innings,Zimbabwe,8.1,Sikandar Raza,BD Glover,0,{},{}
+1st innings,Zimbabwe,8.2,Sikandar Raza,BD Glover,2,{},{}
+1st innings,Zimbabwe,8.3,Sikandar Raza,BD Glover,4,{},{}
+1st innings,Zimbabwe,8.4,Sikandar Raza,BD Glover,6,{},{}
+1st innings,Zimbabwe,8.5,Sikandar Raza,BD Glover,2,{},{}
+1st innings,Zimbabwe,8.6,Sikandar Raza,BD Glover,0,{},{}
+1st innings,Zimbabwe,9.1,SC Williams,BFW de Leede,0,{},{}
+1st innings,Zimbabwe,9.2,SC Williams,BFW de Leede,1,{},{}
+1st innings,Zimbabwe,9.3,Sikandar Raza,BFW de Leede,0,{},{}
+1st innings,Zimbabwe,9.4,Sikandar Raza,BFW de Leede,0,{},{}
+1st innings,Zimbabwe,9.5,Sikandar Raza,BFW de Leede,1,{},{}
+1st innings,Zimbabwe,9.6,SC Williams,BFW de Leede,1,{},{}
+1st innings,Zimbabwe,10.1,SC Williams,RE van der Merwe,0,{},{}
+1st innings,Zimbabwe,10.2,SC Williams,RE van der Merwe,4,{},{}
+1st innings,Zimbabwe,10.3,SC Williams,RE van der Merwe,2,{},{}
+1st innings,Zimbabwe,10.4,SC Williams,RE van der Merwe,1,{},{}
+1st innings,Zimbabwe,10.5,Sikandar Raza,RE van der Merwe,0,{},{}
+1st innings,Zimbabwe,10.6,Sikandar Raza,RE van der Merwe,1,{},{}
+1st innings,Zimbabwe,11.1,Sikandar Raza,PA van Meekeren,1,{'legbyes': 1},{}
+1st innings,Zimbabwe,11.2,SC Williams,PA van Meekeren,1,{},{}
+1st innings,Zimbabwe,11.3,Sikandar Raza,PA van Meekeren,4,{},{}
+1st innings,Zimbabwe,11.4,Sikandar Raza,PA van Meekeren,1,{},{}
+1st innings,Zimbabwe,11.5,SC Williams,PA van Meekeren,0,{},"{'player_out': 'SC Williams', 'fielders': [""MP O'Dowd""], 'kind': 'caught'}"
+1st innings,Zimbabwe,11.6,M Shumba,PA van Meekeren,0,{},{}
+1st innings,Zimbabwe,12.1,Sikandar Raza,LV van Beek,6,{},{}
+1st innings,Zimbabwe,12.2,Sikandar Raza,LV van Beek,1,{},{}
+1st innings,Zimbabwe,12.3,M Shumba,LV van Beek,2,{},{}
+1st innings,Zimbabwe,12.4,M Shumba,LV van Beek,0,{},"{'player_out': 'M Shumba', 'fielders': ['SJ Myburgh'], 'kind': 'caught'}"
+1st innings,Zimbabwe,12.5,RP Burl,LV van Beek,1,{'wides': 1},{}
+1st innings,Zimbabwe,12.6,RP Burl,LV van Beek,0,{},{}
+1st innings,Zimbabwe,12.7,RP Burl,LV van Beek,0,{},{}
+1st innings,Zimbabwe,13.1,Sikandar Raza,BD Glover,1,{'wides': 1},{}
+1st innings,Zimbabwe,13.2,Sikandar Raza,BD Glover,6,{},{}
+1st innings,Zimbabwe,13.3,Sikandar Raza,BD Glover,1,{},{}
+1st innings,Zimbabwe,13.4,RP Burl,BD Glover,1,{},{}
+1st innings,Zimbabwe,13.5,Sikandar Raza,BD Glover,0,{},{}
+1st innings,Zimbabwe,13.6,Sikandar Raza,BD Glover,4,{},{}
+1st innings,Zimbabwe,13.7,Sikandar Raza,BD Glover,1,{},{}
+1st innings,Zimbabwe,14.1,Sikandar Raza,BFW de Leede,0,{},{}
+1st innings,Zimbabwe,14.2,Sikandar Raza,BFW de Leede,0,{},"{'player_out': 'Sikandar Raza', 'fielders': ['FJ Klaassen'], 'kind': 'caught'}"
+1st innings,Zimbabwe,14.3,LM Jongwe,BFW de Leede,0,{},{}
+1st innings,Zimbabwe,14.4,LM Jongwe,BFW de Leede,1,{},{}
+1st innings,Zimbabwe,14.5,RP Burl,BFW de Leede,1,{},{}
+1st innings,Zimbabwe,14.6,LM Jongwe,BFW de Leede,1,{},{}
+1st innings,Zimbabwe,15.1,LM Jongwe,PA van Meekeren,0,{},{}
+1st innings,Zimbabwe,15.2,LM Jongwe,PA van Meekeren,2,{},{}
+1st innings,Zimbabwe,15.3,LM Jongwe,PA van Meekeren,1,{},{}
+1st innings,Zimbabwe,15.4,RP Burl,PA van Meekeren,0,{},{}
+1st innings,Zimbabwe,15.5,RP Burl,PA van Meekeren,0,{},{}
+1st innings,Zimbabwe,15.6,RP Burl,PA van Meekeren,0,{},"{'player_out': 'RP Burl', 'kind': 'bowled'}"
+1st innings,Zimbabwe,16.1,LM Jongwe,BFW de Leede,1,{},{}
+1st innings,Zimbabwe,16.2,R Ngarava,BFW de Leede,1,{},{}
+1st innings,Zimbabwe,16.3,LM Jongwe,BFW de Leede,0,{},"{'player_out': 'LM Jongwe', 'fielders': ['LV van Beek'], 'kind': 'caught'}"
+1st innings,Zimbabwe,16.4,TL Chatara,BFW de Leede,0,{},{}
+1st innings,Zimbabwe,16.5,TL Chatara,BFW de Leede,1,{},{}
+1st innings,Zimbabwe,16.6,R Ngarava,BFW de Leede,1,{'legbyes': 1},{}
+1st innings,Zimbabwe,17.1,R Ngarava,FJ Klaassen,2,{},{}
+1st innings,Zimbabwe,17.2,R Ngarava,FJ Klaassen,6,{},{}
+1st innings,Zimbabwe,17.3,R Ngarava,FJ Klaassen,0,{},{}
+1st innings,Zimbabwe,17.4,R Ngarava,FJ Klaassen,0,{},{}
+1st innings,Zimbabwe,17.5,R Ngarava,FJ Klaassen,1,{'wides': 1},{}
+1st innings,Zimbabwe,17.6,R Ngarava,FJ Klaassen,0,{},"{'player_out': 'R Ngarava', 'fielders': ['SJ Myburgh'], 'kind': 'caught'}"
+1st innings,Zimbabwe,17.7,B Muzarabani,FJ Klaassen,0,{},{}
+1st innings,Zimbabwe,18.1,TL Chatara,BFW de Leede,1,{},{}
+1st innings,Zimbabwe,18.2,B Muzarabani,BFW de Leede,1,{},{}
+1st innings,Zimbabwe,18.3,TL Chatara,BFW de Leede,0,{},{}
+1st innings,Zimbabwe,18.4,TL Chatara,BFW de Leede,2,{},{}
+1st innings,Zimbabwe,18.5,TL Chatara,BFW de Leede,1,{},{}
+1st innings,Zimbabwe,18.6,B Muzarabani,BFW de Leede,0,{},{}
+1st innings,Zimbabwe,19.1,TL Chatara,LV van Beek,1,{},{}
+1st innings,Zimbabwe,19.2,B Muzarabani,LV van Beek,0,{},"{'player_out': 'B Muzarabani', 'fielders': ['BD Glover'], 'kind': 'caught'}"
+2nd innings,Netherlands,0.1,SJ Myburgh,TL Chatara,1,{},{}
+2nd innings,Netherlands,0.2,MP O'Dowd,TL Chatara,0,{},{}
+2nd innings,Netherlands,0.3,MP O'Dowd,TL Chatara,4,{},{}
+2nd innings,Netherlands,0.4,MP O'Dowd,TL Chatara,0,{},{}
+2nd innings,Netherlands,0.5,MP O'Dowd,TL Chatara,0,{},{}
+2nd innings,Netherlands,0.6,MP O'Dowd,TL Chatara,0,{},{}
+2nd innings,Netherlands,1.1,SJ Myburgh,R Ngarava,0,{},{}
+2nd innings,Netherlands,1.2,SJ Myburgh,R Ngarava,6,{},{}
+2nd innings,Netherlands,1.3,SJ Myburgh,R Ngarava,1,{},{}
+2nd innings,Netherlands,1.4,MP O'Dowd,R Ngarava,0,{},{}
+2nd innings,Netherlands,1.5,MP O'Dowd,R Ngarava,1,{},{}
+2nd innings,Netherlands,1.6,SJ Myburgh,R Ngarava,0,{},{}
+2nd innings,Netherlands,2.1,MP O'Dowd,TL Chatara,0,{},{}
+2nd innings,Netherlands,2.2,MP O'Dowd,TL Chatara,0,{},{}
+2nd innings,Netherlands,2.3,MP O'Dowd,TL Chatara,0,{},{}
+2nd innings,Netherlands,2.4,MP O'Dowd,TL Chatara,0,{},{}
+2nd innings,Netherlands,2.5,MP O'Dowd,TL Chatara,0,{},{}
+2nd innings,Netherlands,2.6,MP O'Dowd,TL Chatara,4,{},{}
+2nd innings,Netherlands,3.1,SJ Myburgh,B Muzarabani,0,{},{}
+2nd innings,Netherlands,3.2,SJ Myburgh,B Muzarabani,0,{},"{'player_out': 'SJ Myburgh', 'fielders': ['RP Burl'], 'kind': 'caught'}"
+2nd innings,Netherlands,3.3,TLW Cooper,B Muzarabani,0,{},{}
+2nd innings,Netherlands,3.4,TLW Cooper,B Muzarabani,0,{},{}
+2nd innings,Netherlands,3.5,TLW Cooper,B Muzarabani,1,{},{}
+2nd innings,Netherlands,3.6,MP O'Dowd,B Muzarabani,0,{},{}
+2nd innings,Netherlands,4.1,TLW Cooper,TL Chatara,1,{},{}
+2nd innings,Netherlands,4.2,MP O'Dowd,TL Chatara,0,{},{}
+2nd innings,Netherlands,4.3,MP O'Dowd,TL Chatara,0,{},{}
+2nd innings,Netherlands,4.4,MP O'Dowd,TL Chatara,1,{},{}
+2nd innings,Netherlands,4.5,TLW Cooper,TL Chatara,1,{},{}
+2nd innings,Netherlands,4.6,MP O'Dowd,TL Chatara,4,{},{}
+2nd innings,Netherlands,5.1,TLW Cooper,B Muzarabani,4,{},{}
+2nd innings,Netherlands,5.2,TLW Cooper,B Muzarabani,0,{},{}
+2nd innings,Netherlands,5.3,TLW Cooper,B Muzarabani,6,{},{}
+2nd innings,Netherlands,5.4,TLW Cooper,B Muzarabani,0,{},{}
+2nd innings,Netherlands,5.5,TLW Cooper,B Muzarabani,0,{},{}
+2nd innings,Netherlands,5.6,TLW Cooper,B Muzarabani,0,{},{}
+2nd innings,Netherlands,6.1,MP O'Dowd,SC Williams,0,{},{}
+2nd innings,Netherlands,6.2,MP O'Dowd,SC Williams,1,{},{}
+2nd innings,Netherlands,6.3,TLW Cooper,SC Williams,1,{'legbyes': 1},{}
+2nd innings,Netherlands,6.4,MP O'Dowd,SC Williams,0,{},{}
+2nd innings,Netherlands,6.5,MP O'Dowd,SC Williams,1,{},{}
+2nd innings,Netherlands,6.6,TLW Cooper,SC Williams,1,{},{}
+2nd innings,Netherlands,7.1,TLW Cooper,R Ngarava,0,{},{}
+2nd innings,Netherlands,7.2,TLW Cooper,R Ngarava,1,{},{}
+2nd innings,Netherlands,7.3,MP O'Dowd,R Ngarava,0,{},{}
+2nd innings,Netherlands,7.4,MP O'Dowd,R Ngarava,4,{},{}
+2nd innings,Netherlands,7.5,MP O'Dowd,R Ngarava,1,{},{}
+2nd innings,Netherlands,7.6,TLW Cooper,R Ngarava,2,{},{}
+2nd innings,Netherlands,8.1,MP O'Dowd,Sikandar Raza,1,{},{}
+2nd innings,Netherlands,8.2,TLW Cooper,Sikandar Raza,1,{},{}
+2nd innings,Netherlands,8.3,MP O'Dowd,Sikandar Raza,1,{},{}
+2nd innings,Netherlands,8.4,TLW Cooper,Sikandar Raza,1,{},{}
+2nd innings,Netherlands,8.5,MP O'Dowd,Sikandar Raza,1,{},{}
+2nd innings,Netherlands,8.6,TLW Cooper,Sikandar Raza,1,{},{}
+2nd innings,Netherlands,9.1,TLW Cooper,SC Williams,1,{},{}
+2nd innings,Netherlands,9.2,MP O'Dowd,SC Williams,6,{},{}
+2nd innings,Netherlands,9.3,MP O'Dowd,SC Williams,1,{},{}
+2nd innings,Netherlands,9.4,TLW Cooper,SC Williams,1,{},{}
+2nd innings,Netherlands,9.5,MP O'Dowd,SC Williams,1,{},{}
+2nd innings,Netherlands,9.6,TLW Cooper,SC Williams,4,{},{}
+2nd innings,Netherlands,10.1,MP O'Dowd,B Muzarabani,3,{'legbyes': 3},{}
+2nd innings,Netherlands,10.2,TLW Cooper,B Muzarabani,1,{},{}
+2nd innings,Netherlands,10.3,MP O'Dowd,B Muzarabani,1,{},{}
+2nd innings,Netherlands,10.4,TLW Cooper,B Muzarabani,1,{'wides': 1},{}
+2nd innings,Netherlands,10.5,TLW Cooper,B Muzarabani,1,{},{}
+2nd innings,Netherlands,10.6,MP O'Dowd,B Muzarabani,1,{'legbyes': 1},{}
+2nd innings,Netherlands,10.7,TLW Cooper,B Muzarabani,2,{},{}
+2nd innings,Netherlands,11.1,MP O'Dowd,TL Chatara,4,{},{}
+2nd innings,Netherlands,11.2,MP O'Dowd,TL Chatara,1,{},{}
+2nd innings,Netherlands,11.3,TLW Cooper,TL Chatara,1,{},{}
+2nd innings,Netherlands,11.4,MP O'Dowd,TL Chatara,0,{},{}
+2nd innings,Netherlands,11.5,MP O'Dowd,TL Chatara,0,{},{}
+2nd innings,Netherlands,11.6,MP O'Dowd,TL Chatara,0,{},{}
+2nd innings,Netherlands,12.1,TLW Cooper,LM Jongwe,0,{},{}
+2nd innings,Netherlands,12.2,TLW Cooper,LM Jongwe,1,{},{}
+2nd innings,Netherlands,12.3,MP O'Dowd,LM Jongwe,1,{'wides': 1},{}
+2nd innings,Netherlands,12.4,MP O'Dowd,LM Jongwe,4,{},{}
+2nd innings,Netherlands,12.5,MP O'Dowd,LM Jongwe,1,{},{}
+2nd innings,Netherlands,12.6,TLW Cooper,LM Jongwe,0,{},"{'player_out': 'TLW Cooper', 'fielders': ['W Madhevere'], 'kind': 'caught'}"
+2nd innings,Netherlands,12.7,CN Ackermann,LM Jongwe,1,{},{}
+2nd innings,Netherlands,13.1,CN Ackermann,R Ngarava,0,{},{}
+2nd innings,Netherlands,13.2,CN Ackermann,R Ngarava,0,{},{}
+2nd innings,Netherlands,13.3,CN Ackermann,R Ngarava,0,{},{}
+2nd innings,Netherlands,13.4,CN Ackermann,R Ngarava,0,{},"{'player_out': 'CN Ackermann', 'fielders': ['LM Jongwe'], 'kind': 'caught'}"
+2nd innings,Netherlands,13.5,BFW de Leede,R Ngarava,1,{},{}
+2nd innings,Netherlands,13.6,MP O'Dowd,R Ngarava,0,{},{}
+2nd innings,Netherlands,14.1,BFW de Leede,LM Jongwe,0,{},{}
+2nd innings,Netherlands,14.2,BFW de Leede,LM Jongwe,1,{'wides': 1},{}
+2nd innings,Netherlands,14.3,BFW de Leede,LM Jongwe,1,{'wides': 1},{}
+2nd innings,Netherlands,14.4,BFW de Leede,LM Jongwe,4,{},{}
+2nd innings,Netherlands,14.5,BFW de Leede,LM Jongwe,1,{},{}
+2nd innings,Netherlands,14.6,MP O'Dowd,LM Jongwe,1,{'noballs': 1},{}
+2nd innings,Netherlands,14.7,MP O'Dowd,LM Jongwe,4,{},{}
+2nd innings,Netherlands,14.8,MP O'Dowd,LM Jongwe,4,{},{}
+2nd innings,Netherlands,14.9,MP O'Dowd,LM Jongwe,1,{},{}
+2nd innings,Netherlands,15.1,MP O'Dowd,B Muzarabani,0,{},"{'player_out': ""MP O'Dowd"", 'fielders': ['M Shumba'], 'kind': 'caught'}"
+2nd innings,Netherlands,15.2,SA Edwards,B Muzarabani,4,{},{}
+2nd innings,Netherlands,15.3,SA Edwards,B Muzarabani,1,{},{}
+2nd innings,Netherlands,15.4,BFW de Leede,B Muzarabani,1,{},{}
+2nd innings,Netherlands,15.5,SA Edwards,B Muzarabani,0,{},{}
+2nd innings,Netherlands,15.6,SA Edwards,B Muzarabani,0,{},{}
+2nd innings,Netherlands,16.1,BFW de Leede,R Ngarava,1,{},{}
+2nd innings,Netherlands,16.2,SA Edwards,R Ngarava,0,{},{}
+2nd innings,Netherlands,16.3,SA Edwards,R Ngarava,0,{},"{'player_out': 'SA Edwards', 'fielders': ['RW Chakabva'], 'kind': 'caught'}"
+2nd innings,Netherlands,16.4,RE van der Merwe,R Ngarava,0,{},{}
+2nd innings,Netherlands,16.5,RE van der Merwe,R Ngarava,0,{},{}
+2nd innings,Netherlands,16.6,RE van der Merwe,R Ngarava,0,{},{}
+2nd innings,Netherlands,17.1,BFW de Leede,SC Williams,0,{},{}
+2nd innings,Netherlands,17.2,BFW de Leede,SC Williams,0,{},{}
+2nd innings,Netherlands,17.3,BFW de Leede,SC Williams,0,{},{}
+2nd innings,Netherlands,17.4,BFW de Leede,SC Williams,0,{},{}
+2nd innings,Netherlands,17.5,BFW de Leede,SC Williams,0,{},{}
+2nd innings,Netherlands,17.6,BFW de Leede,SC Williams,4,{},{}

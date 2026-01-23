@@ -1,0 +1,239 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,New Zealand,0.1,MJ Guptill,Shaheen Shah Afridi,0,{},{}
+1st innings,New Zealand,0.2,MJ Guptill,Shaheen Shah Afridi,0,{},{}
+1st innings,New Zealand,0.3,MJ Guptill,Shaheen Shah Afridi,0,{},{}
+1st innings,New Zealand,0.4,MJ Guptill,Shaheen Shah Afridi,0,{},{}
+1st innings,New Zealand,0.5,MJ Guptill,Shaheen Shah Afridi,0,{},{}
+1st innings,New Zealand,0.6,MJ Guptill,Shaheen Shah Afridi,0,{},{}
+1st innings,New Zealand,1.1,DJ Mitchell,Imad Wasim,0,{},{}
+1st innings,New Zealand,1.2,DJ Mitchell,Imad Wasim,1,{},{}
+1st innings,New Zealand,1.3,MJ Guptill,Imad Wasim,0,{},{}
+1st innings,New Zealand,1.4,MJ Guptill,Imad Wasim,1,{},{}
+1st innings,New Zealand,1.5,DJ Mitchell,Imad Wasim,1,{},{}
+1st innings,New Zealand,1.6,MJ Guptill,Imad Wasim,4,{},{}
+1st innings,New Zealand,2.1,DJ Mitchell,Shaheen Shah Afridi,0,{},{}
+1st innings,New Zealand,2.2,DJ Mitchell,Shaheen Shah Afridi,2,{},{}
+1st innings,New Zealand,2.3,DJ Mitchell,Shaheen Shah Afridi,1,{},{}
+1st innings,New Zealand,2.4,MJ Guptill,Shaheen Shah Afridi,1,{},{}
+1st innings,New Zealand,2.5,DJ Mitchell,Shaheen Shah Afridi,4,{},{}
+1st innings,New Zealand,2.6,DJ Mitchell,Shaheen Shah Afridi,0,{},{}
+1st innings,New Zealand,3.1,MJ Guptill,Imad Wasim,0,{},{}
+1st innings,New Zealand,3.2,MJ Guptill,Imad Wasim,0,{},{}
+1st innings,New Zealand,3.3,MJ Guptill,Imad Wasim,0,{},{}
+1st innings,New Zealand,3.4,MJ Guptill,Imad Wasim,1,{},{}
+1st innings,New Zealand,3.5,DJ Mitchell,Imad Wasim,1,{},{}
+1st innings,New Zealand,3.6,MJ Guptill,Imad Wasim,4,{},{}
+1st innings,New Zealand,4.1,DJ Mitchell,Hasan Ali,6,{},{}
+1st innings,New Zealand,4.2,DJ Mitchell,Hasan Ali,1,{},{}
+1st innings,New Zealand,4.3,MJ Guptill,Hasan Ali,1,{},{}
+1st innings,New Zealand,4.4,DJ Mitchell,Hasan Ali,0,{},{}
+1st innings,New Zealand,4.5,DJ Mitchell,Hasan Ali,1,{},{}
+1st innings,New Zealand,4.6,MJ Guptill,Hasan Ali,5,{'noballs': 1},{}
+1st innings,New Zealand,4.7,MJ Guptill,Hasan Ali,1,{},{}
+1st innings,New Zealand,5.1,MJ Guptill,Haris Rauf,0,{},{}
+1st innings,New Zealand,5.2,MJ Guptill,Haris Rauf,0,{},"{'player_out': 'MJ Guptill', 'kind': 'bowled'}"
+1st innings,New Zealand,5.3,KS Williamson,Haris Rauf,1,{},{}
+1st innings,New Zealand,5.4,DJ Mitchell,Haris Rauf,1,{},{}
+1st innings,New Zealand,5.5,KS Williamson,Haris Rauf,0,{},{}
+1st innings,New Zealand,5.6,KS Williamson,Haris Rauf,4,{},{}
+1st innings,New Zealand,6.1,DJ Mitchell,Imad Wasim,1,{},{}
+1st innings,New Zealand,6.2,KS Williamson,Imad Wasim,1,{},{}
+1st innings,New Zealand,6.3,DJ Mitchell,Imad Wasim,0,{},{}
+1st innings,New Zealand,6.4,DJ Mitchell,Imad Wasim,1,{},{}
+1st innings,New Zealand,6.5,KS Williamson,Imad Wasim,0,{},{}
+1st innings,New Zealand,6.6,KS Williamson,Imad Wasim,0,{},{}
+1st innings,New Zealand,7.1,DJ Mitchell,Shadab Khan,1,{'legbyes': 1},{}
+1st innings,New Zealand,7.2,KS Williamson,Shadab Khan,0,{},{}
+1st innings,New Zealand,7.3,KS Williamson,Shadab Khan,0,{},{}
+1st innings,New Zealand,7.4,KS Williamson,Shadab Khan,2,{},{}
+1st innings,New Zealand,7.5,KS Williamson,Shadab Khan,0,{},{}
+1st innings,New Zealand,7.6,KS Williamson,Shadab Khan,0,{},{}
+1st innings,New Zealand,8.1,DJ Mitchell,Imad Wasim,6,{},{}
+1st innings,New Zealand,8.2,DJ Mitchell,Imad Wasim,0,{},"{'player_out': 'DJ Mitchell', 'fielders': ['Fakhar Zaman'], 'kind': 'caught'}"
+1st innings,New Zealand,8.3,KS Williamson,Imad Wasim,0,{},{}
+1st innings,New Zealand,8.4,KS Williamson,Imad Wasim,1,{},{}
+1st innings,New Zealand,8.5,JDS Neesham,Imad Wasim,1,{},{}
+1st innings,New Zealand,8.6,KS Williamson,Imad Wasim,0,{},{}
+1st innings,New Zealand,9.1,JDS Neesham,Mohammad Hafeez,0,{},"{'player_out': 'JDS Neesham', 'fielders': ['Fakhar Zaman'], 'kind': 'caught'}"
+1st innings,New Zealand,9.2,KS Williamson,Mohammad Hafeez,2,{},{}
+1st innings,New Zealand,9.3,KS Williamson,Mohammad Hafeez,0,{},{}
+1st innings,New Zealand,9.4,KS Williamson,Mohammad Hafeez,1,{},{}
+1st innings,New Zealand,9.5,DP Conway,Mohammad Hafeez,1,{},{}
+1st innings,New Zealand,9.6,KS Williamson,Mohammad Hafeez,0,{},{}
+1st innings,New Zealand,10.1,DP Conway,Shadab Khan,0,{},{}
+1st innings,New Zealand,10.2,DP Conway,Shadab Khan,1,{},{}
+1st innings,New Zealand,10.3,KS Williamson,Shadab Khan,0,{},{}
+1st innings,New Zealand,10.4,KS Williamson,Shadab Khan,1,{},{}
+1st innings,New Zealand,10.5,DP Conway,Shadab Khan,0,{},{}
+1st innings,New Zealand,10.6,DP Conway,Shadab Khan,1,{'legbyes': 1},{}
+1st innings,New Zealand,11.1,DP Conway,Mohammad Hafeez,0,{},{}
+1st innings,New Zealand,11.2,DP Conway,Mohammad Hafeez,1,{},{}
+1st innings,New Zealand,11.3,KS Williamson,Mohammad Hafeez,0,{},{}
+1st innings,New Zealand,11.4,KS Williamson,Mohammad Hafeez,4,{},{}
+1st innings,New Zealand,11.5,KS Williamson,Mohammad Hafeez,6,{},{}
+1st innings,New Zealand,11.6,KS Williamson,Mohammad Hafeez,1,{},{}
+1st innings,New Zealand,12.1,KS Williamson,Shadab Khan,1,{},{}
+1st innings,New Zealand,12.2,DP Conway,Shadab Khan,0,{},{}
+1st innings,New Zealand,12.3,DP Conway,Shadab Khan,2,{},{}
+1st innings,New Zealand,12.4,DP Conway,Shadab Khan,4,{},{}
+1st innings,New Zealand,12.5,DP Conway,Shadab Khan,4,{},{}
+1st innings,New Zealand,12.6,DP Conway,Shadab Khan,4,{},{}
+1st innings,New Zealand,13.1,KS Williamson,Hasan Ali,0,{},"{'player_out': 'KS Williamson', 'fielders': ['Hasan Ali'], 'kind': 'run out'}"
+1st innings,New Zealand,13.2,GD Phillips,Hasan Ali,0,{},{}
+1st innings,New Zealand,13.3,GD Phillips,Hasan Ali,0,{},{}
+1st innings,New Zealand,13.4,GD Phillips,Hasan Ali,1,{},{}
+1st innings,New Zealand,13.5,DP Conway,Hasan Ali,2,"{'legbyes': 1, 'noballs': 1}",{}
+1st innings,New Zealand,13.6,GD Phillips,Hasan Ali,1,{},{}
+1st innings,New Zealand,13.7,DP Conway,Hasan Ali,1,{},{}
+1st innings,New Zealand,14.1,DP Conway,Haris Rauf,1,{},{}
+1st innings,New Zealand,14.2,GD Phillips,Haris Rauf,1,{},{}
+1st innings,New Zealand,14.3,DP Conway,Haris Rauf,1,{},{}
+1st innings,New Zealand,14.4,GD Phillips,Haris Rauf,1,{},{}
+1st innings,New Zealand,14.5,DP Conway,Haris Rauf,1,{},{}
+1st innings,New Zealand,14.6,GD Phillips,Haris Rauf,0,{},{}
+1st innings,New Zealand,15.1,DP Conway,Hasan Ali,1,{},{}
+1st innings,New Zealand,15.2,GD Phillips,Hasan Ali,1,{},{}
+1st innings,New Zealand,15.3,DP Conway,Hasan Ali,1,{},{}
+1st innings,New Zealand,15.4,GD Phillips,Hasan Ali,1,{},{}
+1st innings,New Zealand,15.5,DP Conway,Hasan Ali,1,{},{}
+1st innings,New Zealand,15.6,GD Phillips,Hasan Ali,2,{},{}
+1st innings,New Zealand,16.1,DP Conway,Shaheen Shah Afridi,1,{},{}
+1st innings,New Zealand,16.2,GD Phillips,Shaheen Shah Afridi,1,{'legbyes': 1},{}
+1st innings,New Zealand,16.3,DP Conway,Shaheen Shah Afridi,1,{},{}
+1st innings,New Zealand,16.4,GD Phillips,Shaheen Shah Afridi,1,{},{}
+1st innings,New Zealand,16.5,DP Conway,Shaheen Shah Afridi,1,{},{}
+1st innings,New Zealand,16.6,GD Phillips,Shaheen Shah Afridi,4,{},{}
+1st innings,New Zealand,17.1,DP Conway,Haris Rauf,0,{},"{'player_out': 'DP Conway', 'fielders': ['Babar Azam'], 'kind': 'caught'}"
+1st innings,New Zealand,17.2,GD Phillips,Haris Rauf,0,{},{}
+1st innings,New Zealand,17.3,GD Phillips,Haris Rauf,0,{},"{'player_out': 'GD Phillips', 'fielders': ['Hasan Ali'], 'kind': 'caught'}"
+1st innings,New Zealand,17.4,TL Seifert,Haris Rauf,2,{},{}
+1st innings,New Zealand,17.5,TL Seifert,Haris Rauf,0,{},{}
+1st innings,New Zealand,17.6,TL Seifert,Haris Rauf,1,{},{}
+1st innings,New Zealand,18.1,TL Seifert,Shaheen Shah Afridi,0,{},{}
+1st innings,New Zealand,18.2,TL Seifert,Shaheen Shah Afridi,0,{},{}
+1st innings,New Zealand,18.3,TL Seifert,Shaheen Shah Afridi,1,{},{}
+1st innings,New Zealand,18.4,MJ Santner,Shaheen Shah Afridi,1,{'legbyes': 1},{}
+1st innings,New Zealand,18.5,TL Seifert,Shaheen Shah Afridi,4,{},{}
+1st innings,New Zealand,18.6,TL Seifert,Shaheen Shah Afridi,0,{},"{'player_out': 'TL Seifert', 'fielders': ['Mohammad Hafeez'], 'kind': 'caught'}"
+1st innings,New Zealand,19.1,IS Sodhi,Haris Rauf,1,{},{}
+1st innings,New Zealand,19.2,MJ Santner,Haris Rauf,2,{},{}
+1st innings,New Zealand,19.3,MJ Santner,Haris Rauf,1,{'byes': 1},{}
+1st innings,New Zealand,19.4,IS Sodhi,Haris Rauf,1,{},{}
+1st innings,New Zealand,19.5,MJ Santner,Haris Rauf,4,{},{}
+1st innings,New Zealand,19.6,MJ Santner,Haris Rauf,0,{},"{'player_out': 'MJ Santner', 'kind': 'bowled'}"
+2nd innings,Pakistan,0.1,Mohammad Rizwan,MJ Santner,0,{},{}
+2nd innings,Pakistan,0.2,Mohammad Rizwan,MJ Santner,1,{},{}
+2nd innings,Pakistan,0.3,Babar Azam,MJ Santner,4,{},{}
+2nd innings,Pakistan,0.4,Babar Azam,MJ Santner,1,{},{}
+2nd innings,Pakistan,0.5,Mohammad Rizwan,MJ Santner,1,{},{}
+2nd innings,Pakistan,0.6,Babar Azam,MJ Santner,0,{},{}
+2nd innings,Pakistan,1.1,Mohammad Rizwan,TG Southee,0,{},{}
+2nd innings,Pakistan,1.2,Mohammad Rizwan,TG Southee,0,{},{}
+2nd innings,Pakistan,1.3,Mohammad Rizwan,TG Southee,1,{'wides': 1},{}
+2nd innings,Pakistan,1.4,Mohammad Rizwan,TG Southee,0,{},{}
+2nd innings,Pakistan,1.5,Mohammad Rizwan,TG Southee,1,{},{}
+2nd innings,Pakistan,1.6,Babar Azam,TG Southee,0,{},{}
+2nd innings,Pakistan,1.7,Babar Azam,TG Southee,0,{},{}
+2nd innings,Pakistan,2.1,Mohammad Rizwan,TA Boult,4,{},{}
+2nd innings,Pakistan,2.2,Mohammad Rizwan,TA Boult,0,{},{}
+2nd innings,Pakistan,2.3,Mohammad Rizwan,TA Boult,1,{'wides': 1},{}
+2nd innings,Pakistan,2.4,Mohammad Rizwan,TA Boult,0,{},{}
+2nd innings,Pakistan,2.5,Mohammad Rizwan,TA Boult,0,{},{}
+2nd innings,Pakistan,2.6,Mohammad Rizwan,TA Boult,0,{},{}
+2nd innings,Pakistan,2.7,Mohammad Rizwan,TA Boult,0,{},{}
+2nd innings,Pakistan,3.1,Babar Azam,TG Southee,0,{},{}
+2nd innings,Pakistan,3.2,Babar Azam,TG Southee,1,{},{}
+2nd innings,Pakistan,3.3,Mohammad Rizwan,TG Southee,0,{},{}
+2nd innings,Pakistan,3.4,Mohammad Rizwan,TG Southee,4,{},{}
+2nd innings,Pakistan,3.5,Mohammad Rizwan,TG Southee,1,{},{}
+2nd innings,Pakistan,3.6,Babar Azam,TG Southee,2,{},{}
+2nd innings,Pakistan,4.1,Mohammad Rizwan,TA Boult,4,{},{}
+2nd innings,Pakistan,4.2,Mohammad Rizwan,TA Boult,0,{},{}
+2nd innings,Pakistan,4.3,Mohammad Rizwan,TA Boult,0,{},{}
+2nd innings,Pakistan,4.4,Mohammad Rizwan,TA Boult,1,{},{}
+2nd innings,Pakistan,4.5,Babar Azam,TA Boult,0,{},{}
+2nd innings,Pakistan,4.6,Babar Azam,TA Boult,1,{},{}
+2nd innings,Pakistan,5.1,Babar Azam,TG Southee,0,{},"{'player_out': 'Babar Azam', 'kind': 'bowled'}"
+2nd innings,Pakistan,5.2,Fakhar Zaman,TG Southee,1,{},{}
+2nd innings,Pakistan,5.3,Mohammad Rizwan,TG Southee,1,{},{}
+2nd innings,Pakistan,5.4,Fakhar Zaman,TG Southee,0,{},{}
+2nd innings,Pakistan,5.5,Fakhar Zaman,TG Southee,0,{},{}
+2nd innings,Pakistan,5.6,Fakhar Zaman,TG Southee,0,{},{}
+2nd innings,Pakistan,6.1,Mohammad Rizwan,MJ Santner,0,{},{}
+2nd innings,Pakistan,6.2,Mohammad Rizwan,MJ Santner,4,{},{}
+2nd innings,Pakistan,6.3,Mohammad Rizwan,MJ Santner,1,{},{}
+2nd innings,Pakistan,6.4,Fakhar Zaman,MJ Santner,0,{},{}
+2nd innings,Pakistan,6.5,Fakhar Zaman,MJ Santner,0,{},{}
+2nd innings,Pakistan,6.6,Fakhar Zaman,MJ Santner,1,{},{}
+2nd innings,Pakistan,7.1,Fakhar Zaman,JDS Neesham,1,{},{}
+2nd innings,Pakistan,7.2,Mohammad Rizwan,JDS Neesham,1,{'legbyes': 1},{}
+2nd innings,Pakistan,7.3,Fakhar Zaman,JDS Neesham,0,{},{}
+2nd innings,Pakistan,7.4,Fakhar Zaman,JDS Neesham,0,{},{}
+2nd innings,Pakistan,7.5,Fakhar Zaman,JDS Neesham,0,{},{}
+2nd innings,Pakistan,7.6,Fakhar Zaman,JDS Neesham,1,{},{}
+2nd innings,Pakistan,8.1,Fakhar Zaman,IS Sodhi,0,{},{}
+2nd innings,Pakistan,8.2,Fakhar Zaman,IS Sodhi,0,{},{}
+2nd innings,Pakistan,8.3,Fakhar Zaman,IS Sodhi,6,{},{}
+2nd innings,Pakistan,8.4,Fakhar Zaman,IS Sodhi,1,{},{}
+2nd innings,Pakistan,8.5,Mohammad Rizwan,IS Sodhi,1,{},{}
+2nd innings,Pakistan,8.6,Fakhar Zaman,IS Sodhi,0,{},"{'player_out': 'Fakhar Zaman', 'kind': 'lbw'}"
+2nd innings,Pakistan,9.1,Mohammad Rizwan,JDS Neesham,0,{},{}
+2nd innings,Pakistan,9.2,Mohammad Rizwan,JDS Neesham,1,{},{}
+2nd innings,Pakistan,9.3,Mohammad Hafeez,JDS Neesham,6,{},{}
+2nd innings,Pakistan,9.4,Mohammad Hafeez,JDS Neesham,1,{},{}
+2nd innings,Pakistan,9.5,Mohammad Rizwan,JDS Neesham,1,{},{}
+2nd innings,Pakistan,9.6,Mohammad Hafeez,JDS Neesham,2,{},{}
+2nd innings,Pakistan,10.1,Mohammad Rizwan,MJ Santner,1,{},{}
+2nd innings,Pakistan,10.2,Mohammad Hafeez,MJ Santner,1,{},{}
+2nd innings,Pakistan,10.3,Mohammad Rizwan,MJ Santner,1,{},{}
+2nd innings,Pakistan,10.4,Mohammad Hafeez,MJ Santner,1,{},{}
+2nd innings,Pakistan,10.5,Mohammad Rizwan,MJ Santner,1,{},{}
+2nd innings,Pakistan,10.6,Mohammad Hafeez,MJ Santner,0,{},"{'player_out': 'Mohammad Hafeez', 'fielders': ['DP Conway'], 'kind': 'caught'}"
+2nd innings,Pakistan,11.1,Shoaib Malik,IS Sodhi,0,{},{}
+2nd innings,Pakistan,11.2,Shoaib Malik,IS Sodhi,1,{},{}
+2nd innings,Pakistan,11.3,Mohammad Rizwan,IS Sodhi,4,{},{}
+2nd innings,Pakistan,11.4,Mohammad Rizwan,IS Sodhi,1,{'wides': 1},{}
+2nd innings,Pakistan,11.5,Mohammad Rizwan,IS Sodhi,0,{},"{'player_out': 'Mohammad Rizwan', 'kind': 'lbw'}"
+2nd innings,Pakistan,11.6,Imad Wasim,IS Sodhi,0,{},{}
+2nd innings,Pakistan,11.7,Imad Wasim,IS Sodhi,1,{},{}
+2nd innings,Pakistan,12.1,Imad Wasim,JDS Neesham,2,{},{}
+2nd innings,Pakistan,12.2,Imad Wasim,JDS Neesham,1,{},{}
+2nd innings,Pakistan,12.3,Shoaib Malik,JDS Neesham,0,{},{}
+2nd innings,Pakistan,12.4,Shoaib Malik,JDS Neesham,1,{},{}
+2nd innings,Pakistan,12.5,Imad Wasim,JDS Neesham,0,{},{}
+2nd innings,Pakistan,12.6,Imad Wasim,JDS Neesham,1,{},{}
+2nd innings,Pakistan,13.1,Imad Wasim,IS Sodhi,1,{},{}
+2nd innings,Pakistan,13.2,Shoaib Malik,IS Sodhi,1,{},{}
+2nd innings,Pakistan,13.3,Imad Wasim,IS Sodhi,0,{},{}
+2nd innings,Pakistan,13.4,Imad Wasim,IS Sodhi,1,{},{}
+2nd innings,Pakistan,13.5,Shoaib Malik,IS Sodhi,1,{},{}
+2nd innings,Pakistan,13.6,Imad Wasim,IS Sodhi,2,{'wides': 2},{}
+2nd innings,Pakistan,13.7,Shoaib Malik,IS Sodhi,1,{},{}
+2nd innings,Pakistan,14.1,Shoaib Malik,TA Boult,0,{},{}
+2nd innings,Pakistan,14.2,Shoaib Malik,TA Boult,1,{},{}
+2nd innings,Pakistan,14.3,Imad Wasim,TA Boult,0,{},{}
+2nd innings,Pakistan,14.4,Imad Wasim,TA Boult,4,{},{}
+2nd innings,Pakistan,14.5,Imad Wasim,TA Boult,0,{},"{'player_out': 'Imad Wasim', 'kind': 'lbw'}"
+2nd innings,Pakistan,14.6,Asif Ali,TA Boult,4,{},{}
+2nd innings,Pakistan,15.1,Shoaib Malik,IS Sodhi,1,{},{}
+2nd innings,Pakistan,15.2,Asif Ali,IS Sodhi,1,{},{}
+2nd innings,Pakistan,15.3,Shoaib Malik,IS Sodhi,0,{},{}
+2nd innings,Pakistan,15.4,Shoaib Malik,IS Sodhi,0,{},{}
+2nd innings,Pakistan,15.5,Shoaib Malik,IS Sodhi,4,{},{}
+2nd innings,Pakistan,15.6,Shoaib Malik,IS Sodhi,1,{'legbyes': 1},{}
+2nd innings,Pakistan,16.1,Shoaib Malik,TG Southee,1,{},{}
+2nd innings,Pakistan,16.2,Asif Ali,TG Southee,6,{},{}
+2nd innings,Pakistan,16.3,Asif Ali,TG Southee,6,{},{}
+2nd innings,Pakistan,16.4,Asif Ali,TG Southee,0,{},{}
+2nd innings,Pakistan,16.5,Asif Ali,TG Southee,0,{},{}
+2nd innings,Pakistan,16.6,Asif Ali,TG Southee,0,{},{}
+2nd innings,Pakistan,17.1,Shoaib Malik,MJ Santner,4,{},{}
+2nd innings,Pakistan,17.2,Shoaib Malik,MJ Santner,2,{},{}
+2nd innings,Pakistan,17.3,Shoaib Malik,MJ Santner,6,{},{}
+2nd innings,Pakistan,17.4,Shoaib Malik,MJ Santner,1,{},{}
+2nd innings,Pakistan,17.5,Asif Ali,MJ Santner,2,{},{}
+2nd innings,Pakistan,17.6,Asif Ali,MJ Santner,0,{},{}
+2nd innings,Pakistan,18.1,Shoaib Malik,TA Boult,1,{},{}
+2nd innings,Pakistan,18.2,Asif Ali,TA Boult,0,{},{}
+2nd innings,Pakistan,18.3,Asif Ali,TA Boult,6,{},{}
+2nd innings,Pakistan,18.4,Asif Ali,TA Boult,2,{},{}

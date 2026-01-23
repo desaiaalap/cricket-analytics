@@ -1,0 +1,248 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,New Zealand,0.1,MJ Guptill,Mohammad Amir,0,{},{}
+1st innings,New Zealand,0.2,MJ Guptill,Mohammad Amir,0,{},{}
+1st innings,New Zealand,0.3,MJ Guptill,Mohammad Amir,0,{},{}
+1st innings,New Zealand,0.4,MJ Guptill,Mohammad Amir,0,{},{}
+1st innings,New Zealand,0.5,MJ Guptill,Mohammad Amir,1,{},{}
+1st innings,New Zealand,0.6,KS Williamson,Mohammad Amir,0,{},{}
+1st innings,New Zealand,1.1,MJ Guptill,Mohammad Irfan,0,{},{}
+1st innings,New Zealand,1.2,MJ Guptill,Mohammad Irfan,6,{},{}
+1st innings,New Zealand,1.3,MJ Guptill,Mohammad Irfan,1,{},{}
+1st innings,New Zealand,1.4,KS Williamson,Mohammad Irfan,2,{},{}
+1st innings,New Zealand,1.5,KS Williamson,Mohammad Irfan,4,{},{}
+1st innings,New Zealand,1.6,KS Williamson,Mohammad Irfan,0,{},{}
+1st innings,New Zealand,2.1,MJ Guptill,Mohammad Amir,4,{},{}
+1st innings,New Zealand,2.2,MJ Guptill,Mohammad Amir,0,{},{}
+1st innings,New Zealand,2.3,MJ Guptill,Mohammad Amir,0,{},{}
+1st innings,New Zealand,2.4,MJ Guptill,Mohammad Amir,1,{'wides': 1},{}
+1st innings,New Zealand,2.5,MJ Guptill,Mohammad Amir,4,{},{}
+1st innings,New Zealand,2.6,MJ Guptill,Mohammad Amir,4,{},{}
+1st innings,New Zealand,2.7,MJ Guptill,Mohammad Amir,0,{},{}
+1st innings,New Zealand,3.1,KS Williamson,Mohammad Sami,0,{},{}
+1st innings,New Zealand,3.2,KS Williamson,Mohammad Sami,1,{},{}
+1st innings,New Zealand,3.3,MJ Guptill,Mohammad Sami,1,{'wides': 1},{}
+1st innings,New Zealand,3.4,MJ Guptill,Mohammad Sami,1,{},{}
+1st innings,New Zealand,3.5,KS Williamson,Mohammad Sami,4,{'legbyes': 4},{}
+1st innings,New Zealand,3.6,KS Williamson,Mohammad Sami,1,{},{}
+1st innings,New Zealand,3.7,MJ Guptill,Mohammad Sami,0,{},{}
+1st innings,New Zealand,4.1,KS Williamson,Imad Wasim,0,{},{}
+1st innings,New Zealand,4.2,KS Williamson,Imad Wasim,1,{},{}
+1st innings,New Zealand,4.3,MJ Guptill,Imad Wasim,1,{},{}
+1st innings,New Zealand,4.4,KS Williamson,Imad Wasim,0,{},{}
+1st innings,New Zealand,4.5,KS Williamson,Imad Wasim,1,{},{}
+1st innings,New Zealand,4.6,MJ Guptill,Imad Wasim,6,{},{}
+1st innings,New Zealand,5.1,KS Williamson,Mohammad Sami,0,{},{}
+1st innings,New Zealand,5.2,KS Williamson,Mohammad Sami,1,{},{}
+1st innings,New Zealand,5.3,MJ Guptill,Mohammad Sami,0,{},{}
+1st innings,New Zealand,5.4,MJ Guptill,Mohammad Sami,6,{},{}
+1st innings,New Zealand,5.5,MJ Guptill,Mohammad Sami,4,{},{}
+1st innings,New Zealand,5.6,MJ Guptill,Mohammad Sami,0,{},{}
+1st innings,New Zealand,6.1,KS Williamson,Imad Wasim,1,{},{}
+1st innings,New Zealand,6.2,MJ Guptill,Imad Wasim,1,{},{}
+1st innings,New Zealand,6.3,KS Williamson,Imad Wasim,0,{},{}
+1st innings,New Zealand,6.4,KS Williamson,Imad Wasim,2,{},{}
+1st innings,New Zealand,6.5,KS Williamson,Imad Wasim,0,{},{}
+1st innings,New Zealand,6.6,KS Williamson,Imad Wasim,1,{},{}
+1st innings,New Zealand,7.1,KS Williamson,Mohammad Irfan,2,{},{}
+1st innings,New Zealand,7.2,KS Williamson,Mohammad Irfan,0,{},"{'fielders': ['Shahid Afridi'], 'kind': 'caught', 'player_out': 'KS Williamson'}"
+1st innings,New Zealand,7.3,C Munro,Mohammad Irfan,1,{},{}
+1st innings,New Zealand,7.4,MJ Guptill,Mohammad Irfan,4,{},{}
+1st innings,New Zealand,7.5,MJ Guptill,Mohammad Irfan,1,{},{}
+1st innings,New Zealand,7.6,C Munro,Mohammad Irfan,1,{},{}
+1st innings,New Zealand,8.1,C Munro,Shahid Afridi,0,{},{}
+1st innings,New Zealand,8.2,C Munro,Shahid Afridi,4,{},{}
+1st innings,New Zealand,8.3,C Munro,Shahid Afridi,1,{},{}
+1st innings,New Zealand,8.4,MJ Guptill,Shahid Afridi,1,{},{}
+1st innings,New Zealand,8.5,C Munro,Shahid Afridi,0,{},"{'fielders': ['Khalid Latif'], 'kind': 'caught', 'player_out': 'C Munro'}"
+1st innings,New Zealand,8.6,MJ Guptill,Shahid Afridi,1,{},{}
+1st innings,New Zealand,9.1,MJ Guptill,Imad Wasim,1,{},{}
+1st innings,New Zealand,9.2,CJ Anderson,Imad Wasim,1,{},{}
+1st innings,New Zealand,9.3,MJ Guptill,Imad Wasim,0,{},{}
+1st innings,New Zealand,9.4,MJ Guptill,Imad Wasim,1,{},{}
+1st innings,New Zealand,9.5,CJ Anderson,Imad Wasim,1,{},{}
+1st innings,New Zealand,9.6,MJ Guptill,Imad Wasim,1,{},{}
+1st innings,New Zealand,10.1,MJ Guptill,Shahid Afridi,0,{},{}
+1st innings,New Zealand,10.2,MJ Guptill,Shahid Afridi,2,{},{}
+1st innings,New Zealand,10.3,MJ Guptill,Shahid Afridi,4,{},{}
+1st innings,New Zealand,10.4,MJ Guptill,Shahid Afridi,0,{},{}
+1st innings,New Zealand,10.5,MJ Guptill,Shahid Afridi,4,{},{}
+1st innings,New Zealand,10.6,MJ Guptill,Shahid Afridi,2,{},{}
+1st innings,New Zealand,11.1,CJ Anderson,Imad Wasim,2,{},{}
+1st innings,New Zealand,11.2,CJ Anderson,Imad Wasim,1,{},{}
+1st innings,New Zealand,11.3,MJ Guptill,Imad Wasim,1,{},{}
+1st innings,New Zealand,11.4,CJ Anderson,Imad Wasim,2,{},{}
+1st innings,New Zealand,11.5,CJ Anderson,Imad Wasim,0,{},{}
+1st innings,New Zealand,11.6,CJ Anderson,Imad Wasim,1,{},{}
+1st innings,New Zealand,12.1,CJ Anderson,Mohammad Irfan,0,{},{}
+1st innings,New Zealand,12.2,CJ Anderson,Mohammad Irfan,4,{},{}
+1st innings,New Zealand,12.3,CJ Anderson,Mohammad Irfan,1,{},{}
+1st innings,New Zealand,12.4,MJ Guptill,Mohammad Irfan,1,{},{}
+1st innings,New Zealand,12.5,CJ Anderson,Mohammad Irfan,0,{},{}
+1st innings,New Zealand,12.6,CJ Anderson,Mohammad Irfan,4,{},{}
+1st innings,New Zealand,13.1,MJ Guptill,Shahid Afridi,4,{},{}
+1st innings,New Zealand,13.2,MJ Guptill,Shahid Afridi,2,{},{}
+1st innings,New Zealand,13.3,MJ Guptill,Shahid Afridi,0,{},{}
+1st innings,New Zealand,13.4,MJ Guptill,Shahid Afridi,4,{},{}
+1st innings,New Zealand,13.5,MJ Guptill,Shahid Afridi,2,{},{}
+1st innings,New Zealand,13.6,MJ Guptill,Shahid Afridi,1,{},{}
+1st innings,New Zealand,14.1,MJ Guptill,Mohammad Sami,4,{},{}
+1st innings,New Zealand,14.2,MJ Guptill,Mohammad Sami,0,{},{}
+1st innings,New Zealand,14.3,MJ Guptill,Mohammad Sami,0,{},"{'kind': 'bowled', 'player_out': 'MJ Guptill'}"
+1st innings,New Zealand,14.4,LRPL Taylor,Mohammad Sami,0,{},{}
+1st innings,New Zealand,14.5,LRPL Taylor,Mohammad Sami,0,{},{}
+1st innings,New Zealand,14.6,LRPL Taylor,Mohammad Sami,0,{},{}
+1st innings,New Zealand,15.1,CJ Anderson,Shahid Afridi,1,{'wides': 1},{}
+1st innings,New Zealand,15.2,CJ Anderson,Shahid Afridi,4,{},{}
+1st innings,New Zealand,15.3,CJ Anderson,Shahid Afridi,0,{},"{'fielders': ['Shoaib Malik'], 'kind': 'caught', 'player_out': 'CJ Anderson'}"
+1st innings,New Zealand,15.4,LRPL Taylor,Shahid Afridi,0,{},{}
+1st innings,New Zealand,15.5,LRPL Taylor,Shahid Afridi,1,{},{}
+1st innings,New Zealand,15.6,L Ronchi,Shahid Afridi,1,{},{}
+1st innings,New Zealand,15.7,LRPL Taylor,Shahid Afridi,1,{},{}
+1st innings,New Zealand,16.1,LRPL Taylor,Mohammad Amir,4,{},{}
+1st innings,New Zealand,16.2,LRPL Taylor,Mohammad Amir,2,{},{}
+1st innings,New Zealand,16.3,LRPL Taylor,Mohammad Amir,2,{},{}
+1st innings,New Zealand,16.4,LRPL Taylor,Mohammad Amir,1,{},{}
+1st innings,New Zealand,16.5,L Ronchi,Mohammad Amir,1,{},{}
+1st innings,New Zealand,16.6,LRPL Taylor,Mohammad Amir,1,{},{}
+1st innings,New Zealand,17.1,LRPL Taylor,Mohammad Irfan,1,{},{}
+1st innings,New Zealand,17.2,L Ronchi,Mohammad Irfan,1,{},{}
+1st innings,New Zealand,17.3,LRPL Taylor,Mohammad Irfan,3,{},{}
+1st innings,New Zealand,17.4,L Ronchi,Mohammad Irfan,6,{},{}
+1st innings,New Zealand,17.5,L Ronchi,Mohammad Irfan,1,{},{}
+1st innings,New Zealand,17.6,LRPL Taylor,Mohammad Irfan,2,{},{}
+1st innings,New Zealand,18.1,L Ronchi,Mohammad Sami,1,{},{}
+1st innings,New Zealand,18.2,LRPL Taylor,Mohammad Sami,0,{},{}
+1st innings,New Zealand,18.3,LRPL Taylor,Mohammad Sami,2,{},{}
+1st innings,New Zealand,18.4,LRPL Taylor,Mohammad Sami,0,{},{}
+1st innings,New Zealand,18.5,LRPL Taylor,Mohammad Sami,1,{},{}
+1st innings,New Zealand,18.6,L Ronchi,Mohammad Sami,0,{},"{'fielders': ['Shoaib Malik'], 'kind': 'caught', 'player_out': 'L Ronchi'}"
+1st innings,New Zealand,19.1,LRPL Taylor,Mohammad Amir,6,{},{}
+1st innings,New Zealand,19.2,LRPL Taylor,Mohammad Amir,1,{},{}
+1st innings,New Zealand,19.3,GD Elliott,Mohammad Amir,1,{},{}
+1st innings,New Zealand,19.4,LRPL Taylor,Mohammad Amir,2,{},{}
+1st innings,New Zealand,19.5,LRPL Taylor,Mohammad Amir,4,{},{}
+1st innings,New Zealand,19.6,LRPL Taylor,Mohammad Amir,2,{},{}
+2nd innings,Pakistan,0.1,Sharjeel Khan,MJ Santner,4,{},{}
+2nd innings,Pakistan,0.2,Sharjeel Khan,MJ Santner,0,{},{}
+2nd innings,Pakistan,0.3,Sharjeel Khan,MJ Santner,2,{},{}
+2nd innings,Pakistan,0.4,Sharjeel Khan,MJ Santner,0,{},{}
+2nd innings,Pakistan,0.5,Sharjeel Khan,MJ Santner,1,{'wides': 1},{}
+2nd innings,Pakistan,0.6,Sharjeel Khan,MJ Santner,4,{},{}
+2nd innings,Pakistan,0.7,Sharjeel Khan,MJ Santner,4,{},{}
+2nd innings,Pakistan,1.1,Ahmed Shehzad,CJ Anderson,4,{},{}
+2nd innings,Pakistan,1.2,Ahmed Shehzad,CJ Anderson,0,{},{}
+2nd innings,Pakistan,1.3,Ahmed Shehzad,CJ Anderson,2,{},{}
+2nd innings,Pakistan,1.4,Ahmed Shehzad,CJ Anderson,1,{'wides': 1},{}
+2nd innings,Pakistan,1.5,Ahmed Shehzad,CJ Anderson,1,{'legbyes': 1},{}
+2nd innings,Pakistan,1.6,Sharjeel Khan,CJ Anderson,0,{},{}
+2nd innings,Pakistan,1.7,Sharjeel Khan,CJ Anderson,1,{},{}
+2nd innings,Pakistan,2.1,Sharjeel Khan,AF Milne,4,{},{}
+2nd innings,Pakistan,2.2,Sharjeel Khan,AF Milne,4,{},{}
+2nd innings,Pakistan,2.3,Sharjeel Khan,AF Milne,0,{},{}
+2nd innings,Pakistan,2.4,Sharjeel Khan,AF Milne,0,{},{}
+2nd innings,Pakistan,2.5,Sharjeel Khan,AF Milne,1,{},{}
+2nd innings,Pakistan,2.6,Ahmed Shehzad,AF Milne,0,{},{}
+2nd innings,Pakistan,3.1,Sharjeel Khan,MJ McClenaghan,0,{},{}
+2nd innings,Pakistan,3.2,Sharjeel Khan,MJ McClenaghan,4,{},{}
+2nd innings,Pakistan,3.3,Sharjeel Khan,MJ McClenaghan,4,{},{}
+2nd innings,Pakistan,3.4,Sharjeel Khan,MJ McClenaghan,4,{},{}
+2nd innings,Pakistan,3.5,Sharjeel Khan,MJ McClenaghan,0,{},{}
+2nd innings,Pakistan,3.6,Sharjeel Khan,MJ McClenaghan,6,{},{}
+2nd innings,Pakistan,4.1,Ahmed Shehzad,CJ Anderson,0,{},{}
+2nd innings,Pakistan,4.2,Ahmed Shehzad,CJ Anderson,1,{},{}
+2nd innings,Pakistan,4.3,Sharjeel Khan,CJ Anderson,0,{},{}
+2nd innings,Pakistan,4.4,Sharjeel Khan,CJ Anderson,4,{'legbyes': 4},{}
+2nd innings,Pakistan,4.5,Sharjeel Khan,CJ Anderson,1,{},{}
+2nd innings,Pakistan,4.6,Ahmed Shehzad,CJ Anderson,4,{},{}
+2nd innings,Pakistan,5.1,Sharjeel Khan,AF Milne,0,{},{}
+2nd innings,Pakistan,5.2,Sharjeel Khan,AF Milne,4,{},{}
+2nd innings,Pakistan,5.3,Sharjeel Khan,AF Milne,0,{},"{'fielders': ['MJ Guptill'], 'kind': 'caught', 'player_out': 'Sharjeel Khan'}"
+2nd innings,Pakistan,5.4,Ahmed Shehzad,AF Milne,0,{},{}
+2nd innings,Pakistan,5.5,Ahmed Shehzad,AF Milne,1,{},{}
+2nd innings,Pakistan,5.6,Khalid Latif,AF Milne,0,{},{}
+2nd innings,Pakistan,6.1,Ahmed Shehzad,GD Elliott,4,{},{}
+2nd innings,Pakistan,6.2,Ahmed Shehzad,GD Elliott,2,{},{}
+2nd innings,Pakistan,6.3,Ahmed Shehzad,GD Elliott,1,{},{}
+2nd innings,Pakistan,6.4,Khalid Latif,GD Elliott,1,{},{}
+2nd innings,Pakistan,6.5,Ahmed Shehzad,GD Elliott,1,{},{}
+2nd innings,Pakistan,6.6,Khalid Latif,GD Elliott,1,{},{}
+2nd innings,Pakistan,7.1,Khalid Latif,IS Sodhi,0,{},{}
+2nd innings,Pakistan,7.2,Khalid Latif,IS Sodhi,1,{},{}
+2nd innings,Pakistan,7.3,Ahmed Shehzad,IS Sodhi,2,{},{}
+2nd innings,Pakistan,7.4,Ahmed Shehzad,IS Sodhi,0,{},{}
+2nd innings,Pakistan,7.5,Ahmed Shehzad,IS Sodhi,0,{},{}
+2nd innings,Pakistan,7.6,Ahmed Shehzad,IS Sodhi,0,{},{}
+2nd innings,Pakistan,8.1,Khalid Latif,MJ Santner,0,{},{}
+2nd innings,Pakistan,8.2,Khalid Latif,MJ Santner,0,{},"{'fielders': ['GD Elliott'], 'kind': 'caught', 'player_out': 'Khalid Latif'}"
+2nd innings,Pakistan,8.3,Ahmed Shehzad,MJ Santner,0,{},{}
+2nd innings,Pakistan,8.4,Ahmed Shehzad,MJ Santner,1,{'wides': 1},{}
+2nd innings,Pakistan,8.5,Ahmed Shehzad,MJ Santner,1,{},{}
+2nd innings,Pakistan,8.6,Umar Akmal,MJ Santner,1,{},{}
+2nd innings,Pakistan,8.7,Ahmed Shehzad,MJ Santner,1,{},{}
+2nd innings,Pakistan,9.1,Ahmed Shehzad,GD Elliott,0,{},{}
+2nd innings,Pakistan,9.2,Ahmed Shehzad,GD Elliott,1,{},{}
+2nd innings,Pakistan,9.3,Umar Akmal,GD Elliott,1,{},{}
+2nd innings,Pakistan,9.4,Ahmed Shehzad,GD Elliott,1,{},{}
+2nd innings,Pakistan,9.5,Umar Akmal,GD Elliott,2,{},{}
+2nd innings,Pakistan,9.6,Umar Akmal,GD Elliott,1,{},{}
+2nd innings,Pakistan,10.1,Umar Akmal,MJ Santner,0,{},{}
+2nd innings,Pakistan,10.2,Umar Akmal,MJ Santner,1,{},{}
+2nd innings,Pakistan,10.3,Ahmed Shehzad,MJ Santner,0,{},{}
+2nd innings,Pakistan,10.4,Ahmed Shehzad,MJ Santner,0,{},{}
+2nd innings,Pakistan,10.5,Ahmed Shehzad,MJ Santner,1,{},{}
+2nd innings,Pakistan,10.6,Umar Akmal,MJ Santner,0,{},{}
+2nd innings,Pakistan,11.1,Ahmed Shehzad,IS Sodhi,1,{},{}
+2nd innings,Pakistan,11.2,Umar Akmal,IS Sodhi,1,{},{}
+2nd innings,Pakistan,11.3,Ahmed Shehzad,IS Sodhi,1,{},{}
+2nd innings,Pakistan,11.4,Umar Akmal,IS Sodhi,1,{},{}
+2nd innings,Pakistan,11.5,Ahmed Shehzad,IS Sodhi,1,{},{}
+2nd innings,Pakistan,11.6,Umar Akmal,IS Sodhi,0,{},{}
+2nd innings,Pakistan,12.1,Ahmed Shehzad,MJ Santner,0,{},{}
+2nd innings,Pakistan,12.2,Ahmed Shehzad,MJ Santner,0,{},"{'fielders': ['MJ Guptill'], 'kind': 'caught', 'player_out': 'Ahmed Shehzad'}"
+2nd innings,Pakistan,12.3,Umar Akmal,MJ Santner,1,{},{}
+2nd innings,Pakistan,12.4,Shahid Afridi,MJ Santner,0,{},{}
+2nd innings,Pakistan,12.5,Shahid Afridi,MJ Santner,4,{},{}
+2nd innings,Pakistan,12.6,Shahid Afridi,MJ Santner,1,{'wides': 1},{}
+2nd innings,Pakistan,12.7,Shahid Afridi,MJ Santner,2,{},{}
+2nd innings,Pakistan,13.1,Umar Akmal,IS Sodhi,1,{},{}
+2nd innings,Pakistan,13.2,Shahid Afridi,IS Sodhi,6,{},{}
+2nd innings,Pakistan,13.3,Shahid Afridi,IS Sodhi,1,{},{}
+2nd innings,Pakistan,13.4,Umar Akmal,IS Sodhi,1,{},{}
+2nd innings,Pakistan,13.5,Shahid Afridi,IS Sodhi,1,{},{}
+2nd innings,Pakistan,13.6,Umar Akmal,IS Sodhi,1,{},{}
+2nd innings,Pakistan,14.1,Umar Akmal,MJ McClenaghan,0,{},{}
+2nd innings,Pakistan,14.2,Umar Akmal,MJ McClenaghan,2,{},{}
+2nd innings,Pakistan,14.3,Umar Akmal,MJ McClenaghan,0,{},{}
+2nd innings,Pakistan,14.4,Umar Akmal,MJ McClenaghan,1,{},{}
+2nd innings,Pakistan,14.5,Shahid Afridi,MJ McClenaghan,4,{},{}
+2nd innings,Pakistan,14.6,Shahid Afridi,MJ McClenaghan,1,{},{}
+2nd innings,Pakistan,15.1,Shahid Afridi,IS Sodhi,0,{},"{'fielders': ['CJ Anderson'], 'kind': 'caught', 'player_out': 'Shahid Afridi'}"
+2nd innings,Pakistan,15.2,Shoaib Malik,IS Sodhi,2,{},{}
+2nd innings,Pakistan,15.3,Shoaib Malik,IS Sodhi,1,{},{}
+2nd innings,Pakistan,15.4,Umar Akmal,IS Sodhi,1,{},{}
+2nd innings,Pakistan,15.5,Shoaib Malik,IS Sodhi,1,{},{}
+2nd innings,Pakistan,15.6,Umar Akmal,IS Sodhi,1,{},{}
+2nd innings,Pakistan,16.1,Umar Akmal,MJ McClenaghan,2,{},{}
+2nd innings,Pakistan,16.2,Umar Akmal,MJ McClenaghan,1,{},{}
+2nd innings,Pakistan,16.3,Shoaib Malik,MJ McClenaghan,0,{},{}
+2nd innings,Pakistan,16.4,Shoaib Malik,MJ McClenaghan,2,{},{}
+2nd innings,Pakistan,16.5,Shoaib Malik,MJ McClenaghan,1,{},{}
+2nd innings,Pakistan,16.6,Umar Akmal,MJ McClenaghan,2,{},{}
+2nd innings,Pakistan,17.1,Shoaib Malik,AF Milne,1,{},{}
+2nd innings,Pakistan,17.2,Umar Akmal,AF Milne,2,{},{}
+2nd innings,Pakistan,17.3,Umar Akmal,AF Milne,0,{},{}
+2nd innings,Pakistan,17.4,Umar Akmal,AF Milne,0,{},"{'fielders': ['MJ Guptill'], 'kind': 'caught', 'player_out': 'Umar Akmal'}"
+2nd innings,Pakistan,17.5,Shoaib Malik,AF Milne,1,{},{}
+2nd innings,Pakistan,17.6,Sarfraz Ahmed,AF Milne,1,{},{}
+2nd innings,Pakistan,18.1,Sarfraz Ahmed,MJ McClenaghan,1,{},{}
+2nd innings,Pakistan,18.2,Shoaib Malik,MJ McClenaghan,2,{},{}
+2nd innings,Pakistan,18.3,Shoaib Malik,MJ McClenaghan,1,{},{}
+2nd innings,Pakistan,18.4,Sarfraz Ahmed,MJ McClenaghan,2,{},{}
+2nd innings,Pakistan,18.5,Sarfraz Ahmed,MJ McClenaghan,2,{},{}
+2nd innings,Pakistan,18.6,Sarfraz Ahmed,MJ McClenaghan,1,{},{}
+2nd innings,Pakistan,19.1,Sarfraz Ahmed,AF Milne,2,{},{}
+2nd innings,Pakistan,19.2,Sarfraz Ahmed,AF Milne,1,{},{}
+2nd innings,Pakistan,19.3,Shoaib Malik,AF Milne,0,{},{}
+2nd innings,Pakistan,19.4,Shoaib Malik,AF Milne,2,{},{}
+2nd innings,Pakistan,19.5,Shoaib Malik,AF Milne,1,{},{}
+2nd innings,Pakistan,19.6,Sarfraz Ahmed,AF Milne,1,{},{}

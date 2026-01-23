@@ -1,0 +1,245 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Namibia,0.1,M van Lingen,FJ Klaassen,0,{},{}
+1st innings,Namibia,0.2,M van Lingen,FJ Klaassen,0,{},{}
+1st innings,Namibia,0.3,M van Lingen,FJ Klaassen,0,{},{}
+1st innings,Namibia,0.4,M van Lingen,FJ Klaassen,0,{},{}
+1st innings,Namibia,0.5,M van Lingen,FJ Klaassen,4,{},{}
+1st innings,Namibia,0.6,M van Lingen,FJ Klaassen,0,{},{}
+1st innings,Namibia,1.1,D la Cock,TJG Pringle,0,{},{}
+1st innings,Namibia,1.2,D la Cock,TJG Pringle,0,{},"{'player_out': 'D la Cock', 'fielders': ['BFW de Leede'], 'kind': 'caught'}"
+1st innings,Namibia,1.3,SJ Baard,TJG Pringle,1,{},{}
+1st innings,Namibia,1.4,M van Lingen,TJG Pringle,2,{},{}
+1st innings,Namibia,1.5,M van Lingen,TJG Pringle,1,{'legbyes': 1},{}
+1st innings,Namibia,1.6,SJ Baard,TJG Pringle,2,{},{}
+1st innings,Namibia,2.1,M van Lingen,FJ Klaassen,1,{},{}
+1st innings,Namibia,2.2,SJ Baard,FJ Klaassen,0,{},{}
+1st innings,Namibia,2.3,SJ Baard,FJ Klaassen,1,{},{}
+1st innings,Namibia,2.4,M van Lingen,FJ Klaassen,0,{},{}
+1st innings,Namibia,2.5,M van Lingen,FJ Klaassen,0,{},{}
+1st innings,Namibia,2.6,M van Lingen,FJ Klaassen,3,{},{}
+1st innings,Namibia,3.1,M van Lingen,BFW de Leede,1,{},{}
+1st innings,Namibia,3.2,SJ Baard,BFW de Leede,1,{},{}
+1st innings,Namibia,3.3,M van Lingen,BFW de Leede,1,{},{}
+1st innings,Namibia,3.4,SJ Baard,BFW de Leede,2,{},{}
+1st innings,Namibia,3.5,SJ Baard,BFW de Leede,0,{},{}
+1st innings,Namibia,3.6,SJ Baard,BFW de Leede,2,{},{}
+1st innings,Namibia,4.1,M van Lingen,CN Ackermann,0,{},{}
+1st innings,Namibia,4.2,M van Lingen,CN Ackermann,4,{},{}
+1st innings,Namibia,4.3,M van Lingen,CN Ackermann,4,{},{}
+1st innings,Namibia,4.4,M van Lingen,CN Ackermann,0,{},{}
+1st innings,Namibia,4.5,M van Lingen,CN Ackermann,0,{},"{'player_out': 'M van Lingen', 'fielders': ['BFW de Leede'], 'kind': 'caught'}"
+1st innings,Namibia,4.6,JN Loftie-Eaton,CN Ackermann,0,{},{}
+1st innings,Namibia,5.1,SJ Baard,PA van Meekeren,1,{'wides': 1},{}
+1st innings,Namibia,5.2,SJ Baard,PA van Meekeren,1,{'legbyes': 1},{}
+1st innings,Namibia,5.3,JN Loftie-Eaton,PA van Meekeren,0,{},"{'player_out': 'JN Loftie-Eaton', 'fielders': ['SA Edwards'], 'kind': 'caught'}"
+1st innings,Namibia,5.4,JN Frylinck,PA van Meekeren,0,{},{}
+1st innings,Namibia,5.5,JN Frylinck,PA van Meekeren,0,{},{}
+1st innings,Namibia,5.6,JN Frylinck,PA van Meekeren,1,{},{}
+1st innings,Namibia,5.7,SJ Baard,PA van Meekeren,0,{},{}
+1st innings,Namibia,6.1,JN Frylinck,CN Ackermann,1,{},{}
+1st innings,Namibia,6.2,SJ Baard,CN Ackermann,1,{},{}
+1st innings,Namibia,6.3,JN Frylinck,CN Ackermann,0,{},{}
+1st innings,Namibia,6.4,JN Frylinck,CN Ackermann,0,{},{}
+1st innings,Namibia,6.5,JN Frylinck,CN Ackermann,0,{},{}
+1st innings,Namibia,6.6,JN Frylinck,CN Ackermann,1,{},{}
+1st innings,Namibia,7.1,JN Frylinck,PA van Meekeren,1,{},{}
+1st innings,Namibia,7.2,SJ Baard,PA van Meekeren,1,{},{}
+1st innings,Namibia,7.3,JN Frylinck,PA van Meekeren,4,{},{}
+1st innings,Namibia,7.4,JN Frylinck,PA van Meekeren,0,{},{}
+1st innings,Namibia,7.5,JN Frylinck,PA van Meekeren,2,{},{}
+1st innings,Namibia,7.6,JN Frylinck,PA van Meekeren,1,{},{}
+1st innings,Namibia,8.1,JN Frylinck,T van der Gugten,3,{},{}
+1st innings,Namibia,8.2,SJ Baard,T van der Gugten,1,{},{}
+1st innings,Namibia,8.3,JN Frylinck,T van der Gugten,0,{},{}
+1st innings,Namibia,8.4,JN Frylinck,T van der Gugten,1,{},{}
+1st innings,Namibia,8.5,SJ Baard,T van der Gugten,0,{},{}
+1st innings,Namibia,8.6,SJ Baard,T van der Gugten,1,{},{}
+1st innings,Namibia,9.1,SJ Baard,TJG Pringle,1,{},{}
+1st innings,Namibia,9.2,JN Frylinck,TJG Pringle,1,{},{}
+1st innings,Namibia,9.3,SJ Baard,TJG Pringle,1,{},{}
+1st innings,Namibia,9.4,JN Frylinck,TJG Pringle,0,{},{}
+1st innings,Namibia,9.5,JN Frylinck,TJG Pringle,2,{},{}
+1st innings,Namibia,9.6,JN Frylinck,TJG Pringle,0,{},{}
+1st innings,Namibia,10.1,SJ Baard,CN Ackermann,2,{},{}
+1st innings,Namibia,10.2,SJ Baard,CN Ackermann,1,{},{}
+1st innings,Namibia,10.3,JN Frylinck,CN Ackermann,1,{},{}
+1st innings,Namibia,10.4,SJ Baard,CN Ackermann,0,{},{}
+1st innings,Namibia,10.5,SJ Baard,CN Ackermann,1,{},{}
+1st innings,Namibia,10.6,JN Frylinck,CN Ackermann,1,{},{}
+1st innings,Namibia,11.1,JN Frylinck,RE van der Merwe,1,{},{}
+1st innings,Namibia,11.2,SJ Baard,RE van der Merwe,0,{},"{'player_out': 'SJ Baard', 'fielders': ['FJ Klaassen'], 'kind': 'caught'}"
+1st innings,Namibia,11.3,MG Erasmus,RE van der Merwe,1,{},{}
+1st innings,Namibia,11.4,JN Frylinck,RE van der Merwe,1,{},{}
+1st innings,Namibia,11.5,MG Erasmus,RE van der Merwe,1,{},{}
+1st innings,Namibia,11.6,JN Frylinck,RE van der Merwe,1,{'wides': 1},{}
+1st innings,Namibia,11.7,JN Frylinck,RE van der Merwe,1,{},{}
+1st innings,Namibia,12.1,JN Frylinck,PA van Meekeren,1,{},{}
+1st innings,Namibia,12.2,MG Erasmus,PA van Meekeren,1,{},{}
+1st innings,Namibia,12.3,JN Frylinck,PA van Meekeren,1,{},{}
+1st innings,Namibia,12.4,MG Erasmus,PA van Meekeren,0,{},{}
+1st innings,Namibia,12.5,MG Erasmus,PA van Meekeren,0,{},{}
+1st innings,Namibia,12.6,MG Erasmus,PA van Meekeren,1,{},{}
+1st innings,Namibia,13.1,MG Erasmus,TJG Pringle,2,{},{}
+1st innings,Namibia,13.2,MG Erasmus,TJG Pringle,0,{},{}
+1st innings,Namibia,13.3,MG Erasmus,TJG Pringle,0,{},{}
+1st innings,Namibia,13.4,MG Erasmus,TJG Pringle,1,{},{}
+1st innings,Namibia,13.5,JN Frylinck,TJG Pringle,2,{},{}
+1st innings,Namibia,13.6,JN Frylinck,TJG Pringle,0,{},{}
+1st innings,Namibia,14.1,MG Erasmus,BFW de Leede,1,{},{}
+1st innings,Namibia,14.2,JN Frylinck,BFW de Leede,1,{},{}
+1st innings,Namibia,14.3,MG Erasmus,BFW de Leede,1,{},{}
+1st innings,Namibia,14.4,JN Frylinck,BFW de Leede,0,{},{}
+1st innings,Namibia,14.5,JN Frylinck,BFW de Leede,0,{},{}
+1st innings,Namibia,14.6,JN Frylinck,BFW de Leede,1,{},{}
+1st innings,Namibia,15.1,JN Frylinck,FJ Klaassen,1,{},{}
+1st innings,Namibia,15.2,MG Erasmus,FJ Klaassen,3,{},{}
+1st innings,Namibia,15.3,JN Frylinck,FJ Klaassen,0,{},{}
+1st innings,Namibia,15.4,JN Frylinck,FJ Klaassen,0,{},{}
+1st innings,Namibia,15.5,JN Frylinck,FJ Klaassen,2,{},{}
+1st innings,Namibia,15.6,JN Frylinck,FJ Klaassen,0,{},{}
+1st innings,Namibia,16.1,MG Erasmus,PA van Meekeren,1,{},{}
+1st innings,Namibia,16.2,JN Frylinck,PA van Meekeren,0,{},{}
+1st innings,Namibia,16.3,JN Frylinck,PA van Meekeren,0,{},{}
+1st innings,Namibia,16.4,JN Frylinck,PA van Meekeren,0,{},{}
+1st innings,Namibia,16.5,JN Frylinck,PA van Meekeren,1,{},{}
+1st innings,Namibia,16.6,MG Erasmus,PA van Meekeren,1,{},{}
+1st innings,Namibia,17.1,MG Erasmus,T van der Gugten,1,{},{}
+1st innings,Namibia,17.2,JN Frylinck,T van der Gugten,1,{'wides': 1},{}
+1st innings,Namibia,17.3,JN Frylinck,T van der Gugten,1,{'wides': 1},{}
+1st innings,Namibia,17.4,JN Frylinck,T van der Gugten,1,{},{}
+1st innings,Namibia,17.5,MG Erasmus,T van der Gugten,1,{},{}
+1st innings,Namibia,17.6,JN Frylinck,T van der Gugten,0,{},{}
+1st innings,Namibia,17.7,JN Frylinck,T van der Gugten,6,{},{}
+1st innings,Namibia,17.8,JN Frylinck,T van der Gugten,1,{},{}
+1st innings,Namibia,18.1,JN Frylinck,BFW de Leede,2,{},{}
+1st innings,Namibia,18.2,JN Frylinck,BFW de Leede,0,{},"{'player_out': 'JN Frylinck', 'fielders': ['PA van Meekeren'], 'kind': 'caught'}"
+1st innings,Namibia,18.3,D Wiese,BFW de Leede,1,{},{}
+1st innings,Namibia,18.4,MG Erasmus,BFW de Leede,0,{},"{'player_out': 'MG Erasmus', 'kind': 'bowled'}"
+1st innings,Namibia,18.5,JJ Smit,BFW de Leede,4,{},{}
+1st innings,Namibia,18.6,JJ Smit,BFW de Leede,0,{},{}
+1st innings,Namibia,19.1,D Wiese,T van der Gugten,3,{},{}
+1st innings,Namibia,19.2,JJ Smit,T van der Gugten,1,{},{}
+1st innings,Namibia,19.3,D Wiese,T van der Gugten,1,{},{}
+1st innings,Namibia,19.4,JJ Smit,T van der Gugten,1,{'legbyes': 1},{}
+1st innings,Namibia,19.5,D Wiese,T van der Gugten,2,{},{}
+1st innings,Namibia,19.6,D Wiese,T van der Gugten,4,{},{}
+2nd innings,Netherlands,0.1,MP O'Dowd,BM Scholtz,1,{},{}
+2nd innings,Netherlands,0.2,Vikramjit Singh,BM Scholtz,0,{},{}
+2nd innings,Netherlands,0.3,Vikramjit Singh,BM Scholtz,2,{},{}
+2nd innings,Netherlands,0.4,Vikramjit Singh,BM Scholtz,0,{},{}
+2nd innings,Netherlands,0.5,Vikramjit Singh,BM Scholtz,1,{},{}
+2nd innings,Netherlands,0.6,MP O'Dowd,BM Scholtz,1,{},{}
+2nd innings,Netherlands,1.1,MP O'Dowd,D Wiese,1,{},{}
+2nd innings,Netherlands,1.2,Vikramjit Singh,D Wiese,0,{},{}
+2nd innings,Netherlands,1.3,Vikramjit Singh,D Wiese,0,{},{}
+2nd innings,Netherlands,1.4,Vikramjit Singh,D Wiese,4,{},{}
+2nd innings,Netherlands,1.5,Vikramjit Singh,D Wiese,4,{},{}
+2nd innings,Netherlands,1.6,Vikramjit Singh,D Wiese,1,{},{}
+2nd innings,Netherlands,2.1,Vikramjit Singh,MG Erasmus,0,{},{}
+2nd innings,Netherlands,2.2,Vikramjit Singh,MG Erasmus,0,{},{}
+2nd innings,Netherlands,2.3,Vikramjit Singh,MG Erasmus,1,{'wides': 1},{}
+2nd innings,Netherlands,2.4,Vikramjit Singh,MG Erasmus,0,{},{}
+2nd innings,Netherlands,2.5,Vikramjit Singh,MG Erasmus,1,{},{}
+2nd innings,Netherlands,2.6,MP O'Dowd,MG Erasmus,1,{},{}
+2nd innings,Netherlands,2.7,Vikramjit Singh,MG Erasmus,0,{},{}
+2nd innings,Netherlands,3.1,MP O'Dowd,B Shikongo,1,{},{}
+2nd innings,Netherlands,3.2,Vikramjit Singh,B Shikongo,2,{},{}
+2nd innings,Netherlands,3.3,Vikramjit Singh,B Shikongo,2,{},{}
+2nd innings,Netherlands,3.4,Vikramjit Singh,B Shikongo,0,{},{}
+2nd innings,Netherlands,3.5,Vikramjit Singh,B Shikongo,1,{'wides': 1},{}
+2nd innings,Netherlands,3.6,Vikramjit Singh,B Shikongo,6,{},{}
+2nd innings,Netherlands,3.7,Vikramjit Singh,B Shikongo,6,{},{}
+2nd innings,Netherlands,4.1,MP O'Dowd,JJ Smit,1,{},{}
+2nd innings,Netherlands,4.2,Vikramjit Singh,JJ Smit,4,{},{}
+2nd innings,Netherlands,4.3,Vikramjit Singh,JJ Smit,1,{},{}
+2nd innings,Netherlands,4.4,MP O'Dowd,JJ Smit,2,{},{}
+2nd innings,Netherlands,4.5,MP O'Dowd,JJ Smit,0,{},{}
+2nd innings,Netherlands,4.6,MP O'Dowd,JJ Smit,0,{},{}
+2nd innings,Netherlands,5.1,Vikramjit Singh,MG Erasmus,0,{},{}
+2nd innings,Netherlands,5.2,Vikramjit Singh,MG Erasmus,1,{},{}
+2nd innings,Netherlands,5.3,MP O'Dowd,MG Erasmus,2,{},{}
+2nd innings,Netherlands,5.4,MP O'Dowd,MG Erasmus,1,{},{}
+2nd innings,Netherlands,5.5,Vikramjit Singh,MG Erasmus,1,{},{}
+2nd innings,Netherlands,5.6,MP O'Dowd,MG Erasmus,2,{},{}
+2nd innings,Netherlands,6.1,Vikramjit Singh,JN Frylinck,0,{},{}
+2nd innings,Netherlands,6.2,Vikramjit Singh,JN Frylinck,1,{},{}
+2nd innings,Netherlands,6.3,MP O'Dowd,JN Frylinck,1,{},{}
+2nd innings,Netherlands,6.4,Vikramjit Singh,JN Frylinck,1,{},{}
+2nd innings,Netherlands,6.5,MP O'Dowd,JN Frylinck,0,{},{}
+2nd innings,Netherlands,6.6,MP O'Dowd,JN Frylinck,1,{},{}
+2nd innings,Netherlands,7.1,MP O'Dowd,MG Erasmus,0,{},{}
+2nd innings,Netherlands,7.2,MP O'Dowd,MG Erasmus,1,{},{}
+2nd innings,Netherlands,7.3,Vikramjit Singh,MG Erasmus,0,{},{}
+2nd innings,Netherlands,7.4,Vikramjit Singh,MG Erasmus,0,{},{}
+2nd innings,Netherlands,7.5,Vikramjit Singh,MG Erasmus,1,{},{}
+2nd innings,Netherlands,7.6,MP O'Dowd,MG Erasmus,1,{},{}
+2nd innings,Netherlands,8.1,MP O'Dowd,BM Scholtz,1,{},{}
+2nd innings,Netherlands,8.2,Vikramjit Singh,BM Scholtz,0,{},"{'player_out': 'Vikramjit Singh', 'fielders': ['JN Loftie-Eaton'], 'kind': 'caught'}"
+2nd innings,Netherlands,8.3,BFW de Leede,BM Scholtz,0,{},{}
+2nd innings,Netherlands,8.4,BFW de Leede,BM Scholtz,0,{},{}
+2nd innings,Netherlands,8.5,BFW de Leede,BM Scholtz,0,{},{}
+2nd innings,Netherlands,8.6,BFW de Leede,BM Scholtz,1,{},{}
+2nd innings,Netherlands,9.1,BFW de Leede,JN Frylinck,0,{},{}
+2nd innings,Netherlands,9.2,BFW de Leede,JN Frylinck,1,{},{}
+2nd innings,Netherlands,9.3,MP O'Dowd,JN Frylinck,4,{},{}
+2nd innings,Netherlands,9.4,MP O'Dowd,JN Frylinck,1,{},{}
+2nd innings,Netherlands,9.5,BFW de Leede,JN Frylinck,1,{},{}
+2nd innings,Netherlands,9.6,MP O'Dowd,JN Frylinck,1,{},{}
+2nd innings,Netherlands,10.1,MP O'Dowd,BM Scholtz,1,{},{}
+2nd innings,Netherlands,10.2,BFW de Leede,BM Scholtz,1,{},{}
+2nd innings,Netherlands,10.3,MP O'Dowd,BM Scholtz,0,{},{}
+2nd innings,Netherlands,10.4,MP O'Dowd,BM Scholtz,0,{},{}
+2nd innings,Netherlands,10.5,MP O'Dowd,BM Scholtz,6,{},{}
+2nd innings,Netherlands,10.6,MP O'Dowd,BM Scholtz,0,{},{}
+2nd innings,Netherlands,11.1,BFW de Leede,JN Loftie-Eaton,0,{},{}
+2nd innings,Netherlands,11.2,BFW de Leede,JN Loftie-Eaton,4,{},{}
+2nd innings,Netherlands,11.3,BFW de Leede,JN Loftie-Eaton,1,{},{}
+2nd innings,Netherlands,11.4,MP O'Dowd,JN Loftie-Eaton,1,{},{}
+2nd innings,Netherlands,11.5,BFW de Leede,JN Loftie-Eaton,1,{'noballs': 1},{}
+2nd innings,Netherlands,11.6,BFW de Leede,JN Loftie-Eaton,1,{},{}
+2nd innings,Netherlands,11.7,MP O'Dowd,JN Loftie-Eaton,0,{},{}
+2nd innings,Netherlands,12.1,BFW de Leede,BM Scholtz,1,{},{}
+2nd innings,Netherlands,12.2,MP O'Dowd,BM Scholtz,1,{},{}
+2nd innings,Netherlands,12.3,BFW de Leede,BM Scholtz,1,{},{}
+2nd innings,Netherlands,12.4,MP O'Dowd,BM Scholtz,1,{},{}
+2nd innings,Netherlands,12.5,BFW de Leede,BM Scholtz,0,{},{}
+2nd innings,Netherlands,12.6,BFW de Leede,BM Scholtz,2,{},{}
+2nd innings,Netherlands,13.1,MP O'Dowd,JJ Smit,0,{},{}
+2nd innings,Netherlands,13.2,MP O'Dowd,JJ Smit,0,{},{}
+2nd innings,Netherlands,13.3,MP O'Dowd,JJ Smit,1,{},{}
+2nd innings,Netherlands,13.4,BFW de Leede,JJ Smit,1,{},{}
+2nd innings,Netherlands,13.5,MP O'Dowd,JJ Smit,0,{},"{'player_out': ""MP O'Dowd"", 'fielders': ['MG Erasmus'], 'kind': 'run out'}"
+2nd innings,Netherlands,13.6,BFW de Leede,JJ Smit,0,{},{}
+2nd innings,Netherlands,14.1,TLW Cooper,JN Frylinck,1,{},{}
+2nd innings,Netherlands,14.2,BFW de Leede,JN Frylinck,1,{},{}
+2nd innings,Netherlands,14.3,TLW Cooper,JN Frylinck,0,{},{}
+2nd innings,Netherlands,14.4,TLW Cooper,JN Frylinck,1,{},{}
+2nd innings,Netherlands,14.5,BFW de Leede,JN Frylinck,1,{},{}
+2nd innings,Netherlands,14.6,TLW Cooper,JN Frylinck,0,{},{}
+2nd innings,Netherlands,15.1,BFW de Leede,JJ Smit,1,{},{}
+2nd innings,Netherlands,15.2,TLW Cooper,JJ Smit,4,{},{}
+2nd innings,Netherlands,15.3,TLW Cooper,JJ Smit,0,{},"{'player_out': 'TLW Cooper', 'fielders': ['M van Lingen'], 'kind': 'caught'}"
+2nd innings,Netherlands,15.4,CN Ackermann,JJ Smit,0,{},{}
+2nd innings,Netherlands,15.5,CN Ackermann,JJ Smit,0,{},"{'player_out': 'CN Ackermann', 'fielders': ['MG Erasmus'], 'kind': 'caught'}"
+2nd innings,Netherlands,15.6,SA Edwards,JJ Smit,1,{},{}
+2nd innings,Netherlands,16.1,SA Edwards,JN Frylinck,0,{},{}
+2nd innings,Netherlands,16.2,SA Edwards,JN Frylinck,0,{},{}
+2nd innings,Netherlands,16.3,SA Edwards,JN Frylinck,0,{},{}
+2nd innings,Netherlands,16.4,SA Edwards,JN Frylinck,0,{},"{'player_out': 'SA Edwards', 'fielders': ['JN Loftie-Eaton'], 'kind': 'caught'}"
+2nd innings,Netherlands,16.5,TJG Pringle,JN Frylinck,0,{},{}
+2nd innings,Netherlands,16.6,TJG Pringle,JN Frylinck,0,{},{}
+2nd innings,Netherlands,17.1,BFW de Leede,D Wiese,1,{},{}
+2nd innings,Netherlands,17.2,TJG Pringle,D Wiese,0,{},{}
+2nd innings,Netherlands,17.3,TJG Pringle,D Wiese,1,{},{}
+2nd innings,Netherlands,17.4,BFW de Leede,D Wiese,2,{},{}
+2nd innings,Netherlands,17.5,BFW de Leede,D Wiese,1,{},{}
+2nd innings,Netherlands,17.6,TJG Pringle,D Wiese,1,{},{}
+2nd innings,Netherlands,18.1,TJG Pringle,JJ Smit,1,{},{}
+2nd innings,Netherlands,18.2,BFW de Leede,JJ Smit,1,{},{}
+2nd innings,Netherlands,18.3,TJG Pringle,JJ Smit,2,{},{}
+2nd innings,Netherlands,18.4,TJG Pringle,JJ Smit,1,{},{}
+2nd innings,Netherlands,18.5,BFW de Leede,JJ Smit,1,{},{}
+2nd innings,Netherlands,18.6,TJG Pringle,JJ Smit,2,{},{}
+2nd innings,Netherlands,19.1,BFW de Leede,D Wiese,4,{},{}
+2nd innings,Netherlands,19.2,BFW de Leede,D Wiese,0,{},{}
+2nd innings,Netherlands,19.3,BFW de Leede,D Wiese,2,{},{}

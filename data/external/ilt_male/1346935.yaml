@@ -1,0 +1,2183 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  competition: International League T20
+  dates:
+  - '2023-01-28'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Desert Vipers
+    by:
+      runs: 12
+  overs: 20
+  player_of_match:
+  - A Zampa
+  players:
+    Desert Vipers:
+    - Rohan Mustafa
+    - AD Hales
+    - C Munro
+    - SW Billings
+    - PWH de Silva
+    - TK Curran
+    - SE Rutherford
+    - AAP Atkinson
+    - Ali Naseer
+    - SS Cottrell
+    - M Pathirana
+    Dubai Capitals:
+    - RV Uthappa
+    - Hazratullah
+    - Chirag Suri
+    - MD Shanaka
+    - R Powell
+    - Sikandar Raza
+    - YK Pathan
+    - A Zampa
+    - Akif Raja
+    - JT Ball
+    - FJ Klaassen
+  registry:
+    people:
+      A Zampa: 14f96089
+      AAP Atkinson: 70d57519
+      AD Hales: 92aeac25
+      Akbar Ali: e753931d
+      Akif Raja: 9d0344f3
+      Ali Naseer: f5715b48
+      C Munro: af2c687b
+      Chirag Suri: 6176f240
+      FJ Klaassen: c042b412
+      Hazratullah: 5ea51c25
+      JT Ball: 3d0ed2f9
+      M Pathirana: 64839cb3
+      MD Shanaka: 3ff033bb
+      MJ Saggers: 402d5937
+      PWH de Silva: a97c8ec2
+      R Powell: 650d5e49
+      RJ Tucker: 38810cfc
+      RS Mahanama: '57910393'
+      RSA Palliyaguruge: 4339c19d
+      RV Uthappa: 1c17e270
+      Rohan Mustafa: d1988788
+      SE Rutherford: d014d5ac
+      SS Cottrell: a1d053dd
+      SW Billings: c16d4035
+      Sikandar Raza: 26d041c4
+      TK Curran: e86754b2
+      YK Pathan: 3c6ffae8
+  teams:
+  - Desert Vipers
+  - Dubai Capitals
+  toss:
+    winner: Dubai Capitals
+    decision: field
+  umpires:
+  - MJ Saggers
+  - RJ Tucker
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: Desert Vipers
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 0.2:
+        non_striker: Rohan Mustafa
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 0.3:
+        non_striker: Rohan Mustafa
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 0.4:
+        non_striker: Rohan Mustafa
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 0.5:
+        non_striker: AD Hales
+        bowler: JT Ball
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Rohan Mustafa
+    - 0.6:
+        non_striker: AD Hales
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+        wicket:
+          player_out: Rohan Mustafa
+          fielders:
+          - RV Uthappa
+          kind: caught
+    - 0.7:
+        non_striker: AD Hales
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 1.1:
+        non_striker: AD Hales
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 1.2:
+        non_striker: C Munro
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.3:
+        non_striker: C Munro
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.4:
+        non_striker: C Munro
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 1.5:
+        non_striker: C Munro
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 1.6:
+        non_striker: C Munro
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AD Hales
+    - 2.1:
+        non_striker: C Munro
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.2:
+        non_striker: C Munro
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          kind: bowled
+    - 2.3:
+        non_striker: C Munro
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 2.4:
+        non_striker: SW Billings
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 2.5:
+        non_striker: C Munro
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 2.6:
+        non_striker: SW Billings
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 3.1:
+        non_striker: C Munro
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 3.2:
+        non_striker: C Munro
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 3.3:
+        non_striker: SW Billings
+        bowler: FJ Klaassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Munro
+    - 3.4:
+        non_striker: SW Billings
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 3.5:
+        non_striker: SW Billings
+        bowler: FJ Klaassen
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: C Munro
+    - 3.6:
+        non_striker: SW Billings
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 3.7:
+        non_striker: SW Billings
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 4.1:
+        non_striker: C Munro
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 4.2:
+        non_striker: C Munro
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 4.3:
+        non_striker: SW Billings
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 4.4:
+        non_striker: C Munro
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 4.5:
+        non_striker: SW Billings
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 4.6:
+        non_striker: SW Billings
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 5.1:
+        non_striker: C Munro
+        bowler: JT Ball
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Billings
+    - 5.2:
+        non_striker: C Munro
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 5.3:
+        non_striker: SW Billings
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 5.4:
+        non_striker: SW Billings
+        bowler: JT Ball
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Munro
+    - 5.5:
+        non_striker: C Munro
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 5.6:
+        non_striker: C Munro
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 5.7:
+        non_striker: SW Billings
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 6.1:
+        non_striker: C Munro
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 6.2:
+        non_striker: C Munro
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 6.3:
+        non_striker: C Munro
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 6.4:
+        non_striker: C Munro
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 6.5:
+        non_striker: SW Billings
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 6.6:
+        non_striker: C Munro
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 7.1:
+        non_striker: C Munro
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 7.2:
+        non_striker: SW Billings
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 7.3:
+        non_striker: SW Billings
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 7.4:
+        non_striker: C Munro
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 7.5:
+        non_striker: SW Billings
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 7.6:
+        non_striker: C Munro
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 8.1:
+        non_striker: C Munro
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 8.2:
+        non_striker: SW Billings
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 8.3:
+        non_striker: SW Billings
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 8.4:
+        non_striker: SW Billings
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 8.5:
+        non_striker: C Munro
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 8.6:
+        non_striker: SW Billings
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 9.1:
+        non_striker: SW Billings
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 9.2:
+        non_striker: C Munro
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 9.3:
+        non_striker: SW Billings
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 9.4:
+        non_striker: C Munro
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+        wicket:
+          player_out: SW Billings
+          kind: lbw
+    - 9.5:
+        non_striker: C Munro
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 9.6:
+        non_striker: PWH de Silva
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 10.1:
+        non_striker: C Munro
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 10.2:
+        non_striker: PWH de Silva
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 10.3:
+        non_striker: PWH de Silva
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 10.4:
+        non_striker: C Munro
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 10.5:
+        non_striker: C Munro
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 10.6:
+        non_striker: PWH de Silva
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 11.1:
+        non_striker: PWH de Silva
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 11.2:
+        non_striker: C Munro
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 11.3:
+        non_striker: C Munro
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 11.4:
+        non_striker: C Munro
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+        wicket:
+          player_out: PWH de Silva
+          fielders:
+          - Sikandar Raza
+          kind: caught
+    - 11.5:
+        non_striker: C Munro
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 11.6:
+        non_striker: C Munro
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 12.1:
+        non_striker: C Munro
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 12.2:
+        non_striker: TK Curran
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 12.3:
+        non_striker: C Munro
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 12.4:
+        non_striker: TK Curran
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 12.5:
+        non_striker: C Munro
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 12.6:
+        non_striker: C Munro
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 13.1:
+        non_striker: C Munro
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 13.2:
+        non_striker: C Munro
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 13.3:
+        non_striker: TK Curran
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          fielders:
+          - MD Shanaka
+          kind: caught
+    - 13.4:
+        non_striker: TK Curran
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 13.5:
+        non_striker: TK Curran
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 13.6:
+        non_striker: SE Rutherford
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 14.1:
+        non_striker: SE Rutherford
+        bowler: YK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 14.2:
+        non_striker: SE Rutherford
+        bowler: YK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 14.3:
+        non_striker: TK Curran
+        bowler: YK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 14.4:
+        non_striker: SE Rutherford
+        bowler: YK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 14.5:
+        non_striker: TK Curran
+        bowler: YK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 14.6:
+        non_striker: TK Curran
+        bowler: YK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 15.1:
+        non_striker: TK Curran
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 15.2:
+        non_striker: TK Curran
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 15.3:
+        non_striker: TK Curran
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 15.4:
+        non_striker: SE Rutherford
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 15.5:
+        non_striker: TK Curran
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 15.6:
+        non_striker: TK Curran
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 16.1:
+        non_striker: SE Rutherford
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TK Curran
+    - 16.2:
+        non_striker: SE Rutherford
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 16.3:
+        non_striker: TK Curran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 16.4:
+        non_striker: SE Rutherford
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 16.5:
+        non_striker: TK Curran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 16.6:
+        non_striker: TK Curran
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 17.1:
+        non_striker: SE Rutherford
+        bowler: FJ Klaassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TK Curran
+    - 17.2:
+        non_striker: TK Curran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 17.3:
+        non_striker: TK Curran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 17.4:
+        non_striker: TK Curran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 17.5:
+        non_striker: TK Curran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 17.6:
+        non_striker: SE Rutherford
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 18.1:
+        non_striker: SE Rutherford
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TK Curran
+    - 18.2:
+        non_striker: SE Rutherford
+        bowler: JT Ball
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TK Curran
+    - 18.3:
+        non_striker: SE Rutherford
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 18.4:
+        non_striker: SE Rutherford
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran
+    - 18.5:
+        non_striker: SE Rutherford
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 18.6:
+        non_striker: TK Curran
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          fielders:
+          - MD Shanaka
+          kind: caught
+    - 18.7:
+        non_striker: TK Curran
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Atkinson
+    - 19.1:
+        non_striker: AAP Atkinson
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+        wicket:
+          player_out: TK Curran
+          fielders:
+          - R Powell
+          kind: caught
+    - 19.2:
+        non_striker: AAP Atkinson
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Naseer
+    - 19.3:
+        non_striker: Ali Naseer
+        bowler: FJ Klaassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AAP Atkinson
+    - 19.4:
+        non_striker: Ali Naseer
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Atkinson
+    - 19.5:
+        non_striker: Ali Naseer
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Atkinson
+    - 19.6:
+        non_striker: AAP Atkinson
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Naseer
+        wicket:
+          player_out: Ali Naseer
+          fielders:
+          - MD Shanaka
+          kind: caught
+    - 19.7:
+        non_striker: AAP Atkinson
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Cottrell
+        wicket:
+          player_out: AAP Atkinson
+          fielders:
+          - RV Uthappa
+          kind: run out
+- 2nd innings:
+    team: Dubai Capitals
+    deliveries:
+    - 0.1:
+        non_striker: Hazratullah
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 0.2:
+        non_striker: Hazratullah
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 0.3:
+        non_striker: RV Uthappa
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+    - 0.4:
+        non_striker: RV Uthappa
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hazratullah
+    - 0.5:
+        non_striker: Hazratullah
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 0.6:
+        non_striker: Hazratullah
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 1.1:
+        non_striker: RV Uthappa
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hazratullah
+    - 1.2:
+        non_striker: RV Uthappa
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hazratullah
+    - 1.3:
+        non_striker: Hazratullah
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 1.4:
+        non_striker: Hazratullah
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 1.5:
+        non_striker: Hazratullah
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 1.6:
+        non_striker: Hazratullah
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+        wicket:
+          player_out: RV Uthappa
+          fielders:
+          - TK Curran
+          kind: caught
+    - 2.1:
+        non_striker: Chirag Suri
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+    - 2.2:
+        non_striker: Chirag Suri
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+        wicket:
+          player_out: Hazratullah
+          fielders:
+          - SW Billings
+          kind: caught
+    - 2.3:
+        non_striker: Chirag Suri
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 2.4:
+        non_striker: Chirag Suri
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 2.5:
+        non_striker: Chirag Suri
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 2.6:
+        non_striker: MD Shanaka
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 3.1:
+        non_striker: Chirag Suri
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 3.2:
+        non_striker: Chirag Suri
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 3.3:
+        non_striker: Chirag Suri
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 3.4:
+        non_striker: MD Shanaka
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 3.5:
+        non_striker: MD Shanaka
+        bowler: AAP Atkinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Chirag Suri
+    - 3.6:
+        non_striker: MD Shanaka
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 3.7:
+        non_striker: MD Shanaka
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Chirag Suri
+    - 4.1:
+        non_striker: Chirag Suri
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 4.2:
+        non_striker: Chirag Suri
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 4.3:
+        non_striker: Chirag Suri
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 4.4:
+        non_striker: Chirag Suri
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 4.5:
+        non_striker: MD Shanaka
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 4.6:
+        non_striker: MD Shanaka
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Chirag Suri
+    - 5.1:
+        non_striker: Chirag Suri
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 5.2:
+        non_striker: Chirag Suri
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 5.3:
+        non_striker: Chirag Suri
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 5.4:
+        non_striker: MD Shanaka
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chirag Suri
+    - 5.5:
+        non_striker: Chirag Suri
+        bowler: AAP Atkinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Shanaka
+    - 5.6:
+        non_striker: Chirag Suri
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 5.7:
+        non_striker: Chirag Suri
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 6.1:
+        non_striker: MD Shanaka
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Chirag Suri
+    - 6.2:
+        non_striker: MD Shanaka
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chirag Suri
+    - 6.3:
+        non_striker: Chirag Suri
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 6.4:
+        non_striker: MD Shanaka
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 6.5:
+        non_striker: MD Shanaka
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chirag Suri
+    - 6.6:
+        non_striker: Chirag Suri
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 7.1:
+        non_striker: Chirag Suri
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 7.2:
+        non_striker: Chirag Suri
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 7.3:
+        non_striker: Chirag Suri
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 7.4:
+        non_striker: Chirag Suri
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 7.5:
+        non_striker: MD Shanaka
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chirag Suri
+    - 7.6:
+        non_striker: Chirag Suri
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 8.1:
+        non_striker: Chirag Suri
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+        wicket:
+          player_out: MD Shanaka
+          kind: caught and bowled
+    - 8.2:
+        non_striker: Chirag Suri
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 8.3:
+        non_striker: R Powell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chirag Suri
+    - 8.4:
+        non_striker: Chirag Suri
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 8.5:
+        non_striker: R Powell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 8.6:
+        non_striker: R Powell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chirag Suri
+    - 9.1:
+        non_striker: R Powell
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chirag Suri
+    - 9.2:
+        non_striker: Chirag Suri
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 9.3:
+        non_striker: R Powell
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 9.4:
+        non_striker: R Powell
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chirag Suri
+    - 9.5:
+        non_striker: Chirag Suri
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 9.6:
+        non_striker: R Powell
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+        wicket:
+          player_out: Chirag Suri
+          fielders:
+          - PWH de Silva
+          kind: caught
+    - 10.1:
+        non_striker: Sikandar Raza
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 10.2:
+        non_striker: R Powell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 10.3:
+        non_striker: Sikandar Raza
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 10.4:
+        non_striker: R Powell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 10.5:
+        non_striker: R Powell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 10.6:
+        non_striker: R Powell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 11.1:
+        non_striker: R Powell
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 11.2:
+        non_striker: R Powell
+        bowler: Rohan Mustafa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sikandar Raza
+    - 11.3:
+        non_striker: Sikandar Raza
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 11.4:
+        non_striker: Sikandar Raza
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 11.5:
+        non_striker: R Powell
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 11.6:
+        non_striker: R Powell
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 12.1:
+        non_striker: Sikandar Raza
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 12.2:
+        non_striker: Sikandar Raza
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 12.3:
+        non_striker: Sikandar Raza
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 12.4:
+        non_striker: Sikandar Raza
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 12.5:
+        non_striker: Sikandar Raza
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 12.6:
+        non_striker: R Powell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.1:
+        non_striker: R Powell
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sikandar Raza
+    - 13.2:
+        non_striker: R Powell
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sikandar Raza
+    - 13.3:
+        non_striker: R Powell
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - SW Billings
+          kind: caught
+    - 13.4:
+        non_striker: R Powell
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 13.5:
+        non_striker: YK Pathan
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 13.6:
+        non_striker: YK Pathan
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 14.1:
+        non_striker: R Powell
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 14.2:
+        non_striker: YK Pathan
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 14.3:
+        non_striker: R Powell
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 14.4:
+        non_striker: YK Pathan
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 14.5:
+        non_striker: R Powell
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YK Pathan
+    - 14.6:
+        non_striker: R Powell
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YK Pathan
+    - 15.1:
+        non_striker: YK Pathan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 15.2:
+        non_striker: R Powell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 15.3:
+        non_striker: R Powell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 15.4:
+        non_striker: R Powell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YK Pathan
+    - 15.5:
+        non_striker: R Powell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 15.6:
+        non_striker: R Powell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YK Pathan
+    - 16.1:
+        non_striker: YK Pathan
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 16.2:
+        non_striker: R Powell
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YK Pathan
+    - 16.3:
+        non_striker: R Powell
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 16.4:
+        non_striker: R Powell
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 16.5:
+        non_striker: R Powell
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 16.6:
+        non_striker: R Powell
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 16.7:
+        non_striker: R Powell
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 17.1:
+        non_striker: R Powell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 17.2:
+        non_striker: R Powell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 17.3:
+        non_striker: YK Pathan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 17.4:
+        non_striker: R Powell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 17.5:
+        non_striker: R Powell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YK Pathan
+    - 17.6:
+        non_striker: R Powell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 18.1:
+        non_striker: R Powell
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 18.2:
+        non_striker: YK Pathan
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 18.3:
+        non_striker: YK Pathan
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 18.4:
+        non_striker: R Powell
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 18.5:
+        non_striker: YK Pathan
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 18.6:
+        non_striker: R Powell
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 18.7:
+        non_striker: YK Pathan
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 19.1:
+        non_striker: R Powell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 19.2:
+        non_striker: R Powell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 19.3:
+        non_striker: YK Pathan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 19.4:
+        non_striker: R Powell
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 19.5:
+        non_striker: YK Pathan
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 19.6:
+        non_striker: YK Pathan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 19.7:
+        non_striker: YK Pathan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell

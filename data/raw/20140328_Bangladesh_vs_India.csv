@@ -1,0 +1,239 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Bangladesh,0.1,Tamim Iqbal,B Kumar,0,{},{}
+1st innings,Bangladesh,0.2,Tamim Iqbal,B Kumar,4,{},{}
+1st innings,Bangladesh,0.3,Tamim Iqbal,B Kumar,1,{},{}
+1st innings,Bangladesh,0.4,Anamul Haque,B Kumar,4,{},{}
+1st innings,Bangladesh,0.5,Anamul Haque,B Kumar,0,{},{}
+1st innings,Bangladesh,0.6,Anamul Haque,B Kumar,4,{},{}
+1st innings,Bangladesh,1.1,Tamim Iqbal,R Ashwin,0,{},{}
+1st innings,Bangladesh,1.2,Tamim Iqbal,R Ashwin,0,{},{}
+1st innings,Bangladesh,1.3,Tamim Iqbal,R Ashwin,1,{},{}
+1st innings,Bangladesh,1.4,Anamul Haque,R Ashwin,1,{},{}
+1st innings,Bangladesh,1.5,Tamim Iqbal,R Ashwin,0,{},{}
+1st innings,Bangladesh,1.6,Tamim Iqbal,R Ashwin,0,{},{}
+1st innings,Bangladesh,2.1,Anamul Haque,Mohammed Shami,0,{},{}
+1st innings,Bangladesh,2.2,Anamul Haque,Mohammed Shami,0,{},{}
+1st innings,Bangladesh,2.3,Anamul Haque,Mohammed Shami,4,{},{}
+1st innings,Bangladesh,2.4,Anamul Haque,Mohammed Shami,0,{},{}
+1st innings,Bangladesh,2.5,Anamul Haque,Mohammed Shami,1,{'wides': 1},{}
+1st innings,Bangladesh,2.6,Anamul Haque,Mohammed Shami,0,{},{}
+1st innings,Bangladesh,2.7,Anamul Haque,Mohammed Shami,0,{},{}
+1st innings,Bangladesh,3.1,Tamim Iqbal,R Ashwin,0,{},{}
+1st innings,Bangladesh,3.2,Tamim Iqbal,R Ashwin,0,{},"{'fielders': ['SK Raina'], 'kind': 'caught', 'player_out': 'Tamim Iqbal'}"
+1st innings,Bangladesh,3.3,Shamsur Rahman,R Ashwin,0,{},"{'fielders': ['RG Sharma'], 'kind': 'caught', 'player_out': 'Shamsur Rahman'}"
+1st innings,Bangladesh,3.4,Shakib Al Hasan,R Ashwin,1,{},{}
+1st innings,Bangladesh,3.5,Anamul Haque,R Ashwin,0,{},{}
+1st innings,Bangladesh,3.6,Anamul Haque,R Ashwin,0,{},{}
+1st innings,Bangladesh,4.1,Shakib Al Hasan,B Kumar,0,{},"{'kind': 'bowled', 'player_out': 'Shakib Al Hasan'}"
+1st innings,Bangladesh,4.2,Mushfiqur Rahim,B Kumar,0,{},{}
+1st innings,Bangladesh,4.3,Mushfiqur Rahim,B Kumar,0,{},{}
+1st innings,Bangladesh,4.4,Mushfiqur Rahim,B Kumar,1,{},{}
+1st innings,Bangladesh,4.5,Anamul Haque,B Kumar,0,{},{}
+1st innings,Bangladesh,4.6,Anamul Haque,B Kumar,0,{},{}
+1st innings,Bangladesh,5.1,Mushfiqur Rahim,R Ashwin,0,{},{}
+1st innings,Bangladesh,5.2,Mushfiqur Rahim,R Ashwin,1,{},{}
+1st innings,Bangladesh,5.3,Anamul Haque,R Ashwin,4,{},{}
+1st innings,Bangladesh,5.4,Anamul Haque,R Ashwin,0,{},{}
+1st innings,Bangladesh,5.5,Anamul Haque,R Ashwin,0,{},{}
+1st innings,Bangladesh,5.6,Anamul Haque,R Ashwin,0,{},{}
+1st innings,Bangladesh,6.1,Mushfiqur Rahim,RA Jadeja,0,{},{}
+1st innings,Bangladesh,6.2,Mushfiqur Rahim,RA Jadeja,1,{},{}
+1st innings,Bangladesh,6.3,Anamul Haque,RA Jadeja,1,{},{}
+1st innings,Bangladesh,6.4,Mushfiqur Rahim,RA Jadeja,1,{},{}
+1st innings,Bangladesh,6.5,Anamul Haque,RA Jadeja,4,{},{}
+1st innings,Bangladesh,6.6,Anamul Haque,RA Jadeja,1,{},{}
+1st innings,Bangladesh,7.1,Anamul Haque,SK Raina,0,{},{}
+1st innings,Bangladesh,7.2,Anamul Haque,SK Raina,1,{},{}
+1st innings,Bangladesh,7.3,Mushfiqur Rahim,SK Raina,4,{},{}
+1st innings,Bangladesh,7.4,Mushfiqur Rahim,SK Raina,1,{},{}
+1st innings,Bangladesh,7.5,Anamul Haque,SK Raina,1,{},{}
+1st innings,Bangladesh,7.6,Mushfiqur Rahim,SK Raina,1,{},{}
+1st innings,Bangladesh,8.1,Mushfiqur Rahim,RA Jadeja,0,{},{}
+1st innings,Bangladesh,8.2,Mushfiqur Rahim,RA Jadeja,4,{},{}
+1st innings,Bangladesh,8.3,Mushfiqur Rahim,RA Jadeja,4,{},{}
+1st innings,Bangladesh,8.4,Mushfiqur Rahim,RA Jadeja,0,{},{}
+1st innings,Bangladesh,8.5,Mushfiqur Rahim,RA Jadeja,0,{},{}
+1st innings,Bangladesh,8.6,Mushfiqur Rahim,RA Jadeja,0,{},{}
+1st innings,Bangladesh,9.1,Anamul Haque,A Mishra,1,{},{}
+1st innings,Bangladesh,9.2,Mushfiqur Rahim,A Mishra,1,{},{}
+1st innings,Bangladesh,9.3,Anamul Haque,A Mishra,1,{},{}
+1st innings,Bangladesh,9.4,Mushfiqur Rahim,A Mishra,1,{},{}
+1st innings,Bangladesh,9.5,Anamul Haque,A Mishra,0,{},{}
+1st innings,Bangladesh,9.6,Anamul Haque,A Mishra,1,{},{}
+1st innings,Bangladesh,10.1,Anamul Haque,Mohammed Shami,0,{},{}
+1st innings,Bangladesh,10.2,Anamul Haque,Mohammed Shami,0,{},{}
+1st innings,Bangladesh,10.3,Anamul Haque,Mohammed Shami,6,{},{}
+1st innings,Bangladesh,10.4,Anamul Haque,Mohammed Shami,1,{'legbyes': 1},{}
+1st innings,Bangladesh,10.5,Mushfiqur Rahim,Mohammed Shami,4,{},{}
+1st innings,Bangladesh,10.6,Mushfiqur Rahim,Mohammed Shami,0,{},"{'fielders': ['V Kohli'], 'kind': 'caught', 'player_out': 'Mushfiqur Rahim'}"
+1st innings,Bangladesh,11.1,Anamul Haque,RA Jadeja,1,{},{}
+1st innings,Bangladesh,11.2,Nasir Hossain,RA Jadeja,1,{},{}
+1st innings,Bangladesh,11.3,Anamul Haque,RA Jadeja,0,{},{}
+1st innings,Bangladesh,11.4,Anamul Haque,RA Jadeja,6,{},{}
+1st innings,Bangladesh,11.5,Anamul Haque,RA Jadeja,0,{},{}
+1st innings,Bangladesh,11.6,Anamul Haque,RA Jadeja,1,{},{}
+1st innings,Bangladesh,12.1,Anamul Haque,A Mishra,2,{},{}
+1st innings,Bangladesh,12.2,Anamul Haque,A Mishra,0,{},{}
+1st innings,Bangladesh,12.3,Anamul Haque,A Mishra,4,{'byes': 4},{}
+1st innings,Bangladesh,12.4,Anamul Haque,A Mishra,0,{},{}
+1st innings,Bangladesh,12.5,Anamul Haque,A Mishra,0,{},{}
+1st innings,Bangladesh,12.6,Anamul Haque,A Mishra,0,{},"{'kind': 'bowled', 'player_out': 'Anamul Haque'}"
+1st innings,Bangladesh,13.1,Nasir Hossain,SK Raina,1,{},{}
+1st innings,Bangladesh,13.2,Mahmudullah,SK Raina,0,{},{}
+1st innings,Bangladesh,13.3,Mahmudullah,SK Raina,0,{},{}
+1st innings,Bangladesh,13.4,Mahmudullah,SK Raina,1,{},{}
+1st innings,Bangladesh,13.5,Nasir Hossain,SK Raina,1,{},{}
+1st innings,Bangladesh,13.6,Mahmudullah,SK Raina,0,{},{}
+1st innings,Bangladesh,14.1,Nasir Hossain,RA Jadeja,1,{},{}
+1st innings,Bangladesh,14.2,Mahmudullah,RA Jadeja,0,{},{}
+1st innings,Bangladesh,14.3,Mahmudullah,RA Jadeja,0,{},{}
+1st innings,Bangladesh,14.4,Mahmudullah,RA Jadeja,0,{},{}
+1st innings,Bangladesh,14.5,Mahmudullah,RA Jadeja,4,{},{}
+1st innings,Bangladesh,14.6,Mahmudullah,RA Jadeja,0,{},{}
+1st innings,Bangladesh,15.1,Nasir Hossain,R Ashwin,0,{},{}
+1st innings,Bangladesh,15.2,Nasir Hossain,R Ashwin,1,{},{}
+1st innings,Bangladesh,15.3,Mahmudullah,R Ashwin,1,{'legbyes': 1},{}
+1st innings,Bangladesh,15.4,Nasir Hossain,R Ashwin,1,{},{}
+1st innings,Bangladesh,15.5,Mahmudullah,R Ashwin,4,{},{}
+1st innings,Bangladesh,15.6,Mahmudullah,R Ashwin,1,{},{}
+1st innings,Bangladesh,16.1,Mahmudullah,A Mishra,6,{},{}
+1st innings,Bangladesh,16.2,Mahmudullah,A Mishra,1,{},{}
+1st innings,Bangladesh,16.3,Nasir Hossain,A Mishra,0,{},{}
+1st innings,Bangladesh,16.4,Nasir Hossain,A Mishra,1,{},{}
+1st innings,Bangladesh,16.5,Mahmudullah,A Mishra,4,{},{}
+1st innings,Bangladesh,16.6,Mahmudullah,A Mishra,0,{},{}
+1st innings,Bangladesh,17.1,Nasir Hossain,Mohammed Shami,2,{},{}
+1st innings,Bangladesh,17.2,Nasir Hossain,Mohammed Shami,1,{},{}
+1st innings,Bangladesh,17.3,Mahmudullah,Mohammed Shami,4,{},{}
+1st innings,Bangladesh,17.4,Mahmudullah,Mohammed Shami,1,{'wides': 1},{}
+1st innings,Bangladesh,17.5,Mahmudullah,Mohammed Shami,4,{},{}
+1st innings,Bangladesh,17.6,Mahmudullah,Mohammed Shami,2,{},{}
+1st innings,Bangladesh,17.7,Mahmudullah,Mohammed Shami,0,{},{}
+1st innings,Bangladesh,18.1,Nasir Hossain,B Kumar,4,{},{}
+1st innings,Bangladesh,18.2,Nasir Hossain,B Kumar,0,{},{}
+1st innings,Bangladesh,18.3,Nasir Hossain,B Kumar,0,{},{}
+1st innings,Bangladesh,18.4,Nasir Hossain,B Kumar,1,{},{}
+1st innings,Bangladesh,18.5,Mahmudullah,B Kumar,1,{},{}
+1st innings,Bangladesh,18.6,Nasir Hossain,B Kumar,1,{},{}
+1st innings,Bangladesh,19.1,Nasir Hossain,A Mishra,0,{},"{'fielders': ['MS Dhoni'], 'kind': 'stumped', 'player_out': 'Nasir Hossain'}"
+1st innings,Bangladesh,19.2,Ziaur Rahman,A Mishra,0,{},"{'fielders': ['RA Jadeja'], 'kind': 'caught', 'player_out': 'Ziaur Rahman'}"
+1st innings,Bangladesh,19.3,Mahmudullah,A Mishra,0,{},{}
+1st innings,Bangladesh,19.4,Mahmudullah,A Mishra,1,{},{}
+1st innings,Bangladesh,19.5,Mashrafe Mortaza,A Mishra,0,{},{}
+1st innings,Bangladesh,19.6,Mashrafe Mortaza,A Mishra,6,{},{}
+2nd innings,India,0.1,RG Sharma,Mashrafe Mortaza,2,{},{}
+2nd innings,India,0.2,RG Sharma,Mashrafe Mortaza,0,{},{}
+2nd innings,India,0.3,RG Sharma,Mashrafe Mortaza,0,{},{}
+2nd innings,India,0.4,RG Sharma,Mashrafe Mortaza,0,{},{}
+2nd innings,India,0.5,RG Sharma,Mashrafe Mortaza,1,{},{}
+2nd innings,India,0.6,S Dhawan,Mashrafe Mortaza,0,{},{}
+2nd innings,India,1.1,RG Sharma,Sohag Gazi,0,{},{}
+2nd innings,India,1.2,RG Sharma,Sohag Gazi,0,{},{}
+2nd innings,India,1.3,RG Sharma,Sohag Gazi,1,{},{}
+2nd innings,India,1.4,S Dhawan,Sohag Gazi,1,{},{}
+2nd innings,India,1.5,RG Sharma,Sohag Gazi,1,{},{}
+2nd innings,India,1.6,S Dhawan,Sohag Gazi,0,{},{}
+2nd innings,India,2.1,RG Sharma,Al-Amin Hossain,6,{},{}
+2nd innings,India,2.2,RG Sharma,Al-Amin Hossain,1,{},{}
+2nd innings,India,2.3,S Dhawan,Al-Amin Hossain,0,{},{}
+2nd innings,India,2.4,S Dhawan,Al-Amin Hossain,0,{},{}
+2nd innings,India,2.5,S Dhawan,Al-Amin Hossain,0,{},"{'kind': 'bowled', 'player_out': 'S Dhawan'}"
+2nd innings,India,2.6,V Kohli,Al-Amin Hossain,0,{},{}
+2nd innings,India,3.1,RG Sharma,Shakib Al Hasan,1,{},{}
+2nd innings,India,3.2,V Kohli,Shakib Al Hasan,0,{},{}
+2nd innings,India,3.3,V Kohli,Shakib Al Hasan,2,{},{}
+2nd innings,India,3.4,V Kohli,Shakib Al Hasan,1,{'wides': 1},{}
+2nd innings,India,3.5,V Kohli,Shakib Al Hasan,0,{},{}
+2nd innings,India,3.6,V Kohli,Shakib Al Hasan,0,{},{}
+2nd innings,India,3.7,V Kohli,Shakib Al Hasan,1,{},{}
+2nd innings,India,4.1,V Kohli,Al-Amin Hossain,0,{},{}
+2nd innings,India,4.2,V Kohli,Al-Amin Hossain,1,{},{}
+2nd innings,India,4.3,RG Sharma,Al-Amin Hossain,1,{},{}
+2nd innings,India,4.4,V Kohli,Al-Amin Hossain,6,{},{}
+2nd innings,India,4.5,V Kohli,Al-Amin Hossain,1,{},{}
+2nd innings,India,4.6,RG Sharma,Al-Amin Hossain,1,{'noballs': 1},{}
+2nd innings,India,4.7,RG Sharma,Al-Amin Hossain,1,{},{}
+2nd innings,India,5.1,RG Sharma,Shakib Al Hasan,1,{},{}
+2nd innings,India,5.2,V Kohli,Shakib Al Hasan,0,{},{}
+2nd innings,India,5.3,V Kohli,Shakib Al Hasan,1,{},{}
+2nd innings,India,5.4,RG Sharma,Shakib Al Hasan,4,{},{}
+2nd innings,India,5.5,RG Sharma,Shakib Al Hasan,0,{},{}
+2nd innings,India,5.6,RG Sharma,Shakib Al Hasan,4,{},{}
+2nd innings,India,6.1,V Kohli,Mashrafe Mortaza,1,{},{}
+2nd innings,India,6.2,RG Sharma,Mashrafe Mortaza,4,{},{}
+2nd innings,India,6.3,RG Sharma,Mashrafe Mortaza,1,{},{}
+2nd innings,India,6.4,V Kohli,Mashrafe Mortaza,2,{},{}
+2nd innings,India,6.5,V Kohli,Mashrafe Mortaza,1,{},{}
+2nd innings,India,6.6,RG Sharma,Mashrafe Mortaza,2,{},{}
+2nd innings,India,7.1,V Kohli,Sohag Gazi,1,{},{}
+2nd innings,India,7.2,RG Sharma,Sohag Gazi,1,{},{}
+2nd innings,India,7.3,V Kohli,Sohag Gazi,1,{},{}
+2nd innings,India,7.4,RG Sharma,Sohag Gazi,1,{},{}
+2nd innings,India,7.5,V Kohli,Sohag Gazi,0,{},{}
+2nd innings,India,7.6,V Kohli,Sohag Gazi,1,{},{}
+2nd innings,India,8.1,V Kohli,Ziaur Rahman,1,{},{}
+2nd innings,India,8.2,RG Sharma,Ziaur Rahman,1,{},{}
+2nd innings,India,8.3,V Kohli,Ziaur Rahman,1,{},{}
+2nd innings,India,8.4,RG Sharma,Ziaur Rahman,2,{},{}
+2nd innings,India,8.5,RG Sharma,Ziaur Rahman,0,{},{}
+2nd innings,India,8.6,RG Sharma,Ziaur Rahman,4,{},{}
+2nd innings,India,9.1,V Kohli,Sohag Gazi,2,{},{}
+2nd innings,India,9.2,V Kohli,Sohag Gazi,4,{},{}
+2nd innings,India,9.3,V Kohli,Sohag Gazi,1,{},{}
+2nd innings,India,9.4,RG Sharma,Sohag Gazi,1,{},{}
+2nd innings,India,9.5,V Kohli,Sohag Gazi,4,{},{}
+2nd innings,India,9.6,V Kohli,Sohag Gazi,1,{},{}
+2nd innings,India,10.1,V Kohli,Shakib Al Hasan,1,{},{}
+2nd innings,India,10.2,RG Sharma,Shakib Al Hasan,0,{},{}
+2nd innings,India,10.3,RG Sharma,Shakib Al Hasan,1,{},{}
+2nd innings,India,10.4,V Kohli,Shakib Al Hasan,1,{'wides': 1},{}
+2nd innings,India,10.5,V Kohli,Shakib Al Hasan,1,{},{}
+2nd innings,India,10.6,RG Sharma,Shakib Al Hasan,1,{},{}
+2nd innings,India,10.7,V Kohli,Shakib Al Hasan,1,{},{}
+2nd innings,India,11.1,V Kohli,Ziaur Rahman,1,{},{}
+2nd innings,India,11.2,RG Sharma,Ziaur Rahman,1,{},{}
+2nd innings,India,11.3,V Kohli,Ziaur Rahman,1,{},{}
+2nd innings,India,11.4,RG Sharma,Ziaur Rahman,1,{},{}
+2nd innings,India,11.5,V Kohli,Ziaur Rahman,4,{},{}
+2nd innings,India,11.6,V Kohli,Ziaur Rahman,1,{},{}
+2nd innings,India,12.1,V Kohli,Shakib Al Hasan,1,{},{}
+2nd innings,India,12.2,RG Sharma,Shakib Al Hasan,2,{},{}
+2nd innings,India,12.3,RG Sharma,Shakib Al Hasan,0,{},{}
+2nd innings,India,12.4,RG Sharma,Shakib Al Hasan,1,{},{}
+2nd innings,India,12.5,V Kohli,Shakib Al Hasan,0,{},{}
+2nd innings,India,12.6,V Kohli,Shakib Al Hasan,1,{},{}
+2nd innings,India,13.1,V Kohli,Mahmudullah,1,{'wides': 1},{}
+2nd innings,India,13.2,V Kohli,Mahmudullah,0,{},{}
+2nd innings,India,13.3,V Kohli,Mahmudullah,2,{},{}
+2nd innings,India,13.4,V Kohli,Mahmudullah,1,{},{}
+2nd innings,India,13.5,RG Sharma,Mahmudullah,1,{},{}
+2nd innings,India,13.6,V Kohli,Mahmudullah,1,{},{}
+2nd innings,India,13.7,RG Sharma,Mahmudullah,1,{},{}
+2nd innings,India,14.1,RG Sharma,Al-Amin Hossain,4,{},{}
+2nd innings,India,14.2,RG Sharma,Al-Amin Hossain,1,{},{}
+2nd innings,India,14.3,V Kohli,Al-Amin Hossain,1,{},{}
+2nd innings,India,14.4,RG Sharma,Al-Amin Hossain,1,{},{}
+2nd innings,India,14.5,V Kohli,Al-Amin Hossain,1,{},{}
+2nd innings,India,14.6,RG Sharma,Al-Amin Hossain,0,{},{}
+2nd innings,India,15.1,V Kohli,Mashrafe Mortaza,1,{},{}
+2nd innings,India,15.2,RG Sharma,Mashrafe Mortaza,0,{},"{'fielders': ['Nasir Hossain'], 'kind': 'caught', 'player_out': 'RG Sharma'}"
+2nd innings,India,15.3,MS Dhoni,Mashrafe Mortaza,1,{'wides': 1},{}
+2nd innings,India,15.4,MS Dhoni,Mashrafe Mortaza,1,{},{}
+2nd innings,India,15.5,V Kohli,Mashrafe Mortaza,1,{},{}
+2nd innings,India,15.6,MS Dhoni,Mashrafe Mortaza,0,{},{}
+2nd innings,India,15.7,MS Dhoni,Mashrafe Mortaza,1,{},{}
+2nd innings,India,16.1,MS Dhoni,Al-Amin Hossain,0,{},{}
+2nd innings,India,16.2,MS Dhoni,Al-Amin Hossain,1,{},{}
+2nd innings,India,16.3,V Kohli,Al-Amin Hossain,1,{},{}
+2nd innings,India,16.4,MS Dhoni,Al-Amin Hossain,4,{},{}
+2nd innings,India,16.5,MS Dhoni,Al-Amin Hossain,0,{},{}
+2nd innings,India,16.6,MS Dhoni,Al-Amin Hossain,6,{},{}
+2nd innings,India,17.1,V Kohli,Mashrafe Mortaza,1,{},{}
+2nd innings,India,17.2,MS Dhoni,Mashrafe Mortaza,1,{},{}
+2nd innings,India,17.3,V Kohli,Mashrafe Mortaza,0,{},{}
+2nd innings,India,17.4,V Kohli,Mashrafe Mortaza,1,{},{}
+2nd innings,India,17.5,MS Dhoni,Mashrafe Mortaza,1,{},{}
+2nd innings,India,17.6,V Kohli,Mashrafe Mortaza,0,{},{}
+2nd innings,India,18.1,MS Dhoni,Ziaur Rahman,1,{},{}
+2nd innings,India,18.2,V Kohli,Ziaur Rahman,1,{},{}
+2nd innings,India,18.3,MS Dhoni,Ziaur Rahman,6,{},{}

@@ -1,0 +1,2049 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abu Dhabi
+  competition: International League T20
+  dates:
+  - '2023-01-24'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Desert Vipers
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - SE Rutherford
+  players:
+    MI Emirates:
+    - Waseem Muhammad
+    - V Aravind
+    - ADS Fletcher
+    - N Pooran
+    - KA Pollard
+    - Najibullah Zadran
+    - SR Patel
+    - DJ Bravo
+    - TA Boult
+    - Fazalhaq Farooqi
+    - BTJ Wheal
+    Desert Vipers:
+    - Rohan Mustafa
+    - AD Hales
+    - C Munro
+    - SW Billings
+    - SE Rutherford
+    - PWH de Silva
+    - TK Curran
+    - SS Cottrell
+    - AAP Atkinson
+    - Ali Naseer
+    - M Pathirana
+  registry:
+    people:
+      AAP Atkinson: 70d57519
+      AD Hales: 92aeac25
+      ADS Fletcher: 1bae756b
+      AG Wharf: 2e0fcc58
+      Ali Naseer: f5715b48
+      BTJ Wheal: 3f61a062
+      C Munro: af2c687b
+      DJ Bravo: 87e562a9
+      Fazalhaq Farooqi: e9c7f0d0
+      KA Pollard: a757b0d8
+      LS Reifer: 5dee559a
+      M Pathirana: 64839cb3
+      N Pooran: 3241e3fd
+      Najibullah Zadran: 1212cbec
+      PWH de Silva: a97c8ec2
+      RJ Tucker: 38810cfc
+      RS Mahanama: '57910393'
+      Rohan Mustafa: d1988788
+      SE Rutherford: d014d5ac
+      SR Patel: 18fac429
+      SS Cottrell: a1d053dd
+      SW Billings: c16d4035
+      Shiju Sam: 1e2f3eae
+      TA Boult: a818c1be
+      TK Curran: e86754b2
+      V Aravind: cddafe26
+      Waseem Muhammad: 6f02fe2a
+  teams:
+  - MI Emirates
+  - Desert Vipers
+  toss:
+    winner: Desert Vipers
+    decision: field
+  umpires:
+  - LS Reifer
+  - Shiju Sam
+  venue: Zayed Cricket Stadium, Abu Dhabi
+innings:
+- 1st innings:
+    team: MI Emirates
+    deliveries:
+    - 0.1:
+        non_striker: V Aravind
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 0.2:
+        non_striker: V Aravind
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.3:
+        non_striker: V Aravind
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.4:
+        non_striker: V Aravind
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 0.5:
+        non_striker: Waseem Muhammad
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Aravind
+    - 0.6:
+        non_striker: V Aravind
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.1:
+        non_striker: Waseem Muhammad
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Aravind
+    - 1.2:
+        non_striker: Waseem Muhammad
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Aravind
+    - 1.3:
+        non_striker: Waseem Muhammad
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Aravind
+    - 1.4:
+        non_striker: Waseem Muhammad
+        bowler: AAP Atkinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Aravind
+    - 1.5:
+        non_striker: Waseem Muhammad
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Aravind
+    - 1.6:
+        non_striker: Waseem Muhammad
+        bowler: AAP Atkinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Aravind
+    - 1.7:
+        non_striker: Waseem Muhammad
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Aravind
+    - 1.8:
+        non_striker: Waseem Muhammad
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Aravind
+        wicket:
+          player_out: V Aravind
+          kind: bowled
+    - 2.1:
+        non_striker: ADS Fletcher
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          fielders:
+          - SW Billings
+          kind: caught
+    - 2.2:
+        non_striker: ADS Fletcher
+        bowler: SS Cottrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 2.3:
+        non_striker: ADS Fletcher
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 2.4:
+        non_striker: N Pooran
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.5:
+        non_striker: N Pooran
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 2.6:
+        non_striker: ADS Fletcher
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 2.7:
+        non_striker: ADS Fletcher
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 3.1:
+        non_striker: ADS Fletcher
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 3.2:
+        non_striker: ADS Fletcher
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 3.3:
+        non_striker: ADS Fletcher
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 3.4:
+        non_striker: N Pooran
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 3.5:
+        non_striker: N Pooran
+        bowler: AAP Atkinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ADS Fletcher
+    - 3.6:
+        non_striker: ADS Fletcher
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 4.1:
+        non_striker: N Pooran
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.2:
+        non_striker: N Pooran
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 4.3:
+        non_striker: ADS Fletcher
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 4.4:
+        non_striker: N Pooran
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.5:
+        non_striker: N Pooran
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.6:
+        non_striker: N Pooran
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 5.1:
+        non_striker: ADS Fletcher
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 5.2:
+        non_striker: ADS Fletcher
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 5.3:
+        non_striker: N Pooran
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 5.4:
+        non_striker: ADS Fletcher
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 5.5:
+        non_striker: ADS Fletcher
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 5.6:
+        non_striker: N Pooran
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 6.1:
+        non_striker: ADS Fletcher
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 6.2:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 6.3:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 6.4:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 6.5:
+        non_striker: ADS Fletcher
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 6.6:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 7.1:
+        non_striker: N Pooran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 7.2:
+        non_striker: ADS Fletcher
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 7.3:
+        non_striker: N Pooran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 7.4:
+        non_striker: N Pooran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 7.5:
+        non_striker: ADS Fletcher
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 7.6:
+        non_striker: ADS Fletcher
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 8.1:
+        non_striker: ADS Fletcher
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 8.2:
+        non_striker: ADS Fletcher
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: ADS Fletcher
+          fielders:
+          - PWH de Silva
+          kind: run out
+    - 8.3:
+        non_striker: N Pooran
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 8.4:
+        non_striker: KA Pollard
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 8.5:
+        non_striker: KA Pollard
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 8.6:
+        non_striker: N Pooran
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 9.1:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 9.2:
+        non_striker: KA Pollard
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 9.3:
+        non_striker: KA Pollard
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 9.4:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 9.5:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 9.6:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 10.1:
+        non_striker: N Pooran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 10.2:
+        non_striker: N Pooran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 10.3:
+        non_striker: N Pooran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 10.4:
+        non_striker: N Pooran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 10.5:
+        non_striker: N Pooran
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 10.6:
+        non_striker: KA Pollard
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 11.1:
+        non_striker: N Pooran
+        bowler: SS Cottrell
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: KA Pollard
+    - 11.2:
+        non_striker: N Pooran
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 11.3:
+        non_striker: N Pooran
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 11.4:
+        non_striker: KA Pollard
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 11.5:
+        non_striker: N Pooran
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 11.6:
+        non_striker: N Pooran
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 12.1:
+        non_striker: KA Pollard
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 12.2:
+        non_striker: N Pooran
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 12.3:
+        non_striker: KA Pollard
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 12.4:
+        non_striker: N Pooran
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Pollard
+    - 12.5:
+        non_striker: N Pooran
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 12.6:
+        non_striker: N Pooran
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 12.7:
+        non_striker: KA Pollard
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 13.1:
+        non_striker: KA Pollard
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 13.2:
+        non_striker: N Pooran
+        bowler: Rohan Mustafa
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: KA Pollard
+    - 13.3:
+        non_striker: KA Pollard
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 13.4:
+        non_striker: KA Pollard
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 13.5:
+        non_striker: N Pooran
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 13.6:
+        non_striker: KA Pollard
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 13.7:
+        non_striker: KA Pollard
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 14.1:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 14.2:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 14.3:
+        non_striker: KA Pollard
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 14.4:
+        non_striker: KA Pollard
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 14.5:
+        non_striker: KA Pollard
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 14.6:
+        non_striker: KA Pollard
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 14.7:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 15.1:
+        non_striker: N Pooran
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 15.2:
+        non_striker: N Pooran
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 15.3:
+        non_striker: KA Pollard
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 15.4:
+        non_striker: N Pooran
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 15.5:
+        non_striker: KA Pollard
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 15.6:
+        non_striker: KA Pollard
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 16.1:
+        non_striker: KA Pollard
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 16.2:
+        non_striker: KA Pollard
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 16.3:
+        non_striker: KA Pollard
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 16.4:
+        non_striker: KA Pollard
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 16.5:
+        non_striker: N Pooran
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 16.6:
+        non_striker: N Pooran
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 16.7:
+        non_striker: KA Pollard
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 17.1:
+        non_striker: N Pooran
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 17.2:
+        non_striker: KA Pollard
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 17.3:
+        non_striker: N Pooran
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 17.4:
+        non_striker: N Pooran
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 17.5:
+        non_striker: N Pooran
+        bowler: AAP Atkinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KA Pollard
+    - 17.6:
+        non_striker: KA Pollard
+        bowler: AAP Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 18.1:
+        non_striker: N Pooran
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 18.2:
+        non_striker: KA Pollard
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 18.3:
+        non_striker: KA Pollard
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 18.4:
+        non_striker: N Pooran
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 18.5:
+        non_striker: KA Pollard
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 18.6:
+        non_striker: N Pooran
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KA Pollard
+    - 18.7:
+        non_striker: KA Pollard
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 18.8:
+        non_striker: KA Pollard
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 19.1:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 19.2:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 19.3:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Pollard
+    - 19.4:
+        non_striker: N Pooran
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 19.5:
+        non_striker: KA Pollard
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          kind: bowled
+    - 19.6:
+        non_striker: KA Pollard
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+        wicket:
+          player_out: Najibullah Zadran
+          fielders:
+          - AD Hales
+          kind: caught
+- 2nd innings:
+    team: Desert Vipers
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 0.2:
+        non_striker: Rohan Mustafa
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 0.3:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+        wicket:
+          player_out: Rohan Mustafa
+          fielders:
+          - N Pooran
+          kind: caught
+    - 0.4:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.5:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.6:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 1.1:
+        non_striker: C Munro
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.2:
+        non_striker: C Munro
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 1.3:
+        non_striker: C Munro
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 1.4:
+        non_striker: AD Hales
+        bowler: BTJ Wheal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Munro
+    - 1.5:
+        non_striker: AD Hales
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 1.6:
+        non_striker: AD Hales
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 1.7:
+        non_striker: AD Hales
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 2.1:
+        non_striker: C Munro
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.2:
+        non_striker: C Munro
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 2.3:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 2.4:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 2.5:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 2.6:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 3.1:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 3.2:
+        non_striker: C Munro
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 3.3:
+        non_striker: C Munro
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 3.4:
+        non_striker: C Munro
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Hales
+    - 3.5:
+        non_striker: C Munro
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 3.6:
+        non_striker: C Munro
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 3.7:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 4.1:
+        non_striker: C Munro
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 4.2:
+        non_striker: C Munro
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 4.3:
+        non_striker: C Munro
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 4.4:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 4.5:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 4.6:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 5.1:
+        non_striker: C Munro
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 5.2:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 5.3:
+        non_striker: C Munro
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 5.4:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 5.5:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 5.6:
+        non_striker: C Munro
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 6.1:
+        non_striker: AD Hales
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Munro
+    - 6.2:
+        non_striker: AD Hales
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Munro
+    - 6.3:
+        non_striker: AD Hales
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 6.4:
+        non_striker: AD Hales
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 6.5:
+        non_striker: C Munro
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Hales
+    - 6.6:
+        non_striker: C Munro
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 6.7:
+        non_striker: C Munro
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 6.8:
+        non_striker: C Munro
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 6.9:
+        non_striker: C Munro
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 7.1:
+        non_striker: AD Hales
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 7.2:
+        non_striker: AD Hales
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          fielders:
+          - KA Pollard
+          kind: caught
+    - 7.3:
+        non_striker: AD Hales
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 7.4:
+        non_striker: SW Billings
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 7.5:
+        non_striker: AD Hales
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+        wicket:
+          player_out: SW Billings
+          fielders:
+          - Waseem Muhammad
+          kind: caught
+    - 7.6:
+        non_striker: AD Hales
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 8.1:
+        non_striker: SE Rutherford
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 8.2:
+        non_striker: AD Hales
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 8.3:
+        non_striker: AD Hales
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 8.4:
+        non_striker: AD Hales
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 8.5:
+        non_striker: SE Rutherford
+        bowler: BTJ Wheal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Hales
+    - 8.6:
+        non_striker: SE Rutherford
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 8.7:
+        non_striker: SE Rutherford
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 9.1:
+        non_striker: SE Rutherford
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 9.2:
+        non_striker: AD Hales
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 9.3:
+        non_striker: AD Hales
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 9.4:
+        non_striker: AD Hales
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 9.5:
+        non_striker: AD Hales
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 9.6:
+        non_striker: SE Rutherford
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 10.1:
+        non_striker: SE Rutherford
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 10.2:
+        non_striker: AD Hales
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 10.3:
+        non_striker: SE Rutherford
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 10.4:
+        non_striker: SE Rutherford
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 10.5:
+        non_striker: SE Rutherford
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 10.6:
+        non_striker: AD Hales
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 11.1:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 11.2:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Rutherford
+    - 11.3:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 11.4:
+        non_striker: SE Rutherford
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 11.5:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 11.6:
+        non_striker: SE Rutherford
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 11.7:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 12.1:
+        non_striker: SE Rutherford
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 12.2:
+        non_striker: AD Hales
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 12.3:
+        non_striker: SE Rutherford
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 12.4:
+        non_striker: AD Hales
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 12.5:
+        non_striker: SE Rutherford
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AD Hales
+    - 12.6:
+        non_striker: AD Hales
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 13.1:
+        non_striker: SE Rutherford
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 13.2:
+        non_striker: AD Hales
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 13.3:
+        non_striker: AD Hales
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 13.4:
+        non_striker: AD Hales
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 13.5:
+        non_striker: AD Hales
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 13.6:
+        non_striker: SE Rutherford
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 14.1:
+        non_striker: SE Rutherford
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 14.2:
+        non_striker: SE Rutherford
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 14.3:
+        non_striker: SE Rutherford
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 14.4:
+        non_striker: SE Rutherford
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 14.5:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 14.6:
+        non_striker: AD Hales
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 15.1:
+        non_striker: SE Rutherford
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 15.2:
+        non_striker: SE Rutherford
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 15.3:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 15.4:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 15.5:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 15.6:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 16.1:
+        non_striker: SE Rutherford
+        bowler: BTJ Wheal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AD Hales
+    - 16.2:
+        non_striker: AD Hales
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 16.3:
+        non_striker: AD Hales
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford

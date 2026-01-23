@@ -1,0 +1,2220 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-02-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abu Dhabi
+  competition: International League T20
+  dates:
+  - '2024-02-10'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Dubai Capitals
+    by:
+      runs: 19
+  overs: 20
+  player_of_match:
+  - Haider Ali
+  players:
+    Dubai Capitals:
+    - Zahir Khan
+    - T Banton
+    - MDE Holden
+    - JL du Plooy
+    - SW Billings
+    - Sikandar Raza
+    - BR Dunk
+    - MD Shanaka
+    - SC Kuggeleijn
+    - OP Stone
+    - Akif Raja
+    - Haider Ali
+    MI Emirates:
+    - Waqar Salamkheil
+    - Waseem Muhammad
+    - MDKJ Perera
+    - ADS Fletcher
+    - CG Benjamin
+    - DR Mousley
+    - KA Pollard
+    - JA Thompson
+    - DJ Bravo
+    - V Viyaskanth
+    - TA Boult
+    - Muhammad Rohid
+  registry:
+    people:
+      ADS Fletcher: 1bae756b
+      Akbar Ali: e753931d
+      Akif Raja: 9d0344f3
+      Aleem Dar: f02778d1
+      BR Dunk: 272d796e
+      CG Benjamin: 95a15317
+      DJ Bravo: 87e562a9
+      DR Mousley: 876dbe2d
+      Haider Ali: dd572696
+      JA Thompson: 1d2f290a
+      JL du Plooy: 6e6fb538
+      KA Pollard: a757b0d8
+      MD Shanaka: 3ff033bb
+      MDE Holden: d34a2268
+      MDKJ Perera: f21043a5
+      Muhammad Rohid: 9103ecdb
+      OP Stone: 3f659464
+      P Wilson: 68304a36
+      RSA Palliyaguruge: 4339c19d
+      SC Kuggeleijn: fef92afc
+      SJA Taufel: 4b43d5ac
+      SW Billings: c16d4035
+      Sikandar Raza: 26d041c4
+      T Banton: 25f7b7d6
+      TA Boult: a818c1be
+      V Viyaskanth: 03a83c50
+      Waqar Salamkheil: 3f1066d0
+      Waseem Muhammad: 6f02fe2a
+      Zahir Khan: 786b7fe8
+  teams:
+  - Dubai Capitals
+  - MI Emirates
+  toss:
+    winner: MI Emirates
+    decision: field
+  umpires:
+  - Akbar Ali
+  - RSA Palliyaguruge
+  venue: Zayed Cricket Stadium, Abu Dhabi
+innings:
+- 1st innings:
+    team: Dubai Capitals
+    deliveries:
+    - 0.1:
+        non_striker: MDE Holden
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 0.2:
+        non_striker: MDE Holden
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 0.3:
+        non_striker: MDE Holden
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 0.4:
+        non_striker: MDE Holden
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 0.5:
+        non_striker: MDE Holden
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 0.6:
+        non_striker: MDE Holden
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 1.1:
+        non_striker: MDE Holden
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 1.2:
+        non_striker: T Banton
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDE Holden
+    - 1.3:
+        non_striker: T Banton
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MDE Holden
+    - 1.4:
+        non_striker: T Banton
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDE Holden
+    - 1.5:
+        non_striker: T Banton
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDE Holden
+    - 1.6:
+        non_striker: T Banton
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDE Holden
+    - 2.1:
+        non_striker: T Banton
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDE Holden
+    - 2.2:
+        non_striker: T Banton
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDE Holden
+    - 2.3:
+        non_striker: T Banton
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDE Holden
+    - 2.4:
+        non_striker: T Banton
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDE Holden
+    - 2.5:
+        non_striker: T Banton
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDE Holden
+    - 2.6:
+        non_striker: T Banton
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDE Holden
+    - 3.1:
+        non_striker: T Banton
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDE Holden
+    - 3.2:
+        non_striker: T Banton
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDE Holden
+    - 3.3:
+        non_striker: T Banton
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDE Holden
+    - 3.4:
+        non_striker: T Banton
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDE Holden
+    - 3.5:
+        non_striker: T Banton
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDE Holden
+    - 3.6:
+        non_striker: T Banton
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDE Holden
+    - 4.1:
+        non_striker: MDE Holden
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 4.2:
+        non_striker: MDE Holden
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 4.3:
+        non_striker: MDE Holden
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 4.4:
+        non_striker: T Banton
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDE Holden
+    - 4.5:
+        non_striker: T Banton
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDE Holden
+    - 4.6:
+        non_striker: T Banton
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDE Holden
+    - 5.1:
+        non_striker: MDE Holden
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: T Banton
+    - 5.2:
+        non_striker: T Banton
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDE Holden
+    - 5.3:
+        non_striker: MDE Holden
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 5.4:
+        non_striker: T Banton
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDE Holden
+    - 5.5:
+        non_striker: T Banton
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDE Holden
+    - 5.6:
+        non_striker: MDE Holden
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 6.1:
+        non_striker: T Banton
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDE Holden
+    - 6.2:
+        non_striker: T Banton
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDE Holden
+    - 6.3:
+        non_striker: MDE Holden
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 6.4:
+        non_striker: MDE Holden
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 6.5:
+        non_striker: MDE Holden
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 6.6:
+        non_striker: T Banton
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDE Holden
+    - 7.1:
+        non_striker: T Banton
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDE Holden
+    - 7.2:
+        non_striker: T Banton
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MDE Holden
+    - 7.3:
+        non_striker: MDE Holden
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 7.4:
+        non_striker: T Banton
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDE Holden
+    - 7.5:
+        non_striker: MDE Holden
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 7.6:
+        non_striker: MDE Holden
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 8.1:
+        non_striker: MDE Holden
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 8.2:
+        non_striker: T Banton
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDE Holden
+    - 8.3:
+        non_striker: MDE Holden
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 8.4:
+        non_striker: MDE Holden
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 8.5:
+        non_striker: T Banton
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDE Holden
+    - 8.6:
+        non_striker: MDE Holden
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 9.1:
+        non_striker: T Banton
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDE Holden
+    - 9.2:
+        non_striker: T Banton
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDE Holden
+        wicket:
+          player_out: MDE Holden
+          kind: lbw
+    - 9.3:
+        non_striker: T Banton
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 9.4:
+        non_striker: T Banton
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 9.5:
+        non_striker: T Banton
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 9.6:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 10.1:
+        non_striker: JL du Plooy
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 10.2:
+        non_striker: JL du Plooy
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Banton
+    - 10.3:
+        non_striker: JL du Plooy
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+        wicket:
+          player_out: T Banton
+          fielders:
+          - TA Boult
+          kind: caught
+    - 10.4:
+        non_striker: JL du Plooy
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Billings
+    - 10.5:
+        non_striker: JL du Plooy
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Billings
+    - 10.6:
+        non_striker: JL du Plooy
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 10.7:
+        non_striker: SW Billings
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 10.8:
+        non_striker: SW Billings
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL du Plooy
+    - 10.9:
+        non_striker: SW Billings
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL du Plooy
+    - 10.10:
+        non_striker: SW Billings
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 11.1:
+        non_striker: SW Billings
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 11.2:
+        non_striker: SW Billings
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL du Plooy
+    - 11.3:
+        non_striker: SW Billings
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 11.4:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 11.5:
+        non_striker: JL du Plooy
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 11.6:
+        non_striker: SW Billings
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL du Plooy
+    - 11.7:
+        non_striker: SW Billings
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL du Plooy
+    - 12.1:
+        non_striker: JL du Plooy
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 12.2:
+        non_striker: SW Billings
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL du Plooy
+    - 12.3:
+        non_striker: SW Billings
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+        wicket:
+          player_out: JL du Plooy
+          kind: bowled
+    - 12.4:
+        non_striker: SW Billings
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 12.5:
+        non_striker: SW Billings
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 12.6:
+        non_striker: SW Billings
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 13.1:
+        non_striker: Sikandar Raza
+        bowler: V Viyaskanth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SW Billings
+    - 13.2:
+        non_striker: SW Billings
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          kind: bowled
+    - 13.3:
+        non_striker: SW Billings
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Dunk
+    - 13.4:
+        non_striker: BR Dunk
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 13.5:
+        non_striker: SW Billings
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 13.6:
+        non_striker: SW Billings
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BR Dunk
+    - 14.1:
+        non_striker: BR Dunk
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+        wicket:
+          player_out: SW Billings
+          fielders:
+          - DJ Bravo
+          kind: caught
+    - 14.2:
+        non_striker: BR Dunk
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 14.3:
+        non_striker: BR Dunk
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 14.4:
+        non_striker: BR Dunk
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 14.5:
+        non_striker: BR Dunk
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 14.6:
+        non_striker: MD Shanaka
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Dunk
+    - 15.1:
+        non_striker: MD Shanaka
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+        wicket:
+          player_out: BR Dunk
+          fielders:
+          - JA Thompson
+          kind: caught
+    - 15.2:
+        non_striker: MD Shanaka
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Kuggeleijn
+    - 15.3:
+        non_striker: MD Shanaka
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Kuggeleijn
+    - 15.4:
+        non_striker: SC Kuggeleijn
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 15.5:
+        non_striker: SC Kuggeleijn
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 15.6:
+        non_striker: SC Kuggeleijn
+        bowler: V Viyaskanth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 16.1:
+        non_striker: MD Shanaka
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Kuggeleijn
+    - 16.2:
+        non_striker: MD Shanaka
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Kuggeleijn
+    - 16.3:
+        non_striker: SC Kuggeleijn
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 16.4:
+        non_striker: MD Shanaka
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Kuggeleijn
+    - 16.5:
+        non_striker: SC Kuggeleijn
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 16.6:
+        non_striker: SC Kuggeleijn
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 17.1:
+        non_striker: MD Shanaka
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Kuggeleijn
+    - 17.2:
+        non_striker: MD Shanaka
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Kuggeleijn
+    - 17.3:
+        non_striker: MD Shanaka
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Kuggeleijn
+    - 17.4:
+        non_striker: SC Kuggeleijn
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 17.5:
+        non_striker: MD Shanaka
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Kuggeleijn
+    - 17.6:
+        non_striker: MD Shanaka
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Kuggeleijn
+    - 18.1:
+        non_striker: MD Shanaka
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: MDKJ Perera
+            out: Waqar Salamkheil
+            team: MI Emirates
+            reason: impact_player
+        batsman: SC Kuggeleijn
+    - 18.2:
+        non_striker: SC Kuggeleijn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 18.3:
+        non_striker: SC Kuggeleijn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+        wicket:
+          player_out: MD Shanaka
+          fielders:
+          - ADS Fletcher
+          kind: caught
+    - 18.4:
+        non_striker: SC Kuggeleijn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OP Stone
+    - 18.5:
+        non_striker: OP Stone
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Kuggeleijn
+    - 18.6:
+        non_striker: SC Kuggeleijn
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Stone
+    - 19.1:
+        non_striker: OP Stone
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Kuggeleijn
+    - 19.2:
+        non_striker: OP Stone
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Kuggeleijn
+    - 19.3:
+        non_striker: SC Kuggeleijn
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OP Stone
+        wicket:
+          player_out: OP Stone
+          fielders:
+          - Waseem Muhammad
+          kind: caught
+    - 19.4:
+        non_striker: SC Kuggeleijn
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akif Raja
+        wicket:
+          player_out: SC Kuggeleijn
+          fielders:
+          - CG Benjamin
+          kind: run out
+    - 19.5:
+        non_striker: Akif Raja
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Ali
+    - 19.6:
+        non_striker: Haider Ali
+        bowler: JA Thompson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Akif Raja
+- 2nd innings:
+    team: MI Emirates
+    deliveries:
+    - 0.1:
+        non_striker: MDKJ Perera
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.2:
+        non_striker: MDKJ Perera
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.3:
+        non_striker: MDKJ Perera
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.4:
+        non_striker: MDKJ Perera
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.5:
+        non_striker: MDKJ Perera
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 0.6:
+        non_striker: MDKJ Perera
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.1:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 1.2:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MDKJ Perera
+    - 1.3:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MDKJ Perera
+    - 1.4:
+        non_striker: MDKJ Perera
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.5:
+        non_striker: MDKJ Perera
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 1.6:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: MDKJ Perera
+    - 1.7:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 2.1:
+        non_striker: Waseem Muhammad
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDKJ Perera
+    - 2.2:
+        non_striker: Waseem Muhammad
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MDKJ Perera
+    - 2.3:
+        non_striker: Waseem Muhammad
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+        wicket:
+          player_out: MDKJ Perera
+          kind: bowled
+    - 2.4:
+        non_striker: Waseem Muhammad
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 2.5:
+        non_striker: Waseem Muhammad
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.6:
+        non_striker: Waseem Muhammad
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 2.7:
+        non_striker: ADS Fletcher
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 3.1:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 3.2:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 3.3:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 3.4:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 3.5:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 3.6:
+        non_striker: Waseem Muhammad
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 4.1:
+        non_striker: ADS Fletcher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 4.2:
+        non_striker: Waseem Muhammad
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.3:
+        non_striker: Waseem Muhammad
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 4.4:
+        non_striker: ADS Fletcher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 4.5:
+        non_striker: Waseem Muhammad
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 4.6:
+        non_striker: ADS Fletcher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          kind: bowled
+    - 5.1:
+        non_striker: CG Benjamin
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ADS Fletcher
+    - 5.2:
+        non_striker: CG Benjamin
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 5.3:
+        non_striker: CG Benjamin
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 5.4:
+        non_striker: ADS Fletcher
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Benjamin
+    - 5.5:
+        non_striker: ADS Fletcher
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Benjamin
+    - 5.6:
+        non_striker: ADS Fletcher
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Benjamin
+    - 5.7:
+        non_striker: ADS Fletcher
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CG Benjamin
+    - 5.8:
+        non_striker: ADS Fletcher
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Benjamin
+    - 6.1:
+        non_striker: CG Benjamin
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        replacements:
+          match:
+          - in: Zahir Khan
+            out: BR Dunk
+            team: Dubai Capitals
+            reason: impact_player
+        batsman: ADS Fletcher
+    - 6.2:
+        non_striker: CG Benjamin
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 6.3:
+        non_striker: ADS Fletcher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Benjamin
+    - 6.4:
+        non_striker: CG Benjamin
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 6.5:
+        non_striker: ADS Fletcher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Benjamin
+    - 6.6:
+        non_striker: ADS Fletcher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Benjamin
+    - 7.1:
+        non_striker: CG Benjamin
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 7.2:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Benjamin
+    - 7.3:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Benjamin
+        wicket:
+          player_out: CG Benjamin
+          kind: lbw
+    - 7.4:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Mousley
+    - 7.5:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Mousley
+    - 7.6:
+        non_striker: DR Mousley
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 8.1:
+        non_striker: ADS Fletcher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Mousley
+    - 8.2:
+        non_striker: ADS Fletcher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Mousley
+    - 8.3:
+        non_striker: ADS Fletcher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Mousley
+    - 8.4:
+        non_striker: DR Mousley
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 8.5:
+        non_striker: ADS Fletcher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Mousley
+        wicket:
+          player_out: DR Mousley
+          fielders:
+          - T Banton
+          kind: caught
+    - 8.6:
+        non_striker: ADS Fletcher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 9.1:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Pollard
+    - 9.2:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 9.3:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 9.4:
+        non_striker: KA Pollard
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 9.5:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+        wicket:
+          player_out: KA Pollard
+          kind: caught and bowled
+    - 9.6:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Thompson
+    - 10.1:
+        non_striker: JA Thompson
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 10.2:
+        non_striker: JA Thompson
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 10.3:
+        non_striker: ADS Fletcher
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Thompson
+    - 10.4:
+        non_striker: JA Thompson
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 10.5:
+        non_striker: ADS Fletcher
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Thompson
+    - 10.6:
+        non_striker: JA Thompson
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 11.1:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Thompson
+    - 11.2:
+        non_striker: JA Thompson
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 11.3:
+        non_striker: JA Thompson
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 11.4:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Thompson
+    - 11.5:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Thompson
+    - 11.6:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Thompson
+    - 12.1:
+        non_striker: ADS Fletcher
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Thompson
+    - 12.2:
+        non_striker: JA Thompson
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 12.3:
+        non_striker: JA Thompson
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 12.4:
+        non_striker: ADS Fletcher
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Thompson
+    - 12.5:
+        non_striker: ADS Fletcher
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Thompson
+    - 12.6:
+        non_striker: JA Thompson
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 13.1:
+        non_striker: JA Thompson
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 13.2:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Thompson
+    - 13.3:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Thompson
+    - 13.4:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Thompson
+    - 13.5:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Thompson
+    - 13.6:
+        non_striker: ADS Fletcher
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Thompson
+    - 14.1:
+        non_striker: ADS Fletcher
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Thompson
+    - 14.2:
+        non_striker: JA Thompson
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 14.3:
+        non_striker: ADS Fletcher
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Thompson
+    - 14.4:
+        non_striker: JA Thompson
+        bowler: Sikandar Raza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ADS Fletcher
+    - 14.5:
+        non_striker: JA Thompson
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 14.6:
+        non_striker: JA Thompson
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 14.7:
+        non_striker: JA Thompson
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 15.1:
+        non_striker: JA Thompson
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 15.2:
+        non_striker: ADS Fletcher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Thompson
+    - 15.3:
+        non_striker: JA Thompson
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 15.4:
+        non_striker: ADS Fletcher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Thompson
+    - 15.5:
+        non_striker: JA Thompson
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: ADS Fletcher
+          kind: lbw
+    - 15.6:
+        non_striker: JA Thompson
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 16.1:
+        non_striker: DJ Bravo
+        bowler: Sikandar Raza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Thompson
+    - 16.2:
+        non_striker: DJ Bravo
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Thompson
+        wicket:
+          player_out: JA Thompson
+          kind: lbw
+    - 16.3:
+        non_striker: DJ Bravo
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 16.4:
+        non_striker: V Viyaskanth
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 16.5:
+        non_striker: DJ Bravo
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 16.6:
+        non_striker: V Viyaskanth
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 16.7:
+        non_striker: DJ Bravo
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 17.1:
+        non_striker: DJ Bravo
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 17.2:
+        non_striker: V Viyaskanth
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 17.3:
+        non_striker: DJ Bravo
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 17.4:
+        non_striker: DJ Bravo
+        bowler: OP Stone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Viyaskanth
+    - 17.5:
+        non_striker: DJ Bravo
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 17.6:
+        non_striker: DJ Bravo
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 17.7:
+        non_striker: DJ Bravo
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 18.1:
+        non_striker: DJ Bravo
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 18.2:
+        non_striker: V Viyaskanth
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 18.3:
+        non_striker: DJ Bravo
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Viyaskanth
+    - 18.4:
+        non_striker: DJ Bravo
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 18.5:
+        non_striker: V Viyaskanth
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 18.6:
+        non_striker: DJ Bravo
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: V Viyaskanth
+    - 19.1:
+        non_striker: V Viyaskanth
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 19.2:
+        non_striker: V Viyaskanth
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Bravo
+    - 19.3:
+        non_striker: V Viyaskanth
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+        wicket:
+          player_out: DJ Bravo
+          kind: bowled
+    - 19.4:
+        non_striker: V Viyaskanth
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Boult
+    - 19.5:
+        non_striker: TA Boult
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Viyaskanth
+    - 19.6:
+        non_striker: V Viyaskanth
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Boult

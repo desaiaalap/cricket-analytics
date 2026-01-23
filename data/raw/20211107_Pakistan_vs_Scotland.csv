@@ -1,0 +1,258 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Pakistan,0.1,Mohammad Rizwan,Hamza Tahir,0,{},{}
+1st innings,Pakistan,0.2,Mohammad Rizwan,Hamza Tahir,0,{},{}
+1st innings,Pakistan,0.3,Mohammad Rizwan,Hamza Tahir,0,{},{}
+1st innings,Pakistan,0.4,Mohammad Rizwan,Hamza Tahir,0,{},{}
+1st innings,Pakistan,0.5,Mohammad Rizwan,Hamza Tahir,1,{},{}
+1st innings,Pakistan,0.6,Babar Azam,Hamza Tahir,0,{},{}
+1st innings,Pakistan,1.1,Mohammad Rizwan,BTJ Wheal,2,{},{}
+1st innings,Pakistan,1.2,Mohammad Rizwan,BTJ Wheal,0,{},{}
+1st innings,Pakistan,1.3,Mohammad Rizwan,BTJ Wheal,1,{},{}
+1st innings,Pakistan,1.4,Babar Azam,BTJ Wheal,1,{},{}
+1st innings,Pakistan,1.5,Mohammad Rizwan,BTJ Wheal,1,{},{}
+1st innings,Pakistan,1.6,Babar Azam,BTJ Wheal,1,{},{}
+1st innings,Pakistan,2.1,Babar Azam,SM Sharif,0,{},{}
+1st innings,Pakistan,2.2,Babar Azam,SM Sharif,1,{},{}
+1st innings,Pakistan,2.3,Mohammad Rizwan,SM Sharif,1,{},{}
+1st innings,Pakistan,2.4,Babar Azam,SM Sharif,0,{},{}
+1st innings,Pakistan,2.5,Babar Azam,SM Sharif,4,{},{}
+1st innings,Pakistan,2.6,Babar Azam,SM Sharif,1,{},{}
+1st innings,Pakistan,3.1,Babar Azam,MRJ Watt,1,{'wides': 1},{}
+1st innings,Pakistan,3.2,Babar Azam,MRJ Watt,1,{'wides': 1},{}
+1st innings,Pakistan,3.3,Babar Azam,MRJ Watt,0,{},{}
+1st innings,Pakistan,3.4,Babar Azam,MRJ Watt,1,{'wides': 1},{}
+1st innings,Pakistan,3.5,Babar Azam,MRJ Watt,0,{},{}
+1st innings,Pakistan,3.6,Babar Azam,MRJ Watt,0,{},{}
+1st innings,Pakistan,3.7,Babar Azam,MRJ Watt,0,{},{}
+1st innings,Pakistan,3.8,Babar Azam,MRJ Watt,1,{},{}
+1st innings,Pakistan,3.9,Mohammad Rizwan,MRJ Watt,0,{},{}
+1st innings,Pakistan,4.1,Babar Azam,BTJ Wheal,2,{},{}
+1st innings,Pakistan,4.2,Babar Azam,BTJ Wheal,4,{},{}
+1st innings,Pakistan,4.3,Babar Azam,BTJ Wheal,1,{},{}
+1st innings,Pakistan,4.4,Mohammad Rizwan,BTJ Wheal,6,{},{}
+1st innings,Pakistan,4.5,Mohammad Rizwan,BTJ Wheal,0,{},{}
+1st innings,Pakistan,4.6,Mohammad Rizwan,BTJ Wheal,1,{},{}
+1st innings,Pakistan,5.1,Mohammad Rizwan,SM Sharif,0,{},{}
+1st innings,Pakistan,5.2,Mohammad Rizwan,SM Sharif,1,{},{}
+1st innings,Pakistan,5.3,Babar Azam,SM Sharif,1,{},{}
+1st innings,Pakistan,5.4,Mohammad Rizwan,SM Sharif,0,{},{}
+1st innings,Pakistan,5.5,Mohammad Rizwan,SM Sharif,1,{},{}
+1st innings,Pakistan,5.6,Babar Azam,SM Sharif,0,{},{}
+1st innings,Pakistan,6.1,Mohammad Rizwan,Hamza Tahir,0,{},"{'player_out': 'Mohammad Rizwan', 'fielders': ['MH Cross'], 'kind': 'caught'}"
+1st innings,Pakistan,6.2,Fakhar Zaman,Hamza Tahir,0,{},{}
+1st innings,Pakistan,6.3,Fakhar Zaman,Hamza Tahir,1,{},{}
+1st innings,Pakistan,6.4,Babar Azam,Hamza Tahir,1,{},{}
+1st innings,Pakistan,6.5,Fakhar Zaman,Hamza Tahir,0,{},{}
+1st innings,Pakistan,6.6,Fakhar Zaman,Hamza Tahir,1,{},{}
+1st innings,Pakistan,7.1,Fakhar Zaman,RD Berrington,1,{},{}
+1st innings,Pakistan,7.2,Babar Azam,RD Berrington,2,{},{}
+1st innings,Pakistan,7.3,Babar Azam,RD Berrington,1,{},{}
+1st innings,Pakistan,7.4,Fakhar Zaman,RD Berrington,1,{},{}
+1st innings,Pakistan,7.5,Babar Azam,RD Berrington,1,{'wides': 1},{}
+1st innings,Pakistan,7.6,Babar Azam,RD Berrington,1,{},{}
+1st innings,Pakistan,7.7,Fakhar Zaman,RD Berrington,0,{},{}
+1st innings,Pakistan,8.1,Babar Azam,MRJ Watt,6,{},{}
+1st innings,Pakistan,8.2,Babar Azam,MRJ Watt,2,{'legbyes': 2},{}
+1st innings,Pakistan,8.3,Babar Azam,MRJ Watt,1,{},{}
+1st innings,Pakistan,8.4,Fakhar Zaman,MRJ Watt,1,{},{}
+1st innings,Pakistan,8.5,Babar Azam,MRJ Watt,1,{},{}
+1st innings,Pakistan,8.6,Fakhar Zaman,MRJ Watt,1,{},{}
+1st innings,Pakistan,9.1,Fakhar Zaman,CN Greaves,2,{},{}
+1st innings,Pakistan,9.2,Fakhar Zaman,CN Greaves,0,{},{}
+1st innings,Pakistan,9.3,Fakhar Zaman,CN Greaves,0,{},{}
+1st innings,Pakistan,9.4,Fakhar Zaman,CN Greaves,0,{},"{'player_out': 'Fakhar Zaman', 'fielders': ['MA Leask'], 'kind': 'caught'}"
+1st innings,Pakistan,9.5,Mohammad Hafeez,CN Greaves,0,{},{}
+1st innings,Pakistan,9.6,Mohammad Hafeez,CN Greaves,1,{},{}
+1st innings,Pakistan,10.1,Mohammad Hafeez,Hamza Tahir,0,{},{}
+1st innings,Pakistan,10.2,Mohammad Hafeez,Hamza Tahir,1,{},{}
+1st innings,Pakistan,10.3,Babar Azam,Hamza Tahir,0,{},{}
+1st innings,Pakistan,10.4,Babar Azam,Hamza Tahir,1,{},{}
+1st innings,Pakistan,10.5,Mohammad Hafeez,Hamza Tahir,2,{},{}
+1st innings,Pakistan,10.6,Mohammad Hafeez,Hamza Tahir,4,{},{}
+1st innings,Pakistan,11.1,Babar Azam,CN Greaves,4,{},{}
+1st innings,Pakistan,11.2,Babar Azam,CN Greaves,1,{},{}
+1st innings,Pakistan,11.3,Mohammad Hafeez,CN Greaves,0,{},{}
+1st innings,Pakistan,11.4,Mohammad Hafeez,CN Greaves,0,{},{}
+1st innings,Pakistan,11.5,Mohammad Hafeez,CN Greaves,1,{},{}
+1st innings,Pakistan,11.6,Babar Azam,CN Greaves,1,{},{}
+1st innings,Pakistan,12.1,Babar Azam,MRJ Watt,0,{},{}
+1st innings,Pakistan,12.2,Babar Azam,MRJ Watt,1,{'wides': 1},{}
+1st innings,Pakistan,12.3,Babar Azam,MRJ Watt,4,{},{}
+1st innings,Pakistan,12.4,Babar Azam,MRJ Watt,4,{},{}
+1st innings,Pakistan,12.5,Babar Azam,MRJ Watt,1,{},{}
+1st innings,Pakistan,12.6,Mohammad Hafeez,MRJ Watt,1,{},{}
+1st innings,Pakistan,12.7,Babar Azam,MRJ Watt,1,{},{}
+1st innings,Pakistan,13.1,Babar Azam,RD Berrington,1,{'wides': 1},{}
+1st innings,Pakistan,13.2,Babar Azam,RD Berrington,1,{},{}
+1st innings,Pakistan,13.3,Mohammad Hafeez,RD Berrington,4,{},{}
+1st innings,Pakistan,13.4,Mohammad Hafeez,RD Berrington,2,{},{}
+1st innings,Pakistan,13.5,Mohammad Hafeez,RD Berrington,1,{},{}
+1st innings,Pakistan,13.6,Babar Azam,RD Berrington,1,{},{}
+1st innings,Pakistan,13.7,Mohammad Hafeez,RD Berrington,0,{},{}
+1st innings,Pakistan,14.1,Babar Azam,SM Sharif,1,{'legbyes': 1},{}
+1st innings,Pakistan,14.2,Mohammad Hafeez,SM Sharif,6,{},{}
+1st innings,Pakistan,14.3,Mohammad Hafeez,SM Sharif,0,{},{}
+1st innings,Pakistan,14.4,Mohammad Hafeez,SM Sharif,4,{},{}
+1st innings,Pakistan,14.5,Mohammad Hafeez,SM Sharif,4,{},{}
+1st innings,Pakistan,14.6,Mohammad Hafeez,SM Sharif,0,{},"{'player_out': 'Mohammad Hafeez', 'kind': 'lbw'}"
+1st innings,Pakistan,15.1,Babar Azam,Hamza Tahir,1,{},{}
+1st innings,Pakistan,15.2,Shoaib Malik,Hamza Tahir,1,{},{}
+1st innings,Pakistan,15.3,Babar Azam,Hamza Tahir,6,{},{}
+1st innings,Pakistan,15.4,Babar Azam,Hamza Tahir,1,{},{}
+1st innings,Pakistan,15.5,Shoaib Malik,Hamza Tahir,2,{},{}
+1st innings,Pakistan,15.6,Shoaib Malik,Hamza Tahir,1,{},{}
+1st innings,Pakistan,16.1,Shoaib Malik,MRJ Watt,1,{},{}
+1st innings,Pakistan,16.2,Babar Azam,MRJ Watt,0,{},{}
+1st innings,Pakistan,16.3,Babar Azam,MRJ Watt,1,{},{}
+1st innings,Pakistan,16.4,Shoaib Malik,MRJ Watt,6,{},{}
+1st innings,Pakistan,16.5,Shoaib Malik,MRJ Watt,1,{},{}
+1st innings,Pakistan,16.6,Babar Azam,MRJ Watt,6,{},{}
+1st innings,Pakistan,17.1,Shoaib Malik,CN Greaves,1,{},{}
+1st innings,Pakistan,17.2,Babar Azam,CN Greaves,2,{},{}
+1st innings,Pakistan,17.3,Babar Azam,CN Greaves,0,{},"{'player_out': 'Babar Azam', 'fielders': ['HG Munsey'], 'kind': 'caught'}"
+1st innings,Pakistan,17.4,Shoaib Malik,CN Greaves,2,{},{}
+1st innings,Pakistan,17.5,Shoaib Malik,CN Greaves,2,{},{}
+1st innings,Pakistan,17.6,Shoaib Malik,CN Greaves,0,{},{}
+1st innings,Pakistan,18.1,Asif Ali,SM Sharif,1,{},{}
+1st innings,Pakistan,18.2,Shoaib Malik,SM Sharif,2,{},{}
+1st innings,Pakistan,18.3,Shoaib Malik,SM Sharif,6,{},{}
+1st innings,Pakistan,18.4,Shoaib Malik,SM Sharif,1,{},{}
+1st innings,Pakistan,18.5,Asif Ali,SM Sharif,1,{},{}
+1st innings,Pakistan,18.6,Shoaib Malik,SM Sharif,6,{},{}
+1st innings,Pakistan,19.1,Asif Ali,CN Greaves,2,{},{}
+1st innings,Pakistan,19.2,Asif Ali,CN Greaves,1,{},{}
+1st innings,Pakistan,19.3,Shoaib Malik,CN Greaves,6,{},{}
+1st innings,Pakistan,19.4,Shoaib Malik,CN Greaves,4,{},{}
+1st innings,Pakistan,19.5,Shoaib Malik,CN Greaves,6,{},{}
+1st innings,Pakistan,19.6,Shoaib Malik,CN Greaves,1,{'wides': 1},{}
+1st innings,Pakistan,19.7,Shoaib Malik,CN Greaves,6,{},{}
+2nd innings,Scotland,0.1,HG Munsey,Shaheen Shah Afridi,0,{},{}
+2nd innings,Scotland,0.2,HG Munsey,Shaheen Shah Afridi,0,{},{}
+2nd innings,Scotland,0.3,HG Munsey,Shaheen Shah Afridi,1,{'wides': 1},{}
+2nd innings,Scotland,0.4,HG Munsey,Shaheen Shah Afridi,0,{},{}
+2nd innings,Scotland,0.5,HG Munsey,Shaheen Shah Afridi,4,{},{}
+2nd innings,Scotland,0.6,HG Munsey,Shaheen Shah Afridi,0,{},{}
+2nd innings,Scotland,0.7,HG Munsey,Shaheen Shah Afridi,0,{},{}
+2nd innings,Scotland,1.1,KJ Coetzer,Imad Wasim,0,{},{}
+2nd innings,Scotland,1.2,KJ Coetzer,Imad Wasim,0,{},{}
+2nd innings,Scotland,1.3,KJ Coetzer,Imad Wasim,4,{},{}
+2nd innings,Scotland,1.4,KJ Coetzer,Imad Wasim,0,{},{}
+2nd innings,Scotland,1.5,KJ Coetzer,Imad Wasim,1,{},{}
+2nd innings,Scotland,1.6,HG Munsey,Imad Wasim,1,{},{}
+2nd innings,Scotland,2.1,HG Munsey,Shaheen Shah Afridi,1,{'wides': 1},{}
+2nd innings,Scotland,2.2,HG Munsey,Shaheen Shah Afridi,1,{'noballs': 1},{}
+2nd innings,Scotland,2.3,HG Munsey,Shaheen Shah Afridi,1,{},{}
+2nd innings,Scotland,2.4,KJ Coetzer,Shaheen Shah Afridi,0,{},{}
+2nd innings,Scotland,2.5,KJ Coetzer,Shaheen Shah Afridi,1,{},{}
+2nd innings,Scotland,2.6,HG Munsey,Shaheen Shah Afridi,4,{},{}
+2nd innings,Scotland,2.7,HG Munsey,Shaheen Shah Afridi,0,{},{}
+2nd innings,Scotland,2.8,HG Munsey,Shaheen Shah Afridi,0,{},{}
+2nd innings,Scotland,3.1,KJ Coetzer,Imad Wasim,0,{},{}
+2nd innings,Scotland,3.2,KJ Coetzer,Imad Wasim,0,{},{}
+2nd innings,Scotland,3.3,KJ Coetzer,Imad Wasim,0,{},{}
+2nd innings,Scotland,3.4,KJ Coetzer,Imad Wasim,1,{},{}
+2nd innings,Scotland,3.5,HG Munsey,Imad Wasim,0,{},{}
+2nd innings,Scotland,3.6,HG Munsey,Imad Wasim,0,{},{}
+2nd innings,Scotland,4.1,KJ Coetzer,Haris Rauf,1,{},{}
+2nd innings,Scotland,4.2,HG Munsey,Haris Rauf,0,{},{}
+2nd innings,Scotland,4.3,HG Munsey,Haris Rauf,1,{},{}
+2nd innings,Scotland,4.4,KJ Coetzer,Haris Rauf,1,{},{}
+2nd innings,Scotland,4.5,HG Munsey,Haris Rauf,0,{},{}
+2nd innings,Scotland,4.6,HG Munsey,Haris Rauf,0,{},{}
+2nd innings,Scotland,5.1,KJ Coetzer,Hasan Ali,0,{},{}
+2nd innings,Scotland,5.2,KJ Coetzer,Hasan Ali,0,{},{}
+2nd innings,Scotland,5.3,KJ Coetzer,Hasan Ali,0,{},"{'player_out': 'KJ Coetzer', 'kind': 'bowled'}"
+2nd innings,Scotland,5.4,MH Cross,Hasan Ali,0,{},{}
+2nd innings,Scotland,5.5,MH Cross,Hasan Ali,1,{'legbyes': 1},{}
+2nd innings,Scotland,5.6,HG Munsey,Hasan Ali,0,{},{}
+2nd innings,Scotland,6.1,MH Cross,Shadab Khan,0,{},{}
+2nd innings,Scotland,6.2,MH Cross,Shadab Khan,1,{},{}
+2nd innings,Scotland,6.3,HG Munsey,Shadab Khan,1,{},{}
+2nd innings,Scotland,6.4,MH Cross,Shadab Khan,1,{'byes': 1},{}
+2nd innings,Scotland,6.5,HG Munsey,Shadab Khan,1,{},{}
+2nd innings,Scotland,6.6,MH Cross,Shadab Khan,2,{},{}
+2nd innings,Scotland,7.1,HG Munsey,Imad Wasim,0,{},{}
+2nd innings,Scotland,7.2,HG Munsey,Imad Wasim,1,{'wides': 1},{}
+2nd innings,Scotland,7.3,HG Munsey,Imad Wasim,1,{'wides': 1},{}
+2nd innings,Scotland,7.4,HG Munsey,Imad Wasim,1,{},{}
+2nd innings,Scotland,7.5,MH Cross,Imad Wasim,1,{},{}
+2nd innings,Scotland,7.6,HG Munsey,Imad Wasim,1,{},{}
+2nd innings,Scotland,7.7,MH Cross,Imad Wasim,1,{},{}
+2nd innings,Scotland,7.8,HG Munsey,Imad Wasim,0,{},"{'player_out': 'MH Cross', 'fielders': ['Imad Wasim'], 'kind': 'run out'}"
+2nd innings,Scotland,8.1,RD Berrington,Shadab Khan,0,{},{}
+2nd innings,Scotland,8.2,RD Berrington,Shadab Khan,0,{},{}
+2nd innings,Scotland,8.3,RD Berrington,Shadab Khan,0,{},{}
+2nd innings,Scotland,8.4,RD Berrington,Shadab Khan,1,{},{}
+2nd innings,Scotland,8.5,HG Munsey,Shadab Khan,0,{},{}
+2nd innings,Scotland,8.6,HG Munsey,Shadab Khan,0,{},{}
+2nd innings,Scotland,9.1,RD Berrington,Imad Wasim,1,{},{}
+2nd innings,Scotland,9.2,HG Munsey,Imad Wasim,0,{},{}
+2nd innings,Scotland,9.3,HG Munsey,Imad Wasim,1,{},{}
+2nd innings,Scotland,9.4,RD Berrington,Imad Wasim,0,{},{}
+2nd innings,Scotland,9.5,RD Berrington,Imad Wasim,1,{},{}
+2nd innings,Scotland,9.6,HG Munsey,Imad Wasim,1,{},{}
+2nd innings,Scotland,10.1,HG Munsey,Shadab Khan,0,{},"{'player_out': 'HG Munsey', 'fielders': ['Haris Rauf'], 'kind': 'caught'}"
+2nd innings,Scotland,10.2,DE Budge,Shadab Khan,0,{},{}
+2nd innings,Scotland,10.3,DE Budge,Shadab Khan,0,{},"{'player_out': 'DE Budge', 'kind': 'bowled'}"
+2nd innings,Scotland,10.4,MA Leask,Shadab Khan,0,{},{}
+2nd innings,Scotland,10.5,MA Leask,Shadab Khan,1,{},{}
+2nd innings,Scotland,10.6,RD Berrington,Shadab Khan,1,{},{}
+2nd innings,Scotland,11.1,RD Berrington,Hasan Ali,2,{},{}
+2nd innings,Scotland,11.2,RD Berrington,Hasan Ali,2,{'noballs': 1},{}
+2nd innings,Scotland,11.3,MA Leask,Hasan Ali,0,{},{}
+2nd innings,Scotland,11.4,MA Leask,Hasan Ali,1,{},{}
+2nd innings,Scotland,11.5,RD Berrington,Hasan Ali,1,{'wides': 1},{}
+2nd innings,Scotland,11.6,RD Berrington,Hasan Ali,4,{},{}
+2nd innings,Scotland,11.7,RD Berrington,Hasan Ali,2,{},{}
+2nd innings,Scotland,11.8,RD Berrington,Hasan Ali,4,{},{}
+2nd innings,Scotland,12.1,MA Leask,Shadab Khan,0,{},{}
+2nd innings,Scotland,12.2,MA Leask,Shadab Khan,0,{},{}
+2nd innings,Scotland,12.3,MA Leask,Shadab Khan,0,{},{}
+2nd innings,Scotland,12.4,MA Leask,Shadab Khan,4,{},{}
+2nd innings,Scotland,12.5,MA Leask,Shadab Khan,1,{},{}
+2nd innings,Scotland,12.6,RD Berrington,Shadab Khan,1,{},{}
+2nd innings,Scotland,13.1,RD Berrington,Haris Rauf,1,{},{}
+2nd innings,Scotland,13.2,MA Leask,Haris Rauf,4,{},{}
+2nd innings,Scotland,13.3,MA Leask,Haris Rauf,1,{},{}
+2nd innings,Scotland,13.4,RD Berrington,Haris Rauf,1,{},{}
+2nd innings,Scotland,13.5,MA Leask,Haris Rauf,1,{},{}
+2nd innings,Scotland,13.6,RD Berrington,Haris Rauf,2,{},{}
+2nd innings,Scotland,14.1,MA Leask,Hasan Ali,1,{},{}
+2nd innings,Scotland,14.2,RD Berrington,Hasan Ali,0,{},{}
+2nd innings,Scotland,14.3,RD Berrington,Hasan Ali,2,{},{}
+2nd innings,Scotland,14.4,RD Berrington,Hasan Ali,2,{},{}
+2nd innings,Scotland,14.5,RD Berrington,Hasan Ali,0,{},{}
+2nd innings,Scotland,14.6,RD Berrington,Hasan Ali,1,{},{}
+2nd innings,Scotland,15.1,RD Berrington,Shaheen Shah Afridi,1,{'wides': 1},{}
+2nd innings,Scotland,15.2,RD Berrington,Shaheen Shah Afridi,0,{},{}
+2nd innings,Scotland,15.3,RD Berrington,Shaheen Shah Afridi,4,{},{}
+2nd innings,Scotland,15.4,RD Berrington,Shaheen Shah Afridi,1,{},{}
+2nd innings,Scotland,15.5,MA Leask,Shaheen Shah Afridi,0,{},"{'player_out': 'MA Leask', 'kind': 'bowled'}"
+2nd innings,Scotland,15.6,CN Greaves,Shaheen Shah Afridi,0,{},{}
+2nd innings,Scotland,15.7,CN Greaves,Shaheen Shah Afridi,0,{},{}
+2nd innings,Scotland,16.1,RD Berrington,Haris Rauf,2,{},{}
+2nd innings,Scotland,16.2,RD Berrington,Haris Rauf,4,{},{}
+2nd innings,Scotland,16.3,RD Berrington,Haris Rauf,1,{},{}
+2nd innings,Scotland,16.4,CN Greaves,Haris Rauf,1,{},{}
+2nd innings,Scotland,16.5,RD Berrington,Haris Rauf,0,{},{}
+2nd innings,Scotland,16.6,RD Berrington,Haris Rauf,2,{},{}
+2nd innings,Scotland,17.1,CN Greaves,Hasan Ali,0,{},{}
+2nd innings,Scotland,17.2,CN Greaves,Hasan Ali,1,{},{}
+2nd innings,Scotland,17.3,RD Berrington,Hasan Ali,0,{},{}
+2nd innings,Scotland,17.4,RD Berrington,Hasan Ali,6,{},{}
+2nd innings,Scotland,17.5,RD Berrington,Hasan Ali,2,{},{}
+2nd innings,Scotland,17.6,RD Berrington,Hasan Ali,2,{},{}
+2nd innings,Scotland,18.1,CN Greaves,Shaheen Shah Afridi,0,{},{}
+2nd innings,Scotland,18.2,CN Greaves,Shaheen Shah Afridi,1,{},{}
+2nd innings,Scotland,18.3,RD Berrington,Shaheen Shah Afridi,1,{},{}
+2nd innings,Scotland,18.4,CN Greaves,Shaheen Shah Afridi,0,{},{}
+2nd innings,Scotland,18.5,CN Greaves,Shaheen Shah Afridi,1,{'noballs': 1},{}
+2nd innings,Scotland,18.6,RD Berrington,Shaheen Shah Afridi,1,{},{}
+2nd innings,Scotland,18.7,CN Greaves,Shaheen Shah Afridi,1,{},{}
+2nd innings,Scotland,19.1,CN Greaves,Haris Rauf,1,{'wides': 1},{}
+2nd innings,Scotland,19.2,CN Greaves,Haris Rauf,0,{},{}
+2nd innings,Scotland,19.3,CN Greaves,Haris Rauf,0,{},"{'player_out': 'CN Greaves', 'kind': 'bowled'}"
+2nd innings,Scotland,19.4,MRJ Watt,Haris Rauf,0,{},{}
+2nd innings,Scotland,19.5,MRJ Watt,Haris Rauf,1,{},{}
+2nd innings,Scotland,19.6,RD Berrington,Haris Rauf,1,{},{}
+2nd innings,Scotland,19.7,MRJ Watt,Haris Rauf,1,{},{}

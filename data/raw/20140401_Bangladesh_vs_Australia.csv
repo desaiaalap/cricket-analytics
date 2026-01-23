@@ -1,0 +1,237 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Bangladesh,0.1,Tamim Iqbal,MA Starc,1,{},{}
+1st innings,Bangladesh,0.2,Anamul Haque,MA Starc,0,{},{}
+1st innings,Bangladesh,0.3,Anamul Haque,MA Starc,0,{},{}
+1st innings,Bangladesh,0.4,Anamul Haque,MA Starc,0,{},{}
+1st innings,Bangladesh,0.5,Anamul Haque,MA Starc,0,{},{}
+1st innings,Bangladesh,0.6,Anamul Haque,MA Starc,0,{},{}
+1st innings,Bangladesh,1.1,Tamim Iqbal,NM Coulter-Nile,0,{},{}
+1st innings,Bangladesh,1.2,Tamim Iqbal,NM Coulter-Nile,1,{'wides': 1},{}
+1st innings,Bangladesh,1.3,Tamim Iqbal,NM Coulter-Nile,0,{},{}
+1st innings,Bangladesh,1.4,Tamim Iqbal,NM Coulter-Nile,1,{'wides': 1},{}
+1st innings,Bangladesh,1.5,Tamim Iqbal,NM Coulter-Nile,1,{},{}
+1st innings,Bangladesh,1.6,Anamul Haque,NM Coulter-Nile,0,{},"{'fielders': ['SR Watson'], 'kind': 'caught', 'player_out': 'Anamul Haque'}"
+1st innings,Bangladesh,1.7,Shakib Al Hasan,NM Coulter-Nile,0,{},{}
+1st innings,Bangladesh,1.8,Shakib Al Hasan,NM Coulter-Nile,0,{},{}
+1st innings,Bangladesh,2.1,Tamim Iqbal,MA Starc,1,{'wides': 1},{}
+1st innings,Bangladesh,2.2,Tamim Iqbal,MA Starc,0,{},{}
+1st innings,Bangladesh,2.3,Tamim Iqbal,MA Starc,0,{},{}
+1st innings,Bangladesh,2.4,Tamim Iqbal,MA Starc,0,{},{}
+1st innings,Bangladesh,2.5,Tamim Iqbal,MA Starc,0,{},{}
+1st innings,Bangladesh,2.6,Tamim Iqbal,MA Starc,3,{},{}
+1st innings,Bangladesh,2.7,Shakib Al Hasan,MA Starc,4,{},{}
+1st innings,Bangladesh,3.1,Tamim Iqbal,NM Coulter-Nile,0,{},{}
+1st innings,Bangladesh,3.2,Tamim Iqbal,NM Coulter-Nile,0,{},"{'fielders': ['DE Bollinger'], 'kind': 'caught', 'player_out': 'Tamim Iqbal'}"
+1st innings,Bangladesh,3.3,Mushfiqur Rahim,NM Coulter-Nile,0,{},{}
+1st innings,Bangladesh,3.4,Mushfiqur Rahim,NM Coulter-Nile,1,{},{}
+1st innings,Bangladesh,3.5,Shakib Al Hasan,NM Coulter-Nile,0,{},{}
+1st innings,Bangladesh,3.6,Shakib Al Hasan,NM Coulter-Nile,0,{},{}
+1st innings,Bangladesh,4.1,Mushfiqur Rahim,DE Bollinger,0,{},{}
+1st innings,Bangladesh,4.2,Mushfiqur Rahim,DE Bollinger,0,{},{}
+1st innings,Bangladesh,4.3,Mushfiqur Rahim,DE Bollinger,1,{},{}
+1st innings,Bangladesh,4.4,Shakib Al Hasan,DE Bollinger,6,{},{}
+1st innings,Bangladesh,4.5,Shakib Al Hasan,DE Bollinger,0,{},{}
+1st innings,Bangladesh,4.6,Shakib Al Hasan,DE Bollinger,1,{},{}
+1st innings,Bangladesh,5.1,Shakib Al Hasan,SR Watson,0,{},{}
+1st innings,Bangladesh,5.2,Shakib Al Hasan,SR Watson,0,{},{}
+1st innings,Bangladesh,5.3,Shakib Al Hasan,SR Watson,0,{},{}
+1st innings,Bangladesh,5.4,Shakib Al Hasan,SR Watson,4,{'legbyes': 4},{}
+1st innings,Bangladesh,5.5,Shakib Al Hasan,SR Watson,6,{},{}
+1st innings,Bangladesh,5.6,Shakib Al Hasan,SR Watson,1,{},{}
+1st innings,Bangladesh,6.1,Shakib Al Hasan,GJ Maxwell,4,{},{}
+1st innings,Bangladesh,6.2,Shakib Al Hasan,GJ Maxwell,1,{},{}
+1st innings,Bangladesh,6.3,Mushfiqur Rahim,GJ Maxwell,4,{},{}
+1st innings,Bangladesh,6.4,Mushfiqur Rahim,GJ Maxwell,1,{},{}
+1st innings,Bangladesh,6.5,Shakib Al Hasan,GJ Maxwell,0,{},{}
+1st innings,Bangladesh,6.6,Shakib Al Hasan,GJ Maxwell,1,{},{}
+1st innings,Bangladesh,7.1,Shakib Al Hasan,DE Bollinger,1,{},{}
+1st innings,Bangladesh,7.2,Mushfiqur Rahim,DE Bollinger,1,{},{}
+1st innings,Bangladesh,7.3,Shakib Al Hasan,DE Bollinger,1,{},{}
+1st innings,Bangladesh,7.4,Mushfiqur Rahim,DE Bollinger,1,{},{}
+1st innings,Bangladesh,7.5,Shakib Al Hasan,DE Bollinger,4,{},{}
+1st innings,Bangladesh,7.6,Shakib Al Hasan,DE Bollinger,0,{},{}
+1st innings,Bangladesh,8.1,Mushfiqur Rahim,SR Watson,1,{},{}
+1st innings,Bangladesh,8.2,Shakib Al Hasan,SR Watson,1,{},{}
+1st innings,Bangladesh,8.3,Mushfiqur Rahim,SR Watson,0,{},{}
+1st innings,Bangladesh,8.4,Mushfiqur Rahim,SR Watson,1,{'byes': 1},{}
+1st innings,Bangladesh,8.5,Shakib Al Hasan,SR Watson,0,{},{}
+1st innings,Bangladesh,8.6,Shakib Al Hasan,SR Watson,1,{},{}
+1st innings,Bangladesh,9.1,Shakib Al Hasan,NM Coulter-Nile,1,{},{}
+1st innings,Bangladesh,9.2,Mushfiqur Rahim,NM Coulter-Nile,1,{},{}
+1st innings,Bangladesh,9.3,Shakib Al Hasan,NM Coulter-Nile,2,{},{}
+1st innings,Bangladesh,9.4,Shakib Al Hasan,NM Coulter-Nile,4,{},{}
+1st innings,Bangladesh,9.5,Shakib Al Hasan,NM Coulter-Nile,1,{},{}
+1st innings,Bangladesh,9.6,Mushfiqur Rahim,NM Coulter-Nile,4,{},{}
+1st innings,Bangladesh,10.1,Shakib Al Hasan,GJ Maxwell,1,{},{}
+1st innings,Bangladesh,10.2,Mushfiqur Rahim,GJ Maxwell,1,{},{}
+1st innings,Bangladesh,10.3,Shakib Al Hasan,GJ Maxwell,1,{},{}
+1st innings,Bangladesh,10.4,Mushfiqur Rahim,GJ Maxwell,6,{},{}
+1st innings,Bangladesh,10.5,Mushfiqur Rahim,GJ Maxwell,1,{},{}
+1st innings,Bangladesh,10.6,Shakib Al Hasan,GJ Maxwell,1,{},{}
+1st innings,Bangladesh,11.1,Shakib Al Hasan,DE Bollinger,2,{},{}
+1st innings,Bangladesh,11.2,Shakib Al Hasan,DE Bollinger,1,{},{}
+1st innings,Bangladesh,11.3,Mushfiqur Rahim,DE Bollinger,1,{},{}
+1st innings,Bangladesh,11.4,Shakib Al Hasan,DE Bollinger,1,{},{}
+1st innings,Bangladesh,11.5,Mushfiqur Rahim,DE Bollinger,4,{},{}
+1st innings,Bangladesh,11.6,Mushfiqur Rahim,DE Bollinger,0,{},{}
+1st innings,Bangladesh,12.1,Shakib Al Hasan,DT Christian,1,{},{}
+1st innings,Bangladesh,12.2,Mushfiqur Rahim,DT Christian,1,{},{}
+1st innings,Bangladesh,12.3,Shakib Al Hasan,DT Christian,1,{},{}
+1st innings,Bangladesh,12.4,Mushfiqur Rahim,DT Christian,0,{},{}
+1st innings,Bangladesh,12.5,Mushfiqur Rahim,DT Christian,2,{},{}
+1st innings,Bangladesh,12.6,Mushfiqur Rahim,DT Christian,4,{},{}
+1st innings,Bangladesh,13.1,Shakib Al Hasan,GJ Maxwell,1,{'byes': 1},{}
+1st innings,Bangladesh,13.2,Mushfiqur Rahim,GJ Maxwell,0,{},{}
+1st innings,Bangladesh,13.3,Mushfiqur Rahim,GJ Maxwell,1,{},{}
+1st innings,Bangladesh,13.4,Shakib Al Hasan,GJ Maxwell,0,{},{}
+1st innings,Bangladesh,13.5,Shakib Al Hasan,GJ Maxwell,1,{},{}
+1st innings,Bangladesh,13.6,Mushfiqur Rahim,GJ Maxwell,2,{'noballs': 1},{}
+1st innings,Bangladesh,13.7,Shakib Al Hasan,GJ Maxwell,6,{},{}
+1st innings,Bangladesh,14.1,Mushfiqur Rahim,DT Christian,1,{},{}
+1st innings,Bangladesh,14.2,Shakib Al Hasan,DT Christian,1,{},{}
+1st innings,Bangladesh,14.3,Mushfiqur Rahim,DT Christian,0,{},{}
+1st innings,Bangladesh,14.4,Mushfiqur Rahim,DT Christian,1,{},{}
+1st innings,Bangladesh,14.5,Shakib Al Hasan,DT Christian,1,{},{}
+1st innings,Bangladesh,14.6,Mushfiqur Rahim,DT Christian,4,{},{}
+1st innings,Bangladesh,15.1,Shakib Al Hasan,MA Starc,1,{},{}
+1st innings,Bangladesh,15.2,Mushfiqur Rahim,MA Starc,1,{'wides': 1},{}
+1st innings,Bangladesh,15.3,Mushfiqur Rahim,MA Starc,1,{},{}
+1st innings,Bangladesh,15.4,Shakib Al Hasan,MA Starc,1,{},{}
+1st innings,Bangladesh,15.5,Mushfiqur Rahim,MA Starc,2,{},{}
+1st innings,Bangladesh,15.6,Mushfiqur Rahim,MA Starc,1,{},{}
+1st innings,Bangladesh,15.7,Shakib Al Hasan,MA Starc,0,{},{}
+1st innings,Bangladesh,16.1,Mushfiqur Rahim,SR Watson,1,{'wides': 1},{}
+1st innings,Bangladesh,16.2,Mushfiqur Rahim,SR Watson,0,{},{}
+1st innings,Bangladesh,16.3,Mushfiqur Rahim,SR Watson,0,{},"{'fielders': ['GJ Maxwell'], 'kind': 'caught', 'player_out': 'Mushfiqur Rahim'}"
+1st innings,Bangladesh,16.4,Shakib Al Hasan,SR Watson,1,{'wides': 1},{}
+1st innings,Bangladesh,16.5,Shakib Al Hasan,SR Watson,1,{},{}
+1st innings,Bangladesh,16.6,Mahmudullah,SR Watson,1,{},{}
+1st innings,Bangladesh,16.7,Shakib Al Hasan,SR Watson,0,{},{}
+1st innings,Bangladesh,16.8,Shakib Al Hasan,SR Watson,1,{'wides': 1},{}
+1st innings,Bangladesh,16.9,Shakib Al Hasan,SR Watson,1,{},{}
+1st innings,Bangladesh,17.1,Shakib Al Hasan,DE Bollinger,0,{},{}
+1st innings,Bangladesh,17.2,Shakib Al Hasan,DE Bollinger,4,{},{}
+1st innings,Bangladesh,17.3,Shakib Al Hasan,DE Bollinger,0,{},"{'fielders': ['GJ Maxwell'], 'kind': 'caught', 'player_out': 'Shakib Al Hasan'}"
+1st innings,Bangladesh,17.4,Mahmudullah,DE Bollinger,0,{},{}
+1st innings,Bangladesh,17.5,Mahmudullah,DE Bollinger,1,{},{}
+1st innings,Bangladesh,17.6,Nasir Hossain,DE Bollinger,1,{},{}
+1st innings,Bangladesh,18.1,Nasir Hossain,SR Watson,4,{},{}
+1st innings,Bangladesh,18.2,Nasir Hossain,SR Watson,1,{},{}
+1st innings,Bangladesh,18.3,Mahmudullah,SR Watson,1,{},{}
+1st innings,Bangladesh,18.4,Nasir Hossain,SR Watson,1,{'noballs': 1},{}
+1st innings,Bangladesh,18.5,Nasir Hossain,SR Watson,0,{},{}
+1st innings,Bangladesh,18.6,Nasir Hossain,SR Watson,1,{},{}
+1st innings,Bangladesh,18.7,Mahmudullah,SR Watson,1,{},{}
+1st innings,Bangladesh,19.1,Mahmudullah,MA Starc,1,{},{}
+1st innings,Bangladesh,19.2,Nasir Hossain,MA Starc,1,{},{}
+1st innings,Bangladesh,19.3,Mahmudullah,MA Starc,1,{},{}
+1st innings,Bangladesh,19.4,Nasir Hossain,MA Starc,4,{},{}
+1st innings,Bangladesh,19.5,Nasir Hossain,MA Starc,2,{},{}
+1st innings,Bangladesh,19.6,Nasir Hossain,MA Starc,0,{},"{'kind': 'bowled', 'player_out': 'Nasir Hossain'}"
+2nd innings,Australia,0.1,AJ Finch,Sohag Gazi,0,{},{}
+2nd innings,Australia,0.2,AJ Finch,Sohag Gazi,0,{},{}
+2nd innings,Australia,0.3,AJ Finch,Sohag Gazi,4,{},{}
+2nd innings,Australia,0.4,AJ Finch,Sohag Gazi,0,{},{}
+2nd innings,Australia,0.5,AJ Finch,Sohag Gazi,6,{},{}
+2nd innings,Australia,0.6,AJ Finch,Sohag Gazi,1,{},{}
+2nd innings,Australia,1.1,AJ Finch,Al-Amin Hossain,1,{},{}
+2nd innings,Australia,1.2,DA Warner,Al-Amin Hossain,0,{},{}
+2nd innings,Australia,1.3,DA Warner,Al-Amin Hossain,4,{},{}
+2nd innings,Australia,1.4,DA Warner,Al-Amin Hossain,0,{},{}
+2nd innings,Australia,1.5,DA Warner,Al-Amin Hossain,1,{},{}
+2nd innings,Australia,1.6,AJ Finch,Al-Amin Hossain,1,{'legbyes': 1},{}
+2nd innings,Australia,2.1,AJ Finch,Sohag Gazi,0,{},{}
+2nd innings,Australia,2.2,AJ Finch,Sohag Gazi,1,{},{}
+2nd innings,Australia,2.3,DA Warner,Sohag Gazi,1,{},{}
+2nd innings,Australia,2.4,AJ Finch,Sohag Gazi,1,{},{}
+2nd innings,Australia,2.5,DA Warner,Sohag Gazi,0,{},{}
+2nd innings,Australia,2.6,DA Warner,Sohag Gazi,0,{},{}
+2nd innings,Australia,3.1,AJ Finch,Shakib Al Hasan,1,{},{}
+2nd innings,Australia,3.2,DA Warner,Shakib Al Hasan,4,{},{}
+2nd innings,Australia,3.3,DA Warner,Shakib Al Hasan,0,{},{}
+2nd innings,Australia,3.4,DA Warner,Shakib Al Hasan,0,{},{}
+2nd innings,Australia,3.5,DA Warner,Shakib Al Hasan,0,{},{}
+2nd innings,Australia,3.6,DA Warner,Shakib Al Hasan,1,{},{}
+2nd innings,Australia,4.1,DA Warner,Sohag Gazi,4,{},{}
+2nd innings,Australia,4.2,DA Warner,Sohag Gazi,0,{},{}
+2nd innings,Australia,4.3,DA Warner,Sohag Gazi,0,{},{}
+2nd innings,Australia,4.4,DA Warner,Sohag Gazi,4,{},{}
+2nd innings,Australia,4.5,DA Warner,Sohag Gazi,1,{},{}
+2nd innings,Australia,4.6,AJ Finch,Sohag Gazi,0,{},{}
+2nd innings,Australia,5.1,DA Warner,Shakib Al Hasan,1,{},{}
+2nd innings,Australia,5.2,AJ Finch,Shakib Al Hasan,4,{},{}
+2nd innings,Australia,5.3,AJ Finch,Shakib Al Hasan,4,{},{}
+2nd innings,Australia,5.4,AJ Finch,Shakib Al Hasan,0,{},{}
+2nd innings,Australia,5.5,AJ Finch,Shakib Al Hasan,6,{},{}
+2nd innings,Australia,5.6,AJ Finch,Shakib Al Hasan,1,{},{}
+2nd innings,Australia,6.1,AJ Finch,Taskin Ahmed,0,{},{}
+2nd innings,Australia,6.2,AJ Finch,Taskin Ahmed,1,{},{}
+2nd innings,Australia,6.3,DA Warner,Taskin Ahmed,0,{},{}
+2nd innings,Australia,6.4,DA Warner,Taskin Ahmed,1,{'legbyes': 1},{}
+2nd innings,Australia,6.5,AJ Finch,Taskin Ahmed,1,{},{}
+2nd innings,Australia,6.6,DA Warner,Taskin Ahmed,1,{'legbyes': 1},{}
+2nd innings,Australia,7.1,DA Warner,Abdur Razzak,6,{},{}
+2nd innings,Australia,7.2,DA Warner,Abdur Razzak,0,{},{}
+2nd innings,Australia,7.3,DA Warner,Abdur Razzak,4,{},{}
+2nd innings,Australia,7.4,DA Warner,Abdur Razzak,0,{},{}
+2nd innings,Australia,7.5,DA Warner,Abdur Razzak,0,{},{}
+2nd innings,Australia,7.6,DA Warner,Abdur Razzak,2,{},{}
+2nd innings,Australia,8.1,AJ Finch,Taskin Ahmed,0,{},{}
+2nd innings,Australia,8.2,AJ Finch,Taskin Ahmed,0,{},{}
+2nd innings,Australia,8.3,AJ Finch,Taskin Ahmed,1,{},{}
+2nd innings,Australia,8.4,DA Warner,Taskin Ahmed,1,{},{}
+2nd innings,Australia,8.5,AJ Finch,Taskin Ahmed,1,{},{}
+2nd innings,Australia,8.6,DA Warner,Taskin Ahmed,0,{},{}
+2nd innings,Australia,9.1,AJ Finch,Shakib Al Hasan,1,{},{}
+2nd innings,Australia,9.2,DA Warner,Shakib Al Hasan,6,{},{}
+2nd innings,Australia,9.3,DA Warner,Shakib Al Hasan,6,{},{}
+2nd innings,Australia,9.4,DA Warner,Shakib Al Hasan,0,{},{}
+2nd innings,Australia,9.5,DA Warner,Shakib Al Hasan,1,{},{}
+2nd innings,Australia,9.6,AJ Finch,Shakib Al Hasan,0,{},{}
+2nd innings,Australia,10.1,DA Warner,Sohag Gazi,1,{},{}
+2nd innings,Australia,10.2,AJ Finch,Sohag Gazi,6,{},{}
+2nd innings,Australia,10.3,AJ Finch,Sohag Gazi,0,{},{}
+2nd innings,Australia,10.4,AJ Finch,Sohag Gazi,0,{},{}
+2nd innings,Australia,10.5,AJ Finch,Sohag Gazi,4,{},{}
+2nd innings,Australia,10.6,AJ Finch,Sohag Gazi,1,{},{}
+2nd innings,Australia,11.1,AJ Finch,Al-Amin Hossain,1,{},{}
+2nd innings,Australia,11.2,DA Warner,Al-Amin Hossain,0,{},"{'kind': 'bowled', 'player_out': 'DA Warner'}"
+2nd innings,Australia,11.3,CL White,Al-Amin Hossain,1,{},{}
+2nd innings,Australia,11.4,AJ Finch,Al-Amin Hossain,1,{},{}
+2nd innings,Australia,11.5,CL White,Al-Amin Hossain,1,{'wides': 1},{}
+2nd innings,Australia,11.6,CL White,Al-Amin Hossain,2,{},{}
+2nd innings,Australia,11.7,CL White,Al-Amin Hossain,0,{},{}
+2nd innings,Australia,12.1,AJ Finch,Taskin Ahmed,4,{},{}
+2nd innings,Australia,12.2,AJ Finch,Taskin Ahmed,1,{'wides': 1},{}
+2nd innings,Australia,12.3,AJ Finch,Taskin Ahmed,4,{},{}
+2nd innings,Australia,12.4,AJ Finch,Taskin Ahmed,1,{},{}
+2nd innings,Australia,12.5,CL White,Taskin Ahmed,4,{},{}
+2nd innings,Australia,12.6,CL White,Taskin Ahmed,0,{},{}
+2nd innings,Australia,12.7,CL White,Taskin Ahmed,0,{},{}
+2nd innings,Australia,13.1,AJ Finch,Abdur Razzak,1,{},{}
+2nd innings,Australia,13.2,CL White,Abdur Razzak,1,{},{}
+2nd innings,Australia,13.3,AJ Finch,Abdur Razzak,1,{},{}
+2nd innings,Australia,13.4,CL White,Abdur Razzak,0,{},{}
+2nd innings,Australia,13.5,CL White,Abdur Razzak,1,{},{}
+2nd innings,Australia,13.6,AJ Finch,Abdur Razzak,0,{},{}
+2nd innings,Australia,14.1,CL White,Mominul Haque,1,{},{}
+2nd innings,Australia,14.2,AJ Finch,Mominul Haque,4,{},{}
+2nd innings,Australia,14.3,AJ Finch,Mominul Haque,1,{},{}
+2nd innings,Australia,14.4,CL White,Mominul Haque,1,{},{}
+2nd innings,Australia,14.5,AJ Finch,Mominul Haque,6,{},{}
+2nd innings,Australia,14.6,AJ Finch,Mominul Haque,1,{},{}
+2nd innings,Australia,15.1,AJ Finch,Al-Amin Hossain,0,{},"{'fielders': ['Nasir Hossain'], 'kind': 'caught', 'player_out': 'AJ Finch'}"
+2nd innings,Australia,15.2,CL White,Al-Amin Hossain,0,{},{}
+2nd innings,Australia,15.3,CL White,Al-Amin Hossain,2,{},{}
+2nd innings,Australia,15.4,CL White,Al-Amin Hossain,1,{},{}
+2nd innings,Australia,15.5,GJ Maxwell,Al-Amin Hossain,1,{},{}
+2nd innings,Australia,15.6,CL White,Al-Amin Hossain,4,{},{}
+2nd innings,Australia,16.1,GJ Maxwell,Taskin Ahmed,4,{},{}
+2nd innings,Australia,16.2,GJ Maxwell,Taskin Ahmed,0,{},"{'kind': 'bowled', 'player_out': 'GJ Maxwell'}"
+2nd innings,Australia,16.3,GJ Bailey,Taskin Ahmed,0,{},{}
+2nd innings,Australia,16.4,GJ Bailey,Taskin Ahmed,0,{},{}
+2nd innings,Australia,16.5,GJ Bailey,Taskin Ahmed,0,{},{}
+2nd innings,Australia,16.6,GJ Bailey,Taskin Ahmed,1,{},{}
+2nd innings,Australia,17.1,GJ Bailey,Al-Amin Hossain,0,{},{}
+2nd innings,Australia,17.2,GJ Bailey,Al-Amin Hossain,4,{},{}
+2nd innings,Australia,17.3,GJ Bailey,Al-Amin Hossain,6,{},{}

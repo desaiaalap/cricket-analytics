@@ -1,0 +1,241 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,West Indies,0.1,LMP Simmons,AK Markram,1,{},{}
+1st innings,West Indies,0.2,E Lewis,AK Markram,1,{'wides': 1},{}
+1st innings,West Indies,0.3,E Lewis,AK Markram,0,{},{}
+1st innings,West Indies,0.4,E Lewis,AK Markram,1,{},{}
+1st innings,West Indies,0.5,LMP Simmons,AK Markram,0,{},{}
+1st innings,West Indies,0.6,LMP Simmons,AK Markram,0,{},{}
+1st innings,West Indies,0.7,LMP Simmons,AK Markram,1,{},{}
+1st innings,West Indies,1.1,LMP Simmons,K Rabada,0,{},{}
+1st innings,West Indies,1.2,LMP Simmons,K Rabada,0,{},{}
+1st innings,West Indies,1.3,LMP Simmons,K Rabada,0,{},{}
+1st innings,West Indies,1.4,LMP Simmons,K Rabada,1,{},{}
+1st innings,West Indies,1.5,E Lewis,K Rabada,1,{'legbyes': 1},{}
+1st innings,West Indies,1.6,LMP Simmons,K Rabada,0,{},{}
+1st innings,West Indies,2.1,E Lewis,AK Markram,0,{},{}
+1st innings,West Indies,2.2,E Lewis,AK Markram,0,{},{}
+1st innings,West Indies,2.3,E Lewis,AK Markram,0,{},{}
+1st innings,West Indies,2.4,E Lewis,AK Markram,0,{},{}
+1st innings,West Indies,2.5,E Lewis,AK Markram,0,{},{}
+1st innings,West Indies,2.6,E Lewis,AK Markram,0,{},{}
+1st innings,West Indies,3.1,LMP Simmons,K Rabada,0,{},{}
+1st innings,West Indies,3.2,LMP Simmons,K Rabada,1,{},{}
+1st innings,West Indies,3.3,E Lewis,K Rabada,0,{},{}
+1st innings,West Indies,3.4,E Lewis,K Rabada,4,{},{}
+1st innings,West Indies,3.5,E Lewis,K Rabada,6,{},{}
+1st innings,West Indies,3.6,E Lewis,K Rabada,1,{},{}
+1st innings,West Indies,4.1,E Lewis,AK Markram,2,{},{}
+1st innings,West Indies,4.2,E Lewis,AK Markram,0,{},{}
+1st innings,West Indies,4.3,E Lewis,AK Markram,0,{},{}
+1st innings,West Indies,4.4,E Lewis,AK Markram,6,{},{}
+1st innings,West Indies,4.5,E Lewis,AK Markram,6,{},{}
+1st innings,West Indies,4.6,E Lewis,AK Markram,4,{},{}
+1st innings,West Indies,5.1,LMP Simmons,A Nortje,1,{'legbyes': 1},{}
+1st innings,West Indies,5.2,E Lewis,A Nortje,0,{},{}
+1st innings,West Indies,5.3,E Lewis,A Nortje,4,{},{}
+1st innings,West Indies,5.4,E Lewis,A Nortje,1,{},{}
+1st innings,West Indies,5.5,LMP Simmons,A Nortje,0,{},{}
+1st innings,West Indies,5.6,LMP Simmons,A Nortje,1,{},{}
+1st innings,West Indies,6.1,LMP Simmons,KA Maharaj,1,{},{}
+1st innings,West Indies,6.2,E Lewis,KA Maharaj,1,{},{}
+1st innings,West Indies,6.3,LMP Simmons,KA Maharaj,0,{},{}
+1st innings,West Indies,6.4,LMP Simmons,KA Maharaj,1,{},{}
+1st innings,West Indies,6.5,E Lewis,KA Maharaj,0,{},{}
+1st innings,West Indies,6.6,E Lewis,KA Maharaj,0,{},{}
+1st innings,West Indies,7.1,LMP Simmons,A Nortje,0,{},{}
+1st innings,West Indies,7.2,LMP Simmons,A Nortje,0,{},{}
+1st innings,West Indies,7.3,LMP Simmons,A Nortje,0,{},{}
+1st innings,West Indies,7.4,LMP Simmons,A Nortje,1,{},{}
+1st innings,West Indies,7.5,E Lewis,A Nortje,0,{},{}
+1st innings,West Indies,7.6,E Lewis,A Nortje,0,{},{}
+1st innings,West Indies,8.1,LMP Simmons,KA Maharaj,0,{},{}
+1st innings,West Indies,8.2,LMP Simmons,KA Maharaj,1,{},{}
+1st innings,West Indies,8.3,E Lewis,KA Maharaj,1,{},{}
+1st innings,West Indies,8.4,LMP Simmons,KA Maharaj,1,{},{}
+1st innings,West Indies,8.5,E Lewis,KA Maharaj,6,{},{}
+1st innings,West Indies,8.6,E Lewis,KA Maharaj,0,{},{}
+1st innings,West Indies,9.1,LMP Simmons,T Shamsi,1,{},{}
+1st innings,West Indies,9.2,E Lewis,T Shamsi,1,{},{}
+1st innings,West Indies,9.3,LMP Simmons,T Shamsi,0,{},{}
+1st innings,West Indies,9.4,LMP Simmons,T Shamsi,1,{},{}
+1st innings,West Indies,9.5,E Lewis,T Shamsi,6,{},{}
+1st innings,West Indies,9.6,E Lewis,T Shamsi,0,{},{}
+1st innings,West Indies,10.1,LMP Simmons,KA Maharaj,1,{},{}
+1st innings,West Indies,10.2,E Lewis,KA Maharaj,6,{},{}
+1st innings,West Indies,10.3,E Lewis,KA Maharaj,1,{'wides': 1},{}
+1st innings,West Indies,10.4,E Lewis,KA Maharaj,0,{},"{'player_out': 'E Lewis', 'fielders': ['K Rabada'], 'kind': 'caught'}"
+1st innings,West Indies,10.5,N Pooran,KA Maharaj,1,{},{}
+1st innings,West Indies,10.6,LMP Simmons,KA Maharaj,0,{},{}
+1st innings,West Indies,10.7,LMP Simmons,KA Maharaj,0,{},{}
+1st innings,West Indies,11.1,N Pooran,T Shamsi,4,{},{}
+1st innings,West Indies,11.2,N Pooran,T Shamsi,4,{},{}
+1st innings,West Indies,11.3,N Pooran,T Shamsi,1,{},{}
+1st innings,West Indies,11.4,LMP Simmons,T Shamsi,1,{},{}
+1st innings,West Indies,11.5,N Pooran,T Shamsi,0,{},{}
+1st innings,West Indies,11.6,N Pooran,T Shamsi,2,{},{}
+1st innings,West Indies,12.1,LMP Simmons,KA Maharaj,1,{},{}
+1st innings,West Indies,12.2,N Pooran,KA Maharaj,0,{},"{'player_out': 'N Pooran', 'fielders': ['DA Miller'], 'kind': 'caught'}"
+1st innings,West Indies,12.3,CH Gayle,KA Maharaj,0,{},{}
+1st innings,West Indies,12.4,CH Gayle,KA Maharaj,1,{},{}
+1st innings,West Indies,12.5,LMP Simmons,KA Maharaj,1,{},{}
+1st innings,West Indies,12.6,CH Gayle,KA Maharaj,0,{},{}
+1st innings,West Indies,13.1,LMP Simmons,K Rabada,0,{},{}
+1st innings,West Indies,13.2,LMP Simmons,K Rabada,0,{},"{'player_out': 'LMP Simmons', 'kind': 'bowled'}"
+1st innings,West Indies,13.3,KA Pollard,K Rabada,2,{},{}
+1st innings,West Indies,13.4,KA Pollard,K Rabada,1,{},{}
+1st innings,West Indies,13.5,CH Gayle,K Rabada,1,{},{}
+1st innings,West Indies,13.6,KA Pollard,K Rabada,0,{},{}
+1st innings,West Indies,14.1,CH Gayle,A Nortje,0,{},{}
+1st innings,West Indies,14.2,CH Gayle,A Nortje,1,{},{}
+1st innings,West Indies,14.3,KA Pollard,A Nortje,0,{},{}
+1st innings,West Indies,14.4,KA Pollard,A Nortje,0,{},{}
+1st innings,West Indies,14.5,KA Pollard,A Nortje,1,{},{}
+1st innings,West Indies,14.6,CH Gayle,A Nortje,0,{},{}
+1st innings,West Indies,15.1,KA Pollard,T Shamsi,0,{},{}
+1st innings,West Indies,15.2,KA Pollard,T Shamsi,6,{},{}
+1st innings,West Indies,15.3,KA Pollard,T Shamsi,1,{},{}
+1st innings,West Indies,15.4,CH Gayle,T Shamsi,6,{},{}
+1st innings,West Indies,15.5,CH Gayle,T Shamsi,1,{'wides': 1},{}
+1st innings,West Indies,15.6,CH Gayle,T Shamsi,1,{},{}
+1st innings,West Indies,15.7,KA Pollard,T Shamsi,1,{},{}
+1st innings,West Indies,16.1,KA Pollard,K Rabada,1,{'noballs': 1},{}
+1st innings,West Indies,16.2,KA Pollard,K Rabada,4,{},{}
+1st innings,West Indies,16.3,KA Pollard,K Rabada,1,{},{}
+1st innings,West Indies,16.4,CH Gayle,K Rabada,1,{},{}
+1st innings,West Indies,16.5,KA Pollard,K Rabada,1,{},{}
+1st innings,West Indies,16.6,CH Gayle,K Rabada,1,{'wides': 1},{}
+1st innings,West Indies,16.7,CH Gayle,K Rabada,1,{},{}
+1st innings,West Indies,16.8,KA Pollard,K Rabada,0,{},{}
+1st innings,West Indies,17.1,CH Gayle,D Pretorius,0,{},"{'player_out': 'CH Gayle', 'fielders': ['H Klaasen'], 'kind': 'caught'}"
+1st innings,West Indies,17.2,AD Russell,D Pretorius,4,{},{}
+1st innings,West Indies,17.3,AD Russell,D Pretorius,0,{},{}
+1st innings,West Indies,17.4,AD Russell,D Pretorius,1,{},{}
+1st innings,West Indies,17.5,KA Pollard,D Pretorius,4,{},{}
+1st innings,West Indies,17.6,KA Pollard,D Pretorius,1,{},{}
+1st innings,West Indies,18.1,KA Pollard,A Nortje,1,{},{}
+1st innings,West Indies,18.2,AD Russell,A Nortje,0,{},"{'player_out': 'AD Russell', 'kind': 'bowled'}"
+1st innings,West Indies,18.3,SO Hetmyer,A Nortje,0,{},{}
+1st innings,West Indies,18.4,SO Hetmyer,A Nortje,1,{},"{'player_out': 'SO Hetmyer', 'fielders': ['DA Miller', 'H Klaasen'], 'kind': 'run out'}"
+1st innings,West Indies,18.5,DJ Bravo,A Nortje,1,{},{}
+1st innings,West Indies,18.6,KA Pollard,A Nortje,2,{},{}
+1st innings,West Indies,19.1,DJ Bravo,D Pretorius,1,{},{}
+1st innings,West Indies,19.2,KA Pollard,D Pretorius,0,{},"{'player_out': 'KA Pollard', 'fielders': ['HE van der Dussen'], 'kind': 'caught'}"
+1st innings,West Indies,19.3,HR Walsh,D Pretorius,0,{},"{'player_out': 'HR Walsh', 'fielders': ['RR Hendricks'], 'kind': 'caught'}"
+1st innings,West Indies,19.4,DJ Bravo,D Pretorius,4,{},{}
+1st innings,West Indies,19.5,DJ Bravo,D Pretorius,0,{},{}
+1st innings,West Indies,19.6,DJ Bravo,D Pretorius,2,{},{}
+2nd innings,South Africa,0.1,T Bavuma,AJ Hosein,1,{},{}
+2nd innings,South Africa,0.2,RR Hendricks,AJ Hosein,1,{},{}
+2nd innings,South Africa,0.3,T Bavuma,AJ Hosein,1,{},{}
+2nd innings,South Africa,0.4,RR Hendricks,AJ Hosein,0,{},{}
+2nd innings,South Africa,0.5,RR Hendricks,AJ Hosein,1,{},{}
+2nd innings,South Africa,0.6,T Bavuma,AJ Hosein,0,{},"{'player_out': 'T Bavuma', 'fielders': ['AD Russell'], 'kind': 'run out'}"
+2nd innings,South Africa,1.1,HE van der Dussen,R Rampaul,0,{},{}
+2nd innings,South Africa,1.2,HE van der Dussen,R Rampaul,1,{},{}
+2nd innings,South Africa,1.3,RR Hendricks,R Rampaul,0,{},{}
+2nd innings,South Africa,1.4,RR Hendricks,R Rampaul,0,{},{}
+2nd innings,South Africa,1.5,RR Hendricks,R Rampaul,1,{},{}
+2nd innings,South Africa,1.6,HE van der Dussen,R Rampaul,0,{},{}
+2nd innings,South Africa,2.1,RR Hendricks,AJ Hosein,6,{},{}
+2nd innings,South Africa,2.2,RR Hendricks,AJ Hosein,4,{},{}
+2nd innings,South Africa,2.3,RR Hendricks,AJ Hosein,1,{},{}
+2nd innings,South Africa,2.4,HE van der Dussen,AJ Hosein,0,{},{}
+2nd innings,South Africa,2.5,HE van der Dussen,AJ Hosein,0,{},{}
+2nd innings,South Africa,2.6,HE van der Dussen,AJ Hosein,0,{},{}
+2nd innings,South Africa,3.1,RR Hendricks,R Rampaul,4,{},{}
+2nd innings,South Africa,3.2,RR Hendricks,R Rampaul,1,{},{}
+2nd innings,South Africa,3.3,HE van der Dussen,R Rampaul,0,{},{}
+2nd innings,South Africa,3.4,HE van der Dussen,R Rampaul,1,{},{}
+2nd innings,South Africa,3.5,RR Hendricks,R Rampaul,1,{},{}
+2nd innings,South Africa,3.6,HE van der Dussen,R Rampaul,2,{},{}
+2nd innings,South Africa,4.1,RR Hendricks,AD Russell,1,{},{}
+2nd innings,South Africa,4.2,HE van der Dussen,AD Russell,1,{},{}
+2nd innings,South Africa,4.3,RR Hendricks,AD Russell,3,{},{}
+2nd innings,South Africa,4.4,HE van der Dussen,AD Russell,1,{},{}
+2nd innings,South Africa,4.5,RR Hendricks,AD Russell,4,{},{}
+2nd innings,South Africa,4.6,RR Hendricks,AD Russell,0,{},{}
+2nd innings,South Africa,5.1,HE van der Dussen,AJ Hosein,2,{},{}
+2nd innings,South Africa,5.2,HE van der Dussen,AJ Hosein,1,{},{}
+2nd innings,South Africa,5.3,RR Hendricks,AJ Hosein,0,{},{}
+2nd innings,South Africa,5.4,RR Hendricks,AJ Hosein,1,{},{}
+2nd innings,South Africa,5.5,HE van der Dussen,AJ Hosein,1,{},{}
+2nd innings,South Africa,5.6,RR Hendricks,AJ Hosein,1,{},{}
+2nd innings,South Africa,6.1,RR Hendricks,HR Walsh,1,{},{}
+2nd innings,South Africa,6.2,HE van der Dussen,HR Walsh,1,{},{}
+2nd innings,South Africa,6.3,RR Hendricks,HR Walsh,1,{},{}
+2nd innings,South Africa,6.4,HE van der Dussen,HR Walsh,0,{},{}
+2nd innings,South Africa,6.5,HE van der Dussen,HR Walsh,1,{'wides': 1},{}
+2nd innings,South Africa,6.6,HE van der Dussen,HR Walsh,1,{},{}
+2nd innings,South Africa,6.7,RR Hendricks,HR Walsh,0,{},{}
+2nd innings,South Africa,7.1,HE van der Dussen,DJ Bravo,1,{},{}
+2nd innings,South Africa,7.2,RR Hendricks,DJ Bravo,1,{'wides': 1},{}
+2nd innings,South Africa,7.3,RR Hendricks,DJ Bravo,0,{},{}
+2nd innings,South Africa,7.4,RR Hendricks,DJ Bravo,1,{},{}
+2nd innings,South Africa,7.5,HE van der Dussen,DJ Bravo,1,{},{}
+2nd innings,South Africa,7.6,RR Hendricks,DJ Bravo,4,{},{}
+2nd innings,South Africa,7.7,RR Hendricks,DJ Bravo,0,{},{}
+2nd innings,South Africa,8.1,HE van der Dussen,HR Walsh,1,{},{}
+2nd innings,South Africa,8.2,RR Hendricks,HR Walsh,1,{},{}
+2nd innings,South Africa,8.3,HE van der Dussen,HR Walsh,1,{},{}
+2nd innings,South Africa,8.4,RR Hendricks,HR Walsh,1,{},{}
+2nd innings,South Africa,8.5,HE van der Dussen,HR Walsh,1,{},{}
+2nd innings,South Africa,8.6,RR Hendricks,HR Walsh,0,{},{}
+2nd innings,South Africa,9.1,HE van der Dussen,AJ Hosein,1,{},{}
+2nd innings,South Africa,9.2,RR Hendricks,AJ Hosein,0,{},"{'player_out': 'RR Hendricks', 'fielders': ['SO Hetmyer'], 'kind': 'caught'}"
+2nd innings,South Africa,9.3,AK Markram,AJ Hosein,3,{'wides': 3},{}
+2nd innings,South Africa,9.4,AK Markram,AJ Hosein,1,{},{}
+2nd innings,South Africa,9.5,HE van der Dussen,AJ Hosein,0,{},{}
+2nd innings,South Africa,9.6,HE van der Dussen,AJ Hosein,0,{},{}
+2nd innings,South Africa,9.7,HE van der Dussen,AJ Hosein,1,{},{}
+2nd innings,South Africa,10.1,HE van der Dussen,HR Walsh,2,{'wides': 2},{}
+2nd innings,South Africa,10.2,AK Markram,HR Walsh,2,{},{}
+2nd innings,South Africa,10.3,AK Markram,HR Walsh,2,{},{}
+2nd innings,South Africa,10.4,AK Markram,HR Walsh,2,{},{}
+2nd innings,South Africa,10.5,AK Markram,HR Walsh,1,{},{}
+2nd innings,South Africa,10.6,HE van der Dussen,HR Walsh,1,{},{}
+2nd innings,South Africa,10.7,AK Markram,HR Walsh,6,{},{}
+2nd innings,South Africa,11.1,HE van der Dussen,KA Pollard,1,{},{}
+2nd innings,South Africa,11.2,AK Markram,KA Pollard,1,{},{}
+2nd innings,South Africa,11.3,HE van der Dussen,KA Pollard,1,{},{}
+2nd innings,South Africa,11.4,AK Markram,KA Pollard,0,{},{}
+2nd innings,South Africa,11.5,AK Markram,KA Pollard,0,{},{}
+2nd innings,South Africa,11.6,AK Markram,KA Pollard,6,{},{}
+2nd innings,South Africa,12.1,HE van der Dussen,AD Russell,1,{},{}
+2nd innings,South Africa,12.2,AK Markram,AD Russell,1,{},{}
+2nd innings,South Africa,12.3,HE van der Dussen,AD Russell,0,{},{}
+2nd innings,South Africa,12.4,HE van der Dussen,AD Russell,4,{},{}
+2nd innings,South Africa,12.5,HE van der Dussen,AD Russell,0,{},{}
+2nd innings,South Africa,12.6,HE van der Dussen,AD Russell,1,{},{}
+2nd innings,South Africa,13.1,HE van der Dussen,DJ Bravo,0,{},{}
+2nd innings,South Africa,13.2,HE van der Dussen,DJ Bravo,0,{},{}
+2nd innings,South Africa,13.3,HE van der Dussen,DJ Bravo,0,{},{}
+2nd innings,South Africa,13.4,HE van der Dussen,DJ Bravo,0,{},{}
+2nd innings,South Africa,13.5,HE van der Dussen,DJ Bravo,1,{'legbyes': 1},{}
+2nd innings,South Africa,13.6,AK Markram,DJ Bravo,1,{},{}
+2nd innings,South Africa,14.1,AK Markram,R Rampaul,1,{},{}
+2nd innings,South Africa,14.2,HE van der Dussen,R Rampaul,1,{},{}
+2nd innings,South Africa,14.3,AK Markram,R Rampaul,6,{},{}
+2nd innings,South Africa,14.4,AK Markram,R Rampaul,1,{},{}
+2nd innings,South Africa,14.5,HE van der Dussen,R Rampaul,1,{'wides': 1},{}
+2nd innings,South Africa,14.6,HE van der Dussen,R Rampaul,0,{},{}
+2nd innings,South Africa,14.7,HE van der Dussen,R Rampaul,1,{},{}
+2nd innings,South Africa,15.1,HE van der Dussen,DJ Bravo,4,{},{}
+2nd innings,South Africa,15.2,HE van der Dussen,DJ Bravo,4,{},{}
+2nd innings,South Africa,15.3,HE van der Dussen,DJ Bravo,1,{},{}
+2nd innings,South Africa,15.4,AK Markram,DJ Bravo,0,{},{}
+2nd innings,South Africa,15.5,AK Markram,DJ Bravo,0,{},{}
+2nd innings,South Africa,15.6,AK Markram,DJ Bravo,1,{},{}
+2nd innings,South Africa,16.1,AK Markram,AD Russell,1,{},{}
+2nd innings,South Africa,16.2,HE van der Dussen,AD Russell,1,{},{}
+2nd innings,South Africa,16.3,AK Markram,AD Russell,4,{},{}
+2nd innings,South Africa,16.4,AK Markram,AD Russell,1,{},{}
+2nd innings,South Africa,16.5,HE van der Dussen,AD Russell,1,{},{}
+2nd innings,South Africa,16.6,AK Markram,AD Russell,4,{},{}
+2nd innings,South Africa,17.1,HE van der Dussen,DJ Bravo,0,{},{}
+2nd innings,South Africa,17.2,HE van der Dussen,DJ Bravo,1,{},{}
+2nd innings,South Africa,17.3,AK Markram,DJ Bravo,1,{},{}
+2nd innings,South Africa,17.4,HE van der Dussen,DJ Bravo,0,{},{}
+2nd innings,South Africa,17.5,HE van der Dussen,DJ Bravo,1,{},{}
+2nd innings,South Africa,17.6,AK Markram,DJ Bravo,1,{},{}
+2nd innings,South Africa,18.1,AK Markram,AD Russell,6,{},{}
+2nd innings,South Africa,18.2,AK Markram,AD Russell,1,{},{}

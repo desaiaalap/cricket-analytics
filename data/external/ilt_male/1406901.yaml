@@ -1,0 +1,2231 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-01-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sharjah
+  competition: International League T20
+  dates:
+  - '2024-01-28'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sharjah Warriors
+    by:
+      runs: 7
+  overs: 20
+  player_of_match:
+  - T Kohler-Cadmore
+  players:
+    Sharjah Warriors:
+    - N Dickwella
+    - J Charles
+    - MJ Guptill
+    - T Kohler-Cadmore
+    - JL Denly
+    - DR Sams
+    - L Gregory
+    - Basil Hameed
+    - CR Woakes
+    - Muhammad Jawadullah
+    - M Theekshana
+    - MRJ Watt
+    Desert Vipers:
+    - C Munro
+    - AD Hales
+    - AJ Hose
+    - PWH de Silva
+    - Rohan Mustafa
+    - Azam Khan
+    - SE Rutherford
+    - Shadab Khan
+    - Shaheen Shah Afridi
+    - Aryan Lakra
+    - M Pathirana
+    - L Wood
+  registry:
+    people:
+      AD Hales: 92aeac25
+      AJ Hose: 104e88a4
+      Ahmed Shah Pakteen: '43602937'
+      Aryan Lakra: '099135ad'
+      Azam Khan: ee8f1a6d
+      Basil Hameed: adbf0400
+      C Munro: af2c687b
+      CR Woakes: 4c5d73db
+      DR Sams: caf69bf7
+      J Charles: '09a9d073'
+      JL Denly: bdadf7da
+      L Gregory: 06c2de82
+      L Wood: 65b6943c
+      LS Reifer: 5dee559a
+      M Pathirana: 64839cb3
+      M Theekshana: f24c6701
+      MJ Guptill: 2be41edb
+      MJ Saggers: 402d5937
+      MRJ Watt: 1252f71a
+      Muhammad Jawadullah: '098a757c'
+      N Dickwella: 45963d9e
+      PWH de Silva: a97c8ec2
+      RJ Tucker: 38810cfc
+      Rohan Mustafa: d1988788
+      SE Rutherford: d014d5ac
+      SJA Taufel: 4b43d5ac
+      Shadab Khan: 9de62878
+      Shaheen Shah Afridi: 45a7e761
+      T Kohler-Cadmore: f836b33d
+  teams:
+  - Sharjah Warriors
+  - Desert Vipers
+  toss:
+    winner: Desert Vipers
+    decision: field
+  umpires:
+  - Ahmed Shah Pakteen
+  - RJ Tucker
+  venue: Sharjah Cricket Stadium
+innings:
+- 1st innings:
+    team: Sharjah Warriors
+    deliveries:
+    - 0.1:
+        non_striker: J Charles
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: N Dickwella
+    - 0.2:
+        non_striker: J Charles
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 0.3:
+        non_striker: J Charles
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Dickwella
+    - 0.4:
+        non_striker: J Charles
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 0.5:
+        non_striker: J Charles
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Dickwella
+    - 0.6:
+        non_striker: J Charles
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 0.7:
+        non_striker: J Charles
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 0.8:
+        non_striker: J Charles
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 0.9:
+        non_striker: N Dickwella
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Charles
+    - 1.1:
+        non_striker: J Charles
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+        wicket:
+          player_out: N Dickwella
+          fielders:
+          - Azam Khan
+          kind: caught
+    - 1.2:
+        non_striker: J Charles
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 1.3:
+        non_striker: MJ Guptill
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 1.4:
+        non_striker: MJ Guptill
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+        wicket:
+          player_out: J Charles
+          fielders:
+          - Shaheen Shah Afridi
+          kind: caught
+    - 1.5:
+        non_striker: MJ Guptill
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 1.6:
+        non_striker: MJ Guptill
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kohler-Cadmore
+    - 2.1:
+        non_striker: T Kohler-Cadmore
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 2.2:
+        non_striker: MJ Guptill
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 2.3:
+        non_striker: MJ Guptill
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 2.4:
+        non_striker: MJ Guptill
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 2.5:
+        non_striker: MJ Guptill
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kohler-Cadmore
+    - 2.6:
+        non_striker: MJ Guptill
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 3.1:
+        non_striker: T Kohler-Cadmore
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 3.2:
+        non_striker: MJ Guptill
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 3.3:
+        non_striker: MJ Guptill
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 3.4:
+        non_striker: MJ Guptill
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 3.5:
+        non_striker: MJ Guptill
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 3.6:
+        non_striker: MJ Guptill
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 4.1:
+        non_striker: MJ Guptill
+        bowler: M Pathirana
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: T Kohler-Cadmore
+    - 4.2:
+        non_striker: T Kohler-Cadmore
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 4.3:
+        non_striker: T Kohler-Cadmore
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 4.4:
+        non_striker: T Kohler-Cadmore
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 4.5:
+        non_striker: T Kohler-Cadmore
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 4.6:
+        non_striker: T Kohler-Cadmore
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 4.7:
+        non_striker: T Kohler-Cadmore
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 5.1:
+        non_striker: MJ Guptill
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 5.2:
+        non_striker: T Kohler-Cadmore
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 5.3:
+        non_striker: T Kohler-Cadmore
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 5.4:
+        non_striker: T Kohler-Cadmore
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 5.5:
+        non_striker: T Kohler-Cadmore
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 5.6:
+        non_striker: T Kohler-Cadmore
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 6.1:
+        non_striker: MJ Guptill
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 6.2:
+        non_striker: T Kohler-Cadmore
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 6.3:
+        non_striker: T Kohler-Cadmore
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 6.4:
+        non_striker: MJ Guptill
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kohler-Cadmore
+    - 6.5:
+        non_striker: MJ Guptill
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 6.6:
+        non_striker: MJ Guptill
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 7.1:
+        non_striker: MJ Guptill
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 7.2:
+        non_striker: MJ Guptill
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 7.3:
+        non_striker: MJ Guptill
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 7.4:
+        non_striker: MJ Guptill
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 7.5:
+        non_striker: T Kohler-Cadmore
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 7.6:
+        non_striker: MJ Guptill
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 8.1:
+        non_striker: T Kohler-Cadmore
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 8.2:
+        non_striker: MJ Guptill
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Kohler-Cadmore
+    - 8.3:
+        non_striker: T Kohler-Cadmore
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 8.4:
+        non_striker: MJ Guptill
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 8.5:
+        non_striker: MJ Guptill
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 8.6:
+        non_striker: T Kohler-Cadmore
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Guptill
+    - 8.7:
+        non_striker: T Kohler-Cadmore
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 9.1:
+        non_striker: MJ Guptill
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 9.2:
+        non_striker: MJ Guptill
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 9.3:
+        non_striker: MJ Guptill
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 9.4:
+        non_striker: MJ Guptill
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 9.5:
+        non_striker: MJ Guptill
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 9.6:
+        non_striker: MJ Guptill
+        bowler: PWH de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Kohler-Cadmore
+    - 10.1:
+        non_striker: MJ Guptill
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 10.2:
+        non_striker: MJ Guptill
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 10.3:
+        non_striker: MJ Guptill
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+        wicket:
+          player_out: T Kohler-Cadmore
+          fielders:
+          - AJ Hose
+          kind: caught
+    - 10.4:
+        non_striker: MJ Guptill
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 10.5:
+        non_striker: MJ Guptill
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 10.6:
+        non_striker: JL Denly
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 11.1:
+        non_striker: MJ Guptill
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 11.2:
+        non_striker: MJ Guptill
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 11.3:
+        non_striker: MJ Guptill
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL Denly
+    - 11.4:
+        non_striker: MJ Guptill
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 11.5:
+        non_striker: JL Denly
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 11.6:
+        non_striker: JL Denly
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 12.1:
+        non_striker: JL Denly
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 12.2:
+        non_striker: MJ Guptill
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 12.3:
+        non_striker: JL Denly
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 12.4:
+        non_striker: JL Denly
+        bowler: PWH de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJ Guptill
+    - 12.5:
+        non_striker: MJ Guptill
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 12.6:
+        non_striker: MJ Guptill
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 13.1:
+        non_striker: MJ Guptill
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 13.2:
+        non_striker: MJ Guptill
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 13.3:
+        non_striker: JL Denly
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 13.4:
+        non_striker: JL Denly
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 13.5:
+        non_striker: MJ Guptill
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 13.6:
+        non_striker: MJ Guptill
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 14.1:
+        non_striker: MJ Guptill
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: JL Denly
+    - 14.2:
+        non_striker: JL Denly
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 14.3:
+        non_striker: MJ Guptill
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 14.4:
+        non_striker: JL Denly
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 14.5:
+        non_striker: JL Denly
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 14.6:
+        non_striker: JL Denly
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+        wicket:
+          player_out: MJ Guptill
+          fielders:
+          - L Wood
+          kind: caught
+    - 14.7:
+        non_striker: JL Denly
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Sams
+    - 15.1:
+        non_striker: JL Denly
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+        wicket:
+          player_out: DR Sams
+          fielders:
+          - Azam Khan
+          kind: stumped
+    - 15.2:
+        non_striker: JL Denly
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 15.3:
+        non_striker: JL Denly
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+        wicket:
+          player_out: L Gregory
+          kind: bowled
+    - 15.4:
+        non_striker: JL Denly
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basil Hameed
+        wicket:
+          player_out: Basil Hameed
+          kind: lbw
+    - 15.5:
+        non_striker: JL Denly
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 15.6:
+        non_striker: CR Woakes
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 16.1:
+        non_striker: CR Woakes
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 16.2:
+        non_striker: JL Denly
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 16.3:
+        non_striker: JL Denly
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 16.4:
+        non_striker: JL Denly
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 16.5:
+        non_striker: CR Woakes
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL Denly
+    - 16.6:
+        non_striker: CR Woakes
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 16.7:
+        non_striker: CR Woakes
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 17.1:
+        non_striker: JL Denly
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 17.2:
+        non_striker: CR Woakes
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 17.3:
+        non_striker: JL Denly
+        bowler: L Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Woakes
+    - 17.4:
+        non_striker: JL Denly
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 17.5:
+        non_striker: JL Denly
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 17.6:
+        non_striker: JL Denly
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Woakes
+    - 17.7:
+        non_striker: JL Denly
+        bowler: L Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CR Woakes
+    - 18.1:
+        non_striker: JL Denly
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 18.2:
+        non_striker: CR Woakes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JL Denly
+    - 18.3:
+        non_striker: JL Denly
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CR Woakes
+    - 18.4:
+        non_striker: CR Woakes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 18.5:
+        non_striker: CR Woakes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 18.6:
+        non_striker: JL Denly
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 19.1:
+        non_striker: JL Denly
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Woakes
+    - 19.2:
+        non_striker: JL Denly
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Woakes
+    - 19.3:
+        non_striker: JL Denly
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 19.4:
+        non_striker: JL Denly
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 19.5:
+        non_striker: JL Denly
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Woakes
+    - 19.6:
+        non_striker: JL Denly
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Woakes
+    - 19.7:
+        non_striker: CR Woakes
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+- 2nd innings:
+    team: Desert Vipers
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: AD Hales
+            out: M Pathirana
+            team: Desert Vipers
+            reason: impact_player
+          - in: MRJ Watt
+            out: MJ Guptill
+            team: Sharjah Warriors
+            reason: impact_player
+        batsman: C Munro
+    - 0.2:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          fielders:
+          - J Charles
+          kind: caught
+    - 0.3:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Hose
+    - 0.4:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hose
+    - 0.5:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 0.6:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 0.7:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 1.1:
+        non_striker: AJ Hose
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.2:
+        non_striker: AJ Hose
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.3:
+        non_striker: AJ Hose
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AD Hales
+    - 1.4:
+        non_striker: AD Hales
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 1.5:
+        non_striker: AD Hales
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 1.6:
+        non_striker: AD Hales
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Hose
+    - 2.1:
+        non_striker: AJ Hose
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.2:
+        non_striker: AJ Hose
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.3:
+        non_striker: AJ Hose
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.4:
+        non_striker: AJ Hose
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 2.5:
+        non_striker: AJ Hose
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 2.6:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 3.1:
+        non_striker: AD Hales
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Hose
+    - 3.2:
+        non_striker: AD Hales
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 3.3:
+        non_striker: AD Hales
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 3.4:
+        non_striker: AD Hales
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: AJ Hose
+    - 3.5:
+        non_striker: AD Hales
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+        wicket:
+          player_out: AJ Hose
+          kind: bowled
+    - 3.6:
+        non_striker: AD Hales
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 4.1:
+        non_striker: PWH de Silva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 4.2:
+        non_striker: PWH de Silva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 4.3:
+        non_striker: PWH de Silva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 4.4:
+        non_striker: PWH de Silva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 4.5:
+        non_striker: PWH de Silva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 4.6:
+        non_striker: PWH de Silva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 5.1:
+        non_striker: AD Hales
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 5.2:
+        non_striker: AD Hales
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 5.3:
+        non_striker: AD Hales
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+        wicket:
+          player_out: PWH de Silva
+          fielders:
+          - T Kohler-Cadmore
+          kind: caught
+    - 5.4:
+        non_striker: AD Hales
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 5.5:
+        non_striker: Rohan Mustafa
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 5.6:
+        non_striker: AD Hales
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 6.1:
+        non_striker: Rohan Mustafa
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 6.2:
+        non_striker: AD Hales
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 6.3:
+        non_striker: AD Hales
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 6.4:
+        non_striker: Rohan Mustafa
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 6.5:
+        non_striker: AD Hales
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Rohan Mustafa
+    - 6.6:
+        non_striker: AD Hales
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rohan Mustafa
+    - 6.7:
+        non_striker: AD Hales
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 7.1:
+        non_striker: Rohan Mustafa
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 7.2:
+        non_striker: AD Hales
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 7.3:
+        non_striker: AD Hales
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Rohan Mustafa
+    - 7.4:
+        non_striker: AD Hales
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 7.5:
+        non_striker: AD Hales
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 7.6:
+        non_striker: AD Hales
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 8.1:
+        non_striker: Rohan Mustafa
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 8.2:
+        non_striker: AD Hales
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+        wicket:
+          player_out: Rohan Mustafa
+          kind: bowled
+    - 8.3:
+        non_striker: AD Hales
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 8.4:
+        non_striker: AD Hales
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azam Khan
+    - 8.5:
+        non_striker: AD Hales
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 8.6:
+        non_striker: AD Hales
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 9.1:
+        non_striker: Azam Khan
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 9.2:
+        non_striker: Azam Khan
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 9.3:
+        non_striker: AD Hales
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 9.4:
+        non_striker: AD Hales
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 9.5:
+        non_striker: Azam Khan
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 9.6:
+        non_striker: Azam Khan
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 10.1:
+        non_striker: Azam Khan
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 10.2:
+        non_striker: Azam Khan
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 10.3:
+        non_striker: Azam Khan
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 10.4:
+        non_striker: Azam Khan
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 10.5:
+        non_striker: Azam Khan
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 10.6:
+        non_striker: Azam Khan
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 11.1:
+        non_striker: Azam Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 11.2:
+        non_striker: Azam Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 11.3:
+        non_striker: AD Hales
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 11.4:
+        non_striker: Azam Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 11.5:
+        non_striker: Azam Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 11.6:
+        non_striker: AD Hales
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 12.1:
+        non_striker: Azam Khan
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 12.2:
+        non_striker: AD Hales
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 12.3:
+        non_striker: Azam Khan
+        bowler: L Gregory
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Hales
+    - 12.4:
+        non_striker: Azam Khan
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 12.5:
+        non_striker: Azam Khan
+        bowler: L Gregory
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Hales
+    - 12.6:
+        non_striker: Azam Khan
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 12.7:
+        non_striker: Azam Khan
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 12.8:
+        non_striker: Azam Khan
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 13.1:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 13.2:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 13.3:
+        non_striker: AD Hales
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 13.4:
+        non_striker: Azam Khan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 13.5:
+        non_striker: Azam Khan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          fielders:
+          - L Gregory
+          kind: caught
+    - 13.6:
+        non_striker: Azam Khan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 14.1:
+        non_striker: Azam Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 14.2:
+        non_striker: Azam Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 14.3:
+        non_striker: Azam Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 14.4:
+        non_striker: Azam Khan
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SE Rutherford
+    - 14.5:
+        non_striker: SE Rutherford
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 14.6:
+        non_striker: SE Rutherford
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 15.1:
+        non_striker: Azam Khan
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 15.2:
+        non_striker: SE Rutherford
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azam Khan
+    - 15.3:
+        non_striker: SE Rutherford
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 15.4:
+        non_striker: SE Rutherford
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 15.5:
+        non_striker: Azam Khan
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          kind: lbw
+    - 15.6:
+        non_striker: Azam Khan
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 16.1:
+        non_striker: Shadab Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 16.2:
+        non_striker: Shadab Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 16.3:
+        non_striker: Azam Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 16.4:
+        non_striker: Azam Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 16.5:
+        non_striker: Shadab Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 16.6:
+        non_striker: Azam Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 17.1:
+        non_striker: Azam Khan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 17.2:
+        non_striker: Shadab Khan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 17.3:
+        non_striker: Shadab Khan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+        wicket:
+          player_out: Azam Khan
+          fielders:
+          - T Kohler-Cadmore
+          kind: run out
+    - 17.4:
+        non_striker: Shaheen Shah Afridi
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 17.5:
+        non_striker: Shadab Khan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaheen Shah Afridi
+    - 17.6:
+        non_striker: Shadab Khan
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 18.1:
+        non_striker: Shadab Khan
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 18.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 18.3:
+        non_striker: Shaheen Shah Afridi
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 18.4:
+        non_striker: Shaheen Shah Afridi
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 18.5:
+        non_striker: Shaheen Shah Afridi
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 18.6:
+        non_striker: Shadab Khan
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shaheen Shah Afridi
+    - 19.1:
+        non_striker: Shaheen Shah Afridi
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 19.2:
+        non_striker: Shadab Khan
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 19.3:
+        non_striker: Shadab Khan
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 19.4:
+        non_striker: Shaheen Shah Afridi
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 19.5:
+        non_striker: Shadab Khan
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaheen Shah Afridi
+    - 19.6:
+        non_striker: Shadab Khan
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi

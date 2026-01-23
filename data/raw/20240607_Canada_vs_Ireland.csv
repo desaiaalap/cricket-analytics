@@ -1,0 +1,251 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Canada,0.1,A Johnson,MR Adair,0,{},{}
+1st innings,Canada,0.2,A Johnson,MR Adair,4,{},{}
+1st innings,Canada,0.3,A Johnson,MR Adair,0,{},{}
+1st innings,Canada,0.4,A Johnson,MR Adair,1,{},{}
+1st innings,Canada,0.5,NS Dhaliwal,MR Adair,0,{},{}
+1st innings,Canada,0.6,NS Dhaliwal,MR Adair,1,{},{}
+1st innings,Canada,1.1,NS Dhaliwal,J Little,0,{},{}
+1st innings,Canada,1.2,NS Dhaliwal,J Little,0,{},{}
+1st innings,Canada,1.3,NS Dhaliwal,J Little,1,{'wides': 1},{}
+1st innings,Canada,1.4,NS Dhaliwal,J Little,0,{},{}
+1st innings,Canada,1.5,NS Dhaliwal,J Little,4,{},{}
+1st innings,Canada,1.6,NS Dhaliwal,J Little,0,{},{}
+1st innings,Canada,1.7,NS Dhaliwal,J Little,1,{},{}
+1st innings,Canada,2.1,NS Dhaliwal,MR Adair,0,{},{}
+1st innings,Canada,2.2,NS Dhaliwal,MR Adair,0,{},"{'player_out': 'NS Dhaliwal', 'fielders': ['GH Dockrell'], 'kind': 'caught'}"
+1st innings,Canada,2.3,Pargat Singh,MR Adair,0,{},{}
+1st innings,Canada,2.4,Pargat Singh,MR Adair,0,{},{}
+1st innings,Canada,2.5,Pargat Singh,MR Adair,1,{},{}
+1st innings,Canada,2.6,A Johnson,MR Adair,0,{},{}
+1st innings,Canada,3.1,Pargat Singh,J Little,0,{},{}
+1st innings,Canada,3.2,Pargat Singh,J Little,1,{},{}
+1st innings,Canada,3.3,A Johnson,J Little,4,{},{}
+1st innings,Canada,3.4,A Johnson,J Little,4,{},{}
+1st innings,Canada,3.5,A Johnson,J Little,1,{},{}
+1st innings,Canada,3.6,Pargat Singh,J Little,1,{'wides': 1},{}
+1st innings,Canada,3.7,Pargat Singh,J Little,3,{},{}
+1st innings,Canada,4.1,Pargat Singh,CA Young,1,{},{}
+1st innings,Canada,4.2,A Johnson,CA Young,0,{},{}
+1st innings,Canada,4.3,A Johnson,CA Young,0,{},{}
+1st innings,Canada,4.4,A Johnson,CA Young,0,{},{}
+1st innings,Canada,4.5,A Johnson,CA Young,0,{},{}
+1st innings,Canada,4.6,A Johnson,CA Young,0,{},"{'player_out': 'A Johnson', 'fielders': ['C Campher'], 'kind': 'caught'}"
+1st innings,Canada,5.1,Pargat Singh,BJ McCarthy,4,{},{}
+1st innings,Canada,5.2,Pargat Singh,BJ McCarthy,4,{},{}
+1st innings,Canada,5.3,Pargat Singh,BJ McCarthy,1,{},{}
+1st innings,Canada,5.4,DS Bajwa,BJ McCarthy,0,{},{}
+1st innings,Canada,5.5,DS Bajwa,BJ McCarthy,0,{},{}
+1st innings,Canada,5.6,DS Bajwa,BJ McCarthy,0,{},{}
+1st innings,Canada,6.1,Pargat Singh,CA Young,1,{},{}
+1st innings,Canada,6.2,DS Bajwa,CA Young,1,{},{}
+1st innings,Canada,6.3,Pargat Singh,CA Young,0,{},{}
+1st innings,Canada,6.4,Pargat Singh,CA Young,2,{},{}
+1st innings,Canada,6.5,Pargat Singh,CA Young,1,{'wides': 1},{}
+1st innings,Canada,6.6,Pargat Singh,CA Young,0,{},"{'player_out': 'Pargat Singh', 'fielders': ['J Little'], 'kind': 'caught'}"
+1st innings,Canada,6.7,NR Kirton,CA Young,0,{},{}
+1st innings,Canada,7.1,DS Bajwa,BJ McCarthy,1,{},{}
+1st innings,Canada,7.2,NR Kirton,BJ McCarthy,1,{},{}
+1st innings,Canada,7.3,DS Bajwa,BJ McCarthy,0,{},{}
+1st innings,Canada,7.4,DS Bajwa,BJ McCarthy,4,{},{}
+1st innings,Canada,7.5,DS Bajwa,BJ McCarthy,1,{},{}
+1st innings,Canada,7.6,NR Kirton,BJ McCarthy,4,{},{}
+1st innings,Canada,8.1,DS Bajwa,GJ Delany,0,{},"{'player_out': 'DS Bajwa', 'kind': 'caught and bowled'}"
+1st innings,Canada,8.2,S Movva,GJ Delany,0,{},{}
+1st innings,Canada,8.3,S Movva,GJ Delany,1,{},{}
+1st innings,Canada,8.4,NR Kirton,GJ Delany,0,{},{}
+1st innings,Canada,8.5,NR Kirton,GJ Delany,2,{},{}
+1st innings,Canada,8.6,NR Kirton,GJ Delany,1,{},{}
+1st innings,Canada,9.1,NR Kirton,C Campher,1,{},{}
+1st innings,Canada,9.2,S Movva,C Campher,0,{},{}
+1st innings,Canada,9.3,S Movva,C Campher,0,{},{}
+1st innings,Canada,9.4,S Movva,C Campher,2,{},{}
+1st innings,Canada,9.5,S Movva,C Campher,1,{},{}
+1st innings,Canada,9.6,NR Kirton,C Campher,2,{},{}
+1st innings,Canada,10.1,S Movva,GJ Delany,1,{},{}
+1st innings,Canada,10.2,NR Kirton,GJ Delany,2,{},{}
+1st innings,Canada,10.3,NR Kirton,GJ Delany,1,{},{}
+1st innings,Canada,10.4,S Movva,GJ Delany,0,{},{}
+1st innings,Canada,10.5,S Movva,GJ Delany,2,{},{}
+1st innings,Canada,10.6,S Movva,GJ Delany,0,{},{}
+1st innings,Canada,11.1,NR Kirton,C Campher,1,{},{}
+1st innings,Canada,11.2,S Movva,C Campher,1,{},{}
+1st innings,Canada,11.3,NR Kirton,C Campher,0,{},{}
+1st innings,Canada,11.4,NR Kirton,C Campher,0,{},{}
+1st innings,Canada,11.5,NR Kirton,C Campher,1,{'wides': 1},{}
+1st innings,Canada,11.6,NR Kirton,C Campher,1,{},{}
+1st innings,Canada,11.7,S Movva,C Campher,1,{},{}
+1st innings,Canada,12.1,S Movva,CA Young,0,{},{}
+1st innings,Canada,12.2,S Movva,CA Young,0,{},{}
+1st innings,Canada,12.3,S Movva,CA Young,4,{},{}
+1st innings,Canada,12.4,S Movva,CA Young,0,{},{}
+1st innings,Canada,12.5,S Movva,CA Young,4,{},{}
+1st innings,Canada,12.6,S Movva,CA Young,0,{},{}
+1st innings,Canada,13.1,NR Kirton,J Little,1,{},{}
+1st innings,Canada,13.2,S Movva,J Little,1,{},{}
+1st innings,Canada,13.3,NR Kirton,J Little,3,{},{}
+1st innings,Canada,13.4,S Movva,J Little,1,{},{}
+1st innings,Canada,13.5,NR Kirton,J Little,1,{},{}
+1st innings,Canada,13.6,S Movva,J Little,1,{},{}
+1st innings,Canada,14.1,S Movva,BJ McCarthy,0,{},{}
+1st innings,Canada,14.2,S Movva,BJ McCarthy,1,{},{}
+1st innings,Canada,14.3,NR Kirton,BJ McCarthy,0,{},{}
+1st innings,Canada,14.4,NR Kirton,BJ McCarthy,0,{},{}
+1st innings,Canada,14.5,NR Kirton,BJ McCarthy,0,{},{}
+1st innings,Canada,14.6,NR Kirton,BJ McCarthy,1,{},{}
+1st innings,Canada,15.1,NR Kirton,CA Young,6,{},{}
+1st innings,Canada,15.2,NR Kirton,CA Young,4,{},{}
+1st innings,Canada,15.3,NR Kirton,CA Young,1,{},{}
+1st innings,Canada,15.4,S Movva,CA Young,1,{},{}
+1st innings,Canada,15.5,NR Kirton,CA Young,0,{},{}
+1st innings,Canada,15.6,NR Kirton,CA Young,6,{},{}
+1st innings,Canada,16.1,S Movva,J Little,1,{},{}
+1st innings,Canada,16.2,NR Kirton,J Little,4,{},{}
+1st innings,Canada,16.3,NR Kirton,J Little,2,{},{}
+1st innings,Canada,16.4,NR Kirton,J Little,0,{},{}
+1st innings,Canada,16.5,NR Kirton,J Little,1,{},{}
+1st innings,Canada,16.6,S Movva,J Little,1,{},{}
+1st innings,Canada,17.1,S Movva,MR Adair,1,{},{}
+1st innings,Canada,17.2,NR Kirton,MR Adair,1,{},{}
+1st innings,Canada,17.3,S Movva,MR Adair,2,{},{}
+1st innings,Canada,17.4,S Movva,MR Adair,1,{'wides': 1},{}
+1st innings,Canada,17.5,S Movva,MR Adair,1,{},{}
+1st innings,Canada,17.6,NR Kirton,MR Adair,1,{},{}
+1st innings,Canada,17.7,S Movva,MR Adair,0,{},{}
+1st innings,Canada,18.1,NR Kirton,BJ McCarthy,1,{},{}
+1st innings,Canada,18.2,S Movva,BJ McCarthy,1,{},{}
+1st innings,Canada,18.3,NR Kirton,BJ McCarthy,0,{},{}
+1st innings,Canada,18.4,NR Kirton,BJ McCarthy,0,{},"{'player_out': 'NR Kirton', 'fielders': ['A Balbirnie'], 'kind': 'caught'}"
+1st innings,Canada,18.5,D Heyliger,BJ McCarthy,0,{},{}
+1st innings,Canada,18.6,D Heyliger,BJ McCarthy,0,{},"{'player_out': 'D Heyliger', 'fielders': ['J Little'], 'kind': 'caught'}"
+1st innings,Canada,19.1,S Movva,MR Adair,1,{},{}
+1st innings,Canada,19.2,Saad Bin Zafar,MR Adair,1,{},{}
+1st innings,Canada,19.3,S Movva,MR Adair,0,{},{}
+1st innings,Canada,19.4,S Movva,MR Adair,4,{},{}
+1st innings,Canada,19.5,S Movva,MR Adair,2,{},{}
+1st innings,Canada,19.6,S Movva,MR Adair,1,{},"{'player_out': 'S Movva', 'fielders': ['L Tucker', 'BJ McCarthy'], 'kind': 'run out'}"
+2nd innings,Ireland,0.1,A Balbirnie,Kaleem Sana,0,{},{}
+2nd innings,Ireland,0.2,A Balbirnie,Kaleem Sana,1,{'wides': 1},{}
+2nd innings,Ireland,0.3,A Balbirnie,Kaleem Sana,1,{'wides': 1},{}
+2nd innings,Ireland,0.4,A Balbirnie,Kaleem Sana,0,{},{}
+2nd innings,Ireland,0.5,A Balbirnie,Kaleem Sana,1,{'wides': 1},{}
+2nd innings,Ireland,0.6,A Balbirnie,Kaleem Sana,3,{},{}
+2nd innings,Ireland,0.7,PR Stirling,Kaleem Sana,0,{},{}
+2nd innings,Ireland,0.8,PR Stirling,Kaleem Sana,0,{},{}
+2nd innings,Ireland,0.9,PR Stirling,Kaleem Sana,4,{},{}
+2nd innings,Ireland,1.1,A Balbirnie,JOA Gordon,1,{},{}
+2nd innings,Ireland,1.2,PR Stirling,JOA Gordon,0,{},{}
+2nd innings,Ireland,1.3,PR Stirling,JOA Gordon,1,{'wides': 1},{}
+2nd innings,Ireland,1.4,PR Stirling,JOA Gordon,0,{},{}
+2nd innings,Ireland,1.5,PR Stirling,JOA Gordon,1,{},{}
+2nd innings,Ireland,1.6,A Balbirnie,JOA Gordon,0,{},{}
+2nd innings,Ireland,1.7,A Balbirnie,JOA Gordon,0,{},{}
+2nd innings,Ireland,2.1,PR Stirling,Kaleem Sana,0,{},{}
+2nd innings,Ireland,2.2,PR Stirling,Kaleem Sana,0,{},{}
+2nd innings,Ireland,2.3,PR Stirling,Kaleem Sana,0,{},{}
+2nd innings,Ireland,2.4,PR Stirling,Kaleem Sana,0,{},{}
+2nd innings,Ireland,2.5,PR Stirling,Kaleem Sana,3,{},{}
+2nd innings,Ireland,2.6,A Balbirnie,Kaleem Sana,0,{},{}
+2nd innings,Ireland,3.1,PR Stirling,JOA Gordon,1,{},{}
+2nd innings,Ireland,3.2,A Balbirnie,JOA Gordon,0,{},{}
+2nd innings,Ireland,3.3,A Balbirnie,JOA Gordon,2,{},{}
+2nd innings,Ireland,3.4,A Balbirnie,JOA Gordon,0,{},{}
+2nd innings,Ireland,3.5,A Balbirnie,JOA Gordon,1,{},{}
+2nd innings,Ireland,3.6,PR Stirling,JOA Gordon,0,{},{}
+2nd innings,Ireland,4.1,A Balbirnie,Junaid Siddiqui,0,{},{}
+2nd innings,Ireland,4.2,A Balbirnie,Junaid Siddiqui,2,{},{}
+2nd innings,Ireland,4.3,A Balbirnie,Junaid Siddiqui,0,{},{}
+2nd innings,Ireland,4.4,A Balbirnie,Junaid Siddiqui,2,{},{}
+2nd innings,Ireland,4.5,A Balbirnie,Junaid Siddiqui,1,{},{}
+2nd innings,Ireland,4.6,PR Stirling,Junaid Siddiqui,0,{},{}
+2nd innings,Ireland,5.1,A Balbirnie,JOA Gordon,1,{},{}
+2nd innings,Ireland,5.2,PR Stirling,JOA Gordon,0,{},{}
+2nd innings,Ireland,5.3,PR Stirling,JOA Gordon,0,{},{}
+2nd innings,Ireland,5.4,PR Stirling,JOA Gordon,0,{},"{'player_out': 'PR Stirling', 'fielders': ['S Movva'], 'kind': 'caught'}"
+2nd innings,Ireland,5.5,L Tucker,JOA Gordon,1,{},{}
+2nd innings,Ireland,5.6,A Balbirnie,JOA Gordon,4,{},{}
+2nd innings,Ireland,6.1,L Tucker,Junaid Siddiqui,1,{},{}
+2nd innings,Ireland,6.2,A Balbirnie,Junaid Siddiqui,0,{},"{'player_out': 'A Balbirnie', 'kind': 'caught and bowled'}"
+2nd innings,Ireland,6.3,HT Tector,Junaid Siddiqui,1,{},{}
+2nd innings,Ireland,6.4,L Tucker,Junaid Siddiqui,0,{},{}
+2nd innings,Ireland,6.5,L Tucker,Junaid Siddiqui,1,{},{}
+2nd innings,Ireland,6.6,HT Tector,Junaid Siddiqui,2,{},{}
+2nd innings,Ireland,7.1,L Tucker,Saad Bin Zafar,1,{},{}
+2nd innings,Ireland,7.2,HT Tector,Saad Bin Zafar,2,{},{}
+2nd innings,Ireland,7.3,HT Tector,Saad Bin Zafar,2,{},{}
+2nd innings,Ireland,7.4,HT Tector,Saad Bin Zafar,0,{},"{'player_out': 'HT Tector', 'kind': 'bowled'}"
+2nd innings,Ireland,7.5,C Campher,Saad Bin Zafar,1,{},{}
+2nd innings,Ireland,7.6,L Tucker,Saad Bin Zafar,1,{},{}
+2nd innings,Ireland,8.1,L Tucker,Junaid Siddiqui,1,{},{}
+2nd innings,Ireland,8.2,C Campher,Junaid Siddiqui,1,{},{}
+2nd innings,Ireland,8.3,L Tucker,Junaid Siddiqui,0,{},{}
+2nd innings,Ireland,8.4,L Tucker,Junaid Siddiqui,0,{},{}
+2nd innings,Ireland,8.5,L Tucker,Junaid Siddiqui,0,{},{}
+2nd innings,Ireland,8.6,L Tucker,Junaid Siddiqui,1,{},{}
+2nd innings,Ireland,9.1,L Tucker,Saad Bin Zafar,0,{},{}
+2nd innings,Ireland,9.2,L Tucker,Saad Bin Zafar,1,{},{}
+2nd innings,Ireland,9.3,C Campher,Saad Bin Zafar,0,{},{}
+2nd innings,Ireland,9.4,C Campher,Saad Bin Zafar,1,{},{}
+2nd innings,Ireland,9.5,L Tucker,Saad Bin Zafar,2,{},{}
+2nd innings,Ireland,9.6,L Tucker,Saad Bin Zafar,0,{},"{'player_out': 'L Tucker', 'fielders': ['NR Kirton', 'Saad Bin Zafar'], 'kind': 'run out'}"
+2nd innings,Ireland,10.1,GH Dockrell,D Heyliger,1,{'legbyes': 1},{}
+2nd innings,Ireland,10.2,C Campher,D Heyliger,1,{},{}
+2nd innings,Ireland,10.3,GH Dockrell,D Heyliger,1,{},{}
+2nd innings,Ireland,10.4,C Campher,D Heyliger,0,{},{}
+2nd innings,Ireland,10.5,C Campher,D Heyliger,0,{},"{'player_out': 'C Campher', 'fielders': ['A Johnson'], 'kind': 'caught'}"
+2nd innings,Ireland,10.6,GJ Delany,D Heyliger,0,{},{}
+2nd innings,Ireland,11.1,GH Dockrell,Saad Bin Zafar,1,{},{}
+2nd innings,Ireland,11.2,GJ Delany,Saad Bin Zafar,0,{},{}
+2nd innings,Ireland,11.3,GJ Delany,Saad Bin Zafar,1,{},{}
+2nd innings,Ireland,11.4,GH Dockrell,Saad Bin Zafar,1,{},{}
+2nd innings,Ireland,11.5,GJ Delany,Saad Bin Zafar,0,{},{}
+2nd innings,Ireland,11.6,GJ Delany,Saad Bin Zafar,1,{},{}
+2nd innings,Ireland,12.1,GJ Delany,D Heyliger,1,{},{}
+2nd innings,Ireland,12.2,GH Dockrell,D Heyliger,1,{},{}
+2nd innings,Ireland,12.3,GJ Delany,D Heyliger,0,{},"{'player_out': 'GJ Delany', 'fielders': ['S Movva'], 'kind': 'caught'}"
+2nd innings,Ireland,12.4,MR Adair,D Heyliger,1,{'wides': 1},{}
+2nd innings,Ireland,12.5,MR Adair,D Heyliger,0,{},{}
+2nd innings,Ireland,12.6,MR Adair,D Heyliger,1,{},{}
+2nd innings,Ireland,12.7,GH Dockrell,D Heyliger,1,{},{}
+2nd innings,Ireland,13.1,GH Dockrell,Saad Bin Zafar,1,{},{}
+2nd innings,Ireland,13.2,MR Adair,Saad Bin Zafar,1,{},{}
+2nd innings,Ireland,13.3,GH Dockrell,Saad Bin Zafar,1,{},{}
+2nd innings,Ireland,13.4,MR Adair,Saad Bin Zafar,2,{},{}
+2nd innings,Ireland,13.5,MR Adair,Saad Bin Zafar,0,{},{}
+2nd innings,Ireland,13.6,MR Adair,Saad Bin Zafar,2,{},{}
+2nd innings,Ireland,14.1,GH Dockrell,D Heyliger,1,{},{}
+2nd innings,Ireland,14.2,MR Adair,D Heyliger,0,{},{}
+2nd innings,Ireland,14.3,MR Adair,D Heyliger,0,{},{}
+2nd innings,Ireland,14.4,MR Adair,D Heyliger,1,{},{}
+2nd innings,Ireland,14.5,GH Dockrell,D Heyliger,2,{'byes': 2},{}
+2nd innings,Ireland,14.6,GH Dockrell,D Heyliger,1,{},{}
+2nd innings,Ireland,15.1,GH Dockrell,Junaid Siddiqui,4,{},{}
+2nd innings,Ireland,15.2,GH Dockrell,Junaid Siddiqui,1,{},{}
+2nd innings,Ireland,15.3,MR Adair,Junaid Siddiqui,1,{},{}
+2nd innings,Ireland,15.4,GH Dockrell,Junaid Siddiqui,6,{},{}
+2nd innings,Ireland,15.5,GH Dockrell,Junaid Siddiqui,0,{},{}
+2nd innings,Ireland,15.6,GH Dockrell,Junaid Siddiqui,2,{},{}
+2nd innings,Ireland,16.1,MR Adair,Kaleem Sana,1,{},{}
+2nd innings,Ireland,16.2,GH Dockrell,Kaleem Sana,1,{},{}
+2nd innings,Ireland,16.3,MR Adair,Kaleem Sana,4,{},{}
+2nd innings,Ireland,16.4,MR Adair,Kaleem Sana,2,{},{}
+2nd innings,Ireland,16.5,MR Adair,Kaleem Sana,6,{},{}
+2nd innings,Ireland,16.6,MR Adair,Kaleem Sana,0,{},{}
+2nd innings,Ireland,17.1,GH Dockrell,D Heyliger,0,{},{}
+2nd innings,Ireland,17.2,GH Dockrell,D Heyliger,4,{},{}
+2nd innings,Ireland,17.3,GH Dockrell,D Heyliger,1,{},{}
+2nd innings,Ireland,17.4,MR Adair,D Heyliger,0,{},{}
+2nd innings,Ireland,17.5,MR Adair,D Heyliger,3,{},{}
+2nd innings,Ireland,17.6,GH Dockrell,D Heyliger,0,{},{}
+2nd innings,Ireland,18.1,MR Adair,Kaleem Sana,1,{},{}
+2nd innings,Ireland,18.2,GH Dockrell,Kaleem Sana,1,{},{}
+2nd innings,Ireland,18.3,MR Adair,Kaleem Sana,4,{},{}
+2nd innings,Ireland,18.4,MR Adair,Kaleem Sana,0,{},{}
+2nd innings,Ireland,18.5,MR Adair,Kaleem Sana,4,{},{}
+2nd innings,Ireland,18.6,MR Adair,Kaleem Sana,1,{},{}
+2nd innings,Ireland,19.1,MR Adair,JOA Gordon,0,{},{}
+2nd innings,Ireland,19.2,MR Adair,JOA Gordon,0,{},"{'player_out': 'MR Adair', 'kind': 'caught and bowled'}"
+2nd innings,Ireland,19.3,BJ McCarthy,JOA Gordon,2,{},{}
+2nd innings,Ireland,19.4,BJ McCarthy,JOA Gordon,0,{},{}
+2nd innings,Ireland,19.5,BJ McCarthy,JOA Gordon,1,{'byes': 1},{}
+2nd innings,Ireland,19.6,GH Dockrell,JOA Gordon,1,{},{}

@@ -1,0 +1,2050 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-01-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sharjah
+  competition: International League T20
+  dates:
+  - '2025-01-19'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: MI Emirates
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - T Banton
+  players:
+    Sharjah Warriorz:
+    - T Mathew
+    - JJ Roy
+    - J Charles
+    - WIA Fernando
+    - Rohan Mustafa
+    - LWP Wells
+    - Karim Janat
+    - KMA Paul
+    - TG Southee
+    - Ethan D'Souza
+    - AF Milne
+    - D Madushanka
+    MI Emirates:
+    - Waqar Salamkheil
+    - Waseem Muhammad
+    - MDKJ Perera
+    - T Banton
+    - N Pooran
+    - KA Pollard
+    - DR Mousley
+    - R Shepherd
+    - AJ Hosein
+    - Zahoor Khan
+    - AS Joseph
+    - Fazalhaq Farooqi
+  registry:
+    people:
+      AF Milne: 350bb1b1
+      AG Wharf: 2e0fcc58
+      AJ Hosein: 4d7f517e
+      AS Joseph: b0946605
+      Aryan Lakra: '099135ad'
+      D Madushanka: de7d833e
+      DR Mousley: 876dbe2d
+      Ethan D'Souza: 31ca7a9c
+      Fazalhaq Farooqi: e9c7f0d0
+      J Charles: '09a9d073'
+      JJ Roy: d1c36f5c
+      KA Pollard: a757b0d8
+      KMA Paul: 75224f22
+      Karim Janat: '62175638'
+      LS Reifer: 5dee559a
+      LWP Wells: 1957c6b7
+      MDKJ Perera: f21043a5
+      N Pooran: 3241e3fd
+      R Shepherd: c5aef772
+      RS Mahanama: '57910393'
+      RSA Palliyaguruge: 4339c19d
+      Rohan Mustafa: d1988788
+      Shiju Sam: 1e2f3eae
+      T Banton: 25f7b7d6
+      T Mathew: c13e8df5
+      TG Southee: 13c35c9e
+      WIA Fernando: 9550470d
+      Waqar Salamkheil: 3f1066d0
+      Waseem Muhammad: 6f02fe2a
+      Zahoor Khan: f0e293b0
+  teams:
+  - Sharjah Warriorz
+  - MI Emirates
+  toss:
+    winner: MI Emirates
+    decision: field
+  umpires:
+  - AG Wharf
+  - RSA Palliyaguruge
+  venue: Sharjah Cricket Stadium
+innings:
+- 1st innings:
+    team: Sharjah Warriorz
+    deliveries:
+    - 0.1:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 0.2:
+        non_striker: JJ Roy
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 0.3:
+        non_striker: JJ Roy
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 0.4:
+        non_striker: JJ Roy
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 0.5:
+        non_striker: JJ Roy
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 0.6:
+        non_striker: JJ Roy
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Charles
+    - 1.1:
+        non_striker: J Charles
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 1.2:
+        non_striker: J Charles
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 1.3:
+        non_striker: J Charles
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+        wicket:
+          player_out: JJ Roy
+          fielders:
+          - N Pooran
+          kind: caught
+    - 1.4:
+        non_striker: J Charles
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 1.5:
+        non_striker: J Charles
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 1.6:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 2.1:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 2.2:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 2.3:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WIA Fernando
+    - 2.4:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 2.5:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 2.6:
+        non_striker: WIA Fernando
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 2.7:
+        non_striker: WIA Fernando
+        bowler: AJ Hosein
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Charles
+    - 3.1:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.2:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 3.3:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.4:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.5:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Charles
+    - 3.6:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.7:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 4.1:
+        non_striker: J Charles
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WIA Fernando
+    - 4.2:
+        non_striker: J Charles
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 4.3:
+        non_striker: J Charles
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 4.4:
+        non_striker: J Charles
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WIA Fernando
+    - 4.5:
+        non_striker: J Charles
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 4.6:
+        non_striker: WIA Fernando
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 5.1:
+        non_striker: J Charles
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WIA Fernando
+    - 5.2:
+        non_striker: J Charles
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 5.3:
+        non_striker: J Charles
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WIA Fernando
+    - 5.4:
+        non_striker: J Charles
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 5.5:
+        non_striker: J Charles
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 5.6:
+        non_striker: J Charles
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+        wicket:
+          player_out: WIA Fernando
+          fielders:
+          - Waseem Muhammad
+          kind: caught
+    - 6.1:
+        non_striker: Rohan Mustafa
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 6.2:
+        non_striker: J Charles
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 6.3:
+        non_striker: Rohan Mustafa
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Charles
+    - 6.4:
+        non_striker: Rohan Mustafa
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 6.5:
+        non_striker: Rohan Mustafa
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 6.6:
+        non_striker: Rohan Mustafa
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 7.1:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 7.2:
+        non_striker: Rohan Mustafa
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 7.3:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rohan Mustafa
+    - 7.4:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rohan Mustafa
+    - 7.5:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 7.6:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 8.1:
+        non_striker: Rohan Mustafa
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 8.2:
+        non_striker: Rohan Mustafa
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 8.3:
+        non_striker: J Charles
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 8.4:
+        non_striker: J Charles
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+        wicket:
+          player_out: Rohan Mustafa
+          kind: lbw
+    - 8.5:
+        non_striker: J Charles
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LWP Wells
+    - 8.6:
+        non_striker: J Charles
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LWP Wells
+    - 9.1:
+        non_striker: J Charles
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LWP Wells
+    - 9.2:
+        non_striker: LWP Wells
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 9.3:
+        non_striker: J Charles
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LWP Wells
+    - 9.4:
+        non_striker: LWP Wells
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 9.5:
+        non_striker: LWP Wells
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 9.6:
+        non_striker: J Charles
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LWP Wells
+    - 10.1:
+        non_striker: LWP Wells
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 10.2:
+        non_striker: J Charles
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LWP Wells
+    - 10.3:
+        non_striker: J Charles
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LWP Wells
+    - 10.4:
+        non_striker: J Charles
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LWP Wells
+    - 10.5:
+        non_striker: J Charles
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LWP Wells
+    - 10.6:
+        non_striker: J Charles
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LWP Wells
+    - 11.1:
+        non_striker: J Charles
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LWP Wells
+    - 11.2:
+        non_striker: J Charles
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LWP Wells
+    - 11.3:
+        non_striker: LWP Wells
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 11.4:
+        non_striker: J Charles
+        bowler: R Shepherd
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: LWP Wells
+    - 11.5:
+        non_striker: J Charles
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LWP Wells
+    - 11.6:
+        non_striker: J Charles
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LWP Wells
+    - 11.7:
+        non_striker: J Charles
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LWP Wells
+    - 11.8:
+        non_striker: LWP Wells
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 12.1:
+        non_striker: J Charles
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LWP Wells
+        wicket:
+          player_out: LWP Wells
+          fielders:
+          - T Banton
+          kind: caught
+    - 12.2:
+        non_striker: J Charles
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+    - 12.3:
+        non_striker: J Charles
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karim Janat
+    - 12.4:
+        non_striker: Karim Janat
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 12.5:
+        non_striker: Karim Janat
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 12.6:
+        non_striker: J Charles
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karim Janat
+    - 13.1:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+    - 13.2:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karim Janat
+    - 13.3:
+        non_striker: Karim Janat
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 13.4:
+        non_striker: Karim Janat
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 13.5:
+        non_striker: Karim Janat
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 13.6:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Karim Janat
+    - 14.1:
+        non_striker: Karim Janat
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 14.2:
+        non_striker: J Charles
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karim Janat
+    - 14.3:
+        non_striker: Karim Janat
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 14.4:
+        non_striker: Karim Janat
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 14.5:
+        non_striker: Karim Janat
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 14.6:
+        non_striker: Karim Janat
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 15.1:
+        non_striker: Karim Janat
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Charles
+    - 15.2:
+        non_striker: Karim Janat
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 15.3:
+        non_striker: Karim Janat
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+        wicket:
+          player_out: J Charles
+          fielders:
+          - Aryan Lakra (sub)
+          kind: caught
+    - 15.4:
+        non_striker: Karim Janat
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 15.5:
+        non_striker: KMA Paul
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Karim Janat
+    - 15.6:
+        non_striker: KMA Paul
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+    - 15.7:
+        non_striker: KMA Paul
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Karim Janat
+    - 16.1:
+        non_striker: Karim Janat
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 16.2:
+        non_striker: Karim Janat
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KMA Paul
+    - 16.3:
+        non_striker: Karim Janat
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 16.4:
+        non_striker: KMA Paul
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+    - 16.5:
+        non_striker: KMA Paul
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+    - 16.6:
+        non_striker: KMA Paul
+        bowler: Zahoor Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Karim Janat
+    - 17.1:
+        non_striker: KMA Paul
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karim Janat
+    - 17.2:
+        non_striker: Karim Janat
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+        wicket:
+          player_out: KMA Paul
+          fielders:
+          - KA Pollard
+          kind: caught
+    - 17.3:
+        non_striker: Karim Janat
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 17.4:
+        non_striker: TG Southee
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karim Janat
+    - 17.5:
+        non_striker: Karim Janat
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+        wicket:
+          player_out: TG Southee
+          fielders:
+          - MDKJ Perera (sub)
+          kind: caught
+    - 17.6:
+        non_striker: Karim Janat
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ethan D'Souza
+    - 18.1:
+        non_striker: Karim Janat
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ethan D'Souza
+    - 18.2:
+        non_striker: Karim Janat
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ethan D'Souza
+    - 18.3:
+        non_striker: Karim Janat
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ethan D'Souza
+    - 18.4:
+        non_striker: Karim Janat
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ethan D'Souza
+    - 18.5:
+        non_striker: Ethan D'Souza
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Karim Janat
+    - 18.6:
+        non_striker: Ethan D'Souza
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+        wicket:
+          player_out: Karim Janat
+          fielders:
+          - T Banton
+          kind: caught
+    - 19.1:
+        non_striker: AF Milne
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ethan D'Souza
+    - 19.2:
+        non_striker: Ethan D'Souza
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AF Milne
+    - 19.3:
+        non_striker: Ethan D'Souza
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 19.4:
+        non_striker: Ethan D'Souza
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 19.5:
+        non_striker: Ethan D'Souza
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AF Milne
+    - 19.6:
+        non_striker: Ethan D'Souza
+        bowler: Zahoor Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+        wicket:
+          player_out: Ethan D'Souza
+          fielders:
+          - N Pooran
+          kind: run out
+- 2nd innings:
+    team: MI Emirates
+    deliveries:
+    - 0.1:
+        non_striker: MDKJ Perera
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        replacements:
+          match:
+          - in: T Mathew
+            out: WIA Fernando
+            team: Sharjah Warriorz
+            reason: impact_player
+          - in: MDKJ Perera
+            out: Waqar Salamkheil
+            team: MI Emirates
+            reason: impact_player
+        batsman: Waseem Muhammad
+    - 0.2:
+        non_striker: MDKJ Perera
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.3:
+        non_striker: MDKJ Perera
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 0.4:
+        non_striker: MDKJ Perera
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 0.5:
+        non_striker: MDKJ Perera
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.6:
+        non_striker: MDKJ Perera
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.1:
+        non_striker: Waseem Muhammad
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 1.2:
+        non_striker: Waseem Muhammad
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 1.3:
+        non_striker: Waseem Muhammad
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 1.4:
+        non_striker: Waseem Muhammad
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 1.5:
+        non_striker: MDKJ Perera
+        bowler: AF Milne
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Waseem Muhammad
+    - 1.6:
+        non_striker: MDKJ Perera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.1:
+        non_striker: Waseem Muhammad
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 2.2:
+        non_striker: Waseem Muhammad
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDKJ Perera
+    - 2.3:
+        non_striker: Waseem Muhammad
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 2.4:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          fielders:
+          - J Charles
+          kind: caught
+    - 2.5:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 2.6:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 3.1:
+        non_striker: T Banton
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 3.2:
+        non_striker: MDKJ Perera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 3.3:
+        non_striker: MDKJ Perera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 3.4:
+        non_striker: MDKJ Perera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 3.5:
+        non_striker: MDKJ Perera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 3.6:
+        non_striker: MDKJ Perera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 4.1:
+        non_striker: T Banton
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 4.2:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 4.3:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 4.4:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 4.5:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 4.6:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 5.1:
+        non_striker: MDKJ Perera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 5.2:
+        non_striker: MDKJ Perera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 5.3:
+        non_striker: MDKJ Perera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 5.4:
+        non_striker: MDKJ Perera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 5.5:
+        non_striker: MDKJ Perera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 5.6:
+        non_striker: T Banton
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 6.1:
+        non_striker: T Banton
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 6.2:
+        non_striker: MDKJ Perera
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 6.3:
+        non_striker: MDKJ Perera
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 6.4:
+        non_striker: T Banton
+        bowler: T Mathew
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MDKJ Perera
+    - 6.5:
+        non_striker: MDKJ Perera
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 6.6:
+        non_striker: MDKJ Perera
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 6.7:
+        non_striker: T Banton
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 7.1:
+        non_striker: MDKJ Perera
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 7.2:
+        non_striker: T Banton
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 7.3:
+        non_striker: MDKJ Perera
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 7.4:
+        non_striker: T Banton
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDKJ Perera
+    - 7.5:
+        non_striker: T Banton
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MDKJ Perera
+    - 7.6:
+        non_striker: T Banton
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 8.1:
+        non_striker: MDKJ Perera
+        bowler: LWP Wells
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 8.2:
+        non_striker: T Banton
+        bowler: LWP Wells
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 8.3:
+        non_striker: T Banton
+        bowler: LWP Wells
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDKJ Perera
+    - 8.4:
+        non_striker: T Banton
+        bowler: LWP Wells
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 8.5:
+        non_striker: MDKJ Perera
+        bowler: LWP Wells
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 8.6:
+        non_striker: MDKJ Perera
+        bowler: LWP Wells
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 9.1:
+        non_striker: MDKJ Perera
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 9.2:
+        non_striker: MDKJ Perera
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 9.3:
+        non_striker: MDKJ Perera
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 9.4:
+        non_striker: T Banton
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 9.5:
+        non_striker: MDKJ Perera
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 9.6:
+        non_striker: MDKJ Perera
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 10.1:
+        non_striker: MDKJ Perera
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 10.2:
+        non_striker: T Banton
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 10.3:
+        non_striker: MDKJ Perera
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 10.4:
+        non_striker: T Banton
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDKJ Perera
+    - 10.5:
+        non_striker: T Banton
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 10.6:
+        non_striker: T Banton
+        bowler: Karim Janat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 11.1:
+        non_striker: T Banton
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDKJ Perera
+    - 11.2:
+        non_striker: T Banton
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 11.3:
+        non_striker: T Banton
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 11.4:
+        non_striker: MDKJ Perera
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 11.5:
+        non_striker: T Banton
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 11.6:
+        non_striker: MDKJ Perera
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 12.1:
+        non_striker: MDKJ Perera
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 12.2:
+        non_striker: T Banton
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 12.3:
+        non_striker: MDKJ Perera
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 12.4:
+        non_striker: T Banton
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 12.5:
+        non_striker: MDKJ Perera
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 12.6:
+        non_striker: MDKJ Perera
+        bowler: T Mathew
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 13.1:
+        non_striker: T Banton
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MDKJ Perera
+    - 13.2:
+        non_striker: T Banton
+        bowler: KMA Paul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MDKJ Perera
+    - 13.3:
+        non_striker: T Banton
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MDKJ Perera
+    - 13.4:
+        non_striker: T Banton
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDKJ Perera
+    - 13.5:
+        non_striker: T Banton
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 13.6:
+        non_striker: T Banton
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 13.7:
+        non_striker: MDKJ Perera
+        bowler: KMA Paul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Banton
+    - 13.8:
+        non_striker: MDKJ Perera
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 14.1:
+        non_striker: T Banton
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 14.2:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 14.3:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 14.4:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 14.5:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 14.6:
+        non_striker: T Banton
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MDKJ Perera
+    - 15.1:
+        non_striker: MDKJ Perera
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Banton
+    - 15.2:
+        non_striker: T Banton
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 15.3:
+        non_striker: MDKJ Perera
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 15.4:
+        non_striker: MDKJ Perera
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 15.5:
+        non_striker: MDKJ Perera
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 15.6:
+        non_striker: MDKJ Perera
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 16.1:
+        non_striker: T Banton
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 16.2:
+        non_striker: MDKJ Perera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 16.3:
+        non_striker: T Banton
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 16.4:
+        non_striker: T Banton
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 16.5:
+        non_striker: MDKJ Perera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 16.6:
+        non_striker: T Banton
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 17.1:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 17.2:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 17.3:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 17.4:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton

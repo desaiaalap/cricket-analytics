@@ -1,0 +1,248 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,South Africa,0.1,RR Hendricks,Sompal Kami,0,{},{}
+1st innings,South Africa,0.2,RR Hendricks,Sompal Kami,0,{},{}
+1st innings,South Africa,0.3,RR Hendricks,Sompal Kami,0,{},{}
+1st innings,South Africa,0.4,RR Hendricks,Sompal Kami,4,{'legbyes': 4},{}
+1st innings,South Africa,0.5,RR Hendricks,Sompal Kami,0,{},{}
+1st innings,South Africa,0.6,RR Hendricks,Sompal Kami,0,{},{}
+1st innings,South Africa,1.1,Q de Kock,DS Airee,1,{'wides': 1},{}
+1st innings,South Africa,1.2,Q de Kock,DS Airee,2,{},{}
+1st innings,South Africa,1.3,Q de Kock,DS Airee,1,{},{}
+1st innings,South Africa,1.4,RR Hendricks,DS Airee,1,{},{}
+1st innings,South Africa,1.5,Q de Kock,DS Airee,0,{},{}
+1st innings,South Africa,1.6,Q de Kock,DS Airee,1,{},{}
+1st innings,South Africa,1.7,RR Hendricks,DS Airee,0,{},{}
+1st innings,South Africa,2.1,Q de Kock,Sompal Kami,0,{},{}
+1st innings,South Africa,2.2,Q de Kock,Sompal Kami,0,{},{}
+1st innings,South Africa,2.3,Q de Kock,Sompal Kami,0,{},{}
+1st innings,South Africa,2.4,Q de Kock,Sompal Kami,4,{},{}
+1st innings,South Africa,2.5,Q de Kock,Sompal Kami,1,{},{}
+1st innings,South Africa,2.6,RR Hendricks,Sompal Kami,1,{'wides': 1},{}
+1st innings,South Africa,2.7,RR Hendricks,Sompal Kami,0,{},{}
+1st innings,South Africa,3.1,Q de Kock,DS Airee,1,{},{}
+1st innings,South Africa,3.2,RR Hendricks,DS Airee,4,{},{}
+1st innings,South Africa,3.3,RR Hendricks,DS Airee,1,{},{}
+1st innings,South Africa,3.4,Q de Kock,DS Airee,0,{},"{'player_out': 'Q de Kock', 'kind': 'caught and bowled'}"
+1st innings,South Africa,3.5,AK Markram,DS Airee,0,{},{}
+1st innings,South Africa,3.6,AK Markram,DS Airee,0,{},{}
+1st innings,South Africa,4.1,RR Hendricks,Karan KC,0,{},{}
+1st innings,South Africa,4.2,RR Hendricks,Karan KC,0,{},{}
+1st innings,South Africa,4.3,RR Hendricks,Karan KC,4,{},{}
+1st innings,South Africa,4.4,RR Hendricks,Karan KC,4,{},{}
+1st innings,South Africa,4.5,RR Hendricks,Karan KC,1,{},{}
+1st innings,South Africa,4.6,AK Markram,Karan KC,0,{},{}
+1st innings,South Africa,5.1,RR Hendricks,Kushal Malla,1,{},{}
+1st innings,South Africa,5.2,AK Markram,Kushal Malla,0,{},{}
+1st innings,South Africa,5.3,AK Markram,Kushal Malla,0,{},{}
+1st innings,South Africa,5.4,AK Markram,Kushal Malla,1,{},{}
+1st innings,South Africa,5.5,RR Hendricks,Kushal Malla,1,{'legbyes': 1},{}
+1st innings,South Africa,5.6,AK Markram,Kushal Malla,4,{},{}
+1st innings,South Africa,6.1,RR Hendricks,S Lamichhane,0,{},{}
+1st innings,South Africa,6.2,RR Hendricks,S Lamichhane,0,{},{}
+1st innings,South Africa,6.3,RR Hendricks,S Lamichhane,1,{},{}
+1st innings,South Africa,6.4,AK Markram,S Lamichhane,0,{},{}
+1st innings,South Africa,6.5,AK Markram,S Lamichhane,0,{},{}
+1st innings,South Africa,6.6,AK Markram,S Lamichhane,1,{},{}
+1st innings,South Africa,7.1,AK Markram,Kushal Malla,1,{},{}
+1st innings,South Africa,7.2,RR Hendricks,Kushal Malla,4,{},{}
+1st innings,South Africa,7.3,RR Hendricks,Kushal Malla,0,{},{}
+1st innings,South Africa,7.4,RR Hendricks,Kushal Malla,6,{},{}
+1st innings,South Africa,7.5,RR Hendricks,Kushal Malla,0,{},{}
+1st innings,South Africa,7.6,RR Hendricks,Kushal Malla,0,{},{}
+1st innings,South Africa,8.1,AK Markram,S Lamichhane,1,{},{}
+1st innings,South Africa,8.2,RR Hendricks,S Lamichhane,0,{},{}
+1st innings,South Africa,8.3,RR Hendricks,S Lamichhane,0,{},{}
+1st innings,South Africa,8.4,RR Hendricks,S Lamichhane,0,{},{}
+1st innings,South Africa,8.5,RR Hendricks,S Lamichhane,1,{},{}
+1st innings,South Africa,8.6,AK Markram,S Lamichhane,0,{},{}
+1st innings,South Africa,9.1,RR Hendricks,K Bhurtel,1,{},{}
+1st innings,South Africa,9.2,AK Markram,K Bhurtel,0,{},{}
+1st innings,South Africa,9.3,AK Markram,K Bhurtel,1,{},{}
+1st innings,South Africa,9.4,RR Hendricks,K Bhurtel,1,{},{}
+1st innings,South Africa,9.5,AK Markram,K Bhurtel,0,{},{}
+1st innings,South Africa,9.6,AK Markram,K Bhurtel,1,{},{}
+1st innings,South Africa,10.1,AK Markram,A Bohara,0,{},{}
+1st innings,South Africa,10.2,AK Markram,A Bohara,0,{},{}
+1st innings,South Africa,10.3,AK Markram,A Bohara,4,{},{}
+1st innings,South Africa,10.4,AK Markram,A Bohara,1,{},{}
+1st innings,South Africa,10.5,RR Hendricks,A Bohara,4,{},{}
+1st innings,South Africa,10.6,RR Hendricks,A Bohara,1,{},{}
+1st innings,South Africa,11.1,RR Hendricks,K Bhurtel,1,{},{}
+1st innings,South Africa,11.2,AK Markram,K Bhurtel,0,{},"{'player_out': 'AK Markram', 'kind': 'bowled'}"
+1st innings,South Africa,11.3,H Klaasen,K Bhurtel,1,{},{}
+1st innings,South Africa,11.4,RR Hendricks,K Bhurtel,0,{},{}
+1st innings,South Africa,11.5,RR Hendricks,K Bhurtel,0,{},{}
+1st innings,South Africa,11.6,RR Hendricks,K Bhurtel,0,{},{}
+1st innings,South Africa,12.1,H Klaasen,S Lamichhane,0,{},{}
+1st innings,South Africa,12.2,H Klaasen,S Lamichhane,1,{},{}
+1st innings,South Africa,12.3,RR Hendricks,S Lamichhane,1,{},{}
+1st innings,South Africa,12.4,H Klaasen,S Lamichhane,1,{},{}
+1st innings,South Africa,12.5,RR Hendricks,S Lamichhane,0,{},{}
+1st innings,South Africa,12.6,RR Hendricks,S Lamichhane,1,{},{}
+1st innings,South Africa,13.1,RR Hendricks,K Bhurtel,1,{},{}
+1st innings,South Africa,13.2,H Klaasen,K Bhurtel,0,{},"{'player_out': 'H Klaasen', 'fielders': ['Karan KC'], 'kind': 'caught'}"
+1st innings,South Africa,13.3,DA Miller,K Bhurtel,1,{'wides': 1},{}
+1st innings,South Africa,13.4,DA Miller,K Bhurtel,0,{},{}
+1st innings,South Africa,13.5,DA Miller,K Bhurtel,0,{},{}
+1st innings,South Africa,13.6,DA Miller,K Bhurtel,1,{},{}
+1st innings,South Africa,13.7,RR Hendricks,K Bhurtel,1,{},{}
+1st innings,South Africa,14.1,RR Hendricks,A Bohara,0,{},{}
+1st innings,South Africa,14.2,RR Hendricks,A Bohara,0,{},{}
+1st innings,South Africa,14.3,RR Hendricks,A Bohara,1,{},{}
+1st innings,South Africa,14.4,DA Miller,A Bohara,0,{},{}
+1st innings,South Africa,14.5,DA Miller,A Bohara,1,{},{}
+1st innings,South Africa,14.6,RR Hendricks,A Bohara,1,{},{}
+1st innings,South Africa,15.1,RR Hendricks,DS Airee,1,{},{}
+1st innings,South Africa,15.2,DA Miller,DS Airee,1,{},{}
+1st innings,South Africa,15.3,RR Hendricks,DS Airee,0,{},"{'player_out': 'RR Hendricks', 'kind': 'caught and bowled'}"
+1st innings,South Africa,15.4,T Stubbs,DS Airee,0,{},{}
+1st innings,South Africa,15.5,T Stubbs,DS Airee,1,{},{}
+1st innings,South Africa,15.6,DA Miller,DS Airee,2,{},{}
+1st innings,South Africa,16.1,T Stubbs,S Lamichhane,0,{},{}
+1st innings,South Africa,16.2,T Stubbs,S Lamichhane,4,{},{}
+1st innings,South Africa,16.3,T Stubbs,S Lamichhane,2,{},{}
+1st innings,South Africa,16.4,T Stubbs,S Lamichhane,2,{},{}
+1st innings,South Africa,16.5,T Stubbs,S Lamichhane,1,{},{}
+1st innings,South Africa,16.6,DA Miller,S Lamichhane,1,{},{}
+1st innings,South Africa,17.1,DA Miller,DS Airee,1,{},{}
+1st innings,South Africa,17.2,T Stubbs,DS Airee,1,{},{}
+1st innings,South Africa,17.3,DA Miller,DS Airee,0,{},"{'player_out': 'DA Miller', 'fielders': ['S Lamichhane'], 'kind': 'caught'}"
+1st innings,South Africa,17.4,M Jansen,DS Airee,1,{},{}
+1st innings,South Africa,17.5,T Stubbs,DS Airee,1,{},{}
+1st innings,South Africa,17.6,M Jansen,DS Airee,0,{},{}
+1st innings,South Africa,18.1,T Stubbs,A Bohara,1,{},{}
+1st innings,South Africa,18.2,M Jansen,A Bohara,1,{'legbyes': 1},{}
+1st innings,South Africa,18.3,T Stubbs,A Bohara,0,{},{}
+1st innings,South Africa,18.4,T Stubbs,A Bohara,4,{},{}
+1st innings,South Africa,18.5,T Stubbs,A Bohara,0,{},{}
+1st innings,South Africa,18.6,T Stubbs,A Bohara,1,{},{}
+1st innings,South Africa,19.1,T Stubbs,K Bhurtel,6,{},{}
+1st innings,South Africa,19.2,T Stubbs,K Bhurtel,2,{},{}
+1st innings,South Africa,19.3,T Stubbs,K Bhurtel,0,{},{}
+1st innings,South Africa,19.4,T Stubbs,K Bhurtel,1,{},{}
+1st innings,South Africa,19.5,M Jansen,K Bhurtel,0,{},"{'player_out': 'M Jansen', 'fielders': ['AK Sah'], 'kind': 'caught'}"
+1st innings,South Africa,19.6,K Rabada,K Bhurtel,0,{},"{'player_out': 'K Rabada', 'fielders': ['Aasif Sheikh'], 'kind': 'stumped'}"
+2nd innings,Nepal,0.1,K Bhurtel,M Jansen,0,{},{}
+2nd innings,Nepal,0.2,K Bhurtel,M Jansen,0,{},{}
+2nd innings,Nepal,0.3,K Bhurtel,M Jansen,0,{},{}
+2nd innings,Nepal,0.4,K Bhurtel,M Jansen,4,{},{}
+2nd innings,Nepal,0.5,K Bhurtel,M Jansen,1,{},{}
+2nd innings,Nepal,0.6,Aasif Sheikh,M Jansen,1,{},{}
+2nd innings,Nepal,1.1,Aasif Sheikh,K Rabada,0,{},{}
+2nd innings,Nepal,1.2,Aasif Sheikh,K Rabada,0,{},{}
+2nd innings,Nepal,1.3,Aasif Sheikh,K Rabada,0,{},{}
+2nd innings,Nepal,1.4,Aasif Sheikh,K Rabada,0,{},{}
+2nd innings,Nepal,1.5,Aasif Sheikh,K Rabada,0,{},{}
+2nd innings,Nepal,1.6,Aasif Sheikh,K Rabada,4,{},{}
+2nd innings,Nepal,2.1,K Bhurtel,M Jansen,0,{},{}
+2nd innings,Nepal,2.2,K Bhurtel,M Jansen,0,{},{}
+2nd innings,Nepal,2.3,K Bhurtel,M Jansen,0,{},{}
+2nd innings,Nepal,2.4,K Bhurtel,M Jansen,0,{},{}
+2nd innings,Nepal,2.5,K Bhurtel,M Jansen,0,{},{}
+2nd innings,Nepal,2.6,K Bhurtel,M Jansen,6,{},{}
+2nd innings,Nepal,3.1,Aasif Sheikh,OEG Baartman,0,{},{}
+2nd innings,Nepal,3.2,Aasif Sheikh,OEG Baartman,0,{},{}
+2nd innings,Nepal,3.3,Aasif Sheikh,OEG Baartman,0,{},{}
+2nd innings,Nepal,3.4,Aasif Sheikh,OEG Baartman,4,{},{}
+2nd innings,Nepal,3.5,Aasif Sheikh,OEG Baartman,0,{},{}
+2nd innings,Nepal,3.6,Aasif Sheikh,OEG Baartman,0,{},{}
+2nd innings,Nepal,4.1,K Bhurtel,M Jansen,4,{'byes': 4},{}
+2nd innings,Nepal,4.2,K Bhurtel,M Jansen,0,{},{}
+2nd innings,Nepal,4.3,K Bhurtel,M Jansen,0,{},{}
+2nd innings,Nepal,4.4,K Bhurtel,M Jansen,1,{'legbyes': 1},{}
+2nd innings,Nepal,4.5,Aasif Sheikh,M Jansen,1,{},{}
+2nd innings,Nepal,4.6,K Bhurtel,M Jansen,0,{},{}
+2nd innings,Nepal,5.1,Aasif Sheikh,OEG Baartman,0,{},{}
+2nd innings,Nepal,5.2,Aasif Sheikh,OEG Baartman,4,{},{}
+2nd innings,Nepal,5.3,Aasif Sheikh,OEG Baartman,0,{},{}
+2nd innings,Nepal,5.4,Aasif Sheikh,OEG Baartman,1,{'legbyes': 1},{}
+2nd innings,Nepal,5.5,K Bhurtel,OEG Baartman,0,{},{}
+2nd innings,Nepal,5.6,K Bhurtel,OEG Baartman,1,{},{}
+2nd innings,Nepal,6.1,K Bhurtel,A Nortje,0,{},{}
+2nd innings,Nepal,6.2,K Bhurtel,A Nortje,1,{},{}
+2nd innings,Nepal,6.3,Aasif Sheikh,A Nortje,0,{},{}
+2nd innings,Nepal,6.4,Aasif Sheikh,A Nortje,0,{},{}
+2nd innings,Nepal,6.5,Aasif Sheikh,A Nortje,0,{},{}
+2nd innings,Nepal,6.6,Aasif Sheikh,A Nortje,1,{},{}
+2nd innings,Nepal,7.1,Aasif Sheikh,T Shamsi,1,{},{}
+2nd innings,Nepal,7.2,K Bhurtel,T Shamsi,0,{},"{'player_out': 'K Bhurtel', 'kind': 'bowled'}"
+2nd innings,Nepal,7.3,RK Paudel,T Shamsi,0,{},{}
+2nd innings,Nepal,7.4,RK Paudel,T Shamsi,0,{},"{'player_out': 'RK Paudel', 'kind': 'bowled'}"
+2nd innings,Nepal,7.5,AK Sah,T Shamsi,0,{},{}
+2nd innings,Nepal,7.6,AK Sah,T Shamsi,1,{},{}
+2nd innings,Nepal,8.1,AK Sah,A Nortje,0,{},{}
+2nd innings,Nepal,8.2,AK Sah,A Nortje,4,{},{}
+2nd innings,Nepal,8.3,AK Sah,A Nortje,0,{},{}
+2nd innings,Nepal,8.4,AK Sah,A Nortje,0,{},{}
+2nd innings,Nepal,8.5,AK Sah,A Nortje,1,{'legbyes': 1},{}
+2nd innings,Nepal,8.6,Aasif Sheikh,A Nortje,1,{'wides': 1},{}
+2nd innings,Nepal,8.7,Aasif Sheikh,A Nortje,0,{},{}
+2nd innings,Nepal,9.1,AK Sah,T Shamsi,1,{'wides': 1},{}
+2nd innings,Nepal,9.2,AK Sah,T Shamsi,1,{},{}
+2nd innings,Nepal,9.3,Aasif Sheikh,T Shamsi,1,{},{}
+2nd innings,Nepal,9.4,AK Sah,T Shamsi,0,{},{}
+2nd innings,Nepal,9.5,AK Sah,T Shamsi,1,{},{}
+2nd innings,Nepal,9.6,Aasif Sheikh,T Shamsi,1,{},{}
+2nd innings,Nepal,9.7,AK Sah,T Shamsi,1,{},{}
+2nd innings,Nepal,10.1,AK Sah,A Nortje,4,{},{}
+2nd innings,Nepal,10.2,AK Sah,A Nortje,1,{'wides': 1},{}
+2nd innings,Nepal,10.3,AK Sah,A Nortje,0,{},{}
+2nd innings,Nepal,10.4,AK Sah,A Nortje,4,{},{}
+2nd innings,Nepal,10.5,AK Sah,A Nortje,0,{},{}
+2nd innings,Nepal,10.6,AK Sah,A Nortje,1,{},{}
+2nd innings,Nepal,10.7,Aasif Sheikh,A Nortje,1,{'wides': 1},{}
+2nd innings,Nepal,10.8,Aasif Sheikh,A Nortje,1,{},{}
+2nd innings,Nepal,11.1,Aasif Sheikh,T Shamsi,1,{},{}
+2nd innings,Nepal,11.2,AK Sah,T Shamsi,6,{},{}
+2nd innings,Nepal,11.3,AK Sah,T Shamsi,0,{},{}
+2nd innings,Nepal,11.4,AK Sah,T Shamsi,0,{},{}
+2nd innings,Nepal,11.5,AK Sah,T Shamsi,2,{},{}
+2nd innings,Nepal,11.6,AK Sah,T Shamsi,0,{},{}
+2nd innings,Nepal,12.1,Aasif Sheikh,K Rabada,4,{},{}
+2nd innings,Nepal,12.2,Aasif Sheikh,K Rabada,1,{},{}
+2nd innings,Nepal,12.3,AK Sah,K Rabada,1,{},{}
+2nd innings,Nepal,12.4,Aasif Sheikh,K Rabada,0,{},{}
+2nd innings,Nepal,12.5,Aasif Sheikh,K Rabada,6,{},{}
+2nd innings,Nepal,12.6,Aasif Sheikh,K Rabada,1,{},{}
+2nd innings,Nepal,13.1,Aasif Sheikh,AK Markram,1,{},{}
+2nd innings,Nepal,13.2,AK Sah,AK Markram,1,{},{}
+2nd innings,Nepal,13.3,Aasif Sheikh,AK Markram,1,{},{}
+2nd innings,Nepal,13.4,AK Sah,AK Markram,0,{},"{'player_out': 'AK Sah', 'fielders': ['M Jansen'], 'kind': 'caught'}"
+2nd innings,Nepal,13.5,DS Airee,AK Markram,1,{},{}
+2nd innings,Nepal,13.6,Aasif Sheikh,AK Markram,0,{},{}
+2nd innings,Nepal,14.1,DS Airee,OEG Baartman,0,{},{}
+2nd innings,Nepal,14.2,DS Airee,OEG Baartman,1,{},{}
+2nd innings,Nepal,14.3,Aasif Sheikh,OEG Baartman,2,{},{}
+2nd innings,Nepal,14.4,Aasif Sheikh,OEG Baartman,1,{},{}
+2nd innings,Nepal,14.5,DS Airee,OEG Baartman,1,{},{}
+2nd innings,Nepal,14.6,Aasif Sheikh,OEG Baartman,0,{},{}
+2nd innings,Nepal,15.1,DS Airee,AK Markram,1,{},{}
+2nd innings,Nepal,15.2,Aasif Sheikh,AK Markram,0,{},{}
+2nd innings,Nepal,15.3,Aasif Sheikh,AK Markram,1,{},{}
+2nd innings,Nepal,15.4,DS Airee,AK Markram,1,{},{}
+2nd innings,Nepal,15.5,Aasif Sheikh,AK Markram,0,{},{}
+2nd innings,Nepal,15.6,Aasif Sheikh,AK Markram,1,{},{}
+2nd innings,Nepal,16.1,Aasif Sheikh,M Jansen,1,{},{}
+2nd innings,Nepal,16.2,DS Airee,M Jansen,1,{},{}
+2nd innings,Nepal,16.3,Aasif Sheikh,M Jansen,1,{},{}
+2nd innings,Nepal,16.4,DS Airee,M Jansen,0,{},{}
+2nd innings,Nepal,16.5,DS Airee,M Jansen,0,{},{}
+2nd innings,Nepal,16.6,DS Airee,M Jansen,0,{},{}
+2nd innings,Nepal,17.1,Aasif Sheikh,T Shamsi,0,{},{}
+2nd innings,Nepal,17.2,Aasif Sheikh,T Shamsi,1,{},{}
+2nd innings,Nepal,17.3,DS Airee,T Shamsi,0,{},"{'player_out': 'DS Airee', 'fielders': ['Q de Kock'], 'kind': 'caught'}"
+2nd innings,Nepal,17.4,Kushal Malla,T Shamsi,1,{},{}
+2nd innings,Nepal,17.5,Aasif Sheikh,T Shamsi,0,{},{}
+2nd innings,Nepal,17.6,Aasif Sheikh,T Shamsi,0,{},"{'player_out': 'Aasif Sheikh', 'kind': 'bowled'}"
+2nd innings,Nepal,18.1,Kushal Malla,A Nortje,0,{},{}
+2nd innings,Nepal,18.2,Kushal Malla,A Nortje,0,{},"{'player_out': 'Kushal Malla', 'kind': 'bowled'}"
+2nd innings,Nepal,18.3,Sompal Kami,A Nortje,0,{},{}
+2nd innings,Nepal,18.4,Sompal Kami,A Nortje,0,{},{}
+2nd innings,Nepal,18.5,Sompal Kami,A Nortje,6,{},{}
+2nd innings,Nepal,18.6,Sompal Kami,A Nortje,2,{},{}
+2nd innings,Nepal,19.1,Gulsan Jha,OEG Baartman,0,{},{}
+2nd innings,Nepal,19.2,Gulsan Jha,OEG Baartman,0,{},{}
+2nd innings,Nepal,19.3,Gulsan Jha,OEG Baartman,4,{},{}
+2nd innings,Nepal,19.4,Gulsan Jha,OEG Baartman,2,{},{}
+2nd innings,Nepal,19.5,Gulsan Jha,OEG Baartman,0,{},{}
+2nd innings,Nepal,19.6,Gulsan Jha,OEG Baartman,0,{},"{'player_out': 'Gulsan Jha', 'fielders': ['Q de Kock', 'H Klaasen'], 'kind': 'run out'}"

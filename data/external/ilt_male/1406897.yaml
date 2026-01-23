@@ -1,0 +1,1887 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-01-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sharjah
+  competition: International League T20
+  dates:
+  - '2024-01-26'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: MI Emirates
+    by:
+      runs: 106
+  overs: 20
+  player_of_match:
+  - AJ Hosein
+  players:
+    MI Emirates:
+    - Waqar Salamkheil
+    - Waseem Muhammad
+    - MDKJ Perera
+    - ADS Fletcher
+    - N Pooran
+    - AT Rayudu
+    - TH David
+    - DJ Bravo
+    - AJ Hosein
+    - TA Boult
+    - Fazalhaq Farooqi
+    - Muhammad Rohid
+    Sharjah Warriors:
+    - D Madushanka
+    - MJ Guptill
+    - J Charles
+    - T Kohler-Cadmore
+    - N Dickwella
+    - JL Denly
+    - L Gregory
+    - Basil Hameed
+    - DR Sams
+    - CR Woakes
+    - M Theekshana
+    - Muhammad Jawadullah
+  registry:
+    people:
+      ADS Fletcher: 1bae756b
+      AJ Hosein: 4d7f517e
+      AT Rayudu: 70d205c9
+      Ahmed Shah Pakteen: '43602937'
+      Basil Hameed: adbf0400
+      CR Woakes: 4c5d73db
+      D Madushanka: de7d833e
+      DJ Bravo: 87e562a9
+      DR Sams: caf69bf7
+      Fazalhaq Farooqi: e9c7f0d0
+      J Charles: '09a9d073'
+      JL Denly: bdadf7da
+      L Gregory: 06c2de82
+      LS Reifer: 5dee559a
+      M Theekshana: f24c6701
+      MDKJ Perera: f21043a5
+      MJ Guptill: 2be41edb
+      MJ Saggers: 402d5937
+      Muhammad Jawadullah: '098a757c'
+      Muhammad Rohid: 9103ecdb
+      N Dickwella: 45963d9e
+      N Pooran: 3241e3fd
+      RJ Tucker: 38810cfc
+      SJA Taufel: 4b43d5ac
+      T Kohler-Cadmore: f836b33d
+      TA Boult: a818c1be
+      TH David: f1f99156
+      Waqar Salamkheil: 3f1066d0
+      Waseem Muhammad: 6f02fe2a
+  teams:
+  - MI Emirates
+  - Sharjah Warriors
+  toss:
+    winner: Sharjah Warriors
+    decision: field
+  umpires:
+  - MJ Saggers
+  - RJ Tucker
+  venue: Sharjah Cricket Stadium
+innings:
+- 1st innings:
+    team: MI Emirates
+    deliveries:
+    - 0.1:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.2:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          fielders:
+          - JL Denly
+          kind: caught
+    - 0.3:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 0.4:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.5:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.6:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 1.1:
+        non_striker: ADS Fletcher
+        bowler: D Madushanka
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: MDKJ Perera
+    - 1.2:
+        non_striker: ADS Fletcher
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 1.3:
+        non_striker: ADS Fletcher
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 1.4:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 1.5:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 1.6:
+        non_striker: ADS Fletcher
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 2.1:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 2.2:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.3:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.4:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 2.5:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.6:
+        non_striker: MDKJ Perera
+        bowler: CR Woakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ADS Fletcher
+    - 3.1:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 3.2:
+        non_striker: MDKJ Perera
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 3.3:
+        non_striker: ADS Fletcher
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MDKJ Perera
+    - 3.4:
+        non_striker: ADS Fletcher
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 3.5:
+        non_striker: ADS Fletcher
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MDKJ Perera
+    - 3.6:
+        non_striker: ADS Fletcher
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MDKJ Perera
+    - 4.1:
+        non_striker: MDKJ Perera
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ADS Fletcher
+    - 4.2:
+        non_striker: ADS Fletcher
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MDKJ Perera
+    - 4.3:
+        non_striker: ADS Fletcher
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 4.4:
+        non_striker: ADS Fletcher
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 4.5:
+        non_striker: MDKJ Perera
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.6:
+        non_striker: MDKJ Perera
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 5.1:
+        non_striker: MDKJ Perera
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 5.2:
+        non_striker: MDKJ Perera
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 5.3:
+        non_striker: MDKJ Perera
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 5.4:
+        non_striker: ADS Fletcher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 5.5:
+        non_striker: MDKJ Perera
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 5.6:
+        non_striker: MDKJ Perera
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 6.1:
+        non_striker: ADS Fletcher
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 6.2:
+        non_striker: MDKJ Perera
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 6.3:
+        non_striker: ADS Fletcher
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MDKJ Perera
+    - 6.4:
+        non_striker: ADS Fletcher
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MDKJ Perera
+    - 6.5:
+        non_striker: ADS Fletcher
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 6.6:
+        non_striker: ADS Fletcher
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 6.7:
+        non_striker: ADS Fletcher
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDKJ Perera
+    - 7.1:
+        non_striker: MDKJ Perera
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 7.2:
+        non_striker: MDKJ Perera
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 7.3:
+        non_striker: MDKJ Perera
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 7.4:
+        non_striker: MDKJ Perera
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 7.5:
+        non_striker: MDKJ Perera
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 7.6:
+        non_striker: ADS Fletcher
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 8.1:
+        non_striker: ADS Fletcher
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MDKJ Perera
+    - 8.2:
+        non_striker: MDKJ Perera
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 8.3:
+        non_striker: ADS Fletcher
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MDKJ Perera
+    - 8.4:
+        non_striker: ADS Fletcher
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 8.5:
+        non_striker: ADS Fletcher
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDKJ Perera
+    - 8.6:
+        non_striker: ADS Fletcher
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDKJ Perera
+    - 8.7:
+        non_striker: ADS Fletcher
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 9.1:
+        non_striker: ADS Fletcher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 9.2:
+        non_striker: MDKJ Perera
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 9.3:
+        non_striker: ADS Fletcher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 9.4:
+        non_striker: MDKJ Perera
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: ADS Fletcher
+          kind: bowled
+    - 9.5:
+        non_striker: MDKJ Perera
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: MDKJ Perera
+          fielders:
+          - Basil Hameed
+          - M Theekshana
+          kind: run out
+    - 9.6:
+        non_striker: AT Rayudu
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 10.1:
+        non_striker: AT Rayudu
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 10.2:
+        non_striker: N Pooran
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 10.3:
+        non_striker: AT Rayudu
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 10.4:
+        non_striker: AT Rayudu
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 10.5:
+        non_striker: AT Rayudu
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 10.6:
+        non_striker: N Pooran
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 11.1:
+        non_striker: N Pooran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 11.2:
+        non_striker: N Pooran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 11.3:
+        non_striker: N Pooran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 11.4:
+        non_striker: N Pooran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 11.5:
+        non_striker: N Pooran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Rayudu
+    - 11.6:
+        non_striker: AT Rayudu
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 12.1:
+        non_striker: N Pooran
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 12.2:
+        non_striker: N Pooran
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+        wicket:
+          player_out: AT Rayudu
+          kind: bowled
+    - 12.3:
+        non_striker: N Pooran
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 12.4:
+        non_striker: TH David
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 12.5:
+        non_striker: TH David
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 12.6:
+        non_striker: N Pooran
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TH David
+    - 13.1:
+        non_striker: N Pooran
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 13.2:
+        non_striker: N Pooran
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 13.3:
+        non_striker: TH David
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 13.4:
+        non_striker: TH David
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 13.5:
+        non_striker: N Pooran
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 13.6:
+        non_striker: TH David
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 14.1:
+        non_striker: N Pooran
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 14.2:
+        non_striker: N Pooran
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TH David
+    - 14.3:
+        non_striker: N Pooran
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TH David
+    - 14.4:
+        non_striker: N Pooran
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 14.5:
+        non_striker: N Pooran
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 14.6:
+        non_striker: TH David
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 14.7:
+        non_striker: N Pooran
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 15.1:
+        non_striker: TH David
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 15.2:
+        non_striker: N Pooran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 15.3:
+        non_striker: TH David
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 15.4:
+        non_striker: TH David
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 15.5:
+        non_striker: N Pooran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 15.6:
+        non_striker: N Pooran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 15.7:
+        non_striker: TH David
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 16.1:
+        non_striker: TH David
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 16.2:
+        non_striker: TH David
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 16.3:
+        non_striker: TH David
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Pooran
+    - 16.4:
+        non_striker: N Pooran
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TH David
+    - 16.5:
+        non_striker: N Pooran
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TH David
+    - 16.6:
+        non_striker: N Pooran
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TH David
+    - 16.7:
+        non_striker: N Pooran
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David
+    - 16.8:
+        non_striker: N Pooran
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TH David
+    - 16.9:
+        non_striker: N Pooran
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+        wicket:
+          player_out: TH David
+          fielders:
+          - N Dickwella
+          kind: caught
+    - 16.10:
+        non_striker: N Pooran
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 17.1:
+        non_striker: DJ Bravo
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 17.2:
+        non_striker: N Pooran
+        bowler: CR Woakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Bravo
+    - 17.3:
+        non_striker: N Pooran
+        bowler: CR Woakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DJ Bravo
+    - 17.4:
+        non_striker: DJ Bravo
+        bowler: CR Woakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 17.5:
+        non_striker: DJ Bravo
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 17.6:
+        non_striker: DJ Bravo
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 17.7:
+        non_striker: DJ Bravo
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 17.8:
+        non_striker: N Pooran
+        bowler: CR Woakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 18.1:
+        non_striker: N Pooran
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 18.2:
+        non_striker: DJ Bravo
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 18.3:
+        non_striker: DJ Bravo
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Pooran
+    - 18.4:
+        non_striker: DJ Bravo
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 18.5:
+        non_striker: DJ Bravo
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 18.6:
+        non_striker: DJ Bravo
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pooran
+    - 18.7:
+        non_striker: DJ Bravo
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 19.1:
+        non_striker: DJ Bravo
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 19.2:
+        non_striker: N Pooran
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DJ Bravo
+    - 19.3:
+        non_striker: DJ Bravo
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          fielders:
+          - JL Denly
+          kind: caught
+    - 19.4:
+        non_striker: DJ Bravo
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+        wicket:
+          player_out: AJ Hosein
+          kind: bowled
+    - 19.5:
+        non_striker: DJ Bravo
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Boult
+    - 19.6:
+        non_striker: DJ Bravo
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Boult
+- 2nd innings:
+    team: Sharjah Warriors
+    deliveries:
+    - 0.1:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: MJ Guptill
+            out: D Madushanka
+            team: Sharjah Warriors
+            reason: impact_player
+        batsman: MJ Guptill
+    - 0.2:
+        non_striker: MJ Guptill
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 0.3:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 0.4:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 0.5:
+        non_striker: J Charles
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 0.6:
+        non_striker: MJ Guptill
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+        wicket:
+          player_out: J Charles
+          kind: bowled
+    - 1.1:
+        non_striker: T Kohler-Cadmore
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 1.2:
+        non_striker: T Kohler-Cadmore
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 1.3:
+        non_striker: MJ Guptill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+        wicket:
+          player_out: T Kohler-Cadmore
+          kind: caught and bowled
+    - 1.4:
+        non_striker: MJ Guptill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 1.5:
+        non_striker: MJ Guptill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: N Dickwella
+    - 1.6:
+        non_striker: N Dickwella
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 2.1:
+        non_striker: MJ Guptill
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 2.2:
+        non_striker: MJ Guptill
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 2.3:
+        non_striker: MJ Guptill
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 2.4:
+        non_striker: MJ Guptill
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 2.5:
+        non_striker: MJ Guptill
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 2.6:
+        non_striker: MJ Guptill
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Dickwella
+    - 3.1:
+        non_striker: N Dickwella
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 3.2:
+        non_striker: N Dickwella
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 3.3:
+        non_striker: N Dickwella
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 3.4:
+        non_striker: MJ Guptill
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 3.5:
+        non_striker: MJ Guptill
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Dickwella
+    - 3.6:
+        non_striker: MJ Guptill
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Dickwella
+    - 4.1:
+        non_striker: MJ Guptill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+    - 4.2:
+        non_striker: MJ Guptill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Dickwella
+        wicket:
+          player_out: N Dickwella
+          fielders:
+          - TH David
+          kind: caught
+    - 4.3:
+        non_striker: MJ Guptill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Denly
+    - 4.4:
+        non_striker: MJ Guptill
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL Denly
+    - 4.5:
+        non_striker: MJ Guptill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 4.6:
+        non_striker: MJ Guptill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 4.7:
+        non_striker: MJ Guptill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 5.1:
+        non_striker: JL Denly
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        replacements:
+          match:
+          - in: Waqar Salamkheil
+            out: MDKJ Perera
+            team: MI Emirates
+            reason: impact_player
+        batsman: MJ Guptill
+    - 5.2:
+        non_striker: JL Denly
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 5.3:
+        non_striker: MJ Guptill
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 5.4:
+        non_striker: JL Denly
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+        wicket:
+          player_out: MJ Guptill
+          kind: bowled
+    - 5.5:
+        non_striker: JL Denly
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 5.6:
+        non_striker: L Gregory
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 6.1:
+        non_striker: JL Denly
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 6.2:
+        non_striker: L Gregory
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JL Denly
+    - 6.3:
+        non_striker: L Gregory
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Denly
+    - 6.4:
+        non_striker: JL Denly
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Gregory
+    - 6.5:
+        non_striker: JL Denly
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 6.6:
+        non_striker: JL Denly
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Gregory
+    - 6.7:
+        non_striker: JL Denly
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Gregory
+    - 6.8:
+        non_striker: L Gregory
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+    - 7.1:
+        non_striker: JL Denly
+        bowler: AJ Hosein
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Gregory
+    - 7.2:
+        non_striker: JL Denly
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 7.3:
+        non_striker: L Gregory
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Denly
+        wicket:
+          player_out: JL Denly
+          kind: caught and bowled
+    - 7.4:
+        non_striker: L Gregory
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basil Hameed
+    - 7.5:
+        non_striker: L Gregory
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basil Hameed
+        wicket:
+          player_out: Basil Hameed
+          fielders:
+          - TA Boult
+          kind: caught
+    - 7.6:
+        non_striker: L Gregory
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+        wicket:
+          player_out: DR Sams
+          kind: lbw
+    - 7.7:
+        non_striker: L Gregory
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+    - 8.1:
+        non_striker: CR Woakes
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 8.2:
+        non_striker: CR Woakes
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 8.3:
+        non_striker: CR Woakes
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 8.4:
+        non_striker: L Gregory
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Woakes
+        wicket:
+          player_out: CR Woakes
+          kind: bowled
+    - 8.5:
+        non_striker: L Gregory
+        bowler: DJ Bravo
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: M Theekshana
+    - 8.6:
+        non_striker: L Gregory
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 9.1:
+        non_striker: M Theekshana
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 9.2:
+        non_striker: M Theekshana
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 9.3:
+        non_striker: L Gregory
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 9.4:
+        non_striker: M Theekshana
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 9.5:
+        non_striker: M Theekshana
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Gregory
+    - 9.6:
+        non_striker: M Theekshana
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 10.1:
+        non_striker: L Gregory
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 10.2:
+        non_striker: M Theekshana
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 10.3:
+        non_striker: M Theekshana
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 10.4:
+        non_striker: M Theekshana
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 10.5:
+        non_striker: L Gregory
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 10.6:
+        non_striker: M Theekshana
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+        wicket:
+          player_out: L Gregory
+          fielders:
+          - ADS Fletcher
+          kind: caught
+    - 11.1:
+        non_striker: Muhammad Jawadullah
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 11.2:
+        non_striker: Muhammad Jawadullah
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 11.3:
+        non_striker: Muhammad Jawadullah
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Theekshana
+    - 11.4:
+        non_striker: Muhammad Jawadullah
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 11.5:
+        non_striker: Muhammad Jawadullah
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Theekshana
+    - 11.6:
+        non_striker: Muhammad Jawadullah
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 12.1:
+        non_striker: M Theekshana
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Jawadullah
+        wicket:
+          player_out: Muhammad Jawadullah
+          kind: bowled

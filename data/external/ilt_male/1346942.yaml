@@ -1,0 +1,2243 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-02-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  competition: International League T20
+  dates:
+  - '2023-02-04'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Gulf Giants
+    by:
+      runs: 25
+  overs: 20
+  player_of_match:
+  - SO Hetmyer
+  players:
+    Gulf Giants:
+    - T Banton
+    - JM Vince
+    - CA Lynn
+    - MG Erasmus
+    - SO Hetmyer
+    - D Wiese
+    - CR Brathwaite
+    - DC Drakes
+    - Aayan Afzal Khan
+    - CJ Jordan
+    - SM Sharma
+    Desert Vipers:
+    - Rohan Mustafa
+    - AD Hales
+    - C Munro
+    - SW Billings
+    - SE Rutherford
+    - TK Curran
+    - BAC Howell
+    - JB Lintott
+    - SS Cottrell
+    - M Pathirana
+    - Shiraz Ahmed
+  registry:
+    people:
+      AD Hales: 92aeac25
+      AG Wharf: 2e0fcc58
+      Aayan Afzal Khan: d2d15439
+      BAC Howell: 0bec3a6c
+      C Munro: af2c687b
+      CA Lynn: 45eda7c8
+      CJ Jordan: ffe699c0
+      CR Brathwaite: e342e5fb
+      D Wiese: aa8d28ae
+      DC Drakes: 34b332d3
+      JB Lintott: e5218454
+      JM Vince: a15618fe
+      LS Reifer: 5dee559a
+      M Pathirana: 64839cb3
+      MG Erasmus: 95a5e066
+      RA Kettleborough: 4017868f
+      Rohan Mustafa: d1988788
+      SE Rutherford: d014d5ac
+      SJA Taufel: 4b43d5ac
+      SM Sharma: cec44e08
+      SO Hetmyer: 48a1d7b7
+      SS Cottrell: a1d053dd
+      SW Billings: c16d4035
+      Shiju Sam: 1e2f3eae
+      Shiraz Ahmed: 101dcc31
+      T Banton: 25f7b7d6
+      TK Curran: e86754b2
+  teams:
+  - Gulf Giants
+  - Desert Vipers
+  toss:
+    winner: Desert Vipers
+    decision: field
+  umpires:
+  - LS Reifer
+  - Shiju Sam
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: Gulf Giants
+    deliveries:
+    - 0.1:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 0.2:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 0.3:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 0.4:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 0.5:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 0.6:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: T Banton
+    - 1.1:
+        non_striker: JM Vince
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 1.2:
+        non_striker: JM Vince
+        bowler: Rohan Mustafa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: T Banton
+    - 1.3:
+        non_striker: T Banton
+        bowler: Rohan Mustafa
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: JM Vince
+    - 1.4:
+        non_striker: JM Vince
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 1.5:
+        non_striker: T Banton
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 1.6:
+        non_striker: T Banton
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 1.7:
+        non_striker: T Banton
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 2.1:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 2.2:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 2.3:
+        non_striker: T Banton
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 2.4:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 2.5:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 2.6:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 3.1:
+        non_striker: T Banton
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 3.2:
+        non_striker: T Banton
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Vince
+    - 3.3:
+        non_striker: T Banton
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 3.4:
+        non_striker: T Banton
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Vince
+    - 3.5:
+        non_striker: T Banton
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 3.6:
+        non_striker: JM Vince
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 3.7:
+        non_striker: T Banton
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 4.1:
+        non_striker: T Banton
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 4.2:
+        non_striker: T Banton
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 4.3:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 4.4:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 4.5:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+        wicket:
+          player_out: T Banton
+          fielders:
+          - JB Lintott
+          kind: run out
+    - 4.6:
+        non_striker: JM Vince
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 5.1:
+        non_striker: JM Vince
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 5.2:
+        non_striker: CA Lynn
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 5.3:
+        non_striker: CA Lynn
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 5.4:
+        non_striker: JM Vince
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 5.5:
+        non_striker: JM Vince
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 5.6:
+        non_striker: JM Vince
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 6.1:
+        non_striker: CA Lynn
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 6.2:
+        non_striker: JM Vince
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 6.3:
+        non_striker: JM Vince
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 6.4:
+        non_striker: JM Vince
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Lynn
+    - 6.5:
+        non_striker: JM Vince
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+        wicket:
+          player_out: CA Lynn
+          fielders:
+          - BAC Howell
+          kind: caught
+    - 6.6:
+        non_striker: JM Vince
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MG Erasmus
+    - 6.7:
+        non_striker: JM Vince
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 6.8:
+        non_striker: MG Erasmus
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 7.1:
+        non_striker: JM Vince
+        bowler: JB Lintott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MG Erasmus
+    - 7.2:
+        non_striker: MG Erasmus
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 7.3:
+        non_striker: MG Erasmus
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Vince
+    - 7.4:
+        non_striker: MG Erasmus
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 7.5:
+        non_striker: MG Erasmus
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 7.6:
+        non_striker: MG Erasmus
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 8.1:
+        non_striker: MG Erasmus
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 8.2:
+        non_striker: JM Vince
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 8.3:
+        non_striker: MG Erasmus
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 8.4:
+        non_striker: JM Vince
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 8.5:
+        non_striker: MG Erasmus
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+        wicket:
+          player_out: JM Vince
+          fielders:
+          - M Pathirana
+          kind: caught
+    - 8.6:
+        non_striker: MG Erasmus
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 9.1:
+        non_striker: MG Erasmus
+        bowler: JB Lintott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SO Hetmyer
+    - 9.2:
+        non_striker: SO Hetmyer
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 9.3:
+        non_striker: MG Erasmus
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 9.4:
+        non_striker: MG Erasmus
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 9.5:
+        non_striker: SO Hetmyer
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 9.6:
+        non_striker: SO Hetmyer
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 10.1:
+        non_striker: MG Erasmus
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 10.2:
+        non_striker: MG Erasmus
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 10.3:
+        non_striker: MG Erasmus
+        bowler: BAC Howell
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: SO Hetmyer
+    - 10.4:
+        non_striker: MG Erasmus
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 10.5:
+        non_striker: SO Hetmyer
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.6:
+        non_striker: MG Erasmus
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 11.1:
+        non_striker: MG Erasmus
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 11.2:
+        non_striker: MG Erasmus
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 11.3:
+        non_striker: MG Erasmus
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 11.4:
+        non_striker: MG Erasmus
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 11.5:
+        non_striker: MG Erasmus
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 11.6:
+        non_striker: SO Hetmyer
+        bowler: M Pathirana
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: MG Erasmus
+    - 11.7:
+        non_striker: SO Hetmyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 11.8:
+        non_striker: SO Hetmyer
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MG Erasmus
+    - 11.9:
+        non_striker: SO Hetmyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.1:
+        non_striker: SO Hetmyer
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.2:
+        non_striker: MG Erasmus
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 12.3:
+        non_striker: MG Erasmus
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 12.4:
+        non_striker: MG Erasmus
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.5:
+        non_striker: SO Hetmyer
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.6:
+        non_striker: MG Erasmus
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 13.1:
+        non_striker: SO Hetmyer
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 13.2:
+        non_striker: MG Erasmus
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 13.3:
+        non_striker: MG Erasmus
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 13.4:
+        non_striker: MG Erasmus
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.5:
+        non_striker: SO Hetmyer
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 13.6:
+        non_striker: SO Hetmyer
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 14.1:
+        non_striker: MG Erasmus
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.2:
+        non_striker: SO Hetmyer
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          fielders:
+          - TK Curran
+          kind: caught
+    - 14.3:
+        non_striker: SO Hetmyer
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 14.4:
+        non_striker: SO Hetmyer
+        bowler: JB Lintott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Wiese
+    - 14.5:
+        non_striker: SO Hetmyer
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 14.6:
+        non_striker: D Wiese
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 14.7:
+        non_striker: D Wiese
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 15.1:
+        non_striker: SO Hetmyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 15.2:
+        non_striker: D Wiese
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 15.3:
+        non_striker: D Wiese
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 15.4:
+        non_striker: D Wiese
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 15.5:
+        non_striker: D Wiese
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 15.6:
+        non_striker: SO Hetmyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese
+    - 15.7:
+        non_striker: SO Hetmyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 16.1:
+        non_striker: D Wiese
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 16.2:
+        non_striker: D Wiese
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 16.3:
+        non_striker: SO Hetmyer
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 16.4:
+        non_striker: SO Hetmyer
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese
+    - 16.5:
+        non_striker: SO Hetmyer
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 16.6:
+        non_striker: SO Hetmyer
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 17.1:
+        non_striker: SO Hetmyer
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 17.2:
+        non_striker: SO Hetmyer
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 17.3:
+        non_striker: D Wiese
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 17.4:
+        non_striker: SO Hetmyer
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wiese
+    - 17.5:
+        non_striker: SO Hetmyer
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+        wicket:
+          player_out: D Wiese
+          fielders:
+          - Rohan Mustafa
+          kind: caught
+    - 17.6:
+        non_striker: SO Hetmyer
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 18.1:
+        non_striker: SO Hetmyer
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 18.2:
+        non_striker: CR Brathwaite
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 18.3:
+        non_striker: CR Brathwaite
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 18.4:
+        non_striker: CR Brathwaite
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 18.5:
+        non_striker: CR Brathwaite
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 18.6:
+        non_striker: SO Hetmyer
+        bowler: Shiraz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 19.1:
+        non_striker: SO Hetmyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Brathwaite
+    - 19.2:
+        non_striker: SO Hetmyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+    - 19.3:
+        non_striker: SO Hetmyer
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Brathwaite
+    - 19.4:
+        non_striker: SO Hetmyer
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 19.5:
+        non_striker: CR Brathwaite
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 19.6:
+        non_striker: CR Brathwaite
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - SS Cottrell
+          kind: caught
+    - 19.7:
+        non_striker: CR Brathwaite
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC Drakes
+- 2nd innings:
+    team: Desert Vipers
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.2:
+        non_striker: AD Hales
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 0.3:
+        non_striker: AD Hales
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.4:
+        non_striker: AD Hales
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 0.5:
+        non_striker: AD Hales
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 0.6:
+        non_striker: AD Hales
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 1.1:
+        non_striker: Rohan Mustafa
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 1.2:
+        non_striker: AD Hales
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 1.3:
+        non_striker: AD Hales
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rohan Mustafa
+    - 1.4:
+        non_striker: AD Hales
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 1.5:
+        non_striker: AD Hales
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 1.6:
+        non_striker: AD Hales
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 1.7:
+        non_striker: AD Hales
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 2.1:
+        non_striker: Rohan Mustafa
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.2:
+        non_striker: Rohan Mustafa
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 2.3:
+        non_striker: Rohan Mustafa
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 2.4:
+        non_striker: Rohan Mustafa
+        bowler: DC Drakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AD Hales
+    - 2.5:
+        non_striker: AD Hales
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 2.6:
+        non_striker: AD Hales
+        bowler: DC Drakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rohan Mustafa
+    - 2.7:
+        non_striker: AD Hales
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 3.1:
+        non_striker: Rohan Mustafa
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 3.2:
+        non_striker: Rohan Mustafa
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 3.3:
+        non_striker: Rohan Mustafa
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 3.4:
+        non_striker: Rohan Mustafa
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 3.5:
+        non_striker: AD Hales
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 3.6:
+        non_striker: AD Hales
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 4.1:
+        non_striker: Rohan Mustafa
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 4.2:
+        non_striker: Rohan Mustafa
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 4.3:
+        non_striker: Rohan Mustafa
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 4.4:
+        non_striker: AD Hales
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 4.5:
+        non_striker: AD Hales
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 4.6:
+        non_striker: AD Hales
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 5.1:
+        non_striker: Rohan Mustafa
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 5.2:
+        non_striker: AD Hales
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 5.3:
+        non_striker: AD Hales
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+        wicket:
+          player_out: Rohan Mustafa
+          fielders:
+          - T Banton
+          kind: caught
+    - 5.4:
+        non_striker: AD Hales
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 5.5:
+        non_striker: AD Hales
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 5.6:
+        non_striker: AD Hales
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 6.1:
+        non_striker: C Munro
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 6.2:
+        non_striker: C Munro
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          fielders:
+          - DC Drakes
+          kind: caught
+    - 6.3:
+        non_striker: C Munro
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 6.4:
+        non_striker: SW Billings
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 6.5:
+        non_striker: C Munro
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 6.6:
+        non_striker: SW Billings
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 7.1:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 7.2:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 7.3:
+        non_striker: SW Billings
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 7.4:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 7.5:
+        non_striker: C Munro
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 7.6:
+        non_striker: SW Billings
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          fielders:
+          - D Wiese
+          kind: caught
+    - 8.1:
+        non_striker: SE Rutherford
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 8.2:
+        non_striker: SW Billings
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SE Rutherford
+    - 8.3:
+        non_striker: SE Rutherford
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 8.4:
+        non_striker: SE Rutherford
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 8.5:
+        non_striker: SW Billings
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 8.6:
+        non_striker: SW Billings
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 9.1:
+        non_striker: SE Rutherford
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 9.2:
+        non_striker: SE Rutherford
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 9.3:
+        non_striker: SE Rutherford
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 9.4:
+        non_striker: SW Billings
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 9.5:
+        non_striker: SW Billings
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          fielders:
+          - D Wiese
+          kind: caught
+    - 9.6:
+        non_striker: SW Billings
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 10.1:
+        non_striker: TK Curran
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 10.2:
+        non_striker: TK Curran
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 10.3:
+        non_striker: TK Curran
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SW Billings
+    - 10.4:
+        non_striker: TK Curran
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 10.5:
+        non_striker: SW Billings
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 10.6:
+        non_striker: TK Curran
+        bowler: Aayan Afzal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 11.1:
+        non_striker: TK Curran
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Billings
+    - 11.2:
+        non_striker: TK Curran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 11.3:
+        non_striker: TK Curran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 11.4:
+        non_striker: TK Curran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 11.5:
+        non_striker: TK Curran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 11.6:
+        non_striker: SW Billings
+        bowler: CJ Jordan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: TK Curran
+    - 11.7:
+        non_striker: TK Curran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+        wicket:
+          player_out: SW Billings
+          fielders:
+          - T Banton
+          kind: caught
+    - 11.8:
+        non_striker: TK Curran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 12.1:
+        non_striker: TK Curran
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 12.2:
+        non_striker: BAC Howell
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 12.3:
+        non_striker: TK Curran
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 12.4:
+        non_striker: BAC Howell
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 12.5:
+        non_striker: TK Curran
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 12.6:
+        non_striker: BAC Howell
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 13.1:
+        non_striker: TK Curran
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAC Howell
+    - 13.2:
+        non_striker: TK Curran
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 13.3:
+        non_striker: BAC Howell
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 13.4:
+        non_striker: TK Curran
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 13.5:
+        non_striker: BAC Howell
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TK Curran
+    - 13.6:
+        non_striker: TK Curran
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 14.1:
+        non_striker: TK Curran
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 14.2:
+        non_striker: BAC Howell
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran
+    - 14.3:
+        non_striker: BAC Howell
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran
+    - 14.4:
+        non_striker: BAC Howell
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 14.5:
+        non_striker: TK Curran
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: BAC Howell
+    - 14.6:
+        non_striker: TK Curran
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BAC Howell
+    - 14.7:
+        non_striker: TK Curran
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAC Howell
+    - 14.8:
+        non_striker: TK Curran
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 15.1:
+        non_striker: TK Curran
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+        wicket:
+          player_out: BAC Howell
+          kind: caught and bowled
+    - 15.2:
+        non_striker: TK Curran
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JB Lintott
+    - 15.3:
+        non_striker: JB Lintott
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 15.4:
+        non_striker: TK Curran
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JB Lintott
+    - 15.5:
+        non_striker: JB Lintott
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TK Curran
+    - 15.6:
+        non_striker: JB Lintott
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 16.1:
+        non_striker: JB Lintott
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 16.2:
+        non_striker: TK Curran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JB Lintott
+    - 16.3:
+        non_striker: JB Lintott
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 16.4:
+        non_striker: JB Lintott
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 16.5:
+        non_striker: TK Curran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JB Lintott
+    - 16.6:
+        non_striker: TK Curran
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JB Lintott
+    - 17.1:
+        non_striker: JB Lintott
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TK Curran
+    - 17.2:
+        non_striker: JB Lintott
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TK Curran
+    - 17.3:
+        non_striker: JB Lintott
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran
+    - 17.4:
+        non_striker: JB Lintott
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 17.5:
+        non_striker: JB Lintott
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 17.6:
+        non_striker: JB Lintott
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 18.1:
+        non_striker: JB Lintott
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran
+    - 18.2:
+        non_striker: JB Lintott
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran
+    - 18.3:
+        non_striker: JB Lintott
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 18.4:
+        non_striker: JB Lintott
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 18.5:
+        non_striker: JB Lintott
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 18.6:
+        non_striker: JB Lintott
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 19.1:
+        non_striker: JB Lintott
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 19.2:
+        non_striker: JB Lintott
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 19.3:
+        non_striker: JB Lintott
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 19.4:
+        non_striker: JB Lintott
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 19.5:
+        non_striker: JB Lintott
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 19.6:
+        non_striker: TK Curran
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JB Lintott

@@ -1,0 +1,216 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Sri Lanka,0.1,MDKJ Perera,KD Mills,1,{},{}
+1st innings,Sri Lanka,0.2,TM Dilshan,KD Mills,1,{},{}
+1st innings,Sri Lanka,0.3,MDKJ Perera,KD Mills,4,{},{}
+1st innings,Sri Lanka,0.4,MDKJ Perera,KD Mills,0,{},{}
+1st innings,Sri Lanka,0.5,MDKJ Perera,KD Mills,6,{},{}
+1st innings,Sri Lanka,0.6,MDKJ Perera,KD Mills,0,{},{}
+1st innings,Sri Lanka,1.1,TM Dilshan,TA Boult,1,{},{}
+1st innings,Sri Lanka,1.2,MDKJ Perera,TA Boult,4,{},{}
+1st innings,Sri Lanka,1.3,MDKJ Perera,TA Boult,1,{},{}
+1st innings,Sri Lanka,1.4,TM Dilshan,TA Boult,1,{'noballs': 1},{}
+1st innings,Sri Lanka,1.5,TM Dilshan,TA Boult,1,{},{}
+1st innings,Sri Lanka,1.6,MDKJ Perera,TA Boult,0,{},"{'fielders': ['L Ronchi'], 'kind': 'caught', 'player_out': 'MDKJ Perera'}"
+1st innings,Sri Lanka,1.7,DPMD Jayawardene,TA Boult,0,{},{}
+1st innings,Sri Lanka,2.1,TM Dilshan,KD Mills,4,{},{}
+1st innings,Sri Lanka,2.2,TM Dilshan,KD Mills,0,{},{}
+1st innings,Sri Lanka,2.3,TM Dilshan,KD Mills,0,{},{}
+1st innings,Sri Lanka,2.4,TM Dilshan,KD Mills,1,{},{}
+1st innings,Sri Lanka,2.5,DPMD Jayawardene,KD Mills,1,{},{}
+1st innings,Sri Lanka,2.6,TM Dilshan,KD Mills,1,{'legbyes': 1},{}
+1st innings,Sri Lanka,3.1,TM Dilshan,TA Boult,1,{'legbyes': 1},{}
+1st innings,Sri Lanka,3.2,DPMD Jayawardene,TA Boult,1,{},{}
+1st innings,Sri Lanka,3.3,TM Dilshan,TA Boult,0,{},"{'fielders': ['L Ronchi'], 'kind': 'caught', 'player_out': 'TM Dilshan'}"
+1st innings,Sri Lanka,3.4,KC Sangakkara,TA Boult,0,{},{}
+1st innings,Sri Lanka,3.5,KC Sangakkara,TA Boult,0,{},{}
+1st innings,Sri Lanka,3.6,KC Sangakkara,TA Boult,0,{},{}
+1st innings,Sri Lanka,4.1,DPMD Jayawardene,CJ Anderson,0,{},{}
+1st innings,Sri Lanka,4.2,DPMD Jayawardene,CJ Anderson,0,{},{}
+1st innings,Sri Lanka,4.3,DPMD Jayawardene,CJ Anderson,1,{},{}
+1st innings,Sri Lanka,4.4,KC Sangakkara,CJ Anderson,0,{},{}
+1st innings,Sri Lanka,4.5,KC Sangakkara,CJ Anderson,0,{},{}
+1st innings,Sri Lanka,4.6,KC Sangakkara,CJ Anderson,0,{},{}
+1st innings,Sri Lanka,5.1,DPMD Jayawardene,TA Boult,1,{},{}
+1st innings,Sri Lanka,5.2,KC Sangakkara,TA Boult,4,{},{}
+1st innings,Sri Lanka,5.3,KC Sangakkara,TA Boult,0,{},{}
+1st innings,Sri Lanka,5.4,KC Sangakkara,TA Boult,0,{},{}
+1st innings,Sri Lanka,5.5,KC Sangakkara,TA Boult,0,{},{}
+1st innings,Sri Lanka,5.6,KC Sangakkara,TA Boult,0,{},"{'fielders': ['CJ Anderson'], 'kind': 'caught', 'player_out': 'KC Sangakkara'}"
+1st innings,Sri Lanka,6.1,DPMD Jayawardene,MJ McClenaghan,1,{},{}
+1st innings,Sri Lanka,6.2,HDRL Thirimanne,MJ McClenaghan,0,{},{}
+1st innings,Sri Lanka,6.3,HDRL Thirimanne,MJ McClenaghan,4,{},{}
+1st innings,Sri Lanka,6.4,HDRL Thirimanne,MJ McClenaghan,1,{},{}
+1st innings,Sri Lanka,6.5,DPMD Jayawardene,MJ McClenaghan,1,{},{}
+1st innings,Sri Lanka,6.6,HDRL Thirimanne,MJ McClenaghan,0,{},{}
+1st innings,Sri Lanka,7.1,DPMD Jayawardene,TA Boult,0,{},{}
+1st innings,Sri Lanka,7.2,DPMD Jayawardene,TA Boult,1,{},{}
+1st innings,Sri Lanka,7.3,HDRL Thirimanne,TA Boult,0,{},{}
+1st innings,Sri Lanka,7.4,HDRL Thirimanne,TA Boult,4,{},{}
+1st innings,Sri Lanka,7.5,HDRL Thirimanne,TA Boult,0,{},{}
+1st innings,Sri Lanka,7.6,HDRL Thirimanne,TA Boult,1,{'wides': 1},{}
+1st innings,Sri Lanka,7.7,HDRL Thirimanne,TA Boult,0,{},{}
+1st innings,Sri Lanka,8.1,DPMD Jayawardene,CJ Anderson,0,{},{}
+1st innings,Sri Lanka,8.2,DPMD Jayawardene,CJ Anderson,1,{},{}
+1st innings,Sri Lanka,8.3,HDRL Thirimanne,CJ Anderson,1,{},{}
+1st innings,Sri Lanka,8.4,DPMD Jayawardene,CJ Anderson,0,{},{}
+1st innings,Sri Lanka,8.5,DPMD Jayawardene,CJ Anderson,0,{},{}
+1st innings,Sri Lanka,8.6,DPMD Jayawardene,CJ Anderson,0,{},{}
+1st innings,Sri Lanka,9.1,HDRL Thirimanne,MJ McClenaghan,0,{},{}
+1st innings,Sri Lanka,9.2,HDRL Thirimanne,MJ McClenaghan,1,{},{}
+1st innings,Sri Lanka,9.3,DPMD Jayawardene,MJ McClenaghan,1,{},{}
+1st innings,Sri Lanka,9.4,HDRL Thirimanne,MJ McClenaghan,0,{},{}
+1st innings,Sri Lanka,9.5,HDRL Thirimanne,MJ McClenaghan,1,{},{}
+1st innings,Sri Lanka,9.6,DPMD Jayawardene,MJ McClenaghan,2,{},{}
+1st innings,Sri Lanka,10.1,HDRL Thirimanne,CJ Anderson,4,{},{}
+1st innings,Sri Lanka,10.2,HDRL Thirimanne,CJ Anderson,1,{},{}
+1st innings,Sri Lanka,10.3,DPMD Jayawardene,CJ Anderson,1,{'wides': 1},{}
+1st innings,Sri Lanka,10.4,DPMD Jayawardene,CJ Anderson,0,{},{}
+1st innings,Sri Lanka,10.5,DPMD Jayawardene,CJ Anderson,1,{},{}
+1st innings,Sri Lanka,10.6,HDRL Thirimanne,CJ Anderson,2,{},{}
+1st innings,Sri Lanka,10.7,HDRL Thirimanne,CJ Anderson,1,{},{}
+1st innings,Sri Lanka,11.1,HDRL Thirimanne,JDS Neesham,0,{},"{'fielders': ['MJ Guptill'], 'kind': 'caught', 'player_out': 'HDRL Thirimanne'}"
+1st innings,Sri Lanka,11.2,DPMD Jayawardene,JDS Neesham,4,{},{}
+1st innings,Sri Lanka,11.3,DPMD Jayawardene,JDS Neesham,1,{},{}
+1st innings,Sri Lanka,11.4,AD Mathews,JDS Neesham,2,{},{}
+1st innings,Sri Lanka,11.5,AD Mathews,JDS Neesham,0,{},{}
+1st innings,Sri Lanka,11.6,AD Mathews,JDS Neesham,1,{},{}
+1st innings,Sri Lanka,12.1,AD Mathews,NL McCullum,0,{},{}
+1st innings,Sri Lanka,12.2,AD Mathews,NL McCullum,1,{},{}
+1st innings,Sri Lanka,12.3,DPMD Jayawardene,NL McCullum,1,{},{}
+1st innings,Sri Lanka,12.4,AD Mathews,NL McCullum,0,{},{}
+1st innings,Sri Lanka,12.5,AD Mathews,NL McCullum,1,{},{}
+1st innings,Sri Lanka,12.6,DPMD Jayawardene,NL McCullum,1,{},{}
+1st innings,Sri Lanka,13.1,DPMD Jayawardene,MJ McClenaghan,1,{},{}
+1st innings,Sri Lanka,13.2,AD Mathews,MJ McClenaghan,0,{},{}
+1st innings,Sri Lanka,13.3,AD Mathews,MJ McClenaghan,1,{},{}
+1st innings,Sri Lanka,13.4,DPMD Jayawardene,MJ McClenaghan,1,{'wides': 1},{}
+1st innings,Sri Lanka,13.5,DPMD Jayawardene,MJ McClenaghan,1,{},{}
+1st innings,Sri Lanka,13.6,AD Mathews,MJ McClenaghan,0,{},"{'fielders': ['L Ronchi'], 'kind': 'caught', 'player_out': 'AD Mathews'}"
+1st innings,Sri Lanka,13.7,NLTC Perera,MJ McClenaghan,0,{},{}
+1st innings,Sri Lanka,14.1,DPMD Jayawardene,NL McCullum,0,{},{}
+1st innings,Sri Lanka,14.2,DPMD Jayawardene,NL McCullum,0,{},{}
+1st innings,Sri Lanka,14.3,DPMD Jayawardene,NL McCullum,0,{},{}
+1st innings,Sri Lanka,14.4,DPMD Jayawardene,NL McCullum,0,{},{}
+1st innings,Sri Lanka,14.5,DPMD Jayawardene,NL McCullum,4,{},{}
+1st innings,Sri Lanka,14.6,DPMD Jayawardene,NL McCullum,0,{},"{'kind': 'bowled', 'player_out': 'DPMD Jayawardene'}"
+1st innings,Sri Lanka,15.1,NLTC Perera,MJ McClenaghan,4,{},{}
+1st innings,Sri Lanka,15.2,NLTC Perera,MJ McClenaghan,2,{},{}
+1st innings,Sri Lanka,15.3,NLTC Perera,MJ McClenaghan,1,{},{}
+1st innings,Sri Lanka,15.4,KMDN Kulasekara,MJ McClenaghan,0,{},"{'fielders': ['NL McCullum'], 'kind': 'caught', 'player_out': 'KMDN Kulasekara'}"
+1st innings,Sri Lanka,15.5,SMSM Senanayake,MJ McClenaghan,0,{},{}
+1st innings,Sri Lanka,15.6,SMSM Senanayake,MJ McClenaghan,1,{},{}
+1st innings,Sri Lanka,16.1,SMSM Senanayake,KD Mills,1,{},{}
+1st innings,Sri Lanka,16.2,NLTC Perera,KD Mills,0,{},{}
+1st innings,Sri Lanka,16.3,NLTC Perera,KD Mills,0,{},{}
+1st innings,Sri Lanka,16.4,NLTC Perera,KD Mills,0,{},{}
+1st innings,Sri Lanka,16.5,NLTC Perera,KD Mills,4,{},{}
+1st innings,Sri Lanka,16.6,NLTC Perera,KD Mills,0,{},{}
+1st innings,Sri Lanka,17.1,SMSM Senanayake,JDS Neesham,1,{},{}
+1st innings,Sri Lanka,17.2,NLTC Perera,JDS Neesham,0,{},{}
+1st innings,Sri Lanka,17.3,NLTC Perera,JDS Neesham,1,{},{}
+1st innings,Sri Lanka,17.4,SMSM Senanayake,JDS Neesham,4,{},{}
+1st innings,Sri Lanka,17.5,SMSM Senanayake,JDS Neesham,2,{},{}
+1st innings,Sri Lanka,17.6,SMSM Senanayake,JDS Neesham,6,{},{}
+1st innings,Sri Lanka,18.1,NLTC Perera,KD Mills,4,{},{}
+1st innings,Sri Lanka,18.2,NLTC Perera,KD Mills,0,{},"{'fielders': ['KS Williamson'], 'kind': 'caught', 'player_out': 'NLTC Perera'}"
+1st innings,Sri Lanka,18.3,SMSM Senanayake,KD Mills,1,{},{}
+1st innings,Sri Lanka,18.4,HMRKB Herath,KD Mills,1,{},{}
+1st innings,Sri Lanka,18.5,SMSM Senanayake,KD Mills,0,{},{}
+1st innings,Sri Lanka,18.6,SMSM Senanayake,KD Mills,1,{},{}
+1st innings,Sri Lanka,19.1,SMSM Senanayake,JDS Neesham,0,{},"{'fielders': ['KS Williamson'], 'kind': 'caught', 'player_out': 'SMSM Senanayake'}"
+1st innings,Sri Lanka,19.2,SL Malinga,JDS Neesham,0,{},"{'kind': 'bowled', 'player_out': 'SL Malinga'}"
+2nd innings,New Zealand,0.1,MJ Guptill,KMDN Kulasekara,0,{},{}
+2nd innings,New Zealand,0.2,MJ Guptill,KMDN Kulasekara,1,{},{}
+2nd innings,New Zealand,0.3,KS Williamson,KMDN Kulasekara,0,{},{}
+2nd innings,New Zealand,0.4,KS Williamson,KMDN Kulasekara,1,{},{}
+2nd innings,New Zealand,0.5,MJ Guptill,KMDN Kulasekara,2,{},{}
+2nd innings,New Zealand,0.6,MJ Guptill,KMDN Kulasekara,0,{},{}
+2nd innings,New Zealand,1.1,KS Williamson,AD Mathews,0,{},{}
+2nd innings,New Zealand,1.2,KS Williamson,AD Mathews,1,{},{}
+2nd innings,New Zealand,1.3,MJ Guptill,AD Mathews,0,{},{}
+2nd innings,New Zealand,1.4,MJ Guptill,AD Mathews,1,{},{}
+2nd innings,New Zealand,1.5,KS Williamson,AD Mathews,2,{},{}
+2nd innings,New Zealand,1.6,KS Williamson,AD Mathews,4,{},{}
+2nd innings,New Zealand,2.1,MJ Guptill,KMDN Kulasekara,0,{},{}
+2nd innings,New Zealand,2.2,MJ Guptill,KMDN Kulasekara,1,{},{}
+2nd innings,New Zealand,2.3,KS Williamson,KMDN Kulasekara,1,{'wides': 1},{}
+2nd innings,New Zealand,2.4,KS Williamson,KMDN Kulasekara,0,{},{}
+2nd innings,New Zealand,2.5,KS Williamson,KMDN Kulasekara,4,{},{}
+2nd innings,New Zealand,2.6,KS Williamson,KMDN Kulasekara,0,{},{}
+2nd innings,New Zealand,2.7,KS Williamson,KMDN Kulasekara,0,{},{}
+2nd innings,New Zealand,3.1,MJ Guptill,HMRKB Herath,0,{},"{'fielders': ['HMRKB Herath', 'KC Sangakkara'], 'kind': 'run out', 'player_out': 'MJ Guptill'}"
+2nd innings,New Zealand,3.2,BB McCullum,HMRKB Herath,0,{},{}
+2nd innings,New Zealand,3.3,BB McCullum,HMRKB Herath,0,{},{}
+2nd innings,New Zealand,3.4,BB McCullum,HMRKB Herath,0,{},{}
+2nd innings,New Zealand,3.5,BB McCullum,HMRKB Herath,0,{},{}
+2nd innings,New Zealand,3.6,BB McCullum,HMRKB Herath,0,{},"{'fielders': ['KC Sangakkara'], 'kind': 'stumped', 'player_out': 'BB McCullum'}"
+2nd innings,New Zealand,4.1,KS Williamson,KMDN Kulasekara,0,{},{}
+2nd innings,New Zealand,4.2,KS Williamson,KMDN Kulasekara,1,{'wides': 1},{}
+2nd innings,New Zealand,4.3,KS Williamson,KMDN Kulasekara,0,{},{}
+2nd innings,New Zealand,4.4,KS Williamson,KMDN Kulasekara,0,{},{}
+2nd innings,New Zealand,4.5,KS Williamson,KMDN Kulasekara,0,{},{}
+2nd innings,New Zealand,4.6,KS Williamson,KMDN Kulasekara,0,{},{}
+2nd innings,New Zealand,4.7,KS Williamson,KMDN Kulasekara,4,{},{}
+2nd innings,New Zealand,5.1,LRPL Taylor,HMRKB Herath,0,{},{}
+2nd innings,New Zealand,5.2,LRPL Taylor,HMRKB Herath,0,{},{}
+2nd innings,New Zealand,5.3,LRPL Taylor,HMRKB Herath,0,{},{}
+2nd innings,New Zealand,5.4,LRPL Taylor,HMRKB Herath,0,{},{}
+2nd innings,New Zealand,5.5,LRPL Taylor,HMRKB Herath,0,{},"{'kind': 'lbw', 'player_out': 'LRPL Taylor'}"
+2nd innings,New Zealand,5.6,JDS Neesham,HMRKB Herath,0,{},"{'kind': 'bowled', 'player_out': 'JDS Neesham'}"
+2nd innings,New Zealand,6.1,KS Williamson,SL Malinga,1,{},{}
+2nd innings,New Zealand,6.2,L Ronchi,SL Malinga,0,{},{}
+2nd innings,New Zealand,6.3,L Ronchi,SL Malinga,1,{},{}
+2nd innings,New Zealand,6.4,KS Williamson,SL Malinga,1,{},{}
+2nd innings,New Zealand,6.5,L Ronchi,SL Malinga,1,{},{}
+2nd innings,New Zealand,6.6,KS Williamson,SL Malinga,1,{},{}
+2nd innings,New Zealand,7.1,KS Williamson,HMRKB Herath,0,{},{}
+2nd innings,New Zealand,7.2,KS Williamson,HMRKB Herath,1,{},{}
+2nd innings,New Zealand,7.3,L Ronchi,HMRKB Herath,0,{},"{'kind': 'lbw', 'player_out': 'L Ronchi'}"
+2nd innings,New Zealand,7.4,NL McCullum,HMRKB Herath,0,{},{}
+2nd innings,New Zealand,7.5,NL McCullum,HMRKB Herath,0,{},{}
+2nd innings,New Zealand,7.6,NL McCullum,HMRKB Herath,1,{},{}
+2nd innings,New Zealand,8.1,NL McCullum,AD Mathews,0,{},{}
+2nd innings,New Zealand,8.2,NL McCullum,AD Mathews,0,{},{}
+2nd innings,New Zealand,8.3,NL McCullum,AD Mathews,0,{},{}
+2nd innings,New Zealand,8.4,NL McCullum,AD Mathews,1,{},{}
+2nd innings,New Zealand,8.5,KS Williamson,AD Mathews,1,{},{}
+2nd innings,New Zealand,8.6,NL McCullum,AD Mathews,0,{},{}
+2nd innings,New Zealand,9.1,KS Williamson,SMSM Senanayake,0,{},{}
+2nd innings,New Zealand,9.2,KS Williamson,SMSM Senanayake,1,{},{}
+2nd innings,New Zealand,9.3,NL McCullum,SMSM Senanayake,0,{},"{'fielders': ['AD Mathews'], 'kind': 'caught', 'player_out': 'NL McCullum'}"
+2nd innings,New Zealand,9.4,KD Mills,SMSM Senanayake,0,{},{}
+2nd innings,New Zealand,9.5,KD Mills,SMSM Senanayake,0,{},{}
+2nd innings,New Zealand,9.6,KD Mills,SMSM Senanayake,0,{},{}
+2nd innings,New Zealand,10.1,KS Williamson,AD Mathews,0,{},{}
+2nd innings,New Zealand,10.2,KS Williamson,AD Mathews,0,{},{}
+2nd innings,New Zealand,10.3,KS Williamson,AD Mathews,4,{},{}
+2nd innings,New Zealand,10.4,KS Williamson,AD Mathews,1,{},{}
+2nd innings,New Zealand,10.5,KD Mills,AD Mathews,0,{},{}
+2nd innings,New Zealand,10.6,KD Mills,AD Mathews,0,{},{}
+2nd innings,New Zealand,11.1,KS Williamson,SMSM Senanayake,0,{},{}
+2nd innings,New Zealand,11.2,KS Williamson,SMSM Senanayake,0,{},{}
+2nd innings,New Zealand,11.3,KS Williamson,SMSM Senanayake,0,{},{}
+2nd innings,New Zealand,11.4,KS Williamson,SMSM Senanayake,0,{},{}
+2nd innings,New Zealand,11.5,KS Williamson,SMSM Senanayake,1,{},{}
+2nd innings,New Zealand,11.6,KD Mills,SMSM Senanayake,0,{},{}
+2nd innings,New Zealand,12.1,KS Williamson,AD Mathews,2,{},{}
+2nd innings,New Zealand,12.2,KS Williamson,AD Mathews,4,{},{}
+2nd innings,New Zealand,12.3,KS Williamson,AD Mathews,0,{},{}
+2nd innings,New Zealand,12.4,KS Williamson,AD Mathews,1,{},{}
+2nd innings,New Zealand,12.5,KD Mills,AD Mathews,4,{},{}
+2nd innings,New Zealand,12.6,KD Mills,AD Mathews,0,{},{}
+2nd innings,New Zealand,13.1,KS Williamson,SMSM Senanayake,0,{},{}
+2nd innings,New Zealand,13.2,KS Williamson,SMSM Senanayake,1,{},{}
+2nd innings,New Zealand,13.3,KD Mills,SMSM Senanayake,0,{},"{'kind': 'lbw', 'player_out': 'KD Mills'}"
+2nd innings,New Zealand,13.4,TA Boult,SMSM Senanayake,0,{},{}
+2nd innings,New Zealand,13.5,TA Boult,SMSM Senanayake,0,{},{}
+2nd innings,New Zealand,13.6,TA Boult,SMSM Senanayake,0,{},{}
+2nd innings,New Zealand,14.1,KS Williamson,SL Malinga,0,{},{}
+2nd innings,New Zealand,14.2,KS Williamson,SL Malinga,1,{},{}
+2nd innings,New Zealand,14.3,TA Boult,SL Malinga,1,{},{}
+2nd innings,New Zealand,14.4,KS Williamson,SL Malinga,4,{},{}
+2nd innings,New Zealand,14.5,KS Williamson,SL Malinga,1,{},{}
+2nd innings,New Zealand,14.6,TA Boult,SL Malinga,1,{},{}
+2nd innings,New Zealand,15.1,TA Boult,HMRKB Herath,1,{},"{'fielders': ['AD Mathews', 'HMRKB Herath'], 'kind': 'run out', 'player_out': 'KS Williamson'}"
+2nd innings,New Zealand,15.2,TA Boult,HMRKB Herath,0,{},{}
+2nd innings,New Zealand,15.3,TA Boult,HMRKB Herath,0,{},"{'fielders': ['DPMD Jayawardene'], 'kind': 'caught', 'player_out': 'TA Boult'}"

@@ -1,0 +1,1820 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-01-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abu Dhabi
+  competition: International League T20
+  dates:
+  - '2025-01-27'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: MI Emirates
+    by:
+      runs: 154
+  overs: 20
+  player_of_match:
+  - T Banton
+  players:
+    MI Emirates:
+    - ADS Fletcher
+    - Waseem Muhammad
+    - T Banton
+    - N Pooran
+    - MDKJ Perera
+    - DR Mousley
+    - KA Pollard
+    - R Shepherd
+    - Muhammad Rohid
+    - AS Joseph
+    - Fazalhaq Farooqi
+    - Waqar Salamkheil
+    Desert Vipers:
+    - Fakhar Zaman
+    - AD Hales
+    - DW Lawrence
+    - SM Curran
+    - Azam Khan
+    - AJ Hose
+    - D Parashar
+    - SE Rutherford
+    - DA Payne
+    - Khuzaima Tanveer
+    - NA Sowter
+    - Mohammad Amir
+  registry:
+    people:
+      AD Hales: 92aeac25
+      ADS Fletcher: 1bae756b
+      AG Wharf: 2e0fcc58
+      AJ Hose: 104e88a4
+      AS Joseph: b0946605
+      Azam Khan: ee8f1a6d
+      D Parashar: 395179e8
+      DA Payne: 6c79c098
+      DR Mousley: 876dbe2d
+      DW Lawrence: 4b685e2d
+      Fakhar Zaman: 1777c020
+      Fazalhaq Farooqi: e9c7f0d0
+      KA Pollard: a757b0d8
+      Khuzaima Tanveer: a3690f55
+      LS Reifer: 5dee559a
+      MDKJ Perera: f21043a5
+      Mohammad Amir: e174dadd
+      Muhammad Rohid: 9103ecdb
+      N Pooran: 3241e3fd
+      NA Sowter: ee0c05c0
+      R Shepherd: c5aef772
+      RSA Palliyaguruge: 4339c19d
+      SE Rutherford: d014d5ac
+      SJA Taufel: 4b43d5ac
+      SM Curran: e94915e6
+      Shiju Sam: 1e2f3eae
+      T Banton: 25f7b7d6
+      Waqar Salamkheil: 3f1066d0
+      Waseem Muhammad: 6f02fe2a
+  teams:
+  - MI Emirates
+  - Desert Vipers
+  toss:
+    winner: Desert Vipers
+    decision: field
+  umpires:
+  - AG Wharf
+  - Shiju Sam
+  venue: Zayed Cricket Stadium, Abu Dhabi
+innings:
+- 1st innings:
+    team: MI Emirates
+    deliveries:
+    - 0.1:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 0.2:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.3:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.4:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.5:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.6:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 1.1:
+        non_striker: Waseem Muhammad
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 1.2:
+        non_striker: ADS Fletcher
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 1.3:
+        non_striker: Waseem Muhammad
+        bowler: D Parashar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: ADS Fletcher
+    - 1.4:
+        non_striker: ADS Fletcher
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 1.5:
+        non_striker: ADS Fletcher
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 1.6:
+        non_striker: ADS Fletcher
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.7:
+        non_striker: ADS Fletcher
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 2.1:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 2.2:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 2.3:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.4:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.5:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.6:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          kind: bowled
+    - 3.1:
+        non_striker: T Banton
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 3.2:
+        non_striker: ADS Fletcher
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 3.3:
+        non_striker: ADS Fletcher
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 3.4:
+        non_striker: ADS Fletcher
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 3.5:
+        non_striker: ADS Fletcher
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 3.6:
+        non_striker: T Banton
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ADS Fletcher
+    - 4.1:
+        non_striker: T Banton
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 4.2:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 4.3:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 4.4:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 4.5:
+        non_striker: T Banton
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.6:
+        non_striker: T Banton
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 5.1:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 5.2:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 5.3:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 5.4:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 5.5:
+        non_striker: T Banton
+        bowler: DA Payne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: ADS Fletcher
+    - 5.6:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 6.1:
+        non_striker: ADS Fletcher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 6.2:
+        non_striker: ADS Fletcher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 6.3:
+        non_striker: T Banton
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 6.4:
+        non_striker: T Banton
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 6.5:
+        non_striker: T Banton
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 6.6:
+        non_striker: T Banton
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 7.1:
+        non_striker: ADS Fletcher
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 7.2:
+        non_striker: T Banton
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 7.3:
+        non_striker: T Banton
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 7.4:
+        non_striker: ADS Fletcher
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 7.5:
+        non_striker: ADS Fletcher
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 7.6:
+        non_striker: T Banton
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 8.1:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 8.2:
+        non_striker: T Banton
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 8.3:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 8.4:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 8.5:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 8.6:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 9.1:
+        non_striker: ADS Fletcher
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 9.2:
+        non_striker: T Banton
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ADS Fletcher
+    - 9.3:
+        non_striker: ADS Fletcher
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 9.4:
+        non_striker: ADS Fletcher
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 9.5:
+        non_striker: ADS Fletcher
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 9.6:
+        non_striker: T Banton
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 10.1:
+        non_striker: T Banton
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 10.2:
+        non_striker: ADS Fletcher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 10.3:
+        non_striker: T Banton
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 10.4:
+        non_striker: T Banton
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 10.5:
+        non_striker: ADS Fletcher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 10.6:
+        non_striker: ADS Fletcher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 11.1:
+        non_striker: T Banton
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 11.2:
+        non_striker: ADS Fletcher
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 11.3:
+        non_striker: T Banton
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 11.4:
+        non_striker: T Banton
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 11.5:
+        non_striker: T Banton
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 11.6:
+        non_striker: T Banton
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 12.1:
+        non_striker: T Banton
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 12.2:
+        non_striker: T Banton
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 12.3:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 12.4:
+        non_striker: T Banton
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 12.5:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 12.6:
+        non_striker: T Banton
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 13.1:
+        non_striker: ADS Fletcher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 13.2:
+        non_striker: T Banton
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 13.3:
+        non_striker: T Banton
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 13.4:
+        non_striker: T Banton
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 13.5:
+        non_striker: T Banton
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 13.6:
+        non_striker: T Banton
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 14.1:
+        non_striker: ADS Fletcher
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 14.2:
+        non_striker: ADS Fletcher
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 14.3:
+        non_striker: ADS Fletcher
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 14.4:
+        non_striker: ADS Fletcher
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 14.5:
+        non_striker: T Banton
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 14.6:
+        non_striker: ADS Fletcher
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 15.1:
+        non_striker: T Banton
+        bowler: DW Lawrence
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 15.2:
+        non_striker: T Banton
+        bowler: DW Lawrence
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 15.3:
+        non_striker: T Banton
+        bowler: DW Lawrence
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 15.4:
+        non_striker: ADS Fletcher
+        bowler: DW Lawrence
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 15.5:
+        non_striker: ADS Fletcher
+        bowler: DW Lawrence
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 15.6:
+        non_striker: ADS Fletcher
+        bowler: DW Lawrence
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 16.1:
+        non_striker: T Banton
+        bowler: Mohammad Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ADS Fletcher
+    - 16.2:
+        non_striker: T Banton
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 16.3:
+        non_striker: T Banton
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 16.4:
+        non_striker: T Banton
+        bowler: Mohammad Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ADS Fletcher
+    - 16.5:
+        non_striker: T Banton
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 16.6:
+        non_striker: T Banton
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 16.7:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Banton
+    - 16.8:
+        non_striker: ADS Fletcher
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 16.9:
+        non_striker: T Banton
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 17.1:
+        non_striker: ADS Fletcher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 17.2:
+        non_striker: ADS Fletcher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 17.3:
+        non_striker: ADS Fletcher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 17.4:
+        non_striker: ADS Fletcher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 17.5:
+        non_striker: ADS Fletcher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 17.6:
+        non_striker: ADS Fletcher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 18.1:
+        non_striker: T Banton
+        bowler: DA Payne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ADS Fletcher
+    - 18.2:
+        non_striker: T Banton
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 18.3:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 18.4:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Banton
+    - 18.5:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 18.6:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 18.7:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 18.8:
+        non_striker: ADS Fletcher
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 19.1:
+        non_striker: T Banton
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 19.2:
+        non_striker: ADS Fletcher
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 19.3:
+        non_striker: ADS Fletcher
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: T Banton
+    - 19.4:
+        non_striker: T Banton
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 19.5:
+        non_striker: T Banton
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+        wicket:
+          player_out: T Banton
+          fielders:
+          - AJ Hose
+          - Khuzaima Tanveer
+          kind: run out
+    - 19.6:
+        non_striker: N Pooran
+        bowler: Khuzaima Tanveer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+- 2nd innings:
+    team: Desert Vipers
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: AD Hales
+            out: Mohammad Amir
+            team: Desert Vipers
+            reason: impact_player
+        batsman: Fakhar Zaman
+    - 0.2:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 0.3:
+        non_striker: Fakhar Zaman
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 0.4:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 0.5:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 0.6:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 1.1:
+        non_striker: AD Hales
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 1.2:
+        non_striker: AD Hales
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 1.3:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.4:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 1.5:
+        non_striker: AD Hales
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+        wicket:
+          player_out: Fakhar Zaman
+          fielders:
+          - DR Mousley
+          kind: caught
+    - 1.6:
+        non_striker: AD Hales
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DW Lawrence
+    - 2.1:
+        non_striker: DW Lawrence
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.2:
+        non_striker: DW Lawrence
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 2.3:
+        non_striker: AD Hales
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DW Lawrence
+    - 2.4:
+        non_striker: DW Lawrence
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.5:
+        non_striker: DW Lawrence
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          fielders:
+          - T Banton
+          kind: caught
+    - 2.6:
+        non_striker: DW Lawrence
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 3.1:
+        non_striker: DW Lawrence
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 3.2:
+        non_striker: DW Lawrence
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 3.3:
+        non_striker: DW Lawrence
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 3.4:
+        non_striker: DW Lawrence
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 3.5:
+        non_striker: SM Curran
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DW Lawrence
+    - 3.6:
+        non_striker: SM Curran
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DW Lawrence
+        wicket:
+          player_out: DW Lawrence
+          fielders:
+          - Muhammad Rohid
+          kind: caught
+    - 4.1:
+        non_striker: Azam Khan
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 4.2:
+        non_striker: SM Curran
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 4.3:
+        non_striker: SM Curran
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 4.4:
+        non_striker: Azam Khan
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+        wicket:
+          player_out: SM Curran
+          fielders:
+          - N Pooran
+          kind: caught
+    - 4.5:
+        non_striker: Azam Khan
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 4.6:
+        non_striker: Azam Khan
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 5.1:
+        non_striker: Azam Khan
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: Waqar Salamkheil
+            out: MDKJ Perera
+            team: MI Emirates
+            reason: impact_player
+        batsman: AJ Hose
+    - 5.2:
+        non_striker: Azam Khan
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 5.3:
+        non_striker: Azam Khan
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 5.4:
+        non_striker: Azam Khan
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 5.5:
+        non_striker: Azam Khan
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+        wicket:
+          player_out: AJ Hose
+          fielders:
+          - ADS Fletcher
+          kind: caught
+    - 5.6:
+        non_striker: Azam Khan
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Parashar
+    - 6.1:
+        non_striker: D Parashar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 6.2:
+        non_striker: Azam Khan
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Parashar
+    - 6.3:
+        non_striker: Azam Khan
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Parashar
+    - 6.4:
+        non_striker: Azam Khan
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 6.5:
+        non_striker: D Parashar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 6.6:
+        non_striker: Azam Khan
+        bowler: Muhammad Rohid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Parashar
+    - 6.7:
+        non_striker: Azam Khan
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 7.1:
+        non_striker: Azam Khan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 7.2:
+        non_striker: D Parashar
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 7.3:
+        non_striker: D Parashar
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 7.4:
+        non_striker: Azam Khan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 7.5:
+        non_striker: D Parashar
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 7.6:
+        non_striker: Azam Khan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Parashar
+    - 8.1:
+        non_striker: D Parashar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 8.2:
+        non_striker: D Parashar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azam Khan
+    - 8.3:
+        non_striker: Azam Khan
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 8.4:
+        non_striker: D Parashar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azam Khan
+    - 8.5:
+        non_striker: D Parashar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+        wicket:
+          player_out: Azam Khan
+          fielders:
+          - T Banton
+          kind: caught
+    - 8.6:
+        non_striker: D Parashar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Rutherford
+    - 8.7:
+        non_striker: D Parashar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 9.1:
+        non_striker: D Parashar
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 9.2:
+        non_striker: D Parashar
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          fielders:
+          - AS Joseph
+          kind: caught
+    - 9.3:
+        non_striker: D Parashar
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Payne
+    - 9.4:
+        non_striker: DA Payne
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Parashar
+    - 9.5:
+        non_striker: DA Payne
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Parashar
+        wicket:
+          player_out: D Parashar
+          fielders:
+          - T Banton
+          kind: caught
+    - 9.6:
+        non_striker: DA Payne
+        bowler: DR Mousley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khuzaima Tanveer
+    - 10.1:
+        non_striker: DA Payne
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khuzaima Tanveer
+    - 10.2:
+        non_striker: Khuzaima Tanveer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Payne
+    - 10.3:
+        non_striker: DA Payne
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khuzaima Tanveer
+    - 10.4:
+        non_striker: Khuzaima Tanveer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Payne
+    - 10.5:
+        non_striker: Khuzaima Tanveer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Payne
+    - 10.6:
+        non_striker: Khuzaima Tanveer
+        bowler: Waqar Salamkheil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Payne
+    - 11.1:
+        non_striker: Khuzaima Tanveer
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Payne
+    - 11.2:
+        non_striker: Khuzaima Tanveer
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DA Payne
+    - 11.3:
+        non_striker: DA Payne
+        bowler: AS Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khuzaima Tanveer
+    - 11.4:
+        non_striker: DA Payne
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khuzaima Tanveer
+    - 11.5:
+        non_striker: DA Payne
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khuzaima Tanveer
+    - 11.6:
+        non_striker: Khuzaima Tanveer
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Payne
+        wicket:
+          player_out: DA Payne
+          fielders:
+          - N Pooran
+          kind: caught
+    - 11.7:
+        non_striker: Khuzaima Tanveer
+        bowler: AS Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Sowter
+    - 12.1:
+        non_striker: NA Sowter
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khuzaima Tanveer
+    - 12.2:
+        non_striker: NA Sowter
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khuzaima Tanveer
+    - 12.3:
+        non_striker: NA Sowter
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khuzaima Tanveer
+        wicket:
+          player_out: Khuzaima Tanveer
+          fielders:
+          - N Pooran
+          kind: caught

@@ -1,0 +1,245 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,New Zealand,0.1,MJ Guptill,NM Coulter-Nile,0,{},{}
+1st innings,New Zealand,0.2,MJ Guptill,NM Coulter-Nile,0,{},{}
+1st innings,New Zealand,0.3,MJ Guptill,NM Coulter-Nile,4,{},{}
+1st innings,New Zealand,0.4,MJ Guptill,NM Coulter-Nile,4,{},{}
+1st innings,New Zealand,0.5,MJ Guptill,NM Coulter-Nile,1,{},{}
+1st innings,New Zealand,0.6,KS Williamson,NM Coulter-Nile,0,{},{}
+1st innings,New Zealand,1.1,MJ Guptill,SR Watson,0,{},{}
+1st innings,New Zealand,1.2,MJ Guptill,SR Watson,0,{},{}
+1st innings,New Zealand,1.3,MJ Guptill,SR Watson,0,{},{}
+1st innings,New Zealand,1.4,MJ Guptill,SR Watson,1,{},{}
+1st innings,New Zealand,1.5,KS Williamson,SR Watson,4,{},{}
+1st innings,New Zealand,1.6,KS Williamson,SR Watson,0,{},{}
+1st innings,New Zealand,2.1,MJ Guptill,AC Agar,6,{},{}
+1st innings,New Zealand,2.2,MJ Guptill,AC Agar,6,{},{}
+1st innings,New Zealand,2.3,MJ Guptill,AC Agar,0,{},{}
+1st innings,New Zealand,2.4,MJ Guptill,AC Agar,0,{},{}
+1st innings,New Zealand,2.5,MJ Guptill,AC Agar,0,{},{}
+1st innings,New Zealand,2.6,MJ Guptill,AC Agar,6,{},{}
+1st innings,New Zealand,3.1,KS Williamson,SR Watson,1,{},{}
+1st innings,New Zealand,3.2,MJ Guptill,SR Watson,0,{},{}
+1st innings,New Zealand,3.3,MJ Guptill,SR Watson,0,{},{}
+1st innings,New Zealand,3.4,MJ Guptill,SR Watson,0,{},{}
+1st innings,New Zealand,3.5,MJ Guptill,SR Watson,1,{},{}
+1st innings,New Zealand,3.6,KS Williamson,SR Watson,1,{},{}
+1st innings,New Zealand,4.1,KS Williamson,JP Faulkner,0,{},{}
+1st innings,New Zealand,4.2,KS Williamson,JP Faulkner,0,{},{}
+1st innings,New Zealand,4.3,KS Williamson,JP Faulkner,0,{},{}
+1st innings,New Zealand,4.4,KS Williamson,JP Faulkner,4,{},{}
+1st innings,New Zealand,4.5,KS Williamson,JP Faulkner,4,{},{}
+1st innings,New Zealand,4.6,KS Williamson,JP Faulkner,1,{},{}
+1st innings,New Zealand,5.1,KS Williamson,NM Coulter-Nile,1,{},{}
+1st innings,New Zealand,5.2,MJ Guptill,NM Coulter-Nile,1,{},{}
+1st innings,New Zealand,5.3,KS Williamson,NM Coulter-Nile,1,{},{}
+1st innings,New Zealand,5.4,MJ Guptill,NM Coulter-Nile,6,{},{}
+1st innings,New Zealand,5.5,MJ Guptill,NM Coulter-Nile,1,{},{}
+1st innings,New Zealand,5.6,KS Williamson,NM Coulter-Nile,4,{},{}
+1st innings,New Zealand,6.1,MJ Guptill,A Zampa,1,{},{}
+1st innings,New Zealand,6.2,KS Williamson,A Zampa,1,{},{}
+1st innings,New Zealand,6.3,MJ Guptill,A Zampa,0,{},{}
+1st innings,New Zealand,6.4,MJ Guptill,A Zampa,0,{},{}
+1st innings,New Zealand,6.5,MJ Guptill,A Zampa,1,{},{}
+1st innings,New Zealand,6.6,KS Williamson,A Zampa,0,{},{}
+1st innings,New Zealand,7.1,MJ Guptill,JP Faulkner,0,{},"{'fielders': ['GJ Maxwell'], 'kind': 'caught', 'player_out': 'MJ Guptill'}"
+1st innings,New Zealand,7.2,KS Williamson,JP Faulkner,1,{},{}
+1st innings,New Zealand,7.3,C Munro,JP Faulkner,1,{},{}
+1st innings,New Zealand,7.4,KS Williamson,JP Faulkner,0,{},{}
+1st innings,New Zealand,7.5,KS Williamson,JP Faulkner,1,{},{}
+1st innings,New Zealand,7.6,C Munro,JP Faulkner,1,{},{}
+1st innings,New Zealand,8.1,C Munro,GJ Maxwell,1,{},{}
+1st innings,New Zealand,8.2,KS Williamson,GJ Maxwell,0,{},"{'fielders': ['AC Agar'], 'kind': 'caught', 'player_out': 'KS Williamson'}"
+1st innings,New Zealand,8.3,C Munro,GJ Maxwell,1,{},{}
+1st innings,New Zealand,8.4,CJ Anderson,GJ Maxwell,0,{},{}
+1st innings,New Zealand,8.5,CJ Anderson,GJ Maxwell,1,{},{}
+1st innings,New Zealand,8.6,C Munro,GJ Maxwell,1,{},{}
+1st innings,New Zealand,9.1,C Munro,MR Marsh,1,{'wides': 1},{}
+1st innings,New Zealand,9.2,C Munro,MR Marsh,1,{},{}
+1st innings,New Zealand,9.3,CJ Anderson,MR Marsh,1,{},{}
+1st innings,New Zealand,9.4,C Munro,MR Marsh,1,{},{}
+1st innings,New Zealand,9.5,CJ Anderson,MR Marsh,0,{},{}
+1st innings,New Zealand,9.6,CJ Anderson,MR Marsh,1,{},{}
+1st innings,New Zealand,9.7,C Munro,MR Marsh,1,{},{}
+1st innings,New Zealand,10.1,C Munro,GJ Maxwell,1,{},{}
+1st innings,New Zealand,10.2,CJ Anderson,GJ Maxwell,0,{},"{'fielders': ['AC Agar'], 'kind': 'caught', 'player_out': 'CJ Anderson'}"
+1st innings,New Zealand,10.3,C Munro,GJ Maxwell,0,{},{}
+1st innings,New Zealand,10.4,C Munro,GJ Maxwell,2,{},{}
+1st innings,New Zealand,10.5,C Munro,GJ Maxwell,1,{},{}
+1st innings,New Zealand,10.6,LRPL Taylor,GJ Maxwell,0,{},{}
+1st innings,New Zealand,11.1,C Munro,SR Watson,0,{},{}
+1st innings,New Zealand,11.2,C Munro,SR Watson,0,{},{}
+1st innings,New Zealand,11.3,C Munro,SR Watson,0,{},{}
+1st innings,New Zealand,11.4,C Munro,SR Watson,1,{},{}
+1st innings,New Zealand,11.5,LRPL Taylor,SR Watson,1,{},{}
+1st innings,New Zealand,11.6,C Munro,SR Watson,1,{},{}
+1st innings,New Zealand,12.1,C Munro,GJ Maxwell,4,{},{}
+1st innings,New Zealand,12.2,C Munro,GJ Maxwell,1,{},{}
+1st innings,New Zealand,12.3,LRPL Taylor,GJ Maxwell,1,{},{}
+1st innings,New Zealand,12.4,C Munro,GJ Maxwell,0,{},{}
+1st innings,New Zealand,12.5,C Munro,GJ Maxwell,4,{},{}
+1st innings,New Zealand,12.6,C Munro,GJ Maxwell,4,{'byes': 4},{}
+1st innings,New Zealand,13.1,LRPL Taylor,MR Marsh,0,{},{}
+1st innings,New Zealand,13.2,LRPL Taylor,MR Marsh,1,{},{}
+1st innings,New Zealand,13.3,C Munro,MR Marsh,0,{},{}
+1st innings,New Zealand,13.4,C Munro,MR Marsh,0,{},{}
+1st innings,New Zealand,13.5,C Munro,MR Marsh,0,{},{}
+1st innings,New Zealand,13.6,C Munro,MR Marsh,0,{},"{'fielders': ['JP Faulkner'], 'kind': 'caught', 'player_out': 'C Munro'}"
+1st innings,New Zealand,14.1,GD Elliott,NM Coulter-Nile,0,{},{}
+1st innings,New Zealand,14.2,GD Elliott,NM Coulter-Nile,1,{},{}
+1st innings,New Zealand,14.3,LRPL Taylor,NM Coulter-Nile,0,{},{}
+1st innings,New Zealand,14.4,LRPL Taylor,NM Coulter-Nile,1,{},{}
+1st innings,New Zealand,14.5,GD Elliott,NM Coulter-Nile,0,{},{}
+1st innings,New Zealand,14.6,GD Elliott,NM Coulter-Nile,0,{},{}
+1st innings,New Zealand,15.1,LRPL Taylor,MR Marsh,0,{},{}
+1st innings,New Zealand,15.2,LRPL Taylor,MR Marsh,1,{},{}
+1st innings,New Zealand,15.3,GD Elliott,MR Marsh,4,{},{}
+1st innings,New Zealand,15.4,GD Elliott,MR Marsh,0,{},{}
+1st innings,New Zealand,15.5,GD Elliott,MR Marsh,2,{},{}
+1st innings,New Zealand,15.6,GD Elliott,MR Marsh,1,{},{}
+1st innings,New Zealand,16.1,GD Elliott,SR Watson,2,{},{}
+1st innings,New Zealand,16.2,GD Elliott,SR Watson,1,{},{}
+1st innings,New Zealand,16.3,LRPL Taylor,SR Watson,1,{'wides': 1},{}
+1st innings,New Zealand,16.4,LRPL Taylor,SR Watson,6,{},{}
+1st innings,New Zealand,16.5,LRPL Taylor,SR Watson,0,{},"{'fielders': ['MR Marsh'], 'kind': 'caught', 'player_out': 'LRPL Taylor'}"
+1st innings,New Zealand,16.6,L Ronchi,SR Watson,0,{},{}
+1st innings,New Zealand,16.7,L Ronchi,SR Watson,1,{},{}
+1st innings,New Zealand,17.1,L Ronchi,MR Marsh,1,{},{}
+1st innings,New Zealand,17.2,GD Elliott,MR Marsh,4,{},{}
+1st innings,New Zealand,17.3,GD Elliott,MR Marsh,0,{},{}
+1st innings,New Zealand,17.4,GD Elliott,MR Marsh,1,{},{}
+1st innings,New Zealand,17.5,L Ronchi,MR Marsh,1,{},{}
+1st innings,New Zealand,17.6,GD Elliott,MR Marsh,4,{},{}
+1st innings,New Zealand,18.1,L Ronchi,JP Faulkner,1,{},{}
+1st innings,New Zealand,18.2,GD Elliott,JP Faulkner,0,{},{}
+1st innings,New Zealand,18.3,GD Elliott,JP Faulkner,1,{},{}
+1st innings,New Zealand,18.4,L Ronchi,JP Faulkner,2,{},{}
+1st innings,New Zealand,18.5,L Ronchi,JP Faulkner,0,{},"{'fielders': ['GJ Maxwell'], 'kind': 'caught', 'player_out': 'L Ronchi'}"
+1st innings,New Zealand,18.6,GD Elliott,JP Faulkner,1,{},{}
+1st innings,New Zealand,19.1,GD Elliott,NM Coulter-Nile,2,{},{}
+1st innings,New Zealand,19.2,GD Elliott,NM Coulter-Nile,2,{},{}
+1st innings,New Zealand,19.3,GD Elliott,NM Coulter-Nile,1,{},{}
+1st innings,New Zealand,19.4,MJ Santner,NM Coulter-Nile,1,{},"{'fielders': ['GJ Maxwell', 'PM Nevill'], 'kind': 'run out', 'player_out': 'MJ Santner'}"
+1st innings,New Zealand,19.5,AF Milne,NM Coulter-Nile,2,{},{}
+1st innings,New Zealand,19.6,AF Milne,NM Coulter-Nile,0,{},"{'fielders': ['PM Nevill'], 'kind': 'run out', 'player_out': 'GD Elliott'}"
+2nd innings,Australia,0.1,UT Khawaja,CJ Anderson,0,{},{}
+2nd innings,Australia,0.2,UT Khawaja,CJ Anderson,4,{},{}
+2nd innings,Australia,0.3,UT Khawaja,CJ Anderson,1,{},{}
+2nd innings,Australia,0.4,SR Watson,CJ Anderson,1,{},{}
+2nd innings,Australia,0.5,UT Khawaja,CJ Anderson,4,{},{}
+2nd innings,Australia,0.6,UT Khawaja,CJ Anderson,1,{},{}
+2nd innings,Australia,1.1,UT Khawaja,AF Milne,0,{},{}
+2nd innings,Australia,1.2,UT Khawaja,AF Milne,4,{},{}
+2nd innings,Australia,1.3,UT Khawaja,AF Milne,0,{},{}
+2nd innings,Australia,1.4,UT Khawaja,AF Milne,4,{},{}
+2nd innings,Australia,1.5,UT Khawaja,AF Milne,0,{},{}
+2nd innings,Australia,1.6,UT Khawaja,AF Milne,1,{},{}
+2nd innings,Australia,2.1,UT Khawaja,GD Elliott,0,{},{}
+2nd innings,Australia,2.2,UT Khawaja,GD Elliott,4,{},{}
+2nd innings,Australia,2.3,UT Khawaja,GD Elliott,1,{},{}
+2nd innings,Australia,2.4,SR Watson,GD Elliott,4,{},{}
+2nd innings,Australia,2.5,SR Watson,GD Elliott,0,{},{}
+2nd innings,Australia,2.6,SR Watson,GD Elliott,1,{},{}
+2nd innings,Australia,3.1,SR Watson,MJ McClenaghan,1,{},{}
+2nd innings,Australia,3.2,UT Khawaja,MJ McClenaghan,0,{},{}
+2nd innings,Australia,3.3,UT Khawaja,MJ McClenaghan,4,{},{}
+2nd innings,Australia,3.4,UT Khawaja,MJ McClenaghan,1,{},{}
+2nd innings,Australia,3.5,SR Watson,MJ McClenaghan,1,{},{}
+2nd innings,Australia,3.6,UT Khawaja,MJ McClenaghan,0,{},{}
+2nd innings,Australia,4.1,SR Watson,CJ Anderson,0,{},{}
+2nd innings,Australia,4.2,SR Watson,CJ Anderson,1,{},{}
+2nd innings,Australia,4.3,UT Khawaja,CJ Anderson,1,{},{}
+2nd innings,Australia,4.4,SR Watson,CJ Anderson,1,{},{}
+2nd innings,Australia,4.5,UT Khawaja,CJ Anderson,1,{},{}
+2nd innings,Australia,4.6,SR Watson,CJ Anderson,1,{},{}
+2nd innings,Australia,5.1,SR Watson,MJ McClenaghan,2,{},{}
+2nd innings,Australia,5.2,SR Watson,MJ McClenaghan,0,{},"{'fielders': ['KS Williamson'], 'kind': 'caught', 'player_out': 'SR Watson'}"
+2nd innings,Australia,5.3,SPD Smith,MJ McClenaghan,0,{},{}
+2nd innings,Australia,5.4,SPD Smith,MJ McClenaghan,4,{},{}
+2nd innings,Australia,5.5,SPD Smith,MJ McClenaghan,0,{},{}
+2nd innings,Australia,5.6,SPD Smith,MJ McClenaghan,2,{},{}
+2nd innings,Australia,6.1,UT Khawaja,MJ Santner,1,{},{}
+2nd innings,Australia,6.2,SPD Smith,MJ Santner,0,{},{}
+2nd innings,Australia,6.3,SPD Smith,MJ Santner,0,{},{}
+2nd innings,Australia,6.4,SPD Smith,MJ Santner,0,{},"{'fielders': ['L Ronchi'], 'kind': 'stumped', 'player_out': 'SPD Smith'}"
+2nd innings,Australia,6.5,DA Warner,MJ Santner,0,{},{}
+2nd innings,Australia,6.6,DA Warner,MJ Santner,1,{},{}
+2nd innings,Australia,7.1,DA Warner,KS Williamson,0,{},{}
+2nd innings,Australia,7.2,DA Warner,KS Williamson,1,{},{}
+2nd innings,Australia,7.3,UT Khawaja,KS Williamson,1,{},{}
+2nd innings,Australia,7.4,DA Warner,KS Williamson,0,{},{}
+2nd innings,Australia,7.5,DA Warner,KS Williamson,1,{},{}
+2nd innings,Australia,7.6,UT Khawaja,KS Williamson,0,{},{}
+2nd innings,Australia,8.1,DA Warner,GD Elliott,1,{},{}
+2nd innings,Australia,8.2,UT Khawaja,GD Elliott,2,{},{}
+2nd innings,Australia,8.3,UT Khawaja,GD Elliott,0,{},{}
+2nd innings,Australia,8.4,UT Khawaja,GD Elliott,2,{},{}
+2nd innings,Australia,8.5,UT Khawaja,GD Elliott,1,{},{}
+2nd innings,Australia,8.6,DA Warner,GD Elliott,1,{},"{'fielders': ['AF Milne', 'GD Elliott'], 'kind': 'run out', 'player_out': 'UT Khawaja'}"
+2nd innings,Australia,9.1,GJ Maxwell,IS Sodhi,1,{},{}
+2nd innings,Australia,9.2,DA Warner,IS Sodhi,0,{},{}
+2nd innings,Australia,9.3,DA Warner,IS Sodhi,1,{},{}
+2nd innings,Australia,9.4,GJ Maxwell,IS Sodhi,0,{},{}
+2nd innings,Australia,9.5,GJ Maxwell,IS Sodhi,2,{},{}
+2nd innings,Australia,9.6,GJ Maxwell,IS Sodhi,0,{},{}
+2nd innings,Australia,10.1,DA Warner,MJ Santner,0,{},"{'fielders': ['MJ Guptill'], 'kind': 'caught', 'player_out': 'DA Warner'}"
+2nd innings,Australia,10.2,MR Marsh,MJ Santner,0,{},{}
+2nd innings,Australia,10.3,MR Marsh,MJ Santner,1,{},{}
+2nd innings,Australia,10.4,GJ Maxwell,MJ Santner,0,{},{}
+2nd innings,Australia,10.5,GJ Maxwell,MJ Santner,0,{},{}
+2nd innings,Australia,10.6,GJ Maxwell,MJ Santner,1,{},{}
+2nd innings,Australia,11.1,GJ Maxwell,CJ Anderson,0,{},{}
+2nd innings,Australia,11.2,GJ Maxwell,CJ Anderson,0,{},{}
+2nd innings,Australia,11.3,GJ Maxwell,CJ Anderson,1,{},{}
+2nd innings,Australia,11.4,MR Marsh,CJ Anderson,0,{},{}
+2nd innings,Australia,11.5,MR Marsh,CJ Anderson,1,{},{}
+2nd innings,Australia,11.6,GJ Maxwell,CJ Anderson,1,{},{}
+2nd innings,Australia,12.1,GJ Maxwell,AF Milne,1,{'wides': 1},{}
+2nd innings,Australia,12.2,GJ Maxwell,AF Milne,4,{},{}
+2nd innings,Australia,12.3,GJ Maxwell,AF Milne,4,{},{}
+2nd innings,Australia,12.4,GJ Maxwell,AF Milne,1,{'wides': 1},{}
+2nd innings,Australia,12.5,GJ Maxwell,AF Milne,1,{},{}
+2nd innings,Australia,12.6,MR Marsh,AF Milne,1,{'legbyes': 1},{}
+2nd innings,Australia,12.7,GJ Maxwell,AF Milne,1,{},{}
+2nd innings,Australia,12.8,MR Marsh,AF Milne,1,{},{}
+2nd innings,Australia,13.1,MR Marsh,IS Sodhi,1,{},{}
+2nd innings,Australia,13.2,GJ Maxwell,IS Sodhi,0,{},{}
+2nd innings,Australia,13.3,GJ Maxwell,IS Sodhi,1,{},{}
+2nd innings,Australia,13.4,MR Marsh,IS Sodhi,0,{},{}
+2nd innings,Australia,13.5,MR Marsh,IS Sodhi,1,{},{}
+2nd innings,Australia,13.6,GJ Maxwell,IS Sodhi,1,{},{}
+2nd innings,Australia,14.1,GJ Maxwell,MJ Santner,2,{},{}
+2nd innings,Australia,14.2,GJ Maxwell,MJ Santner,0,{},{}
+2nd innings,Australia,14.3,GJ Maxwell,MJ Santner,1,{},{}
+2nd innings,Australia,14.4,MR Marsh,MJ Santner,6,{},{}
+2nd innings,Australia,14.5,MR Marsh,MJ Santner,1,{},{}
+2nd innings,Australia,14.6,GJ Maxwell,MJ Santner,1,{},{}
+2nd innings,Australia,15.1,GJ Maxwell,IS Sodhi,0,{},"{'fielders': ['KS Williamson'], 'kind': 'caught', 'player_out': 'GJ Maxwell'}"
+2nd innings,Australia,15.2,MR Marsh,IS Sodhi,0,{},{}
+2nd innings,Australia,15.3,MR Marsh,IS Sodhi,0,{},{}
+2nd innings,Australia,15.4,MR Marsh,IS Sodhi,1,{},{}
+2nd innings,Australia,15.5,AC Agar,IS Sodhi,0,{},{}
+2nd innings,Australia,15.6,AC Agar,IS Sodhi,0,{},{}
+2nd innings,Australia,16.1,MR Marsh,MJ Santner,1,{},{}
+2nd innings,Australia,16.2,AC Agar,MJ Santner,1,{},{}
+2nd innings,Australia,16.3,MR Marsh,MJ Santner,0,{},{}
+2nd innings,Australia,16.4,MR Marsh,MJ Santner,6,{},{}
+2nd innings,Australia,16.5,MR Marsh,MJ Santner,1,{},{}
+2nd innings,Australia,16.6,AC Agar,MJ Santner,6,{},{}
+2nd innings,Australia,17.1,MR Marsh,IS Sodhi,1,{},{}
+2nd innings,Australia,17.2,AC Agar,IS Sodhi,1,{},{}
+2nd innings,Australia,17.3,MR Marsh,IS Sodhi,0,{},{}
+2nd innings,Australia,17.4,MR Marsh,IS Sodhi,1,{},{}
+2nd innings,Australia,17.5,AC Agar,IS Sodhi,1,{},{}
+2nd innings,Australia,17.6,MR Marsh,IS Sodhi,1,{},{}
+2nd innings,Australia,18.1,MR Marsh,MJ McClenaghan,0,{},"{'fielders': ['AF Milne'], 'kind': 'caught', 'player_out': 'MR Marsh'}"
+2nd innings,Australia,18.2,AC Agar,MJ McClenaghan,1,{'legbyes': 1},{}
+2nd innings,Australia,18.3,JP Faulkner,MJ McClenaghan,0,{},{}
+2nd innings,Australia,18.4,JP Faulkner,MJ McClenaghan,1,{},{}
+2nd innings,Australia,18.5,AC Agar,MJ McClenaghan,0,{},"{'fielders': ['LRPL Taylor'], 'kind': 'caught', 'player_out': 'AC Agar'}"
+2nd innings,Australia,18.6,JP Faulkner,MJ McClenaghan,1,{},{}
+2nd innings,Australia,19.1,JP Faulkner,CJ Anderson,0,{},"{'fielders': ['MJ Guptill'], 'kind': 'caught', 'player_out': 'JP Faulkner'}"
+2nd innings,Australia,19.2,NM Coulter-Nile,CJ Anderson,1,{},{}
+2nd innings,Australia,19.3,PM Nevill,CJ Anderson,6,{},{}
+2nd innings,Australia,19.4,PM Nevill,CJ Anderson,1,{},{}
+2nd innings,Australia,19.5,NM Coulter-Nile,CJ Anderson,0,{},"{'kind': 'bowled', 'player_out': 'NM Coulter-Nile'}"
+2nd innings,Australia,19.6,A Zampa,CJ Anderson,2,{},{}

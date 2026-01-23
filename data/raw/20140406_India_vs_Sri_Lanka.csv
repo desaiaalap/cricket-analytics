@@ -1,0 +1,233 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,India,0.1,RG Sharma,KMDN Kulasekara,1,{},{}
+1st innings,India,0.2,AM Rahane,KMDN Kulasekara,0,{},{}
+1st innings,India,0.3,AM Rahane,KMDN Kulasekara,0,{},{}
+1st innings,India,0.4,AM Rahane,KMDN Kulasekara,2,{},{}
+1st innings,India,0.5,AM Rahane,KMDN Kulasekara,0,{},{}
+1st innings,India,0.6,AM Rahane,KMDN Kulasekara,1,{},{}
+1st innings,India,1.1,AM Rahane,AD Mathews,0,{},{}
+1st innings,India,1.2,AM Rahane,AD Mathews,0,{},{}
+1st innings,India,1.3,AM Rahane,AD Mathews,0,{},"{'kind': 'bowled', 'player_out': 'AM Rahane'}"
+1st innings,India,1.4,V Kohli,AD Mathews,0,{},{}
+1st innings,India,1.5,V Kohli,AD Mathews,0,{},{}
+1st innings,India,1.6,V Kohli,AD Mathews,1,{},{}
+1st innings,India,2.1,V Kohli,KMDN Kulasekara,4,{},{}
+1st innings,India,2.2,V Kohli,KMDN Kulasekara,0,{},{}
+1st innings,India,2.3,V Kohli,KMDN Kulasekara,0,{},{}
+1st innings,India,2.4,V Kohli,KMDN Kulasekara,0,{},{}
+1st innings,India,2.5,V Kohli,KMDN Kulasekara,1,{},{}
+1st innings,India,2.6,RG Sharma,KMDN Kulasekara,1,{},{}
+1st innings,India,3.1,RG Sharma,AD Mathews,1,{},{}
+1st innings,India,3.2,V Kohli,AD Mathews,1,{},{}
+1st innings,India,3.3,RG Sharma,AD Mathews,0,{},{}
+1st innings,India,3.4,RG Sharma,AD Mathews,1,{},{}
+1st innings,India,3.5,V Kohli,AD Mathews,1,{},{}
+1st innings,India,3.6,RG Sharma,AD Mathews,0,{},{}
+1st innings,India,4.1,V Kohli,SMSM Senanayake,1,{},{}
+1st innings,India,4.2,RG Sharma,SMSM Senanayake,4,{},{}
+1st innings,India,4.3,RG Sharma,SMSM Senanayake,3,{},{}
+1st innings,India,4.4,V Kohli,SMSM Senanayake,0,{},{}
+1st innings,India,4.5,V Kohli,SMSM Senanayake,0,{},{}
+1st innings,India,4.6,V Kohli,SMSM Senanayake,0,{},{}
+1st innings,India,5.1,RG Sharma,SL Malinga,1,{},{}
+1st innings,India,5.2,V Kohli,SL Malinga,1,{},{}
+1st innings,India,5.3,RG Sharma,SL Malinga,1,{},{}
+1st innings,India,5.4,V Kohli,SL Malinga,1,{},{}
+1st innings,India,5.5,RG Sharma,SL Malinga,0,{},{}
+1st innings,India,5.6,RG Sharma,SL Malinga,4,{},{}
+1st innings,India,6.1,V Kohli,HMRKB Herath,1,{},{}
+1st innings,India,6.2,RG Sharma,HMRKB Herath,0,{},{}
+1st innings,India,6.3,RG Sharma,HMRKB Herath,1,{},{}
+1st innings,India,6.4,V Kohli,HMRKB Herath,1,{},{}
+1st innings,India,6.5,RG Sharma,HMRKB Herath,1,{},{}
+1st innings,India,6.6,V Kohli,HMRKB Herath,6,{},{}
+1st innings,India,7.1,RG Sharma,AD Mathews,1,{},{}
+1st innings,India,7.2,V Kohli,AD Mathews,0,{},{}
+1st innings,India,7.3,V Kohli,AD Mathews,1,{},{}
+1st innings,India,7.4,RG Sharma,AD Mathews,2,{},{}
+1st innings,India,7.5,RG Sharma,AD Mathews,1,{},{}
+1st innings,India,7.6,V Kohli,AD Mathews,1,{},{}
+1st innings,India,8.1,V Kohli,HMRKB Herath,1,{},{}
+1st innings,India,8.2,RG Sharma,HMRKB Herath,0,{},{}
+1st innings,India,8.3,RG Sharma,HMRKB Herath,1,{'legbyes': 1},{}
+1st innings,India,8.4,V Kohli,HMRKB Herath,0,{},{}
+1st innings,India,8.5,V Kohli,HMRKB Herath,0,{},{}
+1st innings,India,8.6,V Kohli,HMRKB Herath,1,{},{}
+1st innings,India,9.1,V Kohli,AD Mathews,1,{},{}
+1st innings,India,9.2,RG Sharma,AD Mathews,1,{},{}
+1st innings,India,9.3,V Kohli,AD Mathews,1,{},{}
+1st innings,India,9.4,RG Sharma,AD Mathews,4,{},{}
+1st innings,India,9.5,RG Sharma,AD Mathews,1,{},{}
+1st innings,India,9.6,V Kohli,AD Mathews,6,{},{}
+1st innings,India,10.1,RG Sharma,HMRKB Herath,0,{},{}
+1st innings,India,10.2,RG Sharma,HMRKB Herath,0,{},{}
+1st innings,India,10.3,RG Sharma,HMRKB Herath,0,{},"{'fielders': ['SMSM Senanayake'], 'kind': 'caught', 'player_out': 'RG Sharma'}"
+1st innings,India,10.4,Yuvraj Singh,HMRKB Herath,1,{},{}
+1st innings,India,10.5,V Kohli,HMRKB Herath,0,{},{}
+1st innings,India,10.6,V Kohli,HMRKB Herath,0,{},{}
+1st innings,India,11.1,Yuvraj Singh,SMSM Senanayake,1,{},{}
+1st innings,India,11.2,V Kohli,SMSM Senanayake,0,{},{}
+1st innings,India,11.3,V Kohli,SMSM Senanayake,2,{},{}
+1st innings,India,11.4,V Kohli,SMSM Senanayake,4,{},{}
+1st innings,India,11.5,V Kohli,SMSM Senanayake,0,{},{}
+1st innings,India,11.6,V Kohli,SMSM Senanayake,1,{},{}
+1st innings,India,12.1,V Kohli,HMRKB Herath,6,{},{}
+1st innings,India,12.2,V Kohli,HMRKB Herath,0,{},{}
+1st innings,India,12.3,V Kohli,HMRKB Herath,1,{'wides': 1},{}
+1st innings,India,12.4,V Kohli,HMRKB Herath,1,{},{}
+1st innings,India,12.5,Yuvraj Singh,HMRKB Herath,0,{},{}
+1st innings,India,12.6,Yuvraj Singh,HMRKB Herath,1,{},{}
+1st innings,India,12.7,V Kohli,HMRKB Herath,1,{},{}
+1st innings,India,13.1,V Kohli,SL Malinga,1,{},{}
+1st innings,India,13.2,Yuvraj Singh,SL Malinga,1,{},{}
+1st innings,India,13.3,V Kohli,SL Malinga,2,{},{}
+1st innings,India,13.4,V Kohli,SL Malinga,1,{},{}
+1st innings,India,13.5,Yuvraj Singh,SL Malinga,1,{},{}
+1st innings,India,13.6,V Kohli,SL Malinga,4,{},{}
+1st innings,India,14.1,Yuvraj Singh,SMSM Senanayake,0,{},{}
+1st innings,India,14.2,Yuvraj Singh,SMSM Senanayake,0,{},{}
+1st innings,India,14.3,Yuvraj Singh,SMSM Senanayake,1,{},{}
+1st innings,India,14.4,V Kohli,SMSM Senanayake,1,{},{}
+1st innings,India,14.5,Yuvraj Singh,SMSM Senanayake,0,{},{}
+1st innings,India,14.6,Yuvraj Singh,SMSM Senanayake,0,{},{}
+1st innings,India,15.1,V Kohli,KMDN Kulasekara,6,{},{}
+1st innings,India,15.2,V Kohli,KMDN Kulasekara,4,{},{}
+1st innings,India,15.3,V Kohli,KMDN Kulasekara,4,{},{}
+1st innings,India,15.4,V Kohli,KMDN Kulasekara,1,{},{}
+1st innings,India,15.5,Yuvraj Singh,KMDN Kulasekara,1,{},{}
+1st innings,India,15.6,V Kohli,KMDN Kulasekara,0,{},{}
+1st innings,India,16.1,Yuvraj Singh,SMSM Senanayake,0,{},{}
+1st innings,India,16.2,Yuvraj Singh,SMSM Senanayake,0,{},{}
+1st innings,India,16.3,Yuvraj Singh,SMSM Senanayake,1,{},{}
+1st innings,India,16.4,V Kohli,SMSM Senanayake,1,{},{}
+1st innings,India,16.5,Yuvraj Singh,SMSM Senanayake,1,{},{}
+1st innings,India,16.6,V Kohli,SMSM Senanayake,1,{},{}
+1st innings,India,17.1,V Kohli,SL Malinga,1,{},{}
+1st innings,India,17.2,Yuvraj Singh,SL Malinga,0,{},{}
+1st innings,India,17.3,Yuvraj Singh,SL Malinga,1,{},{}
+1st innings,India,17.4,V Kohli,SL Malinga,1,{},{}
+1st innings,India,17.5,Yuvraj Singh,SL Malinga,0,{},{}
+1st innings,India,17.6,Yuvraj Singh,SL Malinga,1,{},{}
+1st innings,India,18.1,Yuvraj Singh,KMDN Kulasekara,0,{},"{'fielders': ['NLTC Perera'], 'kind': 'caught', 'player_out': 'Yuvraj Singh'}"
+1st innings,India,18.2,V Kohli,KMDN Kulasekara,1,{},{}
+1st innings,India,18.3,MS Dhoni,KMDN Kulasekara,1,{},{}
+1st innings,India,18.4,V Kohli,KMDN Kulasekara,0,{},{}
+1st innings,India,18.5,V Kohli,KMDN Kulasekara,1,{},{}
+1st innings,India,18.6,MS Dhoni,KMDN Kulasekara,1,{'legbyes': 1},{}
+1st innings,India,19.1,MS Dhoni,SL Malinga,0,{},{}
+1st innings,India,19.2,MS Dhoni,SL Malinga,1,{'wides': 1},{}
+1st innings,India,19.3,MS Dhoni,SL Malinga,2,{'byes': 2},{}
+1st innings,India,19.4,MS Dhoni,SL Malinga,0,{},{}
+1st innings,India,19.5,MS Dhoni,SL Malinga,2,{},{}
+1st innings,India,19.6,MS Dhoni,SL Malinga,1,{},{}
+1st innings,India,19.7,V Kohli,SL Malinga,1,{},"{'fielders': ['SMSM Senanayake'], 'kind': 'run out', 'player_out': 'V Kohli'}"
+2nd innings,Sri Lanka,0.1,MDKJ Perera,B Kumar,0,{},{}
+2nd innings,Sri Lanka,0.2,MDKJ Perera,B Kumar,4,{},{}
+2nd innings,Sri Lanka,0.3,MDKJ Perera,B Kumar,0,{},{}
+2nd innings,Sri Lanka,0.4,MDKJ Perera,B Kumar,0,{},{}
+2nd innings,Sri Lanka,0.5,MDKJ Perera,B Kumar,0,{},{}
+2nd innings,Sri Lanka,0.6,MDKJ Perera,B Kumar,1,{},{}
+2nd innings,Sri Lanka,1.1,MDKJ Perera,MM Sharma,0,{},"{'fielders': ['RA Jadeja'], 'kind': 'caught', 'player_out': 'MDKJ Perera'}"
+2nd innings,Sri Lanka,1.2,TM Dilshan,MM Sharma,1,{},{}
+2nd innings,Sri Lanka,1.3,DPMD Jayawardene,MM Sharma,2,{},{}
+2nd innings,Sri Lanka,1.4,DPMD Jayawardene,MM Sharma,0,{},{}
+2nd innings,Sri Lanka,1.5,DPMD Jayawardene,MM Sharma,0,{},{}
+2nd innings,Sri Lanka,1.6,DPMD Jayawardene,MM Sharma,0,{},{}
+2nd innings,Sri Lanka,2.1,TM Dilshan,B Kumar,0,{},{}
+2nd innings,Sri Lanka,2.2,TM Dilshan,B Kumar,4,{},{}
+2nd innings,Sri Lanka,2.3,TM Dilshan,B Kumar,0,{},{}
+2nd innings,Sri Lanka,2.4,TM Dilshan,B Kumar,0,{},{}
+2nd innings,Sri Lanka,2.5,TM Dilshan,B Kumar,0,{},{}
+2nd innings,Sri Lanka,2.6,TM Dilshan,B Kumar,0,{},{}
+2nd innings,Sri Lanka,3.1,DPMD Jayawardene,MM Sharma,4,{},{}
+2nd innings,Sri Lanka,3.2,DPMD Jayawardene,MM Sharma,1,{},{}
+2nd innings,Sri Lanka,3.3,TM Dilshan,MM Sharma,4,{},{}
+2nd innings,Sri Lanka,3.4,TM Dilshan,MM Sharma,4,{},{}
+2nd innings,Sri Lanka,3.5,TM Dilshan,MM Sharma,1,{},{}
+2nd innings,Sri Lanka,3.6,DPMD Jayawardene,MM Sharma,1,{},{}
+2nd innings,Sri Lanka,4.1,DPMD Jayawardene,B Kumar,1,{},{}
+2nd innings,Sri Lanka,4.2,TM Dilshan,B Kumar,1,{'legbyes': 1},{}
+2nd innings,Sri Lanka,4.3,DPMD Jayawardene,B Kumar,4,{},{}
+2nd innings,Sri Lanka,4.4,DPMD Jayawardene,B Kumar,4,{},{}
+2nd innings,Sri Lanka,4.5,DPMD Jayawardene,B Kumar,0,{},{}
+2nd innings,Sri Lanka,4.6,DPMD Jayawardene,B Kumar,0,{},{}
+2nd innings,Sri Lanka,5.1,TM Dilshan,R Ashwin,0,{},{}
+2nd innings,Sri Lanka,5.2,TM Dilshan,R Ashwin,4,{},{}
+2nd innings,Sri Lanka,5.3,TM Dilshan,R Ashwin,0,{},{}
+2nd innings,Sri Lanka,5.4,TM Dilshan,R Ashwin,0,{},{}
+2nd innings,Sri Lanka,5.5,TM Dilshan,R Ashwin,0,{},"{'fielders': ['V Kohli'], 'kind': 'caught', 'player_out': 'TM Dilshan'}"
+2nd innings,Sri Lanka,5.6,DPMD Jayawardene,R Ashwin,0,{},{}
+2nd innings,Sri Lanka,6.1,KC Sangakkara,A Mishra,1,{},{}
+2nd innings,Sri Lanka,6.2,DPMD Jayawardene,A Mishra,0,{},{}
+2nd innings,Sri Lanka,6.3,DPMD Jayawardene,A Mishra,0,{},{}
+2nd innings,Sri Lanka,6.4,DPMD Jayawardene,A Mishra,0,{},{}
+2nd innings,Sri Lanka,6.5,DPMD Jayawardene,A Mishra,0,{},{}
+2nd innings,Sri Lanka,6.6,DPMD Jayawardene,A Mishra,0,{},{}
+2nd innings,Sri Lanka,7.1,KC Sangakkara,SK Raina,0,{},{}
+2nd innings,Sri Lanka,7.2,KC Sangakkara,SK Raina,0,{},{}
+2nd innings,Sri Lanka,7.3,KC Sangakkara,SK Raina,2,{},{}
+2nd innings,Sri Lanka,7.4,KC Sangakkara,SK Raina,1,{},{}
+2nd innings,Sri Lanka,7.5,DPMD Jayawardene,SK Raina,0,{},{}
+2nd innings,Sri Lanka,7.6,DPMD Jayawardene,SK Raina,2,{},{}
+2nd innings,Sri Lanka,8.1,KC Sangakkara,RA Jadeja,4,{},{}
+2nd innings,Sri Lanka,8.2,KC Sangakkara,RA Jadeja,0,{},{}
+2nd innings,Sri Lanka,8.3,KC Sangakkara,RA Jadeja,0,{},{}
+2nd innings,Sri Lanka,8.4,KC Sangakkara,RA Jadeja,6,{},{}
+2nd innings,Sri Lanka,8.5,KC Sangakkara,RA Jadeja,1,{},{}
+2nd innings,Sri Lanka,8.6,DPMD Jayawardene,RA Jadeja,0,{},{}
+2nd innings,Sri Lanka,9.1,KC Sangakkara,SK Raina,1,{},{}
+2nd innings,Sri Lanka,9.2,DPMD Jayawardene,SK Raina,1,{},{}
+2nd innings,Sri Lanka,9.3,KC Sangakkara,SK Raina,1,{},{}
+2nd innings,Sri Lanka,9.4,DPMD Jayawardene,SK Raina,4,{},{}
+2nd innings,Sri Lanka,9.5,DPMD Jayawardene,SK Raina,0,{},"{'fielders': ['R Ashwin'], 'kind': 'caught', 'player_out': 'DPMD Jayawardene'}"
+2nd innings,Sri Lanka,9.6,HDRL Thirimanne,SK Raina,4,{},{}
+2nd innings,Sri Lanka,10.1,KC Sangakkara,R Ashwin,1,{},{}
+2nd innings,Sri Lanka,10.2,HDRL Thirimanne,R Ashwin,0,{},{}
+2nd innings,Sri Lanka,10.3,HDRL Thirimanne,R Ashwin,1,{},{}
+2nd innings,Sri Lanka,10.4,KC Sangakkara,R Ashwin,1,{},{}
+2nd innings,Sri Lanka,10.5,HDRL Thirimanne,R Ashwin,0,{},{}
+2nd innings,Sri Lanka,10.6,HDRL Thirimanne,R Ashwin,1,{},{}
+2nd innings,Sri Lanka,11.1,HDRL Thirimanne,SK Raina,0,{},{}
+2nd innings,Sri Lanka,11.2,HDRL Thirimanne,SK Raina,1,{},{}
+2nd innings,Sri Lanka,11.3,KC Sangakkara,SK Raina,1,{},{}
+2nd innings,Sri Lanka,11.4,HDRL Thirimanne,SK Raina,0,{},{}
+2nd innings,Sri Lanka,11.5,HDRL Thirimanne,SK Raina,0,{},{}
+2nd innings,Sri Lanka,11.6,HDRL Thirimanne,SK Raina,0,{},{}
+2nd innings,Sri Lanka,12.1,KC Sangakkara,A Mishra,2,{},{}
+2nd innings,Sri Lanka,12.2,KC Sangakkara,A Mishra,1,{},{}
+2nd innings,Sri Lanka,12.3,HDRL Thirimanne,A Mishra,0,{},"{'fielders': ['MS Dhoni'], 'kind': 'caught', 'player_out': 'HDRL Thirimanne'}"
+2nd innings,Sri Lanka,12.4,NLTC Perera,A Mishra,0,{},{}
+2nd innings,Sri Lanka,12.5,NLTC Perera,A Mishra,0,{},{}
+2nd innings,Sri Lanka,12.6,NLTC Perera,A Mishra,0,{},{}
+2nd innings,Sri Lanka,13.1,KC Sangakkara,SK Raina,1,{},{}
+2nd innings,Sri Lanka,13.2,NLTC Perera,SK Raina,1,{},{}
+2nd innings,Sri Lanka,13.3,KC Sangakkara,SK Raina,1,{'wides': 1},{}
+2nd innings,Sri Lanka,13.4,KC Sangakkara,SK Raina,1,{},{}
+2nd innings,Sri Lanka,13.5,NLTC Perera,SK Raina,0,{},{}
+2nd innings,Sri Lanka,13.6,NLTC Perera,SK Raina,1,{},{}
+2nd innings,Sri Lanka,13.7,KC Sangakkara,SK Raina,1,{},{}
+2nd innings,Sri Lanka,14.1,KC Sangakkara,A Mishra,1,{'wides': 1},{}
+2nd innings,Sri Lanka,14.2,KC Sangakkara,A Mishra,1,{},{}
+2nd innings,Sri Lanka,14.3,NLTC Perera,A Mishra,6,{},{}
+2nd innings,Sri Lanka,14.4,NLTC Perera,A Mishra,1,{},{}
+2nd innings,Sri Lanka,14.5,KC Sangakkara,A Mishra,4,{},{}
+2nd innings,Sri Lanka,14.6,KC Sangakkara,A Mishra,0,{},{}
+2nd innings,Sri Lanka,14.7,KC Sangakkara,A Mishra,1,{},{}
+2nd innings,Sri Lanka,15.1,KC Sangakkara,R Ashwin,0,{},{}
+2nd innings,Sri Lanka,15.2,KC Sangakkara,R Ashwin,4,{},{}
+2nd innings,Sri Lanka,15.3,KC Sangakkara,R Ashwin,0,{},{}
+2nd innings,Sri Lanka,15.4,KC Sangakkara,R Ashwin,1,{},{}
+2nd innings,Sri Lanka,15.5,NLTC Perera,R Ashwin,0,{},{}
+2nd innings,Sri Lanka,15.6,NLTC Perera,R Ashwin,1,{'wides': 1},{}
+2nd innings,Sri Lanka,15.7,NLTC Perera,R Ashwin,0,{},{}
+2nd innings,Sri Lanka,16.1,KC Sangakkara,A Mishra,4,{},{}
+2nd innings,Sri Lanka,16.2,KC Sangakkara,A Mishra,1,{},{}
+2nd innings,Sri Lanka,16.3,NLTC Perera,A Mishra,6,{},{}
+2nd innings,Sri Lanka,16.4,NLTC Perera,A Mishra,2,{},{}
+2nd innings,Sri Lanka,16.5,NLTC Perera,A Mishra,1,{'legbyes': 1},{}
+2nd innings,Sri Lanka,16.6,KC Sangakkara,A Mishra,1,{},{}
+2nd innings,Sri Lanka,17.1,KC Sangakkara,R Ashwin,4,{},{}
+2nd innings,Sri Lanka,17.2,KC Sangakkara,R Ashwin,4,{},{}
+2nd innings,Sri Lanka,17.3,KC Sangakkara,R Ashwin,0,{},{}
+2nd innings,Sri Lanka,17.4,KC Sangakkara,R Ashwin,1,{},{}
+2nd innings,Sri Lanka,17.5,NLTC Perera,R Ashwin,6,{},{}

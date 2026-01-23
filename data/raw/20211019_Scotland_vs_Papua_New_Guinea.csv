@@ -1,0 +1,244 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Scotland,0.1,HG Munsey,N Pokana,1,{'wides': 1},{}
+1st innings,Scotland,0.2,HG Munsey,N Pokana,0,{},{}
+1st innings,Scotland,0.3,HG Munsey,N Pokana,4,{},{}
+1st innings,Scotland,0.4,HG Munsey,N Pokana,1,{},{}
+1st innings,Scotland,0.5,KJ Coetzer,N Pokana,0,{},{}
+1st innings,Scotland,0.6,KJ Coetzer,N Pokana,4,{},{}
+1st innings,Scotland,0.7,KJ Coetzer,N Pokana,1,{},{}
+1st innings,Scotland,1.1,KJ Coetzer,CJA Amini,1,{},{}
+1st innings,Scotland,1.2,HG Munsey,CJA Amini,0,{},{}
+1st innings,Scotland,1.3,HG Munsey,CJA Amini,4,{},{}
+1st innings,Scotland,1.4,HG Munsey,CJA Amini,4,{},{}
+1st innings,Scotland,1.5,HG Munsey,CJA Amini,2,{},{}
+1st innings,Scotland,1.6,HG Munsey,CJA Amini,0,{},{}
+1st innings,Scotland,2.1,KJ Coetzer,KV Morea,0,{},{}
+1st innings,Scotland,2.2,KJ Coetzer,KV Morea,0,{},"{'player_out': 'KJ Coetzer', 'kind': 'bowled'}"
+1st innings,Scotland,2.3,MH Cross,KV Morea,0,{},{}
+1st innings,Scotland,2.4,MH Cross,KV Morea,0,{},{}
+1st innings,Scotland,2.5,MH Cross,KV Morea,0,{},{}
+1st innings,Scotland,2.6,MH Cross,KV Morea,1,{},{}
+1st innings,Scotland,3.1,MH Cross,CA Soper,2,{},{}
+1st innings,Scotland,3.2,MH Cross,CA Soper,1,{},{}
+1st innings,Scotland,3.3,HG Munsey,CA Soper,0,{},{}
+1st innings,Scotland,3.4,HG Munsey,CA Soper,0,{},"{'player_out': 'HG Munsey', 'fielders': ['L Siaka'], 'kind': 'caught'}"
+1st innings,Scotland,3.5,MH Cross,CA Soper,1,{},{}
+1st innings,Scotland,3.6,RD Berrington,CA Soper,1,{'legbyes': 1},{}
+1st innings,Scotland,4.1,RD Berrington,KV Morea,1,{},{}
+1st innings,Scotland,4.2,MH Cross,KV Morea,0,{},{}
+1st innings,Scotland,4.3,MH Cross,KV Morea,0,{},{}
+1st innings,Scotland,4.4,MH Cross,KV Morea,4,{},{}
+1st innings,Scotland,4.5,MH Cross,KV Morea,0,{},{}
+1st innings,Scotland,4.6,MH Cross,KV Morea,0,{},{}
+1st innings,Scotland,5.1,RD Berrington,CA Soper,0,{},{}
+1st innings,Scotland,5.2,RD Berrington,CA Soper,0,{},{}
+1st innings,Scotland,5.3,RD Berrington,CA Soper,4,{},{}
+1st innings,Scotland,5.4,RD Berrington,CA Soper,0,{},{}
+1st innings,Scotland,5.5,RD Berrington,CA Soper,0,{},{}
+1st innings,Scotland,5.6,RD Berrington,CA Soper,0,{},{}
+1st innings,Scotland,6.1,MH Cross,L Siaka,1,{'legbyes': 1},{}
+1st innings,Scotland,6.2,RD Berrington,L Siaka,0,{},{}
+1st innings,Scotland,6.3,RD Berrington,L Siaka,0,{},{}
+1st innings,Scotland,6.4,RD Berrington,L Siaka,6,{},{}
+1st innings,Scotland,6.5,RD Berrington,L Siaka,1,{},{}
+1st innings,Scotland,6.6,MH Cross,L Siaka,1,{},{}
+1st innings,Scotland,7.1,MH Cross,CJA Amini,1,{},{}
+1st innings,Scotland,7.2,RD Berrington,CJA Amini,4,{},{}
+1st innings,Scotland,7.3,RD Berrington,CJA Amini,1,{},{}
+1st innings,Scotland,7.4,MH Cross,CJA Amini,1,{},{}
+1st innings,Scotland,7.5,RD Berrington,CJA Amini,1,{},{}
+1st innings,Scotland,7.6,MH Cross,CJA Amini,1,{},{}
+1st innings,Scotland,8.1,MH Cross,N Pokana,1,{},{}
+1st innings,Scotland,8.2,RD Berrington,N Pokana,1,{},{}
+1st innings,Scotland,8.3,MH Cross,N Pokana,1,{},{}
+1st innings,Scotland,8.4,RD Berrington,N Pokana,1,{},{}
+1st innings,Scotland,8.5,MH Cross,N Pokana,1,{'legbyes': 1},{}
+1st innings,Scotland,8.6,RD Berrington,N Pokana,1,{},{}
+1st innings,Scotland,9.1,RD Berrington,SK Atai,1,{},{}
+1st innings,Scotland,9.2,MH Cross,SK Atai,1,{},{}
+1st innings,Scotland,9.3,RD Berrington,SK Atai,1,{},{}
+1st innings,Scotland,9.4,MH Cross,SK Atai,1,{},{}
+1st innings,Scotland,9.5,RD Berrington,SK Atai,1,{},{}
+1st innings,Scotland,9.6,MH Cross,SK Atai,1,{},{}
+1st innings,Scotland,10.1,MH Cross,CJA Amini,1,{},{}
+1st innings,Scotland,10.2,RD Berrington,CJA Amini,1,{},{}
+1st innings,Scotland,10.3,MH Cross,CJA Amini,1,{},{}
+1st innings,Scotland,10.4,RD Berrington,CJA Amini,4,{},{}
+1st innings,Scotland,10.5,RD Berrington,CJA Amini,1,{},{}
+1st innings,Scotland,10.6,MH Cross,CJA Amini,6,{},{}
+1st innings,Scotland,11.1,RD Berrington,SK Atai,0,{},{}
+1st innings,Scotland,11.2,RD Berrington,SK Atai,1,{},{}
+1st innings,Scotland,11.3,MH Cross,SK Atai,2,{},{}
+1st innings,Scotland,11.4,MH Cross,SK Atai,1,{},{}
+1st innings,Scotland,11.5,RD Berrington,SK Atai,0,{},{}
+1st innings,Scotland,11.6,RD Berrington,SK Atai,6,{},{}
+1st innings,Scotland,12.1,MH Cross,N Pokana,1,{},{}
+1st innings,Scotland,12.2,RD Berrington,N Pokana,4,{},{}
+1st innings,Scotland,12.3,RD Berrington,N Pokana,1,{},{}
+1st innings,Scotland,12.4,MH Cross,N Pokana,2,{},{}
+1st innings,Scotland,12.5,MH Cross,N Pokana,6,{},{}
+1st innings,Scotland,12.6,MH Cross,N Pokana,4,{},{}
+1st innings,Scotland,13.1,RD Berrington,CJA Amini,2,{},{}
+1st innings,Scotland,13.2,RD Berrington,CJA Amini,1,{'wides': 1},{}
+1st innings,Scotland,13.3,RD Berrington,CJA Amini,1,{},{}
+1st innings,Scotland,13.4,MH Cross,CJA Amini,1,{},{}
+1st innings,Scotland,13.5,RD Berrington,CJA Amini,0,{},{}
+1st innings,Scotland,13.6,RD Berrington,CJA Amini,1,{},{}
+1st innings,Scotland,13.7,MH Cross,CJA Amini,1,{},{}
+1st innings,Scotland,14.1,MH Cross,SK Atai,1,{},{}
+1st innings,Scotland,14.2,RD Berrington,SK Atai,1,{},{}
+1st innings,Scotland,14.3,MH Cross,SK Atai,0,{},"{'player_out': 'MH Cross', 'fielders': ['CJA Amini'], 'kind': 'caught'}"
+1st innings,Scotland,14.4,CS MacLeod,SK Atai,0,{},{}
+1st innings,Scotland,14.5,CS MacLeod,SK Atai,1,{},{}
+1st innings,Scotland,14.6,RD Berrington,SK Atai,1,{},{}
+1st innings,Scotland,15.1,RD Berrington,KV Morea,1,{'wides': 1},{}
+1st innings,Scotland,15.2,RD Berrington,KV Morea,4,{},{}
+1st innings,Scotland,15.3,RD Berrington,KV Morea,1,{},{}
+1st innings,Scotland,15.4,CS MacLeod,KV Morea,0,{},{}
+1st innings,Scotland,15.5,CS MacLeod,KV Morea,4,{},{}
+1st innings,Scotland,15.6,CS MacLeod,KV Morea,1,{},{}
+1st innings,Scotland,15.7,RD Berrington,KV Morea,4,{},{}
+1st innings,Scotland,16.1,CS MacLeod,CA Soper,1,{},{}
+1st innings,Scotland,16.2,RD Berrington,CA Soper,2,{},{}
+1st innings,Scotland,16.3,RD Berrington,CA Soper,0,{},{}
+1st innings,Scotland,16.4,RD Berrington,CA Soper,6,{},{}
+1st innings,Scotland,16.5,RD Berrington,CA Soper,1,{},{}
+1st innings,Scotland,16.6,CS MacLeod,CA Soper,1,{},{}
+1st innings,Scotland,17.1,CS MacLeod,N Pokana,1,{},{}
+1st innings,Scotland,17.2,RD Berrington,N Pokana,0,{},{}
+1st innings,Scotland,17.3,RD Berrington,N Pokana,1,{'legbyes': 1},{}
+1st innings,Scotland,17.4,CS MacLeod,N Pokana,0,{},{}
+1st innings,Scotland,17.5,CS MacLeod,N Pokana,1,{},{}
+1st innings,Scotland,17.6,RD Berrington,N Pokana,1,{},{}
+1st innings,Scotland,18.1,RD Berrington,CA Soper,1,{},{}
+1st innings,Scotland,18.2,CS MacLeod,CA Soper,0,{},"{'player_out': 'CS MacLeod', 'fielders': ['KV Morea'], 'kind': 'caught'}"
+1st innings,Scotland,18.3,RD Berrington,CA Soper,2,{},{}
+1st innings,Scotland,18.4,RD Berrington,CA Soper,0,{},"{'player_out': 'RD Berrington', 'fielders': ['CJA Amini'], 'kind': 'caught'}"
+1st innings,Scotland,18.5,MA Leask,CA Soper,1,{},{}
+1st innings,Scotland,18.6,CN Greaves,CA Soper,1,{},{}
+1st innings,Scotland,19.1,CN Greaves,KV Morea,2,{'noballs': 1},{}
+1st innings,Scotland,19.2,MA Leask,KV Morea,1,{},{}
+1st innings,Scotland,19.3,CN Greaves,KV Morea,0,{},"{'player_out': 'CN Greaves', 'fielders': ['L Siaka'], 'kind': 'caught'}"
+1st innings,Scotland,19.4,MA Leask,KV Morea,6,{},{}
+1st innings,Scotland,19.5,MA Leask,KV Morea,1,{},"{'player_out': 'MA Leask', 'fielders': ['A Vala', 'K Doriga'], 'kind': 'run out'}"
+1st innings,Scotland,19.6,JH Davey,KV Morea,0,{},"{'player_out': 'JH Davey', 'fielders': ['L Siaka'], 'kind': 'caught'}"
+1st innings,Scotland,19.7,MRJ Watt,KV Morea,0,{},"{'player_out': 'MRJ Watt', 'kind': 'bowled'}"
+2nd innings,Papua New Guinea,0.1,TP Ura,BTJ Wheal,1,{},{}
+2nd innings,Papua New Guinea,0.2,L Siaka,BTJ Wheal,0,{},{}
+2nd innings,Papua New Guinea,0.3,L Siaka,BTJ Wheal,0,{},{}
+2nd innings,Papua New Guinea,0.4,L Siaka,BTJ Wheal,0,{},{}
+2nd innings,Papua New Guinea,0.5,L Siaka,BTJ Wheal,0,{},{}
+2nd innings,Papua New Guinea,0.6,L Siaka,BTJ Wheal,2,{},{}
+2nd innings,Papua New Guinea,1.1,TP Ura,JH Davey,1,{},{}
+2nd innings,Papua New Guinea,1.2,L Siaka,JH Davey,1,{},{}
+2nd innings,Papua New Guinea,1.3,TP Ura,JH Davey,0,{},"{'player_out': 'TP Ura', 'kind': 'bowled'}"
+2nd innings,Papua New Guinea,1.4,A Vala,JH Davey,0,{},{}
+2nd innings,Papua New Guinea,1.5,A Vala,JH Davey,1,{},{}
+2nd innings,Papua New Guinea,1.6,L Siaka,JH Davey,1,{},{}
+2nd innings,Papua New Guinea,2.1,L Siaka,AC Evans,0,{},{}
+2nd innings,Papua New Guinea,2.2,L Siaka,AC Evans,0,{},{}
+2nd innings,Papua New Guinea,2.3,L Siaka,AC Evans,1,{},{}
+2nd innings,Papua New Guinea,2.4,A Vala,AC Evans,4,{},{}
+2nd innings,Papua New Guinea,2.5,A Vala,AC Evans,4,{},{}
+2nd innings,Papua New Guinea,2.6,A Vala,AC Evans,0,{},{}
+2nd innings,Papua New Guinea,3.1,L Siaka,BTJ Wheal,4,{},{}
+2nd innings,Papua New Guinea,3.2,L Siaka,BTJ Wheal,0,{},{}
+2nd innings,Papua New Guinea,3.3,L Siaka,BTJ Wheal,0,{},"{'player_out': 'L Siaka', 'fielders': ['MH Cross'], 'kind': 'caught'}"
+2nd innings,Papua New Guinea,3.4,CJA Amini,BTJ Wheal,0,{},{}
+2nd innings,Papua New Guinea,3.5,CJA Amini,BTJ Wheal,1,{},{}
+2nd innings,Papua New Guinea,3.6,A Vala,BTJ Wheal,1,{},{}
+2nd innings,Papua New Guinea,4.1,A Vala,AC Evans,0,{},{}
+2nd innings,Papua New Guinea,4.2,A Vala,AC Evans,4,{},{}
+2nd innings,Papua New Guinea,4.3,A Vala,AC Evans,0,{},{}
+2nd innings,Papua New Guinea,4.4,A Vala,AC Evans,4,{},{}
+2nd innings,Papua New Guinea,4.5,A Vala,AC Evans,0,{},"{'player_out': 'A Vala', 'fielders': ['BTJ Wheal'], 'kind': 'caught'}"
+2nd innings,Papua New Guinea,4.6,CJA Amini,AC Evans,0,{},{}
+2nd innings,Papua New Guinea,5.1,S Bau,JH Davey,2,{},{}
+2nd innings,Papua New Guinea,5.2,S Bau,JH Davey,0,{},{}
+2nd innings,Papua New Guinea,5.3,S Bau,JH Davey,1,{},"{'player_out': 'CJA Amini', 'fielders': ['MH Cross', 'MA Leask'], 'kind': 'run out'}"
+2nd innings,Papua New Guinea,5.4,SK Atai,JH Davey,2,{},{}
+2nd innings,Papua New Guinea,5.5,SK Atai,JH Davey,0,{},{}
+2nd innings,Papua New Guinea,5.6,SK Atai,JH Davey,0,{},"{'player_out': 'SK Atai', 'fielders': ['RD Berrington'], 'kind': 'caught'}"
+2nd innings,Papua New Guinea,6.1,S Bau,MRJ Watt,1,{},{}
+2nd innings,Papua New Guinea,6.2,N Vanua,MRJ Watt,1,{},{}
+2nd innings,Papua New Guinea,6.3,S Bau,MRJ Watt,2,{},{}
+2nd innings,Papua New Guinea,6.4,S Bau,MRJ Watt,0,{},{}
+2nd innings,Papua New Guinea,6.5,S Bau,MRJ Watt,0,{},{}
+2nd innings,Papua New Guinea,6.6,S Bau,MRJ Watt,1,{'wides': 1},{}
+2nd innings,Papua New Guinea,6.7,S Bau,MRJ Watt,1,{},{}
+2nd innings,Papua New Guinea,7.1,S Bau,MA Leask,0,{},{}
+2nd innings,Papua New Guinea,7.2,S Bau,MA Leask,0,{},{}
+2nd innings,Papua New Guinea,7.3,S Bau,MA Leask,2,{},{}
+2nd innings,Papua New Guinea,7.4,S Bau,MA Leask,1,{},{}
+2nd innings,Papua New Guinea,7.5,N Vanua,MA Leask,1,{'legbyes': 1},{}
+2nd innings,Papua New Guinea,7.6,S Bau,MA Leask,1,{},{}
+2nd innings,Papua New Guinea,8.1,S Bau,MRJ Watt,0,{},{}
+2nd innings,Papua New Guinea,8.2,S Bau,MRJ Watt,6,{},{}
+2nd innings,Papua New Guinea,8.3,S Bau,MRJ Watt,1,{},{}
+2nd innings,Papua New Guinea,8.4,N Vanua,MRJ Watt,0,{},{}
+2nd innings,Papua New Guinea,8.5,N Vanua,MRJ Watt,1,{},{}
+2nd innings,Papua New Guinea,8.6,S Bau,MRJ Watt,0,{},{}
+2nd innings,Papua New Guinea,9.1,N Vanua,MA Leask,1,{},{}
+2nd innings,Papua New Guinea,9.2,S Bau,MA Leask,4,{},{}
+2nd innings,Papua New Guinea,9.3,S Bau,MA Leask,0,{},{}
+2nd innings,Papua New Guinea,9.4,S Bau,MA Leask,1,{},{}
+2nd innings,Papua New Guinea,9.5,N Vanua,MA Leask,0,{},{}
+2nd innings,Papua New Guinea,9.6,N Vanua,MA Leask,1,{},{}
+2nd innings,Papua New Guinea,10.1,N Vanua,AC Evans,1,{},{}
+2nd innings,Papua New Guinea,10.2,S Bau,AC Evans,1,{},{}
+2nd innings,Papua New Guinea,10.3,N Vanua,AC Evans,0,{},{}
+2nd innings,Papua New Guinea,10.4,N Vanua,AC Evans,2,{},{}
+2nd innings,Papua New Guinea,10.5,N Vanua,AC Evans,1,{},{}
+2nd innings,Papua New Guinea,10.6,S Bau,AC Evans,0,{},{}
+2nd innings,Papua New Guinea,11.1,N Vanua,CN Greaves,0,{},{}
+2nd innings,Papua New Guinea,11.2,N Vanua,CN Greaves,1,{},{}
+2nd innings,Papua New Guinea,11.3,S Bau,CN Greaves,0,{},"{'player_out': 'S Bau', 'fielders': ['BTJ Wheal'], 'kind': 'caught'}"
+2nd innings,Papua New Guinea,11.4,N Vanua,CN Greaves,0,{},{}
+2nd innings,Papua New Guinea,11.5,N Vanua,CN Greaves,2,{},{}
+2nd innings,Papua New Guinea,11.6,N Vanua,CN Greaves,1,{},{}
+2nd innings,Papua New Guinea,12.1,N Vanua,MRJ Watt,2,{},{}
+2nd innings,Papua New Guinea,12.2,N Vanua,MRJ Watt,1,{},{}
+2nd innings,Papua New Guinea,12.3,K Doriga,MRJ Watt,1,{},{}
+2nd innings,Papua New Guinea,12.4,N Vanua,MRJ Watt,0,{},{}
+2nd innings,Papua New Guinea,12.5,N Vanua,MRJ Watt,0,{},{}
+2nd innings,Papua New Guinea,12.6,N Vanua,MRJ Watt,1,{},{}
+2nd innings,Papua New Guinea,13.1,N Vanua,CN Greaves,1,{},{}
+2nd innings,Papua New Guinea,13.2,K Doriga,CN Greaves,1,{},{}
+2nd innings,Papua New Guinea,13.3,N Vanua,CN Greaves,4,{},{}
+2nd innings,Papua New Guinea,13.4,N Vanua,CN Greaves,4,{},{}
+2nd innings,Papua New Guinea,13.5,N Vanua,CN Greaves,1,{},{}
+2nd innings,Papua New Guinea,13.6,K Doriga,CN Greaves,0,{},{}
+2nd innings,Papua New Guinea,14.1,N Vanua,BTJ Wheal,2,{},{}
+2nd innings,Papua New Guinea,14.2,N Vanua,BTJ Wheal,6,{},{}
+2nd innings,Papua New Guinea,14.3,N Vanua,BTJ Wheal,2,{},{}
+2nd innings,Papua New Guinea,14.4,N Vanua,BTJ Wheal,6,{},{}
+2nd innings,Papua New Guinea,14.5,N Vanua,BTJ Wheal,1,{},{}
+2nd innings,Papua New Guinea,14.6,K Doriga,BTJ Wheal,1,{},{}
+2nd innings,Papua New Guinea,15.1,K Doriga,CN Greaves,2,{},{}
+2nd innings,Papua New Guinea,15.2,K Doriga,CN Greaves,6,{},{}
+2nd innings,Papua New Guinea,15.3,K Doriga,CN Greaves,2,{},{}
+2nd innings,Papua New Guinea,15.4,K Doriga,CN Greaves,4,{},{}
+2nd innings,Papua New Guinea,15.5,K Doriga,CN Greaves,1,{'wides': 1},{}
+2nd innings,Papua New Guinea,15.6,K Doriga,CN Greaves,1,{},{}
+2nd innings,Papua New Guinea,15.7,N Vanua,CN Greaves,0,{},{}
+2nd innings,Papua New Guinea,16.1,K Doriga,MRJ Watt,0,{},{}
+2nd innings,Papua New Guinea,16.2,K Doriga,MRJ Watt,0,{},"{'player_out': 'K Doriga', 'fielders': ['MH Cross'], 'kind': 'stumped'}"
+2nd innings,Papua New Guinea,16.3,CA Soper,MRJ Watt,1,{},{}
+2nd innings,Papua New Guinea,16.4,N Vanua,MRJ Watt,1,{},{}
+2nd innings,Papua New Guinea,16.5,CA Soper,MRJ Watt,1,{},{}
+2nd innings,Papua New Guinea,16.6,N Vanua,MRJ Watt,1,{},{}
+2nd innings,Papua New Guinea,17.1,N Vanua,JH Davey,1,{},{}
+2nd innings,Papua New Guinea,17.2,CA Soper,JH Davey,1,{'legbyes': 1},{}
+2nd innings,Papua New Guinea,17.3,N Vanua,JH Davey,1,{},{}
+2nd innings,Papua New Guinea,17.4,CA Soper,JH Davey,1,{},{}
+2nd innings,Papua New Guinea,17.5,N Vanua,JH Davey,0,{},{}
+2nd innings,Papua New Guinea,17.6,N Vanua,JH Davey,0,{},"{'player_out': 'N Vanua', 'fielders': ['MH Cross'], 'kind': 'caught'}"
+2nd innings,Papua New Guinea,18.1,CA Soper,BTJ Wheal,4,{},{}
+2nd innings,Papua New Guinea,18.2,CA Soper,BTJ Wheal,1,{},{}
+2nd innings,Papua New Guinea,18.3,N Pokana,BTJ Wheal,1,{},{}
+2nd innings,Papua New Guinea,18.4,CA Soper,BTJ Wheal,1,{},"{'player_out': 'N Pokana', 'fielders': ['AC Evans', 'BTJ Wheal'], 'kind': 'run out'}"
+2nd innings,Papua New Guinea,18.5,CA Soper,BTJ Wheal,1,{},{}
+2nd innings,Papua New Guinea,18.6,KV Morea,BTJ Wheal,6,{},{}
+2nd innings,Papua New Guinea,19.1,CA Soper,JH Davey,0,{},{}
+2nd innings,Papua New Guinea,19.2,CA Soper,JH Davey,6,{},{}
+2nd innings,Papua New Guinea,19.3,CA Soper,JH Davey,0,{},"{'player_out': 'CA Soper', 'fielders': ['MH Cross'], 'kind': 'caught'}"

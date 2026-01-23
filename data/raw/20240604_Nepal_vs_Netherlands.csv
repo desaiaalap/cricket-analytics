@@ -1,0 +1,234 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Nepal,0.1,K Bhurtel,VJ Kingma,0,{},{}
+1st innings,Nepal,0.2,K Bhurtel,VJ Kingma,1,{},{}
+1st innings,Nepal,0.3,Aasif Sheikh,VJ Kingma,0,{},{}
+1st innings,Nepal,0.4,Aasif Sheikh,VJ Kingma,0,{},{}
+1st innings,Nepal,0.5,Aasif Sheikh,VJ Kingma,0,{},{}
+1st innings,Nepal,0.6,Aasif Sheikh,VJ Kingma,4,{},{}
+1st innings,Nepal,1.1,K Bhurtel,TJG Pringle,4,{},{}
+1st innings,Nepal,1.2,K Bhurtel,TJG Pringle,1,{},{}
+1st innings,Nepal,1.3,Aasif Sheikh,TJG Pringle,0,{},{}
+1st innings,Nepal,1.4,Aasif Sheikh,TJG Pringle,0,{},{}
+1st innings,Nepal,1.5,Aasif Sheikh,TJG Pringle,0,{},{}
+1st innings,Nepal,1.6,Aasif Sheikh,TJG Pringle,0,{},"{'player_out': 'Aasif Sheikh', 'fielders': ['VJ Kingma'], 'kind': 'caught'}"
+1st innings,Nepal,2.1,K Bhurtel,VJ Kingma,0,{},{}
+1st innings,Nepal,2.2,K Bhurtel,VJ Kingma,0,{},{}
+1st innings,Nepal,2.3,K Bhurtel,VJ Kingma,0,{},{}
+1st innings,Nepal,2.4,K Bhurtel,VJ Kingma,0,{},{}
+1st innings,Nepal,2.5,K Bhurtel,VJ Kingma,1,{},{}
+1st innings,Nepal,2.6,AK Sah,VJ Kingma,4,{},{}
+1st innings,Nepal,3.1,K Bhurtel,LV van Beek,0,{},"{'player_out': 'K Bhurtel', 'kind': 'lbw'}"
+1st innings,Nepal,3.2,RK Paudel,LV van Beek,2,{},{}
+1st innings,Nepal,3.3,RK Paudel,LV van Beek,0,{},{}
+1st innings,Nepal,3.4,RK Paudel,LV van Beek,0,{},{}
+1st innings,Nepal,3.5,RK Paudel,LV van Beek,0,{},{}
+1st innings,Nepal,3.6,RK Paudel,LV van Beek,4,{'legbyes': 4},{}
+1st innings,Nepal,4.1,AK Sah,VJ Kingma,0,{},{}
+1st innings,Nepal,4.2,AK Sah,VJ Kingma,0,{},{}
+1st innings,Nepal,4.3,AK Sah,VJ Kingma,0,{},{}
+1st innings,Nepal,4.4,AK Sah,VJ Kingma,0,{},{}
+1st innings,Nepal,4.5,AK Sah,VJ Kingma,4,{},{}
+1st innings,Nepal,4.6,AK Sah,VJ Kingma,0,{},{}
+1st innings,Nepal,5.1,RK Paudel,PA van Meekeren,0,{},{}
+1st innings,Nepal,5.2,RK Paudel,PA van Meekeren,4,{},{}
+1st innings,Nepal,5.3,RK Paudel,PA van Meekeren,0,{},{}
+1st innings,Nepal,5.4,RK Paudel,PA van Meekeren,0,{},{}
+1st innings,Nepal,5.5,RK Paudel,PA van Meekeren,0,{},{}
+1st innings,Nepal,5.6,RK Paudel,PA van Meekeren,0,{},{}
+1st innings,Nepal,6.1,AK Sah,VJ Kingma,1,{'wides': 1},{}
+1st innings,Nepal,6.2,AK Sah,VJ Kingma,1,{},{}
+1st innings,Nepal,6.3,RK Paudel,VJ Kingma,4,{},{}
+1st innings,Nepal,6.4,RK Paudel,VJ Kingma,1,{},{}
+1st innings,Nepal,6.5,AK Sah,VJ Kingma,0,{},{}
+1st innings,Nepal,6.6,AK Sah,VJ Kingma,1,{},{}
+1st innings,Nepal,6.7,RK Paudel,VJ Kingma,1,{'wides': 1},{}
+1st innings,Nepal,6.8,RK Paudel,VJ Kingma,0,{},{}
+1st innings,Nepal,7.1,AK Sah,TJG Pringle,1,{},{}
+1st innings,Nepal,7.2,RK Paudel,TJG Pringle,0,{},{}
+1st innings,Nepal,7.3,RK Paudel,TJG Pringle,1,{},{}
+1st innings,Nepal,7.4,AK Sah,TJG Pringle,0,{},"{'player_out': 'AK Sah', 'fielders': ['LV van Beek'], 'kind': 'caught'}"
+1st innings,Nepal,7.5,Kushal Malla,TJG Pringle,0,{},{}
+1st innings,Nepal,7.6,Kushal Malla,TJG Pringle,1,{},{}
+1st innings,Nepal,8.1,Kushal Malla,BFW de Leede,1,{},{}
+1st innings,Nepal,8.2,RK Paudel,BFW de Leede,1,{},{}
+1st innings,Nepal,8.3,Kushal Malla,BFW de Leede,1,{},{}
+1st innings,Nepal,8.4,RK Paudel,BFW de Leede,1,{},{}
+1st innings,Nepal,8.5,Kushal Malla,BFW de Leede,0,{},{}
+1st innings,Nepal,8.6,Kushal Malla,BFW de Leede,1,{},{}
+1st innings,Nepal,9.1,Kushal Malla,PA van Meekeren,4,{},{}
+1st innings,Nepal,9.2,Kushal Malla,PA van Meekeren,1,{},{}
+1st innings,Nepal,9.3,RK Paudel,PA van Meekeren,1,{},{}
+1st innings,Nepal,9.4,Kushal Malla,PA van Meekeren,0,{},"{'player_out': 'Kushal Malla', 'fielders': [""MP O'Dowd""], 'kind': 'caught'}"
+1st innings,Nepal,9.5,DS Airee,PA van Meekeren,0,{},{}
+1st innings,Nepal,9.6,DS Airee,PA van Meekeren,1,{},{}
+1st innings,Nepal,10.1,DS Airee,BFW de Leede,0,{},{}
+1st innings,Nepal,10.2,DS Airee,BFW de Leede,0,{},{}
+1st innings,Nepal,10.3,DS Airee,BFW de Leede,0,{},{}
+1st innings,Nepal,10.4,DS Airee,BFW de Leede,0,{},"{'player_out': 'DS Airee', 'fielders': ['LV van Beek'], 'kind': 'caught'}"
+1st innings,Nepal,10.5,Sompal Kami,BFW de Leede,0,{},{}
+1st innings,Nepal,10.6,Sompal Kami,BFW de Leede,0,{},{}
+1st innings,Nepal,11.1,RK Paudel,TJG Pringle,0,{},{}
+1st innings,Nepal,11.2,RK Paudel,TJG Pringle,2,{},{}
+1st innings,Nepal,11.3,RK Paudel,TJG Pringle,0,{},{}
+1st innings,Nepal,11.4,RK Paudel,TJG Pringle,0,{},{}
+1st innings,Nepal,11.5,RK Paudel,TJG Pringle,1,{},{}
+1st innings,Nepal,11.6,Sompal Kami,TJG Pringle,0,{},{}
+1st innings,Nepal,12.1,RK Paudel,LV van Beek,4,{},{}
+1st innings,Nepal,12.2,RK Paudel,LV van Beek,0,{},{}
+1st innings,Nepal,12.3,RK Paudel,LV van Beek,0,{},{}
+1st innings,Nepal,12.4,RK Paudel,LV van Beek,4,{},{}
+1st innings,Nepal,12.5,RK Paudel,LV van Beek,1,{},{}
+1st innings,Nepal,12.6,Sompal Kami,LV van Beek,0,{},{}
+1st innings,Nepal,13.1,RK Paudel,PA van Meekeren,1,{},{}
+1st innings,Nepal,13.2,Sompal Kami,PA van Meekeren,0,{},"{'player_out': 'Sompal Kami', 'kind': 'bowled'}"
+1st innings,Nepal,13.3,Gulsan Jha,PA van Meekeren,0,{},{}
+1st innings,Nepal,13.4,Gulsan Jha,PA van Meekeren,0,{},{}
+1st innings,Nepal,13.5,Gulsan Jha,PA van Meekeren,1,{},{}
+1st innings,Nepal,13.6,RK Paudel,PA van Meekeren,1,{},{}
+1st innings,Nepal,14.1,RK Paudel,BFW de Leede,4,{},{}
+1st innings,Nepal,14.2,RK Paudel,BFW de Leede,0,{},{}
+1st innings,Nepal,14.3,RK Paudel,BFW de Leede,1,{},{}
+1st innings,Nepal,14.4,Gulsan Jha,BFW de Leede,0,{},{}
+1st innings,Nepal,14.5,Gulsan Jha,BFW de Leede,1,{'wides': 1},{}
+1st innings,Nepal,14.6,Gulsan Jha,BFW de Leede,0,{},{}
+1st innings,Nepal,14.7,Gulsan Jha,BFW de Leede,1,{},{}
+1st innings,Nepal,15.1,Gulsan Jha,TJG Pringle,1,{},{}
+1st innings,Nepal,15.2,RK Paudel,TJG Pringle,1,{},{}
+1st innings,Nepal,15.3,Gulsan Jha,TJG Pringle,6,{},{}
+1st innings,Nepal,15.4,Gulsan Jha,TJG Pringle,1,{},{}
+1st innings,Nepal,15.5,RK Paudel,TJG Pringle,0,{},{}
+1st innings,Nepal,15.6,RK Paudel,TJG Pringle,0,{},"{'player_out': 'RK Paudel', 'fielders': [""MP O'Dowd""], 'kind': 'caught'}"
+1st innings,Nepal,16.1,Gulsan Jha,LV van Beek,1,{},{}
+1st innings,Nepal,16.2,Karan KC,LV van Beek,0,{},{}
+1st innings,Nepal,16.3,Karan KC,LV van Beek,6,{},{}
+1st innings,Nepal,16.4,Karan KC,LV van Beek,0,{},{}
+1st innings,Nepal,16.5,Karan KC,LV van Beek,0,{},{}
+1st innings,Nepal,16.6,Karan KC,LV van Beek,0,{},{}
+1st innings,Nepal,17.1,Gulsan Jha,PA van Meekeren,1,{},{}
+1st innings,Nepal,17.2,Karan KC,PA van Meekeren,1,{},{}
+1st innings,Nepal,17.3,Gulsan Jha,PA van Meekeren,1,{},{}
+1st innings,Nepal,17.4,Karan KC,PA van Meekeren,0,{},{}
+1st innings,Nepal,17.5,Karan KC,PA van Meekeren,1,{},{}
+1st innings,Nepal,17.6,Gulsan Jha,PA van Meekeren,1,{'wides': 1},{}
+1st innings,Nepal,17.7,Gulsan Jha,PA van Meekeren,0,{},{}
+1st innings,Nepal,18.1,Karan KC,BFW de Leede,2,{},{}
+1st innings,Nepal,18.2,Karan KC,BFW de Leede,1,{},{}
+1st innings,Nepal,18.3,Gulsan Jha,BFW de Leede,1,{},{}
+1st innings,Nepal,18.4,Karan KC,BFW de Leede,6,{},{}
+1st innings,Nepal,18.5,Karan KC,BFW de Leede,0,{},"{'player_out': 'Karan KC', 'fielders': ['VJ Kingma'], 'kind': 'caught'}"
+1st innings,Nepal,18.6,S Dhakal,BFW de Leede,0,{},{}
+1st innings,Nepal,19.1,Gulsan Jha,LV van Beek,0,{},"{'player_out': 'Gulsan Jha', 'kind': 'bowled'}"
+1st innings,Nepal,19.2,A Bohara,LV van Beek,0,{},"{'player_out': 'A Bohara', 'kind': 'caught and bowled'}"
+2nd innings,Netherlands,0.1,M Levitt,Karan KC,0,{},{}
+2nd innings,Netherlands,0.2,M Levitt,Karan KC,1,{},{}
+2nd innings,Netherlands,0.3,MP O'Dowd,Karan KC,0,{},{}
+2nd innings,Netherlands,0.4,MP O'Dowd,Karan KC,0,{},{}
+2nd innings,Netherlands,0.5,MP O'Dowd,Karan KC,0,{},{}
+2nd innings,Netherlands,0.6,MP O'Dowd,Karan KC,1,{},{}
+2nd innings,Netherlands,1.1,MP O'Dowd,Sompal Kami,1,{},{}
+2nd innings,Netherlands,1.2,M Levitt,Sompal Kami,0,{},"{'player_out': 'M Levitt', 'fielders': ['DS Airee'], 'kind': 'caught'}"
+2nd innings,Netherlands,1.3,Vikramjit Singh,Sompal Kami,0,{},{}
+2nd innings,Netherlands,1.4,Vikramjit Singh,Sompal Kami,0,{},{}
+2nd innings,Netherlands,1.5,Vikramjit Singh,Sompal Kami,0,{},{}
+2nd innings,Netherlands,1.6,Vikramjit Singh,Sompal Kami,0,{},{}
+2nd innings,Netherlands,2.1,MP O'Dowd,Karan KC,1,{},{}
+2nd innings,Netherlands,2.2,Vikramjit Singh,Karan KC,0,{},{}
+2nd innings,Netherlands,2.3,Vikramjit Singh,Karan KC,0,{},{}
+2nd innings,Netherlands,2.4,Vikramjit Singh,Karan KC,4,{},{}
+2nd innings,Netherlands,2.5,Vikramjit Singh,Karan KC,4,{},{}
+2nd innings,Netherlands,2.6,Vikramjit Singh,Karan KC,0,{},{}
+2nd innings,Netherlands,3.1,MP O'Dowd,Sompal Kami,4,{},{}
+2nd innings,Netherlands,3.2,MP O'Dowd,Sompal Kami,1,{},{}
+2nd innings,Netherlands,3.3,Vikramjit Singh,Sompal Kami,0,{},{}
+2nd innings,Netherlands,3.4,Vikramjit Singh,Sompal Kami,4,{},{}
+2nd innings,Netherlands,3.5,Vikramjit Singh,Sompal Kami,0,{},{}
+2nd innings,Netherlands,3.6,Vikramjit Singh,Sompal Kami,0,{},{}
+2nd innings,Netherlands,4.1,MP O'Dowd,Gulsan Jha,1,{},{}
+2nd innings,Netherlands,4.2,Vikramjit Singh,Gulsan Jha,4,{},{}
+2nd innings,Netherlands,4.3,Vikramjit Singh,Gulsan Jha,0,{},{}
+2nd innings,Netherlands,4.4,Vikramjit Singh,Gulsan Jha,1,{},{}
+2nd innings,Netherlands,4.5,MP O'Dowd,Gulsan Jha,1,{'noballs': 1},{}
+2nd innings,Netherlands,4.6,MP O'Dowd,Gulsan Jha,1,{},{}
+2nd innings,Netherlands,4.7,Vikramjit Singh,Gulsan Jha,1,{},{}
+2nd innings,Netherlands,5.1,Vikramjit Singh,Karan KC,0,{},{}
+2nd innings,Netherlands,5.2,Vikramjit Singh,Karan KC,0,{},{}
+2nd innings,Netherlands,5.3,Vikramjit Singh,Karan KC,1,{},{}
+2nd innings,Netherlands,5.4,MP O'Dowd,Karan KC,4,{},{}
+2nd innings,Netherlands,5.5,MP O'Dowd,Karan KC,0,{},{}
+2nd innings,Netherlands,5.6,MP O'Dowd,Karan KC,1,{},{}
+2nd innings,Netherlands,6.1,MP O'Dowd,DS Airee,0,{},{}
+2nd innings,Netherlands,6.2,MP O'Dowd,DS Airee,1,{},{}
+2nd innings,Netherlands,6.3,Vikramjit Singh,DS Airee,0,{},{}
+2nd innings,Netherlands,6.4,Vikramjit Singh,DS Airee,0,{},{}
+2nd innings,Netherlands,6.5,Vikramjit Singh,DS Airee,0,{},{}
+2nd innings,Netherlands,6.6,Vikramjit Singh,DS Airee,0,{},{}
+2nd innings,Netherlands,7.1,MP O'Dowd,A Bohara,1,{},{}
+2nd innings,Netherlands,7.2,Vikramjit Singh,A Bohara,1,{'legbyes': 1},{}
+2nd innings,Netherlands,7.3,MP O'Dowd,A Bohara,1,{},{}
+2nd innings,Netherlands,7.4,Vikramjit Singh,A Bohara,1,{},{}
+2nd innings,Netherlands,7.5,MP O'Dowd,A Bohara,0,{},{}
+2nd innings,Netherlands,7.6,MP O'Dowd,A Bohara,0,{},{}
+2nd innings,Netherlands,8.1,Vikramjit Singh,DS Airee,2,{},{}
+2nd innings,Netherlands,8.2,Vikramjit Singh,DS Airee,0,{},"{'player_out': 'Vikramjit Singh', 'kind': 'lbw'}"
+2nd innings,Netherlands,8.3,SA Engelbrecht,DS Airee,1,{},{}
+2nd innings,Netherlands,8.4,MP O'Dowd,DS Airee,1,{},{}
+2nd innings,Netherlands,8.5,SA Engelbrecht,DS Airee,0,{},{}
+2nd innings,Netherlands,8.6,SA Engelbrecht,DS Airee,1,{},{}
+2nd innings,Netherlands,9.1,SA Engelbrecht,A Bohara,1,{},{}
+2nd innings,Netherlands,9.2,MP O'Dowd,A Bohara,2,{},{}
+2nd innings,Netherlands,9.3,MP O'Dowd,A Bohara,1,{},{}
+2nd innings,Netherlands,9.4,SA Engelbrecht,A Bohara,0,{},{}
+2nd innings,Netherlands,9.5,SA Engelbrecht,A Bohara,1,{},{}
+2nd innings,Netherlands,9.6,MP O'Dowd,A Bohara,1,{},{}
+2nd innings,Netherlands,10.1,MP O'Dowd,S Dhakal,0,{},{}
+2nd innings,Netherlands,10.2,MP O'Dowd,S Dhakal,4,{},{}
+2nd innings,Netherlands,10.3,MP O'Dowd,S Dhakal,1,{},{}
+2nd innings,Netherlands,10.4,SA Engelbrecht,S Dhakal,1,{},{}
+2nd innings,Netherlands,10.5,MP O'Dowd,S Dhakal,1,{},{}
+2nd innings,Netherlands,10.6,SA Engelbrecht,S Dhakal,2,{},{}
+2nd innings,Netherlands,11.1,MP O'Dowd,Gulsan Jha,1,{},{}
+2nd innings,Netherlands,11.2,SA Engelbrecht,Gulsan Jha,4,{},{}
+2nd innings,Netherlands,11.3,SA Engelbrecht,Gulsan Jha,1,{},{}
+2nd innings,Netherlands,11.4,MP O'Dowd,Gulsan Jha,1,{},{}
+2nd innings,Netherlands,11.5,SA Engelbrecht,Gulsan Jha,0,{},{}
+2nd innings,Netherlands,11.6,SA Engelbrecht,Gulsan Jha,1,{},{}
+2nd innings,Netherlands,12.1,SA Engelbrecht,S Dhakal,0,{},{}
+2nd innings,Netherlands,12.2,SA Engelbrecht,S Dhakal,0,{},{}
+2nd innings,Netherlands,12.3,SA Engelbrecht,S Dhakal,0,{},{}
+2nd innings,Netherlands,12.4,SA Engelbrecht,S Dhakal,1,{},{}
+2nd innings,Netherlands,12.5,MP O'Dowd,S Dhakal,0,{},{}
+2nd innings,Netherlands,12.6,MP O'Dowd,S Dhakal,1,{},{}
+2nd innings,Netherlands,13.1,MP O'Dowd,Sompal Kami,0,{},"{'player_out': 'SA Engelbrecht', 'fielders': ['Sompal Kami'], 'kind': 'run out'}"
+2nd innings,Netherlands,13.2,MP O'Dowd,Sompal Kami,1,{},{}
+2nd innings,Netherlands,13.3,SA Edwards,Sompal Kami,0,{},{}
+2nd innings,Netherlands,13.4,SA Edwards,Sompal Kami,0,{},{}
+2nd innings,Netherlands,13.5,SA Edwards,Sompal Kami,1,{},{}
+2nd innings,Netherlands,13.6,MP O'Dowd,Sompal Kami,0,{},{}
+2nd innings,Netherlands,14.1,SA Edwards,S Dhakal,2,{},{}
+2nd innings,Netherlands,14.2,SA Edwards,S Dhakal,1,{},{}
+2nd innings,Netherlands,14.3,MP O'Dowd,S Dhakal,1,{},{}
+2nd innings,Netherlands,14.4,SA Edwards,S Dhakal,0,{},{}
+2nd innings,Netherlands,14.5,SA Edwards,S Dhakal,1,{},{}
+2nd innings,Netherlands,14.6,MP O'Dowd,S Dhakal,1,{},{}
+2nd innings,Netherlands,15.1,MP O'Dowd,A Bohara,1,{},{}
+2nd innings,Netherlands,15.2,SA Edwards,A Bohara,0,{},"{'player_out': 'SA Edwards', 'kind': 'bowled'}"
+2nd innings,Netherlands,15.3,BFW de Leede,A Bohara,1,{},{}
+2nd innings,Netherlands,15.4,MP O'Dowd,A Bohara,1,{},{}
+2nd innings,Netherlands,15.5,BFW de Leede,A Bohara,1,{},{}
+2nd innings,Netherlands,15.6,MP O'Dowd,A Bohara,1,{},{}
+2nd innings,Netherlands,16.1,MP O'Dowd,S Dhakal,1,{},{}
+2nd innings,Netherlands,16.2,BFW de Leede,S Dhakal,0,{},{}
+2nd innings,Netherlands,16.3,BFW de Leede,S Dhakal,1,{},{}
+2nd innings,Netherlands,16.4,MP O'Dowd,S Dhakal,1,{},{}
+2nd innings,Netherlands,16.5,BFW de Leede,S Dhakal,0,{},{}
+2nd innings,Netherlands,16.6,BFW de Leede,S Dhakal,1,{},{}
+2nd innings,Netherlands,17.1,BFW de Leede,Sompal Kami,1,{},{}
+2nd innings,Netherlands,17.2,MP O'Dowd,Sompal Kami,1,{},{}
+2nd innings,Netherlands,17.3,BFW de Leede,Sompal Kami,1,{},{}
+2nd innings,Netherlands,17.4,MP O'Dowd,Sompal Kami,1,{},{}
+2nd innings,Netherlands,17.5,BFW de Leede,Sompal Kami,1,{},{}
+2nd innings,Netherlands,17.6,MP O'Dowd,Sompal Kami,1,{},{}
+2nd innings,Netherlands,18.1,MP O'Dowd,A Bohara,4,{},{}
+2nd innings,Netherlands,18.2,MP O'Dowd,A Bohara,6,{},{}
+2nd innings,Netherlands,18.3,MP O'Dowd,A Bohara,1,{},{}
+2nd innings,Netherlands,18.4,BFW de Leede,A Bohara,4,{},{}

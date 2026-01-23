@@ -1,0 +1,136 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Bangladesh,0.1,Mohammad Naim,MA Starc,0,{},{}
+1st innings,Bangladesh,0.2,Mohammad Naim,MA Starc,1,{},{}
+1st innings,Bangladesh,0.3,Liton Das,MA Starc,0,{},"{'player_out': 'Liton Das', 'kind': 'bowled'}"
+1st innings,Bangladesh,0.4,Soumya Sarkar,MA Starc,0,{},{}
+1st innings,Bangladesh,0.5,Soumya Sarkar,MA Starc,1,{},{}
+1st innings,Bangladesh,0.6,Mohammad Naim,MA Starc,0,{},{}
+1st innings,Bangladesh,1.1,Soumya Sarkar,JR Hazlewood,0,{},{}
+1st innings,Bangladesh,1.2,Soumya Sarkar,JR Hazlewood,0,{},{}
+1st innings,Bangladesh,1.3,Soumya Sarkar,JR Hazlewood,4,{},{}
+1st innings,Bangladesh,1.4,Soumya Sarkar,JR Hazlewood,0,{},{}
+1st innings,Bangladesh,1.5,Soumya Sarkar,JR Hazlewood,0,{},{}
+1st innings,Bangladesh,1.6,Soumya Sarkar,JR Hazlewood,0,{},"{'player_out': 'Soumya Sarkar', 'kind': 'bowled'}"
+1st innings,Bangladesh,2.1,Mohammad Naim,GJ Maxwell,1,{},{}
+1st innings,Bangladesh,2.2,Mushfiqur Rahim,GJ Maxwell,1,{'wides': 1},{}
+1st innings,Bangladesh,2.3,Mushfiqur Rahim,GJ Maxwell,1,{},{}
+1st innings,Bangladesh,2.4,Mohammad Naim,GJ Maxwell,0,{},{}
+1st innings,Bangladesh,2.5,Mohammad Naim,GJ Maxwell,1,{},{}
+1st innings,Bangladesh,2.6,Mushfiqur Rahim,GJ Maxwell,0,{},"{'player_out': 'Mushfiqur Rahim', 'kind': 'lbw'}"
+1st innings,Bangladesh,2.7,Mahmudullah,GJ Maxwell,0,{},{}
+1st innings,Bangladesh,3.1,Mohammad Naim,PJ Cummins,4,{},{}
+1st innings,Bangladesh,3.2,Mohammad Naim,PJ Cummins,0,{},{}
+1st innings,Bangladesh,3.3,Mohammad Naim,PJ Cummins,0,{},{}
+1st innings,Bangladesh,3.4,Mohammad Naim,PJ Cummins,4,{},{}
+1st innings,Bangladesh,3.5,Mohammad Naim,PJ Cummins,0,{},{}
+1st innings,Bangladesh,3.6,Mohammad Naim,PJ Cummins,1,{},{}
+1st innings,Bangladesh,4.1,Mohammad Naim,MA Starc,1,{},{}
+1st innings,Bangladesh,4.2,Mahmudullah,MA Starc,0,{},{}
+1st innings,Bangladesh,4.3,Mahmudullah,MA Starc,0,{},{}
+1st innings,Bangladesh,4.4,Mahmudullah,MA Starc,0,{},{}
+1st innings,Bangladesh,4.5,Mahmudullah,MA Starc,4,{},{}
+1st innings,Bangladesh,4.6,Mahmudullah,MA Starc,4,{},{}
+1st innings,Bangladesh,5.1,Mohammad Naim,JR Hazlewood,4,{},{}
+1st innings,Bangladesh,5.2,Mohammad Naim,JR Hazlewood,0,{},{}
+1st innings,Bangladesh,5.3,Mohammad Naim,JR Hazlewood,0,{},"{'player_out': 'Mohammad Naim', 'fielders': ['PJ Cummins'], 'kind': 'caught'}"
+1st innings,Bangladesh,5.4,Afif Hossain,JR Hazlewood,0,{},{}
+1st innings,Bangladesh,5.5,Afif Hossain,JR Hazlewood,0,{},{}
+1st innings,Bangladesh,5.6,Afif Hossain,JR Hazlewood,1,{'legbyes': 1},{}
+1st innings,Bangladesh,6.1,Afif Hossain,A Zampa,0,{},"{'player_out': 'Afif Hossain', 'fielders': ['AJ Finch'], 'kind': 'caught'}"
+1st innings,Bangladesh,6.2,Shamim Hossain,A Zampa,0,{},{}
+1st innings,Bangladesh,6.3,Shamim Hossain,A Zampa,2,{},{}
+1st innings,Bangladesh,6.4,Shamim Hossain,A Zampa,1,{},{}
+1st innings,Bangladesh,6.5,Mahmudullah,A Zampa,1,{},{}
+1st innings,Bangladesh,6.6,Shamim Hossain,A Zampa,1,{},{}
+1st innings,Bangladesh,7.1,Shamim Hossain,MA Starc,1,{'wides': 1},{}
+1st innings,Bangladesh,7.2,Shamim Hossain,MA Starc,1,{'wides': 1},{}
+1st innings,Bangladesh,7.3,Shamim Hossain,MA Starc,0,{},{}
+1st innings,Bangladesh,7.4,Shamim Hossain,MA Starc,4,{},{}
+1st innings,Bangladesh,7.5,Shamim Hossain,MA Starc,0,{},{}
+1st innings,Bangladesh,7.6,Shamim Hossain,MA Starc,1,{},{}
+1st innings,Bangladesh,7.7,Mahmudullah,MA Starc,0,{},{}
+1st innings,Bangladesh,7.8,Mahmudullah,MA Starc,2,{},{}
+1st innings,Bangladesh,8.1,Shamim Hossain,A Zampa,0,{},{}
+1st innings,Bangladesh,8.2,Shamim Hossain,A Zampa,6,{},{}
+1st innings,Bangladesh,8.3,Shamim Hossain,A Zampa,0,{},{}
+1st innings,Bangladesh,8.4,Shamim Hossain,A Zampa,1,{},{}
+1st innings,Bangladesh,8.5,Mahmudullah,A Zampa,0,{},{}
+1st innings,Bangladesh,8.6,Mahmudullah,A Zampa,0,{},{}
+1st innings,Bangladesh,9.1,Shamim Hossain,PJ Cummins,0,{},{}
+1st innings,Bangladesh,9.2,Shamim Hossain,PJ Cummins,0,{},{}
+1st innings,Bangladesh,9.3,Shamim Hossain,PJ Cummins,0,{},{}
+1st innings,Bangladesh,9.4,Shamim Hossain,PJ Cummins,2,{},{}
+1st innings,Bangladesh,9.5,Shamim Hossain,PJ Cummins,1,{},{}
+1st innings,Bangladesh,9.6,Mahmudullah,PJ Cummins,1,{},{}
+1st innings,Bangladesh,10.1,Mahmudullah,A Zampa,0,{},{}
+1st innings,Bangladesh,10.2,Mahmudullah,A Zampa,1,{'wides': 1},{}
+1st innings,Bangladesh,10.3,Mahmudullah,A Zampa,2,{},{}
+1st innings,Bangladesh,10.4,Mahmudullah,A Zampa,0,{},{}
+1st innings,Bangladesh,10.5,Mahmudullah,A Zampa,1,{},{}
+1st innings,Bangladesh,10.6,Shamim Hossain,A Zampa,0,{},"{'player_out': 'Shamim Hossain', 'fielders': ['MS Wade'], 'kind': 'caught'}"
+1st innings,Bangladesh,10.7,Mahedi Hasan,A Zampa,0,{},"{'player_out': 'Mahedi Hasan', 'kind': 'lbw'}"
+1st innings,Bangladesh,11.1,Mahmudullah,GJ Maxwell,1,{},{}
+1st innings,Bangladesh,11.2,Taskin Ahmed,GJ Maxwell,0,{},{}
+1st innings,Bangladesh,11.3,Taskin Ahmed,GJ Maxwell,0,{},{}
+1st innings,Bangladesh,11.4,Taskin Ahmed,GJ Maxwell,0,{},{}
+1st innings,Bangladesh,11.5,Taskin Ahmed,GJ Maxwell,0,{},{}
+1st innings,Bangladesh,11.6,Taskin Ahmed,GJ Maxwell,1,{},{}
+1st innings,Bangladesh,12.1,Taskin Ahmed,MA Starc,1,{},{}
+1st innings,Bangladesh,12.2,Mahmudullah,MA Starc,0,{},"{'player_out': 'Mahmudullah', 'fielders': ['MS Wade'], 'kind': 'caught'}"
+1st innings,Bangladesh,12.3,Mustafizur Rahman,MA Starc,0,{},{}
+1st innings,Bangladesh,12.4,Mustafizur Rahman,MA Starc,0,{},{}
+1st innings,Bangladesh,12.5,Mustafizur Rahman,MA Starc,0,{},{}
+1st innings,Bangladesh,12.6,Mustafizur Rahman,MA Starc,0,{},{}
+1st innings,Bangladesh,13.1,Taskin Ahmed,PJ Cummins,0,{},{}
+1st innings,Bangladesh,13.2,Taskin Ahmed,PJ Cummins,1,{},{}
+1st innings,Bangladesh,13.3,Mustafizur Rahman,PJ Cummins,0,{},{}
+1st innings,Bangladesh,13.4,Mustafizur Rahman,PJ Cummins,2,{},{}
+1st innings,Bangladesh,13.5,Mustafizur Rahman,PJ Cummins,0,{},{}
+1st innings,Bangladesh,13.6,Mustafizur Rahman,PJ Cummins,2,{},{}
+1st innings,Bangladesh,14.1,Taskin Ahmed,A Zampa,0,{},{}
+1st innings,Bangladesh,14.2,Taskin Ahmed,A Zampa,2,{},{}
+1st innings,Bangladesh,14.3,Taskin Ahmed,A Zampa,1,{},{}
+1st innings,Bangladesh,14.4,Mustafizur Rahman,A Zampa,0,{},"{'player_out': 'Mustafizur Rahman', 'fielders': ['SPD Smith'], 'kind': 'caught'}"
+1st innings,Bangladesh,14.5,Shoriful Islam,A Zampa,0,{},{}
+1st innings,Bangladesh,14.6,Shoriful Islam,A Zampa,0,{},"{'player_out': 'Shoriful Islam', 'fielders': ['AJ Finch'], 'kind': 'caught'}"
+2nd innings,Australia,0.1,DA Warner,Taskin Ahmed,0,{},{}
+2nd innings,Australia,0.2,DA Warner,Taskin Ahmed,1,{},{}
+2nd innings,Australia,0.3,AJ Finch,Taskin Ahmed,0,{},{}
+2nd innings,Australia,0.4,AJ Finch,Taskin Ahmed,0,{},{}
+2nd innings,Australia,0.5,AJ Finch,Taskin Ahmed,2,{},{}
+2nd innings,Australia,0.6,AJ Finch,Taskin Ahmed,1,{},{}
+2nd innings,Australia,1.1,AJ Finch,Mustafizur Rahman,4,{},{}
+2nd innings,Australia,1.2,AJ Finch,Mustafizur Rahman,0,{},{}
+2nd innings,Australia,1.3,AJ Finch,Mustafizur Rahman,1,{},{}
+2nd innings,Australia,1.4,DA Warner,Mustafizur Rahman,1,{'legbyes': 1},{}
+2nd innings,Australia,1.5,AJ Finch,Mustafizur Rahman,6,{},{}
+2nd innings,Australia,1.6,AJ Finch,Mustafizur Rahman,0,{},{}
+2nd innings,Australia,2.1,DA Warner,Taskin Ahmed,1,{},{}
+2nd innings,Australia,2.2,AJ Finch,Taskin Ahmed,0,{},{}
+2nd innings,Australia,2.3,AJ Finch,Taskin Ahmed,1,{},{}
+2nd innings,Australia,2.4,DA Warner,Taskin Ahmed,0,{},{}
+2nd innings,Australia,2.5,DA Warner,Taskin Ahmed,1,{},{}
+2nd innings,Australia,2.6,AJ Finch,Taskin Ahmed,4,{},{}
+2nd innings,Australia,3.1,DA Warner,Mustafizur Rahman,4,{},{}
+2nd innings,Australia,3.2,DA Warner,Mustafizur Rahman,1,{},{}
+2nd innings,Australia,3.3,AJ Finch,Mustafizur Rahman,1,{'wides': 1},{}
+2nd innings,Australia,3.4,AJ Finch,Mustafizur Rahman,6,{},{}
+2nd innings,Australia,3.5,AJ Finch,Mustafizur Rahman,1,{},{}
+2nd innings,Australia,3.6,DA Warner,Mustafizur Rahman,4,{},{}
+2nd innings,Australia,3.7,DA Warner,Mustafizur Rahman,4,{},{}
+2nd innings,Australia,4.1,AJ Finch,Taskin Ahmed,2,{},{}
+2nd innings,Australia,4.2,AJ Finch,Taskin Ahmed,0,{},{}
+2nd innings,Australia,4.3,AJ Finch,Taskin Ahmed,6,{},{}
+2nd innings,Australia,4.4,AJ Finch,Taskin Ahmed,6,{},{}
+2nd innings,Australia,4.5,AJ Finch,Taskin Ahmed,0,{},{}
+2nd innings,Australia,4.6,AJ Finch,Taskin Ahmed,0,{},"{'player_out': 'AJ Finch', 'kind': 'bowled'}"
+2nd innings,Australia,5.1,DA Warner,Shoriful Islam,1,{},{}
+2nd innings,Australia,5.2,MR Marsh,Shoriful Islam,4,{},{}
+2nd innings,Australia,5.3,MR Marsh,Shoriful Islam,1,{},{}
+2nd innings,Australia,5.4,DA Warner,Shoriful Islam,1,{'noballs': 1},{}
+2nd innings,Australia,5.5,DA Warner,Shoriful Islam,1,{},{}
+2nd innings,Australia,5.6,MR Marsh,Shoriful Islam,1,{},{}
+2nd innings,Australia,5.7,DA Warner,Shoriful Islam,0,{},"{'player_out': 'DA Warner', 'kind': 'bowled'}"
+2nd innings,Australia,6.1,MR Marsh,Taskin Ahmed,4,{},{}
+2nd innings,Australia,6.2,MR Marsh,Taskin Ahmed,1,{'wides': 1},{}
+2nd innings,Australia,6.3,MR Marsh,Taskin Ahmed,6,{},{}

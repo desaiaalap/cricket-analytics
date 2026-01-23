@@ -1,0 +1,254 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,South Africa,0.1,Q de Kock,SN Netravalkar,1,{},{}
+1st innings,South Africa,0.2,RR Hendricks,SN Netravalkar,0,{},{}
+1st innings,South Africa,0.3,RR Hendricks,SN Netravalkar,0,{},{}
+1st innings,South Africa,0.4,RR Hendricks,SN Netravalkar,0,{},{}
+1st innings,South Africa,0.5,RR Hendricks,SN Netravalkar,2,{},{}
+1st innings,South Africa,0.6,RR Hendricks,SN Netravalkar,0,{},{}
+1st innings,South Africa,1.1,Q de Kock,Ali Khan,1,{},{}
+1st innings,South Africa,1.2,RR Hendricks,Ali Khan,0,{},{}
+1st innings,South Africa,1.3,RR Hendricks,Ali Khan,1,{},{}
+1st innings,South Africa,1.4,Q de Kock,Ali Khan,1,{'wides': 1},{}
+1st innings,South Africa,1.5,Q de Kock,Ali Khan,0,{},{}
+1st innings,South Africa,1.6,Q de Kock,Ali Khan,1,{},{}
+1st innings,South Africa,1.7,RR Hendricks,Ali Khan,6,{},{}
+1st innings,South Africa,2.1,Q de Kock,SN Netravalkar,1,{},{}
+1st innings,South Africa,2.2,RR Hendricks,SN Netravalkar,0,{},{}
+1st innings,South Africa,2.3,RR Hendricks,SN Netravalkar,2,{},{}
+1st innings,South Africa,2.4,RR Hendricks,SN Netravalkar,0,{},"{'player_out': 'RR Hendricks', 'fielders': ['CJ Anderson'], 'kind': 'caught'}"
+1st innings,South Africa,2.5,AK Markram,SN Netravalkar,1,{},{}
+1st innings,South Africa,2.6,Q de Kock,SN Netravalkar,0,{},{}
+1st innings,South Africa,3.1,AK Markram,Jasdeep Singh,4,{},{}
+1st innings,South Africa,3.2,AK Markram,Jasdeep Singh,1,{},{}
+1st innings,South Africa,3.3,Q de Kock,Jasdeep Singh,4,{},{}
+1st innings,South Africa,3.4,Q de Kock,Jasdeep Singh,7,{'noballs': 1},{}
+1st innings,South Africa,3.5,Q de Kock,Jasdeep Singh,6,{},{}
+1st innings,South Africa,3.6,Q de Kock,Jasdeep Singh,6,{},{}
+1st innings,South Africa,3.7,Q de Kock,Jasdeep Singh,0,{},{}
+1st innings,South Africa,4.1,AK Markram,NP Kenjige,1,{},{}
+1st innings,South Africa,4.2,Q de Kock,NP Kenjige,1,{},{}
+1st innings,South Africa,4.3,AK Markram,NP Kenjige,0,{},{}
+1st innings,South Africa,4.4,AK Markram,NP Kenjige,1,{},{}
+1st innings,South Africa,4.5,Q de Kock,NP Kenjige,4,{},{}
+1st innings,South Africa,4.6,Q de Kock,NP Kenjige,4,{},{}
+1st innings,South Africa,5.1,AK Markram,Ali Khan,0,{},{}
+1st innings,South Africa,5.2,AK Markram,Ali Khan,1,{},{}
+1st innings,South Africa,5.3,Q de Kock,Ali Khan,0,{},{}
+1st innings,South Africa,5.4,Q de Kock,Ali Khan,1,{'wides': 1},{}
+1st innings,South Africa,5.5,Q de Kock,Ali Khan,0,{},{}
+1st innings,South Africa,5.6,Q de Kock,Ali Khan,6,{},{}
+1st innings,South Africa,5.7,Q de Kock,Ali Khan,0,{},{}
+1st innings,South Africa,6.1,AK Markram,Harmeet Singh,1,{},{}
+1st innings,South Africa,6.2,Q de Kock,Harmeet Singh,0,{},{}
+1st innings,South Africa,6.3,Q de Kock,Harmeet Singh,1,{},{}
+1st innings,South Africa,6.4,AK Markram,Harmeet Singh,1,{},{}
+1st innings,South Africa,6.5,Q de Kock,Harmeet Singh,1,{},{}
+1st innings,South Africa,6.6,AK Markram,Harmeet Singh,1,{},{}
+1st innings,South Africa,7.1,AK Markram,SR Taylor,1,{},{}
+1st innings,South Africa,7.2,Q de Kock,SR Taylor,1,{},{}
+1st innings,South Africa,7.3,AK Markram,SR Taylor,4,{},{}
+1st innings,South Africa,7.4,AK Markram,SR Taylor,6,{},{}
+1st innings,South Africa,7.5,AK Markram,SR Taylor,1,{},{}
+1st innings,South Africa,7.6,Q de Kock,SR Taylor,1,{},{}
+1st innings,South Africa,8.1,Q de Kock,Harmeet Singh,1,{},{}
+1st innings,South Africa,8.2,AK Markram,Harmeet Singh,1,{},{}
+1st innings,South Africa,8.3,Q de Kock,Harmeet Singh,1,{},{}
+1st innings,South Africa,8.4,AK Markram,Harmeet Singh,1,{},{}
+1st innings,South Africa,8.5,Q de Kock,Harmeet Singh,5,{'noballs': 1},{}
+1st innings,South Africa,8.6,Q de Kock,Harmeet Singh,0,{},{}
+1st innings,South Africa,8.7,Q de Kock,Harmeet Singh,1,{},{}
+1st innings,South Africa,9.1,Q de Kock,SR Taylor,0,{},{}
+1st innings,South Africa,9.2,Q de Kock,SR Taylor,4,{},{}
+1st innings,South Africa,9.3,Q de Kock,SR Taylor,0,{},{}
+1st innings,South Africa,9.4,Q de Kock,SR Taylor,2,{},{}
+1st innings,South Africa,9.5,Q de Kock,SR Taylor,1,{'byes': 1},{}
+1st innings,South Africa,9.6,AK Markram,SR Taylor,1,{},{}
+1st innings,South Africa,10.1,AK Markram,Harmeet Singh,1,{},{}
+1st innings,South Africa,10.2,Q de Kock,Harmeet Singh,0,{},{}
+1st innings,South Africa,10.3,Q de Kock,Harmeet Singh,1,{},{}
+1st innings,South Africa,10.4,AK Markram,Harmeet Singh,0,{},{}
+1st innings,South Africa,10.5,AK Markram,Harmeet Singh,4,{},{}
+1st innings,South Africa,10.6,AK Markram,Harmeet Singh,1,{},{}
+1st innings,South Africa,11.1,AK Markram,CJ Anderson,1,{},{}
+1st innings,South Africa,11.2,Q de Kock,CJ Anderson,6,{},{}
+1st innings,South Africa,11.3,Q de Kock,CJ Anderson,1,{},{}
+1st innings,South Africa,11.4,AK Markram,CJ Anderson,1,{},{}
+1st innings,South Africa,11.5,Q de Kock,CJ Anderson,4,{},{}
+1st innings,South Africa,11.6,Q de Kock,CJ Anderson,4,{},{}
+1st innings,South Africa,12.1,AK Markram,Harmeet Singh,1,{},{}
+1st innings,South Africa,12.2,Q de Kock,Harmeet Singh,0,{},"{'player_out': 'Q de Kock', 'fielders': ['Shayan Jahangir'], 'kind': 'caught'}"
+1st innings,South Africa,12.3,DA Miller,Harmeet Singh,0,{},"{'player_out': 'DA Miller', 'kind': 'caught and bowled'}"
+1st innings,South Africa,12.4,H Klaasen,Harmeet Singh,0,{},{}
+1st innings,South Africa,12.5,H Klaasen,Harmeet Singh,0,{},{}
+1st innings,South Africa,12.6,H Klaasen,Harmeet Singh,1,{},{}
+1st innings,South Africa,13.1,H Klaasen,NP Kenjige,1,{},{}
+1st innings,South Africa,13.2,AK Markram,NP Kenjige,1,{},{}
+1st innings,South Africa,13.3,H Klaasen,NP Kenjige,0,{},{}
+1st innings,South Africa,13.4,H Klaasen,NP Kenjige,1,{},{}
+1st innings,South Africa,13.5,AK Markram,NP Kenjige,2,{},{}
+1st innings,South Africa,13.6,AK Markram,NP Kenjige,1,{},{}
+1st innings,South Africa,14.1,AK Markram,SN Netravalkar,4,{},{}
+1st innings,South Africa,14.2,AK Markram,SN Netravalkar,1,{},{}
+1st innings,South Africa,14.3,H Klaasen,SN Netravalkar,1,{},{}
+1st innings,South Africa,14.4,AK Markram,SN Netravalkar,1,{},{}
+1st innings,South Africa,14.5,H Klaasen,SN Netravalkar,1,{},{}
+1st innings,South Africa,14.6,AK Markram,SN Netravalkar,0,{},"{'player_out': 'AK Markram', 'fielders': ['Ali Khan'], 'kind': 'caught'}"
+1st innings,South Africa,15.1,H Klaasen,NP Kenjige,6,{},{}
+1st innings,South Africa,15.2,H Klaasen,NP Kenjige,1,{},{}
+1st innings,South Africa,15.3,T Stubbs,NP Kenjige,1,{},{}
+1st innings,South Africa,15.4,H Klaasen,NP Kenjige,1,{},{}
+1st innings,South Africa,15.5,T Stubbs,NP Kenjige,1,{},{}
+1st innings,South Africa,15.6,H Klaasen,NP Kenjige,2,{},{}
+1st innings,South Africa,16.1,T Stubbs,Jasdeep Singh,2,{},{}
+1st innings,South Africa,16.2,T Stubbs,Jasdeep Singh,1,{},{}
+1st innings,South Africa,16.3,H Klaasen,Jasdeep Singh,1,{'wides': 1},{}
+1st innings,South Africa,16.4,H Klaasen,Jasdeep Singh,1,{'wides': 1},{}
+1st innings,South Africa,16.5,H Klaasen,Jasdeep Singh,1,{},{}
+1st innings,South Africa,16.6,T Stubbs,Jasdeep Singh,1,{},{}
+1st innings,South Africa,16.7,H Klaasen,Jasdeep Singh,1,{},{}
+1st innings,South Africa,16.8,T Stubbs,Jasdeep Singh,0,{},{}
+1st innings,South Africa,17.1,H Klaasen,Ali Khan,2,{},{}
+1st innings,South Africa,17.2,H Klaasen,Ali Khan,6,{},{}
+1st innings,South Africa,17.3,H Klaasen,Ali Khan,0,{},{}
+1st innings,South Africa,17.4,H Klaasen,Ali Khan,1,{},{}
+1st innings,South Africa,17.5,T Stubbs,Ali Khan,2,{},{}
+1st innings,South Africa,17.6,T Stubbs,Ali Khan,1,{},{}
+1st innings,South Africa,18.1,T Stubbs,SN Netravalkar,4,{},{}
+1st innings,South Africa,18.2,T Stubbs,SN Netravalkar,2,{},{}
+1st innings,South Africa,18.3,T Stubbs,SN Netravalkar,0,{},{}
+1st innings,South Africa,18.4,T Stubbs,SN Netravalkar,0,{},{}
+1st innings,South Africa,18.5,T Stubbs,SN Netravalkar,0,{},{}
+1st innings,South Africa,18.6,T Stubbs,SN Netravalkar,0,{},{}
+1st innings,South Africa,19.1,H Klaasen,Ali Khan,1,{},{}
+1st innings,South Africa,19.2,T Stubbs,Ali Khan,1,{},{}
+1st innings,South Africa,19.3,H Klaasen,Ali Khan,6,{},{}
+1st innings,South Africa,19.4,H Klaasen,Ali Khan,2,{},{}
+1st innings,South Africa,19.5,H Klaasen,Ali Khan,1,{},{}
+1st innings,South Africa,19.6,T Stubbs,Ali Khan,4,{},{}
+2nd innings,United States of America,0.1,SR Taylor,M Jansen,4,{},{}
+2nd innings,United States of America,0.2,SR Taylor,M Jansen,1,{},{}
+2nd innings,United States of America,0.3,AGS Gous,M Jansen,0,{},{}
+2nd innings,United States of America,0.4,AGS Gous,M Jansen,0,{},{}
+2nd innings,United States of America,0.5,AGS Gous,M Jansen,0,{},{}
+2nd innings,United States of America,0.6,AGS Gous,M Jansen,0,{},{}
+2nd innings,United States of America,1.1,SR Taylor,AK Markram,0,{},{}
+2nd innings,United States of America,1.2,SR Taylor,AK Markram,6,{},{}
+2nd innings,United States of America,1.3,SR Taylor,AK Markram,4,{},{}
+2nd innings,United States of America,1.4,SR Taylor,AK Markram,0,{},{}
+2nd innings,United States of America,1.5,SR Taylor,AK Markram,1,{},{}
+2nd innings,United States of America,1.6,AGS Gous,AK Markram,2,{},{}
+2nd innings,United States of America,2.1,SR Taylor,M Jansen,1,{'wides': 1},{}
+2nd innings,United States of America,2.2,SR Taylor,M Jansen,0,{},{}
+2nd innings,United States of America,2.3,SR Taylor,M Jansen,4,{},{}
+2nd innings,United States of America,2.4,SR Taylor,M Jansen,1,{'wides': 1},{}
+2nd innings,United States of America,2.5,SR Taylor,M Jansen,0,{},{}
+2nd innings,United States of America,2.6,SR Taylor,M Jansen,4,{},{}
+2nd innings,United States of America,2.7,SR Taylor,M Jansen,0,{},{}
+2nd innings,United States of America,2.8,SR Taylor,M Jansen,0,{},{}
+2nd innings,United States of America,3.1,AGS Gous,K Rabada,4,{},{}
+2nd innings,United States of America,3.2,AGS Gous,K Rabada,1,{'legbyes': 1},{}
+2nd innings,United States of America,3.3,SR Taylor,K Rabada,0,{},"{'player_out': 'SR Taylor', 'fielders': ['H Klaasen'], 'kind': 'caught'}"
+2nd innings,United States of America,3.4,NR Kumar,K Rabada,1,{'legbyes': 1},{}
+2nd innings,United States of America,3.5,AGS Gous,K Rabada,0,{},{}
+2nd innings,United States of America,3.6,AGS Gous,K Rabada,0,{},{}
+2nd innings,United States of America,4.1,NR Kumar,M Jansen,0,{},{}
+2nd innings,United States of America,4.2,NR Kumar,M Jansen,6,{},{}
+2nd innings,United States of America,4.3,NR Kumar,M Jansen,1,{},{}
+2nd innings,United States of America,4.4,AGS Gous,M Jansen,2,{},{}
+2nd innings,United States of America,4.5,AGS Gous,M Jansen,6,{},{}
+2nd innings,United States of America,4.6,AGS Gous,M Jansen,2,{},{}
+2nd innings,United States of America,5.1,NR Kumar,K Rabada,1,{},{}
+2nd innings,United States of America,5.2,AGS Gous,K Rabada,1,{},{}
+2nd innings,United States of America,5.3,NR Kumar,K Rabada,0,{},"{'player_out': 'NR Kumar', 'fielders': ['T Stubbs'], 'kind': 'caught'}"
+2nd innings,United States of America,5.4,Aaron Jones,K Rabada,0,{},{}
+2nd innings,United States of America,5.5,Aaron Jones,K Rabada,0,{},{}
+2nd innings,United States of America,5.6,Aaron Jones,K Rabada,0,{},{}
+2nd innings,United States of America,6.1,AGS Gous,KA Maharaj,2,{},{}
+2nd innings,United States of America,6.2,AGS Gous,KA Maharaj,1,{},{}
+2nd innings,United States of America,6.3,Aaron Jones,KA Maharaj,0,{},{}
+2nd innings,United States of America,6.4,Aaron Jones,KA Maharaj,0,{},"{'player_out': 'Aaron Jones', 'fielders': ['Q de Kock'], 'kind': 'caught'}"
+2nd innings,United States of America,6.5,CJ Anderson,KA Maharaj,1,{},{}
+2nd innings,United States of America,6.6,AGS Gous,KA Maharaj,0,{},{}
+2nd innings,United States of America,7.1,CJ Anderson,A Nortje,0,{},{}
+2nd innings,United States of America,7.2,CJ Anderson,A Nortje,0,{},{}
+2nd innings,United States of America,7.3,CJ Anderson,A Nortje,1,{},{}
+2nd innings,United States of America,7.4,AGS Gous,A Nortje,1,{},{}
+2nd innings,United States of America,7.5,CJ Anderson,A Nortje,1,{},{}
+2nd innings,United States of America,7.6,AGS Gous,A Nortje,0,{},{}
+2nd innings,United States of America,8.1,CJ Anderson,KA Maharaj,1,{},{}
+2nd innings,United States of America,8.2,AGS Gous,KA Maharaj,1,{},{}
+2nd innings,United States of America,8.3,CJ Anderson,KA Maharaj,1,{},{}
+2nd innings,United States of America,8.4,AGS Gous,KA Maharaj,1,{},{}
+2nd innings,United States of America,8.5,CJ Anderson,KA Maharaj,0,{},{}
+2nd innings,United States of America,8.6,CJ Anderson,KA Maharaj,1,{},{}
+2nd innings,United States of America,9.1,CJ Anderson,A Nortje,0,{},{}
+2nd innings,United States of America,9.2,CJ Anderson,A Nortje,6,{},{}
+2nd innings,United States of America,9.3,CJ Anderson,A Nortje,0,{},"{'player_out': 'CJ Anderson', 'kind': 'bowled'}"
+2nd innings,United States of America,9.4,Shayan Jahangir,A Nortje,0,{},{}
+2nd innings,United States of America,9.5,Shayan Jahangir,A Nortje,0,{},{}
+2nd innings,United States of America,9.6,Shayan Jahangir,A Nortje,1,{'wides': 1},{}
+2nd innings,United States of America,9.7,Shayan Jahangir,A Nortje,1,{},{}
+2nd innings,United States of America,10.1,Shayan Jahangir,KA Maharaj,0,{},{}
+2nd innings,United States of America,10.2,Shayan Jahangir,KA Maharaj,0,{},{}
+2nd innings,United States of America,10.3,Shayan Jahangir,KA Maharaj,1,{},{}
+2nd innings,United States of America,10.4,AGS Gous,KA Maharaj,1,{},{}
+2nd innings,United States of America,10.5,Shayan Jahangir,KA Maharaj,0,{},{}
+2nd innings,United States of America,10.6,Shayan Jahangir,KA Maharaj,1,{},{}
+2nd innings,United States of America,11.1,Shayan Jahangir,T Shamsi,0,{},"{'player_out': 'Shayan Jahangir', 'kind': 'lbw'}"
+2nd innings,United States of America,11.2,Harmeet Singh,T Shamsi,1,{},{}
+2nd innings,United States of America,11.3,AGS Gous,T Shamsi,4,{},{}
+2nd innings,United States of America,11.4,AGS Gous,T Shamsi,1,{},{}
+2nd innings,United States of America,11.5,Harmeet Singh,T Shamsi,4,{},{}
+2nd innings,United States of America,11.6,Harmeet Singh,T Shamsi,1,{},{}
+2nd innings,United States of America,12.1,Harmeet Singh,KA Maharaj,1,{},{}
+2nd innings,United States of America,12.2,AGS Gous,KA Maharaj,2,{},{}
+2nd innings,United States of America,12.3,AGS Gous,KA Maharaj,1,{},{}
+2nd innings,United States of America,12.4,Harmeet Singh,KA Maharaj,6,{},{}
+2nd innings,United States of America,12.5,Harmeet Singh,KA Maharaj,1,{},{}
+2nd innings,United States of America,12.6,AGS Gous,KA Maharaj,1,{},{}
+2nd innings,United States of America,13.1,AGS Gous,T Shamsi,1,{},{}
+2nd innings,United States of America,13.2,Harmeet Singh,T Shamsi,0,{},{}
+2nd innings,United States of America,13.3,Harmeet Singh,T Shamsi,1,{},{}
+2nd innings,United States of America,13.4,AGS Gous,T Shamsi,0,{},{}
+2nd innings,United States of America,13.5,AGS Gous,T Shamsi,1,{},{}
+2nd innings,United States of America,13.6,Harmeet Singh,T Shamsi,1,{},{}
+2nd innings,United States of America,14.1,Harmeet Singh,A Nortje,0,{},{}
+2nd innings,United States of America,14.2,Harmeet Singh,A Nortje,1,{},{}
+2nd innings,United States of America,14.3,AGS Gous,A Nortje,4,{},{}
+2nd innings,United States of America,14.4,AGS Gous,A Nortje,2,{},{}
+2nd innings,United States of America,14.5,AGS Gous,A Nortje,6,{},{}
+2nd innings,United States of America,14.6,AGS Gous,A Nortje,6,{},{}
+2nd innings,United States of America,15.1,Harmeet Singh,T Shamsi,6,{},{}
+2nd innings,United States of America,15.2,Harmeet Singh,T Shamsi,1,{},{}
+2nd innings,United States of America,15.3,AGS Gous,T Shamsi,4,{},{}
+2nd innings,United States of America,15.4,AGS Gous,T Shamsi,1,{},{}
+2nd innings,United States of America,15.5,Harmeet Singh,T Shamsi,1,{},{}
+2nd innings,United States of America,15.6,AGS Gous,T Shamsi,0,{},{}
+2nd innings,United States of America,16.1,Harmeet Singh,K Rabada,1,{'noballs': 1},{}
+2nd innings,United States of America,16.2,Harmeet Singh,K Rabada,1,{},{}
+2nd innings,United States of America,16.3,AGS Gous,K Rabada,1,{},{}
+2nd innings,United States of America,16.4,Harmeet Singh,K Rabada,4,{},{}
+2nd innings,United States of America,16.5,Harmeet Singh,K Rabada,1,{},{}
+2nd innings,United States of America,16.6,AGS Gous,K Rabada,0,{},{}
+2nd innings,United States of America,16.7,AGS Gous,K Rabada,1,{'wides': 1},{}
+2nd innings,United States of America,16.8,AGS Gous,K Rabada,1,{},{}
+2nd innings,United States of America,17.1,AGS Gous,T Shamsi,1,{},{}
+2nd innings,United States of America,17.2,Harmeet Singh,T Shamsi,1,{'wides': 1},{}
+2nd innings,United States of America,17.3,Harmeet Singh,T Shamsi,0,{},{}
+2nd innings,United States of America,17.4,Harmeet Singh,T Shamsi,6,{},{}
+2nd innings,United States of America,17.5,Harmeet Singh,T Shamsi,1,{'wides': 1},{}
+2nd innings,United States of America,17.6,Harmeet Singh,T Shamsi,1,{},{}
+2nd innings,United States of America,17.7,AGS Gous,T Shamsi,6,{},{}
+2nd innings,United States of America,17.8,AGS Gous,T Shamsi,6,{},{}
+2nd innings,United States of America,18.1,Harmeet Singh,K Rabada,0,{},"{'player_out': 'Harmeet Singh', 'fielders': ['T Stubbs'], 'kind': 'caught'}"
+2nd innings,United States of America,18.2,Jasdeep Singh,K Rabada,0,{},{}
+2nd innings,United States of America,18.3,Jasdeep Singh,K Rabada,0,{},{}
+2nd innings,United States of America,18.4,Jasdeep Singh,K Rabada,1,{},{}
+2nd innings,United States of America,18.5,AGS Gous,K Rabada,1,{},{}
+2nd innings,United States of America,18.6,Jasdeep Singh,K Rabada,0,{},{}
+2nd innings,United States of America,19.1,AGS Gous,A Nortje,1,{},{}
+2nd innings,United States of America,19.2,Jasdeep Singh,A Nortje,1,{},{}
+2nd innings,United States of America,19.3,AGS Gous,A Nortje,0,{},{}
+2nd innings,United States of America,19.4,AGS Gous,A Nortje,4,{},{}
+2nd innings,United States of America,19.5,AGS Gous,A Nortje,1,{},{}
+2nd innings,United States of America,19.6,Jasdeep Singh,A Nortje,0,{},{}

@@ -1,0 +1,2098 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-01-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sharjah
+  competition: International League T20
+  dates:
+  - '2024-01-27'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Gulf Giants
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - CR Brathwaite
+  players:
+    Dubai Capitals:
+    - KW Richardson
+    - Rahmanullah Gurbaz
+    - DA Warner
+    - BR Dunk
+    - SW Billings
+    - R Chopra
+    - Sikandar Raza
+    - R Powell
+    - JO Holder
+    - RE van der Merwe
+    - Akif Raja
+    - PVD Chameera
+    Gulf Giants:
+    - JL Smith
+    - JM Vince
+    - CA Lynn
+    - JM Cox
+    - Usman Khan
+    - SO Hetmyer
+    - CR Brathwaite
+    - CJ Jordan
+    - DC Drakes
+    - Mujeeb Ur Rahman
+    - Zuhaib Zubair
+    - RJ Gleeson
+  registry:
+    people:
+      Ahmed Shah Pakteen: '43602937'
+      Akif Raja: 9d0344f3
+      BR Dunk: 272d796e
+      CA Lynn: 45eda7c8
+      CJ Jordan: ffe699c0
+      CR Brathwaite: e342e5fb
+      DA Warner: dcce6f09
+      DC Drakes: 34b332d3
+      JL Smith: c834c290
+      JM Cox: ff154ecd
+      JM Vince: a15618fe
+      JO Holder: 0f721006
+      KW Richardson: dfc4d8b5
+      LS Reifer: 5dee559a
+      MG Erasmus: 95a5e066
+      MJ Saggers: 402d5937
+      Mujeeb Ur Rahman: 7d92277a
+      PVD Chameera: 327b58d3
+      R Chopra: a71d0f89
+      R Powell: 650d5e49
+      RE van der Merwe: 05c2ca46
+      RJ Gleeson: 402f8494
+      RJ Tucker: 38810cfc
+      Rahmanullah Gurbaz: 0bacade8
+      SJA Taufel: 4b43d5ac
+      SO Hetmyer: 48a1d7b7
+      SW Billings: c16d4035
+      Sikandar Raza: 26d041c4
+      Usman Khan: bafb9238
+      Zuhaib Zubair: 9124aa4c
+  teams:
+  - Dubai Capitals
+  - Gulf Giants
+  toss:
+    winner: Dubai Capitals
+    decision: bat
+  umpires:
+  - Ahmed Shah Pakteen
+  - MJ Saggers
+  venue: Sharjah Cricket Stadium
+innings:
+- 1st innings:
+    team: Dubai Capitals
+    deliveries:
+    - 0.1:
+        non_striker: DA Warner
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.2:
+        non_striker: DA Warner
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.3:
+        non_striker: DA Warner
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.4:
+        non_striker: DA Warner
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 0.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 0.6:
+        non_striker: DA Warner
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          fielders:
+          - Zuhaib Zubair
+          kind: run out
+    - 1.2:
+        non_striker: BR Dunk
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 1.3:
+        non_striker: DA Warner
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 1.4:
+        non_striker: DA Warner
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 1.5:
+        non_striker: DA Warner
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 1.6:
+        non_striker: DA Warner
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 2.1:
+        non_striker: BR Dunk
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 2.2:
+        non_striker: BR Dunk
+        bowler: RJ Gleeson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DA Warner
+    - 2.3:
+        non_striker: DA Warner
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+        wicket:
+          player_out: BR Dunk
+          fielders:
+          - SO Hetmyer
+          kind: caught
+    - 2.4:
+        non_striker: DA Warner
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 2.5:
+        non_striker: DA Warner
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 2.6:
+        non_striker: DA Warner
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 3.1:
+        non_striker: DA Warner
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 3.2:
+        non_striker: DA Warner
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 3.3:
+        non_striker: DA Warner
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 3.4:
+        non_striker: SW Billings
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 3.5:
+        non_striker: DA Warner
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 3.6:
+        non_striker: DA Warner
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 4.1:
+        non_striker: SW Billings
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 4.2:
+        non_striker: DA Warner
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 4.3:
+        non_striker: DA Warner
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+        wicket:
+          player_out: SW Billings
+          fielders:
+          - JM Cox
+          kind: caught
+    - 4.4:
+        non_striker: DA Warner
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 4.5:
+        non_striker: DA Warner
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 4.6:
+        non_striker: DA Warner
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 5.1:
+        non_striker: R Chopra
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 5.2:
+        non_striker: R Chopra
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 5.3:
+        non_striker: R Chopra
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 5.4:
+        non_striker: R Chopra
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 5.5:
+        non_striker: R Chopra
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 5.6:
+        non_striker: R Chopra
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 6.1:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Chopra
+    - 6.2:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Chopra
+    - 6.3:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 6.4:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 6.5:
+        non_striker: R Chopra
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 6.6:
+        non_striker: R Chopra
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 7.1:
+        non_striker: R Chopra
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 7.2:
+        non_striker: R Chopra
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 7.3:
+        non_striker: R Chopra
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 7.4:
+        non_striker: R Chopra
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+        wicket:
+          player_out: DA Warner
+          kind: bowled
+    - 7.5:
+        non_striker: R Chopra
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 7.6:
+        non_striker: R Chopra
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 8.1:
+        non_striker: Sikandar Raza
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 8.2:
+        non_striker: R Chopra
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 8.3:
+        non_striker: Sikandar Raza
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 8.4:
+        non_striker: Sikandar Raza
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 8.5:
+        non_striker: R Chopra
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 8.6:
+        non_striker: Sikandar Raza
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 9.1:
+        non_striker: Sikandar Raza
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 9.2:
+        non_striker: R Chopra
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 9.3:
+        non_striker: Sikandar Raza
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 9.4:
+        non_striker: Sikandar Raza
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 9.5:
+        non_striker: R Chopra
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 9.6:
+        non_striker: R Chopra
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 10.1:
+        non_striker: R Chopra
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 10.2:
+        non_striker: R Chopra
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 10.3:
+        non_striker: Sikandar Raza
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Chopra
+    - 10.4:
+        non_striker: Sikandar Raza
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Chopra
+    - 10.5:
+        non_striker: Sikandar Raza
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 10.6:
+        non_striker: R Chopra
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 10.7:
+        non_striker: Sikandar Raza
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Chopra
+    - 10.8:
+        non_striker: Sikandar Raza
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 11.1:
+        non_striker: R Chopra
+        bowler: Zuhaib Zubair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 11.2:
+        non_striker: R Chopra
+        bowler: Zuhaib Zubair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 11.3:
+        non_striker: Sikandar Raza
+        bowler: Zuhaib Zubair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 11.4:
+        non_striker: R Chopra
+        bowler: Zuhaib Zubair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 11.5:
+        non_striker: Sikandar Raza
+        bowler: Zuhaib Zubair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+        wicket:
+          player_out: R Chopra
+          fielders:
+          - DC Drakes
+          kind: caught
+    - 11.6:
+        non_striker: Sikandar Raza
+        bowler: Zuhaib Zubair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 12.1:
+        non_striker: Sikandar Raza
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 12.2:
+        non_striker: Sikandar Raza
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 12.3:
+        non_striker: R Powell
+        bowler: RJ Gleeson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sikandar Raza
+    - 12.4:
+        non_striker: Sikandar Raza
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 12.5:
+        non_striker: R Powell
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 12.6:
+        non_striker: R Powell
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.1:
+        non_striker: R Powell
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 13.2:
+        non_striker: R Powell
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.3:
+        non_striker: Sikandar Raza
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 13.4:
+        non_striker: R Powell
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 13.5:
+        non_striker: R Powell
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.6:
+        non_striker: Sikandar Raza
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 14.1:
+        non_striker: R Powell
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 14.2:
+        non_striker: R Powell
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 14.3:
+        non_striker: R Powell
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 14.4:
+        non_striker: R Powell
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 14.5:
+        non_striker: Sikandar Raza
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 14.6:
+        non_striker: R Powell
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 14.7:
+        non_striker: Sikandar Raza
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 15.1:
+        non_striker: Sikandar Raza
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          fielders:
+          - CR Brathwaite
+          kind: caught
+    - 15.2:
+        non_striker: Sikandar Raza
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 15.3:
+        non_striker: JO Holder
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 15.4:
+        non_striker: JO Holder
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 15.5:
+        non_striker: Sikandar Raza
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 15.6:
+        non_striker: Sikandar Raza
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JO Holder
+    - 16.1:
+        non_striker: JO Holder
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 16.2:
+        non_striker: Sikandar Raza
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 16.3:
+        non_striker: Sikandar Raza
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 16.4:
+        non_striker: JO Holder
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 16.5:
+        non_striker: Sikandar Raza
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 16.6:
+        non_striker: JO Holder
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sikandar Raza
+    - 17.1:
+        non_striker: Sikandar Raza
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 17.2:
+        non_striker: Sikandar Raza
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 17.3:
+        non_striker: JO Holder
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 17.4:
+        non_striker: Sikandar Raza
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 17.5:
+        non_striker: JO Holder
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 17.6:
+        non_striker: JO Holder
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 18.1:
+        non_striker: JO Holder
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 18.2:
+        non_striker: JO Holder
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 18.3:
+        non_striker: Sikandar Raza
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 18.4:
+        non_striker: JO Holder
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sikandar Raza
+    - 18.5:
+        non_striker: JO Holder
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 18.6:
+        non_striker: JO Holder
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - MG Erasmus (sub)
+          kind: caught
+    - 19.1:
+        non_striker: RE van der Merwe
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 19.2:
+        non_striker: JO Holder
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 19.3:
+        non_striker: RE van der Merwe
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 19.4:
+        non_striker: JO Holder
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 19.5:
+        non_striker: RE van der Merwe
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JO Holder
+    - 19.6:
+        non_striker: RE van der Merwe
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JO Holder
+- 2nd innings:
+    team: Gulf Giants
+    deliveries:
+    - 0.1:
+        non_striker: JM Vince
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: KW Richardson
+            out: BR Dunk
+            team: Dubai Capitals
+            reason: impact_player
+        batsman: JL Smith
+    - 0.2:
+        non_striker: JM Vince
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Smith
+    - 0.3:
+        non_striker: JL Smith
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 0.4:
+        non_striker: JL Smith
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JM Vince
+    - 0.5:
+        non_striker: JM Vince
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Smith
+        wicket:
+          player_out: JL Smith
+          kind: bowled
+    - 0.6:
+        non_striker: JM Vince
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: CA Lynn
+            out: JL Smith
+            team: Gulf Giants
+            reason: impact_player
+        batsman: CA Lynn
+    - 1.1:
+        non_striker: JM Vince
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 1.2:
+        non_striker: JM Vince
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 1.3:
+        non_striker: JM Vince
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 1.4:
+        non_striker: JM Vince
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 1.5:
+        non_striker: JM Vince
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 1.6:
+        non_striker: JM Vince
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 2.1:
+        non_striker: CA Lynn
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 2.2:
+        non_striker: JM Vince
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Lynn
+    - 2.3:
+        non_striker: JM Vince
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 2.4:
+        non_striker: CA Lynn
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 2.5:
+        non_striker: CA Lynn
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 2.6:
+        non_striker: CA Lynn
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 3.1:
+        non_striker: JM Vince
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 3.2:
+        non_striker: JM Vince
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 3.3:
+        non_striker: JM Vince
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 3.4:
+        non_striker: JM Vince
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 3.5:
+        non_striker: JM Vince
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 3.6:
+        non_striker: CA Lynn
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 4.1:
+        non_striker: JM Vince
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 4.2:
+        non_striker: JM Vince
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Lynn
+    - 4.3:
+        non_striker: JM Vince
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 4.4:
+        non_striker: JM Vince
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 4.5:
+        non_striker: JM Vince
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 4.6:
+        non_striker: CA Lynn
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 5.1:
+        non_striker: CA Lynn
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 5.2:
+        non_striker: CA Lynn
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 5.3:
+        non_striker: CA Lynn
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 5.4:
+        non_striker: CA Lynn
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Vince
+    - 5.5:
+        non_striker: CA Lynn
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 5.6:
+        non_striker: CA Lynn
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 6.1:
+        non_striker: CA Lynn
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 6.2:
+        non_striker: JM Vince
+        bowler: Akif Raja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Lynn
+    - 6.3:
+        non_striker: JM Vince
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 6.4:
+        non_striker: CA Lynn
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 6.5:
+        non_striker: JM Vince
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Lynn
+    - 6.6:
+        non_striker: JM Vince
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+        wicket:
+          player_out: CA Lynn
+          kind: bowled
+    - 6.7:
+        non_striker: JM Vince
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 7.1:
+        non_striker: JM Cox
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 7.2:
+        non_striker: JM Cox
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Vince
+    - 7.3:
+        non_striker: JM Cox
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+        wicket:
+          player_out: JM Vince
+          fielders:
+          - SW Billings
+          kind: caught
+    - 7.4:
+        non_striker: JM Cox
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 7.5:
+        non_striker: JM Cox
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 7.6:
+        non_striker: Usman Khan
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 8.1:
+        non_striker: Usman Khan
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 8.2:
+        non_striker: Usman Khan
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 8.3:
+        non_striker: Usman Khan
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 8.4:
+        non_striker: JM Cox
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 8.5:
+        non_striker: JM Cox
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 8.6:
+        non_striker: Usman Khan
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Cox
+    - 9.1:
+        non_striker: JM Cox
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 9.2:
+        non_striker: JM Cox
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 9.3:
+        non_striker: Usman Khan
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 9.4:
+        non_striker: JM Cox
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 9.5:
+        non_striker: JM Cox
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 9.6:
+        non_striker: Usman Khan
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 10.1:
+        non_striker: Usman Khan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 10.2:
+        non_striker: Usman Khan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 10.3:
+        non_striker: JM Cox
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 10.4:
+        non_striker: JM Cox
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 10.5:
+        non_striker: JM Cox
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 10.6:
+        non_striker: JM Cox
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 11.1:
+        non_striker: Usman Khan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 11.2:
+        non_striker: Usman Khan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 11.3:
+        non_striker: JM Cox
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Usman Khan
+    - 11.4:
+        non_striker: JM Cox
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 11.5:
+        non_striker: JM Cox
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 11.6:
+        non_striker: Usman Khan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 11.7:
+        non_striker: Usman Khan
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 12.1:
+        non_striker: Usman Khan
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 12.2:
+        non_striker: Usman Khan
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 12.3:
+        non_striker: Usman Khan
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 12.4:
+        non_striker: Usman Khan
+        bowler: Akif Raja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Cox
+    - 12.5:
+        non_striker: Usman Khan
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 12.6:
+        non_striker: JM Cox
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 12.7:
+        non_striker: Usman Khan
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 13.1:
+        non_striker: Usman Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 13.2:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Usman Khan
+    - 13.3:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+        wicket:
+          player_out: Usman Khan
+          fielders:
+          - JO Holder
+          kind: caught
+    - 13.4:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 13.5:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          kind: lbw
+    - 13.6:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 13.7:
+        non_striker: CR Brathwaite
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 14.1:
+        non_striker: CR Brathwaite
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 14.2:
+        non_striker: CR Brathwaite
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 14.3:
+        non_striker: JM Cox
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+        wicket:
+          player_out: CR Brathwaite
+          kind: bowled
+    - 14.4:
+        non_striker: JM Cox
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+        wicket:
+          player_out: CJ Jordan
+          fielders:
+          - Sikandar Raza
+          kind: caught
+    - 14.5:
+        non_striker: JM Cox
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC Drakes
+    - 14.6:
+        non_striker: JM Cox
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 15.1:
+        non_striker: DC Drakes
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 15.2:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 15.3:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 15.4:
+        non_striker: DC Drakes
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 15.5:
+        non_striker: DC Drakes
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 15.6:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 16.1:
+        non_striker: DC Drakes
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 16.2:
+        non_striker: DC Drakes
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 16.3:
+        non_striker: JM Cox
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 16.4:
+        non_striker: JM Cox
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 16.5:
+        non_striker: DC Drakes
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 16.6:
+        non_striker: JM Cox
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 17.1:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 17.2:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 17.3:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 17.4:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 17.5:
+        non_striker: JM Cox
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 17.6:
+        non_striker: DC Drakes
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 18.1:
+        non_striker: JM Cox
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 18.2:
+        non_striker: JM Cox
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 18.3:
+        non_striker: JM Cox
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 18.4:
+        non_striker: JM Cox
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Drakes

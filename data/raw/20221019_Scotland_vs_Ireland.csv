@@ -1,0 +1,245 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Scotland,0.1,HG Munsey,J Little,1,{},{}
+1st innings,Scotland,0.2,MA Jones,J Little,0,{},{}
+1st innings,Scotland,0.3,MA Jones,J Little,0,{},{}
+1st innings,Scotland,0.4,MA Jones,J Little,0,{},{}
+1st innings,Scotland,0.5,MA Jones,J Little,0,{},{}
+1st innings,Scotland,0.6,MA Jones,J Little,0,{},{}
+1st innings,Scotland,1.1,HG Munsey,MR Adair,0,{},"{'player_out': 'HG Munsey', 'kind': 'lbw'}"
+1st innings,Scotland,1.2,MH Cross,MR Adair,0,{},{}
+1st innings,Scotland,1.3,MH Cross,MR Adair,1,{},{}
+1st innings,Scotland,1.4,MA Jones,MR Adair,0,{},{}
+1st innings,Scotland,1.5,MA Jones,MR Adair,0,{},{}
+1st innings,Scotland,1.6,MA Jones,MR Adair,1,{},{}
+1st innings,Scotland,2.1,MA Jones,BJ McCarthy,1,{},{}
+1st innings,Scotland,2.2,MH Cross,BJ McCarthy,4,{},{}
+1st innings,Scotland,2.3,MH Cross,BJ McCarthy,0,{},{}
+1st innings,Scotland,2.4,MH Cross,BJ McCarthy,4,{},{}
+1st innings,Scotland,2.5,MH Cross,BJ McCarthy,4,{},{}
+1st innings,Scotland,2.6,MH Cross,BJ McCarthy,0,{},{}
+1st innings,Scotland,3.1,MA Jones,J Little,0,{},{}
+1st innings,Scotland,3.2,MA Jones,J Little,4,{},{}
+1st innings,Scotland,3.3,MA Jones,J Little,2,{},{}
+1st innings,Scotland,3.4,MA Jones,J Little,1,{},{}
+1st innings,Scotland,3.5,MH Cross,J Little,1,{},{}
+1st innings,Scotland,3.6,MA Jones,J Little,1,{},{}
+1st innings,Scotland,4.1,MA Jones,MR Adair,1,{},{}
+1st innings,Scotland,4.2,MH Cross,MR Adair,0,{},{}
+1st innings,Scotland,4.3,MH Cross,MR Adair,2,{},{}
+1st innings,Scotland,4.4,MH Cross,MR Adair,0,{},{}
+1st innings,Scotland,4.5,MH Cross,MR Adair,0,{},{}
+1st innings,Scotland,4.6,MH Cross,MR Adair,4,{},{}
+1st innings,Scotland,5.1,MA Jones,GJ Delany,0,{},{}
+1st innings,Scotland,5.2,MA Jones,GJ Delany,4,{},{}
+1st innings,Scotland,5.3,MA Jones,GJ Delany,1,{},{}
+1st innings,Scotland,5.4,MH Cross,GJ Delany,1,{},{}
+1st innings,Scotland,5.5,MA Jones,GJ Delany,1,{},{}
+1st innings,Scotland,5.6,MH Cross,GJ Delany,0,{},{}
+1st innings,Scotland,6.1,MA Jones,BJ McCarthy,1,{},{}
+1st innings,Scotland,6.2,MH Cross,BJ McCarthy,1,{},{}
+1st innings,Scotland,6.3,MA Jones,BJ McCarthy,6,{},{}
+1st innings,Scotland,6.4,MA Jones,BJ McCarthy,1,{},{}
+1st innings,Scotland,6.5,MH Cross,BJ McCarthy,4,{},{}
+1st innings,Scotland,6.6,MH Cross,BJ McCarthy,0,{},{}
+1st innings,Scotland,7.1,MA Jones,Simi Singh,1,{},{}
+1st innings,Scotland,7.2,MH Cross,Simi Singh,1,{},{}
+1st innings,Scotland,7.3,MA Jones,Simi Singh,0,{},{}
+1st innings,Scotland,7.4,MA Jones,Simi Singh,4,{},{}
+1st innings,Scotland,7.5,MA Jones,Simi Singh,1,{},{}
+1st innings,Scotland,7.6,MH Cross,Simi Singh,1,{},{}
+1st innings,Scotland,8.1,MH Cross,C Campher,0,{},"{'player_out': 'MH Cross', 'fielders': ['BJ McCarthy'], 'kind': 'caught'}"
+1st innings,Scotland,8.2,RD Berrington,C Campher,0,{},{}
+1st innings,Scotland,8.3,RD Berrington,C Campher,0,{},{}
+1st innings,Scotland,8.4,RD Berrington,C Campher,4,{},{}
+1st innings,Scotland,8.5,RD Berrington,C Campher,0,{},{}
+1st innings,Scotland,8.6,RD Berrington,C Campher,0,{},{}
+1st innings,Scotland,9.1,MA Jones,GH Dockrell,1,{},{}
+1st innings,Scotland,9.2,RD Berrington,GH Dockrell,2,{},{}
+1st innings,Scotland,9.3,RD Berrington,GH Dockrell,0,{},{}
+1st innings,Scotland,9.4,RD Berrington,GH Dockrell,1,{},{}
+1st innings,Scotland,9.5,MA Jones,GH Dockrell,4,{},{}
+1st innings,Scotland,9.6,MA Jones,GH Dockrell,1,{},{}
+1st innings,Scotland,10.1,MA Jones,J Little,2,{},{}
+1st innings,Scotland,10.2,MA Jones,J Little,1,{},{}
+1st innings,Scotland,10.3,RD Berrington,J Little,1,{},{}
+1st innings,Scotland,10.4,MA Jones,J Little,6,{},{}
+1st innings,Scotland,10.5,MA Jones,J Little,0,{},{}
+1st innings,Scotland,10.6,MA Jones,J Little,1,{'wides': 1},{}
+1st innings,Scotland,10.7,MA Jones,J Little,0,{},{}
+1st innings,Scotland,11.1,RD Berrington,GJ Delany,2,{},{}
+1st innings,Scotland,11.2,RD Berrington,GJ Delany,0,{},{}
+1st innings,Scotland,11.3,RD Berrington,GJ Delany,1,{},{}
+1st innings,Scotland,11.4,MA Jones,GJ Delany,1,{},{}
+1st innings,Scotland,11.5,RD Berrington,GJ Delany,1,{},{}
+1st innings,Scotland,11.6,MA Jones,GJ Delany,1,{},{}
+1st innings,Scotland,12.1,MA Jones,BJ McCarthy,1,{},{}
+1st innings,Scotland,12.2,RD Berrington,BJ McCarthy,0,{},{}
+1st innings,Scotland,12.3,RD Berrington,BJ McCarthy,2,{},{}
+1st innings,Scotland,12.4,RD Berrington,BJ McCarthy,4,{},{}
+1st innings,Scotland,12.5,RD Berrington,BJ McCarthy,6,{},{}
+1st innings,Scotland,12.6,RD Berrington,BJ McCarthy,1,{},{}
+1st innings,Scotland,13.1,RD Berrington,Simi Singh,4,{},{}
+1st innings,Scotland,13.2,RD Berrington,Simi Singh,1,{},{}
+1st innings,Scotland,13.3,MA Jones,Simi Singh,1,{},{}
+1st innings,Scotland,13.4,RD Berrington,Simi Singh,1,{},{}
+1st innings,Scotland,13.5,MA Jones,Simi Singh,0,{},{}
+1st innings,Scotland,13.6,MA Jones,Simi Singh,1,{},{}
+1st innings,Scotland,14.1,MA Jones,MR Adair,2,{},{}
+1st innings,Scotland,14.2,MA Jones,MR Adair,1,{},{}
+1st innings,Scotland,14.3,RD Berrington,MR Adair,1,{},{}
+1st innings,Scotland,14.4,MA Jones,MR Adair,1,{'wides': 1},{}
+1st innings,Scotland,14.5,MA Jones,MR Adair,1,{'wides': 1},{}
+1st innings,Scotland,14.6,MA Jones,MR Adair,1,{},{}
+1st innings,Scotland,14.7,RD Berrington,MR Adair,2,{},{}
+1st innings,Scotland,14.8,RD Berrington,MR Adair,1,{},{}
+1st innings,Scotland,15.1,RD Berrington,GJ Delany,1,{},{}
+1st innings,Scotland,15.2,MA Jones,GJ Delany,1,{},{}
+1st innings,Scotland,15.3,RD Berrington,GJ Delany,1,{},{}
+1st innings,Scotland,15.4,MA Jones,GJ Delany,2,{},{}
+1st innings,Scotland,15.5,MA Jones,GJ Delany,6,{},{}
+1st innings,Scotland,15.6,MA Jones,GJ Delany,4,{},{}
+1st innings,Scotland,16.1,RD Berrington,C Campher,0,{},"{'player_out': 'RD Berrington', 'fielders': ['GH Dockrell'], 'kind': 'caught'}"
+1st innings,Scotland,16.2,MA Leask,C Campher,0,{},{}
+1st innings,Scotland,16.3,MA Leask,C Campher,1,{},{}
+1st innings,Scotland,16.4,MA Jones,C Campher,2,{},{}
+1st innings,Scotland,16.5,MA Jones,C Campher,1,{},{}
+1st innings,Scotland,16.6,MA Leask,C Campher,1,{},{}
+1st innings,Scotland,17.1,MA Leask,BJ McCarthy,1,{},{}
+1st innings,Scotland,17.2,MA Jones,BJ McCarthy,7,{'noballs': 1},{}
+1st innings,Scotland,17.3,MA Jones,BJ McCarthy,1,{},{}
+1st innings,Scotland,17.4,MA Leask,BJ McCarthy,4,{},{}
+1st innings,Scotland,17.5,MA Leask,BJ McCarthy,2,{},{}
+1st innings,Scotland,17.6,MA Leask,BJ McCarthy,2,{},{}
+1st innings,Scotland,17.7,MA Leask,BJ McCarthy,1,{'wides': 1},{}
+1st innings,Scotland,17.8,MA Leask,BJ McCarthy,1,{},{}
+1st innings,Scotland,18.1,MA Leask,J Little,1,{},{}
+1st innings,Scotland,18.2,MA Jones,J Little,2,{},{}
+1st innings,Scotland,18.3,MA Jones,J Little,4,{},{}
+1st innings,Scotland,18.4,MA Jones,J Little,2,{},{}
+1st innings,Scotland,18.5,MA Jones,J Little,0,{},"{'player_out': 'MA Jones', 'fielders': ['MR Adair'], 'kind': 'caught'}"
+1st innings,Scotland,18.6,CS MacLeod,J Little,0,{},{}
+1st innings,Scotland,19.1,MA Leask,MR Adair,1,{'legbyes': 1},{}
+1st innings,Scotland,19.2,CS MacLeod,MR Adair,0,{},{}
+1st innings,Scotland,19.3,CS MacLeod,MR Adair,1,{'legbyes': 1},{}
+1st innings,Scotland,19.4,MA Leask,MR Adair,0,{},{}
+1st innings,Scotland,19.5,MA Leask,MR Adair,4,{},{}
+1st innings,Scotland,19.6,MA Leask,MR Adair,0,{},"{'player_out': 'CS MacLeod', 'fielders': ['L Tucker'], 'kind': 'run out'}"
+2nd innings,Ireland,0.1,PR Stirling,MRJ Watt,0,{},{}
+2nd innings,Ireland,0.2,PR Stirling,MRJ Watt,1,{},{}
+2nd innings,Ireland,0.3,A Balbirnie,MRJ Watt,4,{},{}
+2nd innings,Ireland,0.4,A Balbirnie,MRJ Watt,0,{},{}
+2nd innings,Ireland,0.5,A Balbirnie,MRJ Watt,0,{},{}
+2nd innings,Ireland,0.6,A Balbirnie,MRJ Watt,0,{},{}
+2nd innings,Ireland,1.1,PR Stirling,BTJ Wheal,0,{},{}
+2nd innings,Ireland,1.2,PR Stirling,BTJ Wheal,1,{},{}
+2nd innings,Ireland,1.3,A Balbirnie,BTJ Wheal,1,{},{}
+2nd innings,Ireland,1.4,PR Stirling,BTJ Wheal,1,{},{}
+2nd innings,Ireland,1.5,A Balbirnie,BTJ Wheal,0,{},{}
+2nd innings,Ireland,1.6,A Balbirnie,BTJ Wheal,1,{},{}
+2nd innings,Ireland,2.1,A Balbirnie,JH Davey,1,{},{}
+2nd innings,Ireland,2.2,PR Stirling,JH Davey,1,{},{}
+2nd innings,Ireland,2.3,A Balbirnie,JH Davey,4,{},{}
+2nd innings,Ireland,2.4,A Balbirnie,JH Davey,1,{},{}
+2nd innings,Ireland,2.5,PR Stirling,JH Davey,0,{},{}
+2nd innings,Ireland,2.6,PR Stirling,JH Davey,4,{},{}
+2nd innings,Ireland,3.1,A Balbirnie,BTJ Wheal,2,{},{}
+2nd innings,Ireland,3.2,A Balbirnie,BTJ Wheal,0,{},"{'player_out': 'A Balbirnie', 'fielders': ['MA Jones'], 'kind': 'caught'}"
+2nd innings,Ireland,3.3,L Tucker,BTJ Wheal,0,{},{}
+2nd innings,Ireland,3.4,L Tucker,BTJ Wheal,0,{},{}
+2nd innings,Ireland,3.5,L Tucker,BTJ Wheal,1,{'legbyes': 1},{}
+2nd innings,Ireland,3.6,PR Stirling,BTJ Wheal,0,{},{}
+2nd innings,Ireland,4.1,L Tucker,SM Sharif,4,{},{}
+2nd innings,Ireland,4.2,L Tucker,SM Sharif,1,{'wides': 1},{}
+2nd innings,Ireland,4.3,L Tucker,SM Sharif,1,{},{}
+2nd innings,Ireland,4.4,PR Stirling,SM Sharif,0,{},"{'player_out': 'PR Stirling', 'fielders': ['MH Cross'], 'kind': 'caught'}"
+2nd innings,Ireland,4.5,HT Tector,SM Sharif,0,{},{}
+2nd innings,Ireland,4.6,HT Tector,SM Sharif,1,{},{}
+2nd innings,Ireland,4.7,L Tucker,SM Sharif,4,{},{}
+2nd innings,Ireland,5.1,HT Tector,JH Davey,0,{},{}
+2nd innings,Ireland,5.2,HT Tector,JH Davey,0,{},{}
+2nd innings,Ireland,5.3,HT Tector,JH Davey,1,{},{}
+2nd innings,Ireland,5.4,L Tucker,JH Davey,1,{},{}
+2nd innings,Ireland,5.5,HT Tector,JH Davey,1,{},{}
+2nd innings,Ireland,5.6,L Tucker,JH Davey,0,{},{}
+2nd innings,Ireland,6.1,HT Tector,SM Sharif,0,{},{}
+2nd innings,Ireland,6.2,HT Tector,SM Sharif,4,{},{}
+2nd innings,Ireland,6.3,HT Tector,SM Sharif,1,{},{}
+2nd innings,Ireland,6.4,L Tucker,SM Sharif,2,{},{}
+2nd innings,Ireland,6.5,L Tucker,SM Sharif,1,{},{}
+2nd innings,Ireland,6.6,HT Tector,SM Sharif,1,{},{}
+2nd innings,Ireland,7.1,HT Tector,CN Greaves,1,{},{}
+2nd innings,Ireland,7.2,L Tucker,CN Greaves,1,{},{}
+2nd innings,Ireland,7.3,HT Tector,CN Greaves,1,{},{}
+2nd innings,Ireland,7.4,L Tucker,CN Greaves,1,{'wides': 1},{}
+2nd innings,Ireland,7.5,L Tucker,CN Greaves,1,{},{}
+2nd innings,Ireland,7.6,HT Tector,CN Greaves,1,{},{}
+2nd innings,Ireland,7.7,L Tucker,CN Greaves,1,{},{}
+2nd innings,Ireland,8.1,L Tucker,MRJ Watt,2,{},{}
+2nd innings,Ireland,8.2,L Tucker,MRJ Watt,2,{},{}
+2nd innings,Ireland,8.3,L Tucker,MRJ Watt,0,{},{}
+2nd innings,Ireland,8.4,L Tucker,MRJ Watt,0,{},"{'player_out': 'L Tucker', 'fielders': ['JH Davey'], 'kind': 'caught'}"
+2nd innings,Ireland,8.5,C Campher,MRJ Watt,1,{},{}
+2nd innings,Ireland,8.6,HT Tector,MRJ Watt,1,{},{}
+2nd innings,Ireland,9.1,HT Tector,MA Leask,1,{},{}
+2nd innings,Ireland,9.2,C Campher,MA Leask,1,{},{}
+2nd innings,Ireland,9.3,HT Tector,MA Leask,0,{},"{'player_out': 'HT Tector', 'fielders': ['CN Greaves'], 'kind': 'caught'}"
+2nd innings,Ireland,9.4,GH Dockrell,MA Leask,1,{},{}
+2nd innings,Ireland,9.5,C Campher,MA Leask,2,{},{}
+2nd innings,Ireland,9.6,C Campher,MA Leask,1,{},{}
+2nd innings,Ireland,10.1,C Campher,BTJ Wheal,1,{},{}
+2nd innings,Ireland,10.2,GH Dockrell,BTJ Wheal,0,{},{}
+2nd innings,Ireland,10.3,GH Dockrell,BTJ Wheal,0,{},{}
+2nd innings,Ireland,10.4,GH Dockrell,BTJ Wheal,4,{},{}
+2nd innings,Ireland,10.5,GH Dockrell,BTJ Wheal,0,{},{}
+2nd innings,Ireland,10.6,GH Dockrell,BTJ Wheal,1,{},{}
+2nd innings,Ireland,11.1,GH Dockrell,CN Greaves,1,{},{}
+2nd innings,Ireland,11.2,C Campher,CN Greaves,1,{},{}
+2nd innings,Ireland,11.3,GH Dockrell,CN Greaves,0,{},{}
+2nd innings,Ireland,11.4,GH Dockrell,CN Greaves,2,{},{}
+2nd innings,Ireland,11.5,GH Dockrell,CN Greaves,6,{},{}
+2nd innings,Ireland,11.6,GH Dockrell,CN Greaves,1,{},{}
+2nd innings,Ireland,12.1,GH Dockrell,MRJ Watt,4,{'wides': 4},{}
+2nd innings,Ireland,12.2,C Campher,MRJ Watt,6,{},{}
+2nd innings,Ireland,12.3,C Campher,MRJ Watt,0,{},{}
+2nd innings,Ireland,12.4,C Campher,MRJ Watt,2,{},{}
+2nd innings,Ireland,12.5,C Campher,MRJ Watt,3,{},{}
+2nd innings,Ireland,12.6,GH Dockrell,MRJ Watt,2,{},{}
+2nd innings,Ireland,12.7,GH Dockrell,MRJ Watt,1,{},{}
+2nd innings,Ireland,13.1,GH Dockrell,MA Leask,1,{},{}
+2nd innings,Ireland,13.2,C Campher,MA Leask,2,{},{}
+2nd innings,Ireland,13.3,C Campher,MA Leask,4,{},{}
+2nd innings,Ireland,13.4,C Campher,MA Leask,2,{},{}
+2nd innings,Ireland,13.5,C Campher,MA Leask,1,{},{}
+2nd innings,Ireland,13.6,GH Dockrell,MA Leask,1,{'legbyes': 1},{}
+2nd innings,Ireland,14.1,GH Dockrell,BTJ Wheal,1,{'legbyes': 1},{}
+2nd innings,Ireland,14.2,C Campher,BTJ Wheal,6,{},{}
+2nd innings,Ireland,14.3,C Campher,BTJ Wheal,1,{},{}
+2nd innings,Ireland,14.4,GH Dockrell,BTJ Wheal,4,{},{}
+2nd innings,Ireland,14.5,GH Dockrell,BTJ Wheal,1,{},{}
+2nd innings,Ireland,14.6,C Campher,BTJ Wheal,1,{},{}
+2nd innings,Ireland,15.1,C Campher,JH Davey,2,{},{}
+2nd innings,Ireland,15.2,C Campher,JH Davey,1,{},{}
+2nd innings,Ireland,15.3,GH Dockrell,JH Davey,4,{},{}
+2nd innings,Ireland,15.4,GH Dockrell,JH Davey,4,{},{}
+2nd innings,Ireland,15.5,GH Dockrell,JH Davey,1,{},{}
+2nd innings,Ireland,15.6,C Campher,JH Davey,1,{'wides': 1},{}
+2nd innings,Ireland,15.7,C Campher,JH Davey,4,{},{}
+2nd innings,Ireland,16.1,GH Dockrell,MRJ Watt,0,{},{}
+2nd innings,Ireland,16.2,GH Dockrell,MRJ Watt,1,{},{}
+2nd innings,Ireland,16.3,C Campher,MRJ Watt,0,{},{}
+2nd innings,Ireland,16.4,C Campher,MRJ Watt,1,{'byes': 1},{}
+2nd innings,Ireland,16.5,GH Dockrell,MRJ Watt,2,{'wides': 2},{}
+2nd innings,Ireland,16.6,C Campher,MRJ Watt,4,{},{}
+2nd innings,Ireland,16.7,C Campher,MRJ Watt,3,{},{}
+2nd innings,Ireland,17.1,C Campher,SM Sharif,2,{},{}
+2nd innings,Ireland,17.2,C Campher,SM Sharif,1,{},{}
+2nd innings,Ireland,17.3,GH Dockrell,SM Sharif,1,{},{}
+2nd innings,Ireland,17.4,C Campher,SM Sharif,2,{},{}
+2nd innings,Ireland,17.5,C Campher,SM Sharif,2,{},{}
+2nd innings,Ireland,17.6,C Campher,SM Sharif,4,{},{}
+2nd innings,Ireland,18.1,GH Dockrell,JH Davey,0,{},{}
+2nd innings,Ireland,18.2,GH Dockrell,JH Davey,2,{},{}
+2nd innings,Ireland,18.3,GH Dockrell,JH Davey,1,{},{}
+2nd innings,Ireland,18.4,C Campher,JH Davey,4,{},{}
+2nd innings,Ireland,18.5,C Campher,JH Davey,4,{},{}
+2nd innings,Ireland,18.6,C Campher,JH Davey,4,{},{}

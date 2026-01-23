@@ -1,0 +1,246 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Pakistan,0.1,Ahmed Shehzad,MA Starc,4,{},{}
+1st innings,Pakistan,0.2,Ahmed Shehzad,MA Starc,1,{},{}
+1st innings,Pakistan,0.3,Kamran Akmal,MA Starc,0,{},{}
+1st innings,Pakistan,0.4,Kamran Akmal,MA Starc,0,{},{}
+1st innings,Pakistan,0.5,Kamran Akmal,MA Starc,1,{},{}
+1st innings,Pakistan,0.6,Ahmed Shehzad,MA Starc,0,{},{}
+1st innings,Pakistan,1.1,Kamran Akmal,DE Bollinger,0,{},{}
+1st innings,Pakistan,1.2,Kamran Akmal,DE Bollinger,1,{},{}
+1st innings,Pakistan,1.3,Ahmed Shehzad,DE Bollinger,0,{},{}
+1st innings,Pakistan,1.4,Ahmed Shehzad,DE Bollinger,0,{},"{'kind': 'caught and bowled', 'player_out': 'Ahmed Shehzad'}"
+1st innings,Pakistan,1.5,Mohammad Hafeez,DE Bollinger,2,{},{}
+1st innings,Pakistan,1.6,Mohammad Hafeez,DE Bollinger,0,{},{}
+1st innings,Pakistan,2.1,Kamran Akmal,MA Starc,1,{'wides': 1},{}
+1st innings,Pakistan,2.2,Kamran Akmal,MA Starc,0,{},{}
+1st innings,Pakistan,2.3,Kamran Akmal,MA Starc,4,{},{}
+1st innings,Pakistan,2.4,Kamran Akmal,MA Starc,0,{},{}
+1st innings,Pakistan,2.5,Kamran Akmal,MA Starc,0,{},{}
+1st innings,Pakistan,2.6,Kamran Akmal,MA Starc,0,{},{}
+1st innings,Pakistan,2.7,Kamran Akmal,MA Starc,0,{},{}
+1st innings,Pakistan,3.1,Mohammad Hafeez,DE Bollinger,2,{},{}
+1st innings,Pakistan,3.2,Mohammad Hafeez,DE Bollinger,0,{},{}
+1st innings,Pakistan,3.3,Mohammad Hafeez,DE Bollinger,0,{},{}
+1st innings,Pakistan,3.4,Mohammad Hafeez,DE Bollinger,4,{},{}
+1st innings,Pakistan,3.5,Mohammad Hafeez,DE Bollinger,4,{},{}
+1st innings,Pakistan,3.6,Mohammad Hafeez,DE Bollinger,1,{},{}
+1st innings,Pakistan,4.1,Mohammad Hafeez,SR Watson,0,{},{}
+1st innings,Pakistan,4.2,Mohammad Hafeez,SR Watson,0,{},"{'kind': 'bowled', 'player_out': 'Mohammad Hafeez'}"
+1st innings,Pakistan,4.3,Umar Akmal,SR Watson,2,{},{}
+1st innings,Pakistan,4.4,Umar Akmal,SR Watson,2,{},{}
+1st innings,Pakistan,4.5,Umar Akmal,SR Watson,0,{},{}
+1st innings,Pakistan,4.6,Umar Akmal,SR Watson,0,{},{}
+1st innings,Pakistan,5.1,Kamran Akmal,NM Coulter-Nile,1,{'legbyes': 1},{}
+1st innings,Pakistan,5.2,Umar Akmal,NM Coulter-Nile,0,{},{}
+1st innings,Pakistan,5.3,Umar Akmal,NM Coulter-Nile,0,{},{}
+1st innings,Pakistan,5.4,Umar Akmal,NM Coulter-Nile,4,{},{}
+1st innings,Pakistan,5.5,Umar Akmal,NM Coulter-Nile,1,{'legbyes': 1},{}
+1st innings,Pakistan,5.6,Kamran Akmal,NM Coulter-Nile,1,{},{}
+1st innings,Pakistan,6.1,Kamran Akmal,SR Watson,0,{},{}
+1st innings,Pakistan,6.2,Kamran Akmal,SR Watson,0,{},{}
+1st innings,Pakistan,6.3,Kamran Akmal,SR Watson,1,{},{}
+1st innings,Pakistan,6.4,Umar Akmal,SR Watson,0,{},{}
+1st innings,Pakistan,6.5,Umar Akmal,SR Watson,4,{},{}
+1st innings,Pakistan,6.6,Umar Akmal,SR Watson,1,{},{}
+1st innings,Pakistan,7.1,Umar Akmal,NM Coulter-Nile,3,{'wides': 3},{}
+1st innings,Pakistan,7.2,Umar Akmal,NM Coulter-Nile,4,{},{}
+1st innings,Pakistan,7.3,Umar Akmal,NM Coulter-Nile,0,{},{}
+1st innings,Pakistan,7.4,Umar Akmal,NM Coulter-Nile,1,{},{}
+1st innings,Pakistan,7.5,Kamran Akmal,NM Coulter-Nile,1,{},{}
+1st innings,Pakistan,7.6,Umar Akmal,NM Coulter-Nile,4,{},{}
+1st innings,Pakistan,7.7,Umar Akmal,NM Coulter-Nile,1,{},{}
+1st innings,Pakistan,8.1,Umar Akmal,GB Hogg,1,{},{}
+1st innings,Pakistan,8.2,Kamran Akmal,GB Hogg,4,{},{}
+1st innings,Pakistan,8.3,Kamran Akmal,GB Hogg,4,{},{}
+1st innings,Pakistan,8.4,Kamran Akmal,GB Hogg,1,{},{}
+1st innings,Pakistan,8.5,Umar Akmal,GB Hogg,1,{},{}
+1st innings,Pakistan,8.6,Kamran Akmal,GB Hogg,2,{},{}
+1st innings,Pakistan,9.1,Umar Akmal,SR Watson,1,{},{}
+1st innings,Pakistan,9.2,Kamran Akmal,SR Watson,1,{},{}
+1st innings,Pakistan,9.3,Umar Akmal,SR Watson,1,{},{}
+1st innings,Pakistan,9.4,Kamran Akmal,SR Watson,2,{'noballs': 1},{}
+1st innings,Pakistan,9.5,Umar Akmal,SR Watson,6,{},{}
+1st innings,Pakistan,9.6,Umar Akmal,SR Watson,1,{},{}
+1st innings,Pakistan,9.7,Kamran Akmal,SR Watson,2,{},{}
+1st innings,Pakistan,10.1,Umar Akmal,GB Hogg,1,{},{}
+1st innings,Pakistan,10.2,Kamran Akmal,GB Hogg,5,{'wides': 5},{}
+1st innings,Pakistan,10.3,Kamran Akmal,GB Hogg,4,{},{}
+1st innings,Pakistan,10.4,Kamran Akmal,GB Hogg,1,{'legbyes': 1},{}
+1st innings,Pakistan,10.5,Umar Akmal,GB Hogg,1,{},{}
+1st innings,Pakistan,10.6,Kamran Akmal,GB Hogg,0,{},{}
+1st innings,Pakistan,10.7,Kamran Akmal,GB Hogg,1,{},{}
+1st innings,Pakistan,11.1,Kamran Akmal,AJ Finch,1,{},{}
+1st innings,Pakistan,11.2,Umar Akmal,AJ Finch,6,{},{}
+1st innings,Pakistan,11.3,Umar Akmal,AJ Finch,4,{},{}
+1st innings,Pakistan,11.4,Umar Akmal,AJ Finch,0,{},{}
+1st innings,Pakistan,11.5,Umar Akmal,AJ Finch,6,{},{}
+1st innings,Pakistan,11.6,Umar Akmal,AJ Finch,1,{},{}
+1st innings,Pakistan,12.1,Umar Akmal,NM Coulter-Nile,1,{},{}
+1st innings,Pakistan,12.2,Kamran Akmal,NM Coulter-Nile,1,{},{}
+1st innings,Pakistan,12.3,Umar Akmal,NM Coulter-Nile,4,{},{}
+1st innings,Pakistan,12.4,Umar Akmal,NM Coulter-Nile,1,{},{}
+1st innings,Pakistan,12.5,Kamran Akmal,NM Coulter-Nile,0,{},"{'fielders': ['DA Warner'], 'kind': 'caught', 'player_out': 'Kamran Akmal'}"
+1st innings,Pakistan,12.6,Umar Akmal,NM Coulter-Nile,2,{},{}
+1st innings,Pakistan,13.1,Sohaib Maqsood,GB Hogg,4,{'byes': 4},{}
+1st innings,Pakistan,13.2,Sohaib Maqsood,GB Hogg,1,{},{}
+1st innings,Pakistan,13.3,Umar Akmal,GB Hogg,1,{},{}
+1st innings,Pakistan,13.4,Sohaib Maqsood,GB Hogg,1,{},{}
+1st innings,Pakistan,13.5,Umar Akmal,GB Hogg,0,{},{}
+1st innings,Pakistan,13.6,Umar Akmal,GB Hogg,1,{},{}
+1st innings,Pakistan,14.1,Umar Akmal,DE Bollinger,4,{},{}
+1st innings,Pakistan,14.2,Umar Akmal,DE Bollinger,1,{},{}
+1st innings,Pakistan,14.3,Sohaib Maqsood,DE Bollinger,1,{},{}
+1st innings,Pakistan,14.4,Umar Akmal,DE Bollinger,1,{},{}
+1st innings,Pakistan,14.5,Sohaib Maqsood,DE Bollinger,1,{},{}
+1st innings,Pakistan,14.6,Umar Akmal,DE Bollinger,1,{},{}
+1st innings,Pakistan,15.1,Umar Akmal,NM Coulter-Nile,4,{},{}
+1st innings,Pakistan,15.2,Umar Akmal,NM Coulter-Nile,1,{},{}
+1st innings,Pakistan,15.3,Sohaib Maqsood,NM Coulter-Nile,1,{},{}
+1st innings,Pakistan,15.4,Umar Akmal,NM Coulter-Nile,1,{},{}
+1st innings,Pakistan,15.5,Sohaib Maqsood,NM Coulter-Nile,0,{},"{'kind': 'bowled', 'player_out': 'Sohaib Maqsood'}"
+1st innings,Pakistan,15.6,Shahid Afridi,NM Coulter-Nile,1,{},{}
+1st innings,Pakistan,16.1,Shahid Afridi,SR Watson,0,{},{}
+1st innings,Pakistan,16.2,Shahid Afridi,SR Watson,2,{},{}
+1st innings,Pakistan,16.3,Shahid Afridi,SR Watson,6,{},{}
+1st innings,Pakistan,16.4,Shahid Afridi,SR Watson,1,{},{}
+1st innings,Pakistan,16.5,Umar Akmal,SR Watson,1,{},{}
+1st innings,Pakistan,16.6,Shahid Afridi,SR Watson,4,{},{}
+1st innings,Pakistan,17.1,Umar Akmal,MA Starc,4,{},{}
+1st innings,Pakistan,17.2,Umar Akmal,MA Starc,1,{},{}
+1st innings,Pakistan,17.3,Shahid Afridi,MA Starc,0,{},{}
+1st innings,Pakistan,17.4,Shahid Afridi,MA Starc,1,{},{}
+1st innings,Pakistan,17.5,Umar Akmal,MA Starc,6,{},{}
+1st innings,Pakistan,17.6,Umar Akmal,MA Starc,1,{},{}
+1st innings,Pakistan,18.1,Umar Akmal,DE Bollinger,0,{},{}
+1st innings,Pakistan,18.2,Umar Akmal,DE Bollinger,0,{},{}
+1st innings,Pakistan,18.3,Umar Akmal,DE Bollinger,2,{},{}
+1st innings,Pakistan,18.4,Umar Akmal,DE Bollinger,2,{},{}
+1st innings,Pakistan,18.5,Umar Akmal,DE Bollinger,1,{},{}
+1st innings,Pakistan,18.6,Shahid Afridi,DE Bollinger,0,{},{}
+1st innings,Pakistan,19.1,Umar Akmal,MA Starc,0,{},"{'fielders': ['GJ Maxwell'], 'kind': 'caught', 'player_out': 'Umar Akmal'}"
+1st innings,Pakistan,19.2,Shahid Afridi,MA Starc,4,{},{}
+1st innings,Pakistan,19.3,Shahid Afridi,MA Starc,1,{},{}
+1st innings,Pakistan,19.4,Shoaib Malik,MA Starc,4,{},{}
+1st innings,Pakistan,19.5,Shoaib Malik,MA Starc,0,{},{}
+1st innings,Pakistan,19.6,Shoaib Malik,MA Starc,2,{},{}
+2nd innings,Australia,0.1,DA Warner,Zulfiqar Babar,4,{},{}
+2nd innings,Australia,0.2,DA Warner,Zulfiqar Babar,0,{},"{'kind': 'bowled', 'player_out': 'DA Warner'}"
+2nd innings,Australia,0.3,SR Watson,Zulfiqar Babar,0,{},{}
+2nd innings,Australia,0.4,SR Watson,Zulfiqar Babar,0,{},{}
+2nd innings,Australia,0.5,SR Watson,Zulfiqar Babar,4,{},{}
+2nd innings,Australia,0.6,SR Watson,Zulfiqar Babar,0,{},"{'fielders': ['Kamran Akmal'], 'kind': 'caught', 'player_out': 'SR Watson'}"
+2nd innings,Australia,1.1,AJ Finch,Mohammad Hafeez,0,{},{}
+2nd innings,Australia,1.2,AJ Finch,Mohammad Hafeez,0,{},{}
+2nd innings,Australia,1.3,AJ Finch,Mohammad Hafeez,1,{},{}
+2nd innings,Australia,1.4,GJ Maxwell,Mohammad Hafeez,0,{},{}
+2nd innings,Australia,1.5,GJ Maxwell,Mohammad Hafeez,1,{},{}
+2nd innings,Australia,1.6,AJ Finch,Mohammad Hafeez,1,{},{}
+2nd innings,Australia,2.1,AJ Finch,Zulfiqar Babar,1,{},{}
+2nd innings,Australia,2.2,GJ Maxwell,Zulfiqar Babar,0,{},{}
+2nd innings,Australia,2.3,GJ Maxwell,Zulfiqar Babar,4,{},{}
+2nd innings,Australia,2.4,GJ Maxwell,Zulfiqar Babar,4,{},{}
+2nd innings,Australia,2.5,GJ Maxwell,Zulfiqar Babar,0,{},{}
+2nd innings,Australia,2.6,GJ Maxwell,Zulfiqar Babar,0,{},{}
+2nd innings,Australia,3.1,AJ Finch,Mohammad Hafeez,0,{},{}
+2nd innings,Australia,3.2,AJ Finch,Mohammad Hafeez,1,{},{}
+2nd innings,Australia,3.3,GJ Maxwell,Mohammad Hafeez,6,{},{}
+2nd innings,Australia,3.4,GJ Maxwell,Mohammad Hafeez,1,{},{}
+2nd innings,Australia,3.5,AJ Finch,Mohammad Hafeez,1,{},{}
+2nd innings,Australia,3.6,GJ Maxwell,Mohammad Hafeez,6,{},{}
+2nd innings,Australia,4.1,AJ Finch,Umar Gul,0,{},{}
+2nd innings,Australia,4.2,AJ Finch,Umar Gul,0,{},{}
+2nd innings,Australia,4.3,AJ Finch,Umar Gul,0,{},{}
+2nd innings,Australia,4.4,AJ Finch,Umar Gul,1,{},{}
+2nd innings,Australia,4.5,GJ Maxwell,Umar Gul,4,{},{}
+2nd innings,Australia,4.6,GJ Maxwell,Umar Gul,4,{},{}
+2nd innings,Australia,5.1,AJ Finch,Saeed Ajmal,0,{},{}
+2nd innings,Australia,5.2,AJ Finch,Saeed Ajmal,1,{},{}
+2nd innings,Australia,5.3,GJ Maxwell,Saeed Ajmal,1,{},{}
+2nd innings,Australia,5.4,AJ Finch,Saeed Ajmal,6,{},{}
+2nd innings,Australia,5.5,AJ Finch,Saeed Ajmal,4,{},{}
+2nd innings,Australia,5.6,AJ Finch,Saeed Ajmal,1,{},{}
+2nd innings,Australia,6.1,AJ Finch,Shahid Afridi,1,{},{}
+2nd innings,Australia,6.2,GJ Maxwell,Shahid Afridi,1,{},{}
+2nd innings,Australia,6.3,AJ Finch,Shahid Afridi,0,{},{}
+2nd innings,Australia,6.4,AJ Finch,Shahid Afridi,6,{},{}
+2nd innings,Australia,6.5,AJ Finch,Shahid Afridi,1,{},{}
+2nd innings,Australia,6.6,GJ Maxwell,Shahid Afridi,6,{},{}
+2nd innings,Australia,7.1,AJ Finch,Bilawal Bhatti,4,{},{}
+2nd innings,Australia,7.2,AJ Finch,Bilawal Bhatti,1,{},{}
+2nd innings,Australia,7.3,GJ Maxwell,Bilawal Bhatti,4,{},{}
+2nd innings,Australia,7.4,GJ Maxwell,Bilawal Bhatti,6,{},{}
+2nd innings,Australia,7.5,GJ Maxwell,Bilawal Bhatti,6,{},{}
+2nd innings,Australia,7.6,GJ Maxwell,Bilawal Bhatti,5,{'noballs': 5},{}
+2nd innings,Australia,7.7,GJ Maxwell,Bilawal Bhatti,4,{},{}
+2nd innings,Australia,8.1,AJ Finch,Zulfiqar Babar,0,{},{}
+2nd innings,Australia,8.2,AJ Finch,Zulfiqar Babar,0,{},{}
+2nd innings,Australia,8.3,AJ Finch,Zulfiqar Babar,1,{},{}
+2nd innings,Australia,8.4,GJ Maxwell,Zulfiqar Babar,1,{},{}
+2nd innings,Australia,8.5,AJ Finch,Zulfiqar Babar,1,{},{}
+2nd innings,Australia,8.6,GJ Maxwell,Zulfiqar Babar,0,{},{}
+2nd innings,Australia,9.1,AJ Finch,Saeed Ajmal,1,{},{}
+2nd innings,Australia,9.2,GJ Maxwell,Saeed Ajmal,6,{},{}
+2nd innings,Australia,9.3,GJ Maxwell,Saeed Ajmal,4,{},{}
+2nd innings,Australia,9.4,GJ Maxwell,Saeed Ajmal,0,{},{}
+2nd innings,Australia,9.5,GJ Maxwell,Saeed Ajmal,1,{},{}
+2nd innings,Australia,9.6,AJ Finch,Saeed Ajmal,0,{},{}
+2nd innings,Australia,10.1,GJ Maxwell,Umar Gul,0,{},{}
+2nd innings,Australia,10.2,GJ Maxwell,Umar Gul,1,{},{}
+2nd innings,Australia,10.3,AJ Finch,Umar Gul,1,{},{}
+2nd innings,Australia,10.4,GJ Maxwell,Umar Gul,1,{},{}
+2nd innings,Australia,10.5,AJ Finch,Umar Gul,1,{},{}
+2nd innings,Australia,10.6,GJ Maxwell,Umar Gul,1,{},{}
+2nd innings,Australia,11.1,GJ Maxwell,Shahid Afridi,1,{},{}
+2nd innings,Australia,11.2,AJ Finch,Shahid Afridi,1,{},{}
+2nd innings,Australia,11.3,GJ Maxwell,Shahid Afridi,2,{'legbyes': 2},{}
+2nd innings,Australia,11.4,GJ Maxwell,Shahid Afridi,0,{},"{'fielders': ['Ahmed Shehzad'], 'kind': 'caught', 'player_out': 'GJ Maxwell'}"
+2nd innings,Australia,11.5,GJ Bailey,Shahid Afridi,0,{},{}
+2nd innings,Australia,11.6,GJ Bailey,Shahid Afridi,0,{},{}
+2nd innings,Australia,12.1,AJ Finch,Zulfiqar Babar,0,{},{}
+2nd innings,Australia,12.2,AJ Finch,Zulfiqar Babar,0,{},{}
+2nd innings,Australia,12.3,AJ Finch,Zulfiqar Babar,4,{},{}
+2nd innings,Australia,12.4,AJ Finch,Zulfiqar Babar,1,{},{}
+2nd innings,Australia,12.5,GJ Bailey,Zulfiqar Babar,0,{},{}
+2nd innings,Australia,12.6,GJ Bailey,Zulfiqar Babar,1,{},{}
+2nd innings,Australia,13.1,GJ Bailey,Shahid Afridi,0,{},{}
+2nd innings,Australia,13.2,GJ Bailey,Shahid Afridi,1,{},{}
+2nd innings,Australia,13.3,AJ Finch,Shahid Afridi,0,{},{}
+2nd innings,Australia,13.4,AJ Finch,Shahid Afridi,0,{},{}
+2nd innings,Australia,13.5,AJ Finch,Shahid Afridi,4,{},{}
+2nd innings,Australia,13.6,AJ Finch,Shahid Afridi,1,{},{}
+2nd innings,Australia,14.1,AJ Finch,Saeed Ajmal,0,{},{}
+2nd innings,Australia,14.2,AJ Finch,Saeed Ajmal,1,{'legbyes': 1},{}
+2nd innings,Australia,14.3,GJ Bailey,Saeed Ajmal,1,{},{}
+2nd innings,Australia,14.4,AJ Finch,Saeed Ajmal,1,{},{}
+2nd innings,Australia,14.5,GJ Bailey,Saeed Ajmal,1,{},{}
+2nd innings,Australia,14.6,AJ Finch,Saeed Ajmal,4,{},{}
+2nd innings,Australia,15.1,GJ Bailey,Shahid Afridi,0,{},"{'kind': 'bowled', 'player_out': 'GJ Bailey'}"
+2nd innings,Australia,15.2,BJ Hodge,Shahid Afridi,1,{},{}
+2nd innings,Australia,15.3,AJ Finch,Shahid Afridi,4,{},{}
+2nd innings,Australia,15.4,AJ Finch,Shahid Afridi,0,{},{}
+2nd innings,Australia,15.5,AJ Finch,Shahid Afridi,2,{},{}
+2nd innings,Australia,15.6,AJ Finch,Shahid Afridi,0,{},{}
+2nd innings,Australia,16.1,BJ Hodge,Umar Gul,1,{},{}
+2nd innings,Australia,16.2,AJ Finch,Umar Gul,1,{},{}
+2nd innings,Australia,16.3,BJ Hodge,Umar Gul,0,{},"{'fielders': ['Saeed Ajmal'], 'kind': 'caught', 'player_out': 'BJ Hodge'}"
+2nd innings,Australia,16.4,AJ Finch,Umar Gul,2,{},{}
+2nd innings,Australia,16.5,AJ Finch,Umar Gul,4,{},{}
+2nd innings,Australia,16.6,AJ Finch,Umar Gul,0,{},{}
+2nd innings,Australia,17.1,BJ Haddin,Saeed Ajmal,0,{},{}
+2nd innings,Australia,17.2,BJ Haddin,Saeed Ajmal,1,{},{}
+2nd innings,Australia,17.3,AJ Finch,Saeed Ajmal,0,{},{}
+2nd innings,Australia,17.4,AJ Finch,Saeed Ajmal,0,{},"{'kind': 'bowled', 'player_out': 'AJ Finch'}"
+2nd innings,Australia,17.5,NM Coulter-Nile,Saeed Ajmal,0,{},{}
+2nd innings,Australia,17.6,NM Coulter-Nile,Saeed Ajmal,0,{},{}
+2nd innings,Australia,18.1,BJ Haddin,Umar Gul,1,{},{}
+2nd innings,Australia,18.2,NM Coulter-Nile,Umar Gul,0,{},"{'kind': 'bowled', 'player_out': 'NM Coulter-Nile'}"
+2nd innings,Australia,18.3,MA Starc,Umar Gul,1,{},{}
+2nd innings,Australia,18.4,BJ Haddin,Umar Gul,2,{},{}
+2nd innings,Australia,18.5,BJ Haddin,Umar Gul,1,{},{}
+2nd innings,Australia,18.6,MA Starc,Umar Gul,2,{},{}
+2nd innings,Australia,19.1,BJ Haddin,Bilawal Bhatti,2,{},{}
+2nd innings,Australia,19.2,BJ Haddin,Bilawal Bhatti,1,{},"{'fielders': ['Kamran Akmal', 'Shahid Afridi'], 'kind': 'run out', 'player_out': 'MA Starc'}"
+2nd innings,Australia,19.3,GB Hogg,Bilawal Bhatti,1,{},{}
+2nd innings,Australia,19.4,BJ Haddin,Bilawal Bhatti,0,{},"{'fielders': ['Shoaib Malik'], 'kind': 'caught', 'player_out': 'BJ Haddin'}"
+2nd innings,Australia,19.5,GB Hogg,Bilawal Bhatti,2,{},{}
+2nd innings,Australia,19.6,GB Hogg,Bilawal Bhatti,0,{},"{'kind': 'bowled', 'player_out': 'GB Hogg'}"

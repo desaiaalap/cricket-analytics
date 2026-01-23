@@ -1,0 +1,243 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Pakistan,0.1,Mohammad Rizwan,R Trumpelmann,0,{},{}
+1st innings,Pakistan,0.2,Mohammad Rizwan,R Trumpelmann,0,{},{}
+1st innings,Pakistan,0.3,Mohammad Rizwan,R Trumpelmann,0,{},{}
+1st innings,Pakistan,0.4,Mohammad Rizwan,R Trumpelmann,0,{},{}
+1st innings,Pakistan,0.5,Mohammad Rizwan,R Trumpelmann,0,{},{}
+1st innings,Pakistan,0.6,Mohammad Rizwan,R Trumpelmann,0,{},{}
+1st innings,Pakistan,1.1,Babar Azam,D Wiese,0,{},{}
+1st innings,Pakistan,1.2,Babar Azam,D Wiese,3,{},{}
+1st innings,Pakistan,1.3,Mohammad Rizwan,D Wiese,0,{},{}
+1st innings,Pakistan,1.4,Mohammad Rizwan,D Wiese,1,{},{}
+1st innings,Pakistan,1.5,Babar Azam,D Wiese,0,{},{}
+1st innings,Pakistan,1.6,Babar Azam,D Wiese,0,{},{}
+1st innings,Pakistan,2.1,Mohammad Rizwan,R Trumpelmann,0,{},{}
+1st innings,Pakistan,2.2,Mohammad Rizwan,R Trumpelmann,0,{},{}
+1st innings,Pakistan,2.3,Mohammad Rizwan,R Trumpelmann,1,{},{}
+1st innings,Pakistan,2.4,Babar Azam,R Trumpelmann,0,{},{}
+1st innings,Pakistan,2.5,Babar Azam,R Trumpelmann,0,{},{}
+1st innings,Pakistan,2.6,Babar Azam,R Trumpelmann,1,{},{}
+1st innings,Pakistan,3.1,Babar Azam,D Wiese,2,{},{}
+1st innings,Pakistan,3.2,Babar Azam,D Wiese,0,{},{}
+1st innings,Pakistan,3.3,Babar Azam,D Wiese,4,{},{}
+1st innings,Pakistan,3.4,Babar Azam,D Wiese,0,{},{}
+1st innings,Pakistan,3.5,Babar Azam,D Wiese,0,{},{}
+1st innings,Pakistan,3.6,Babar Azam,D Wiese,1,{},{}
+1st innings,Pakistan,4.1,Babar Azam,JJ Smit,4,{},{}
+1st innings,Pakistan,4.2,Babar Azam,JJ Smit,0,{},{}
+1st innings,Pakistan,4.3,Babar Azam,JJ Smit,1,{},{}
+1st innings,Pakistan,4.4,Mohammad Rizwan,JJ Smit,0,{},{}
+1st innings,Pakistan,4.5,Mohammad Rizwan,JJ Smit,4,{},{}
+1st innings,Pakistan,4.6,Mohammad Rizwan,JJ Smit,1,{},{}
+1st innings,Pakistan,5.1,Mohammad Rizwan,JN Frylinck,0,{},{}
+1st innings,Pakistan,5.2,Mohammad Rizwan,JN Frylinck,0,{},{}
+1st innings,Pakistan,5.3,Mohammad Rizwan,JN Frylinck,1,{},{}
+1st innings,Pakistan,5.4,Babar Azam,JN Frylinck,4,{},{}
+1st innings,Pakistan,5.5,Babar Azam,JN Frylinck,0,{},{}
+1st innings,Pakistan,5.6,Babar Azam,JN Frylinck,1,{},{}
+1st innings,Pakistan,6.1,Babar Azam,B Shikongo,1,{},{}
+1st innings,Pakistan,6.2,Mohammad Rizwan,B Shikongo,0,{},{}
+1st innings,Pakistan,6.3,Mohammad Rizwan,B Shikongo,1,{},{}
+1st innings,Pakistan,6.4,Babar Azam,B Shikongo,2,{},{}
+1st innings,Pakistan,6.5,Babar Azam,B Shikongo,1,{},{}
+1st innings,Pakistan,6.6,Mohammad Rizwan,B Shikongo,2,{},{}
+1st innings,Pakistan,7.1,Babar Azam,JN Frylinck,2,{},{}
+1st innings,Pakistan,7.2,Babar Azam,JN Frylinck,1,{},{}
+1st innings,Pakistan,7.3,Mohammad Rizwan,JN Frylinck,1,{},{}
+1st innings,Pakistan,7.4,Babar Azam,JN Frylinck,2,{},{}
+1st innings,Pakistan,7.5,Babar Azam,JN Frylinck,2,{},{}
+1st innings,Pakistan,7.6,Babar Azam,JN Frylinck,1,{},{}
+1st innings,Pakistan,8.1,Babar Azam,JJ Smit,1,{},{}
+1st innings,Pakistan,8.2,Mohammad Rizwan,JJ Smit,1,{},{}
+1st innings,Pakistan,8.3,Babar Azam,JJ Smit,1,{},{}
+1st innings,Pakistan,8.4,Mohammad Rizwan,JJ Smit,1,{},{}
+1st innings,Pakistan,8.5,Babar Azam,JJ Smit,0,{},{}
+1st innings,Pakistan,8.6,Babar Azam,JJ Smit,1,{},{}
+1st innings,Pakistan,9.1,Babar Azam,JN Loftie-Eaton,1,{},{}
+1st innings,Pakistan,9.2,Mohammad Rizwan,JN Loftie-Eaton,1,{},{}
+1st innings,Pakistan,9.3,Babar Azam,JN Loftie-Eaton,4,{},{}
+1st innings,Pakistan,9.4,Babar Azam,JN Loftie-Eaton,1,{},{}
+1st innings,Pakistan,9.5,Mohammad Rizwan,JN Loftie-Eaton,1,{},{}
+1st innings,Pakistan,9.6,Babar Azam,JN Loftie-Eaton,1,{},{}
+1st innings,Pakistan,10.1,Babar Azam,B Shikongo,1,{},{}
+1st innings,Pakistan,10.2,Mohammad Rizwan,B Shikongo,4,{},{}
+1st innings,Pakistan,10.3,Mohammad Rizwan,B Shikongo,1,{},{}
+1st innings,Pakistan,10.4,Babar Azam,B Shikongo,1,{},{}
+1st innings,Pakistan,10.5,Mohammad Rizwan,B Shikongo,1,{},{}
+1st innings,Pakistan,10.6,Babar Azam,B Shikongo,4,{},{}
+1st innings,Pakistan,11.1,Mohammad Rizwan,R Trumpelmann,6,{},{}
+1st innings,Pakistan,11.2,Mohammad Rizwan,R Trumpelmann,1,{'legbyes': 1},{}
+1st innings,Pakistan,11.3,Babar Azam,R Trumpelmann,2,{},{}
+1st innings,Pakistan,11.4,Babar Azam,R Trumpelmann,4,{},{}
+1st innings,Pakistan,11.5,Babar Azam,R Trumpelmann,1,{},{}
+1st innings,Pakistan,11.6,Mohammad Rizwan,R Trumpelmann,4,{},{}
+1st innings,Pakistan,12.1,Babar Azam,JN Loftie-Eaton,2,{},{}
+1st innings,Pakistan,12.2,Babar Azam,JN Loftie-Eaton,1,{},{}
+1st innings,Pakistan,12.3,Mohammad Rizwan,JN Loftie-Eaton,6,{},{}
+1st innings,Pakistan,12.4,Mohammad Rizwan,JN Loftie-Eaton,0,{},{}
+1st innings,Pakistan,12.5,Mohammad Rizwan,JN Loftie-Eaton,1,{'legbyes': 1},{}
+1st innings,Pakistan,12.6,Babar Azam,JN Loftie-Eaton,2,{},{}
+1st innings,Pakistan,13.1,Mohammad Rizwan,JN Frylinck,1,{},{}
+1st innings,Pakistan,13.2,Babar Azam,JN Frylinck,1,{},{}
+1st innings,Pakistan,13.3,Mohammad Rizwan,JN Frylinck,1,{},{}
+1st innings,Pakistan,13.4,Babar Azam,JN Frylinck,3,{},{}
+1st innings,Pakistan,13.5,Mohammad Rizwan,JN Frylinck,1,{},{}
+1st innings,Pakistan,13.6,Babar Azam,JN Frylinck,1,{},{}
+1st innings,Pakistan,14.1,Babar Azam,D Wiese,4,{},{}
+1st innings,Pakistan,14.2,Babar Azam,D Wiese,0,{},"{'player_out': 'Babar Azam', 'fielders': ['JN Frylinck'], 'kind': 'caught'}"
+1st innings,Pakistan,14.3,Fakhar Zaman,D Wiese,1,{},{}
+1st innings,Pakistan,14.4,Mohammad Rizwan,D Wiese,2,{},{}
+1st innings,Pakistan,14.5,Mohammad Rizwan,D Wiese,1,{},{}
+1st innings,Pakistan,14.6,Fakhar Zaman,D Wiese,1,{},{}
+1st innings,Pakistan,15.1,Fakhar Zaman,JN Frylinck,1,{},{}
+1st innings,Pakistan,15.2,Mohammad Rizwan,JN Frylinck,1,{'legbyes': 1},{}
+1st innings,Pakistan,15.3,Fakhar Zaman,JN Frylinck,2,{},{}
+1st innings,Pakistan,15.4,Fakhar Zaman,JN Frylinck,0,{},"{'player_out': 'Fakhar Zaman', 'fielders': ['ZE Green'], 'kind': 'caught'}"
+1st innings,Pakistan,15.5,Mohammad Hafeez,JN Frylinck,4,{},{}
+1st innings,Pakistan,15.6,Mohammad Hafeez,JN Frylinck,1,{},{}
+1st innings,Pakistan,16.1,Mohammad Hafeez,JJ Smit,0,{},{}
+1st innings,Pakistan,16.2,Mohammad Hafeez,JJ Smit,2,{},{}
+1st innings,Pakistan,16.3,Mohammad Hafeez,JJ Smit,4,{},{}
+1st innings,Pakistan,16.4,Mohammad Hafeez,JJ Smit,4,{},{}
+1st innings,Pakistan,16.5,Mohammad Hafeez,JJ Smit,0,{},{}
+1st innings,Pakistan,16.6,Mohammad Hafeez,JJ Smit,1,{},{}
+1st innings,Pakistan,17.1,Mohammad Hafeez,R Trumpelmann,4,{},{}
+1st innings,Pakistan,17.2,Mohammad Hafeez,R Trumpelmann,4,{},{}
+1st innings,Pakistan,17.3,Mohammad Hafeez,R Trumpelmann,2,{},{}
+1st innings,Pakistan,17.4,Mohammad Hafeez,R Trumpelmann,2,{},{}
+1st innings,Pakistan,17.5,Mohammad Hafeez,R Trumpelmann,1,{},{}
+1st innings,Pakistan,17.6,Mohammad Rizwan,R Trumpelmann,4,{},{}
+1st innings,Pakistan,18.1,Mohammad Hafeez,D Wiese,2,{},{}
+1st innings,Pakistan,18.2,Mohammad Hafeez,D Wiese,0,{},{}
+1st innings,Pakistan,18.3,Mohammad Hafeez,D Wiese,1,{},{}
+1st innings,Pakistan,18.4,Mohammad Rizwan,D Wiese,6,{},{}
+1st innings,Pakistan,18.5,Mohammad Rizwan,D Wiese,0,{},{}
+1st innings,Pakistan,18.6,Mohammad Rizwan,D Wiese,1,{},{}
+1st innings,Pakistan,19.1,Mohammad Rizwan,JJ Smit,4,{},{}
+1st innings,Pakistan,19.2,Mohammad Rizwan,JJ Smit,6,{},{}
+1st innings,Pakistan,19.3,Mohammad Rizwan,JJ Smit,4,{},{}
+1st innings,Pakistan,19.4,Mohammad Rizwan,JJ Smit,4,{},{}
+1st innings,Pakistan,19.5,Mohammad Rizwan,JJ Smit,4,{},{}
+1st innings,Pakistan,19.6,Mohammad Rizwan,JJ Smit,2,{},{}
+2nd innings,Namibia,0.1,SJ Baard,Shaheen Shah Afridi,0,{},{}
+2nd innings,Namibia,0.2,SJ Baard,Shaheen Shah Afridi,0,{},{}
+2nd innings,Namibia,0.3,SJ Baard,Shaheen Shah Afridi,2,{},{}
+2nd innings,Namibia,0.4,SJ Baard,Shaheen Shah Afridi,0,{},{}
+2nd innings,Namibia,0.5,SJ Baard,Shaheen Shah Afridi,1,{},{}
+2nd innings,Namibia,0.6,M van Lingen,Shaheen Shah Afridi,4,{},{}
+2nd innings,Namibia,1.1,SJ Baard,Hasan Ali,0,{},{}
+2nd innings,Namibia,1.2,SJ Baard,Hasan Ali,1,{},{}
+2nd innings,Namibia,1.3,M van Lingen,Hasan Ali,0,{},"{'player_out': 'M van Lingen', 'kind': 'bowled'}"
+2nd innings,Namibia,1.4,CG Williams,Hasan Ali,0,{},{}
+2nd innings,Namibia,1.5,CG Williams,Hasan Ali,0,{},{}
+2nd innings,Namibia,1.6,CG Williams,Hasan Ali,0,{},{}
+2nd innings,Namibia,2.1,SJ Baard,Shaheen Shah Afridi,0,{},{}
+2nd innings,Namibia,2.2,SJ Baard,Shaheen Shah Afridi,2,{},{}
+2nd innings,Namibia,2.3,SJ Baard,Shaheen Shah Afridi,0,{},{}
+2nd innings,Namibia,2.4,SJ Baard,Shaheen Shah Afridi,4,{},{}
+2nd innings,Namibia,2.5,SJ Baard,Shaheen Shah Afridi,0,{},{}
+2nd innings,Namibia,2.6,SJ Baard,Shaheen Shah Afridi,1,{},{}
+2nd innings,Namibia,3.1,SJ Baard,Hasan Ali,0,{},{}
+2nd innings,Namibia,3.2,SJ Baard,Hasan Ali,0,{},{}
+2nd innings,Namibia,3.3,SJ Baard,Hasan Ali,3,{},{}
+2nd innings,Namibia,3.4,CG Williams,Hasan Ali,0,{},{}
+2nd innings,Namibia,3.5,CG Williams,Hasan Ali,4,{},{}
+2nd innings,Namibia,3.6,CG Williams,Hasan Ali,1,{},{}
+2nd innings,Namibia,4.1,CG Williams,Imad Wasim,0,{},{}
+2nd innings,Namibia,4.2,CG Williams,Imad Wasim,0,{},{}
+2nd innings,Namibia,4.3,CG Williams,Imad Wasim,0,{},{}
+2nd innings,Namibia,4.4,CG Williams,Imad Wasim,1,{},{}
+2nd innings,Namibia,4.5,SJ Baard,Imad Wasim,0,{},{}
+2nd innings,Namibia,4.6,SJ Baard,Imad Wasim,0,{},{}
+2nd innings,Namibia,5.1,CG Williams,Haris Rauf,1,{'wides': 1},{}
+2nd innings,Namibia,5.2,CG Williams,Haris Rauf,1,{},{}
+2nd innings,Namibia,5.3,SJ Baard,Haris Rauf,2,{},{}
+2nd innings,Namibia,5.4,SJ Baard,Haris Rauf,0,{},{}
+2nd innings,Namibia,5.5,SJ Baard,Haris Rauf,0,{},{}
+2nd innings,Namibia,5.6,SJ Baard,Haris Rauf,6,{},{}
+2nd innings,Namibia,5.7,SJ Baard,Haris Rauf,0,{},{}
+2nd innings,Namibia,6.1,CG Williams,Imad Wasim,0,{},{}
+2nd innings,Namibia,6.2,CG Williams,Imad Wasim,0,{},{}
+2nd innings,Namibia,6.3,CG Williams,Imad Wasim,0,{},{}
+2nd innings,Namibia,6.4,CG Williams,Imad Wasim,1,{},{}
+2nd innings,Namibia,6.5,SJ Baard,Imad Wasim,1,{},{}
+2nd innings,Namibia,6.6,CG Williams,Imad Wasim,4,{},{}
+2nd innings,Namibia,7.1,SJ Baard,Shadab Khan,1,{},{}
+2nd innings,Namibia,7.2,CG Williams,Shadab Khan,1,{},{}
+2nd innings,Namibia,7.3,SJ Baard,Shadab Khan,0,{},{}
+2nd innings,Namibia,7.4,SJ Baard,Shadab Khan,1,{},{}
+2nd innings,Namibia,7.5,CG Williams,Shadab Khan,1,{},{}
+2nd innings,Namibia,7.6,SJ Baard,Shadab Khan,1,{},{}
+2nd innings,Namibia,8.1,SJ Baard,Mohammad Hafeez,3,{},{}
+2nd innings,Namibia,8.2,CG Williams,Mohammad Hafeez,6,{},{}
+2nd innings,Namibia,8.3,CG Williams,Mohammad Hafeez,0,{},{}
+2nd innings,Namibia,8.4,CG Williams,Mohammad Hafeez,1,{},"{'player_out': 'SJ Baard', 'fielders': ['Mohammad Rizwan', 'Haris Rauf'], 'kind': 'run out'}"
+2nd innings,Namibia,8.5,MG Erasmus,Mohammad Hafeez,1,{},{}
+2nd innings,Namibia,8.6,CG Williams,Mohammad Hafeez,0,{},{}
+2nd innings,Namibia,9.1,MG Erasmus,Shadab Khan,1,{},{}
+2nd innings,Namibia,9.2,CG Williams,Shadab Khan,1,{},{}
+2nd innings,Namibia,9.3,MG Erasmus,Shadab Khan,2,{},{}
+2nd innings,Namibia,9.4,MG Erasmus,Shadab Khan,0,{},{}
+2nd innings,Namibia,9.5,MG Erasmus,Shadab Khan,6,{},{}
+2nd innings,Namibia,9.6,MG Erasmus,Shadab Khan,4,{},{}
+2nd innings,Namibia,10.1,CG Williams,Haris Rauf,0,{},{}
+2nd innings,Namibia,10.2,CG Williams,Haris Rauf,0,{},{}
+2nd innings,Namibia,10.3,CG Williams,Haris Rauf,0,{},{}
+2nd innings,Namibia,10.4,CG Williams,Haris Rauf,0,{},{}
+2nd innings,Namibia,10.5,CG Williams,Haris Rauf,0,{},{}
+2nd innings,Namibia,10.6,CG Williams,Haris Rauf,1,{},{}
+2nd innings,Namibia,11.1,CG Williams,Shadab Khan,1,{},{}
+2nd innings,Namibia,11.2,MG Erasmus,Shadab Khan,0,{},{}
+2nd innings,Namibia,11.3,MG Erasmus,Shadab Khan,0,{},{}
+2nd innings,Namibia,11.4,MG Erasmus,Shadab Khan,1,{},{}
+2nd innings,Namibia,11.5,CG Williams,Shadab Khan,4,{},{}
+2nd innings,Namibia,11.6,CG Williams,Shadab Khan,1,{},{}
+2nd innings,Namibia,12.1,CG Williams,Imad Wasim,4,{},{}
+2nd innings,Namibia,12.2,CG Williams,Imad Wasim,1,{},{}
+2nd innings,Namibia,12.3,MG Erasmus,Imad Wasim,0,{},"{'player_out': 'MG Erasmus', 'fielders': ['Shadab Khan'], 'kind': 'caught'}"
+2nd innings,Namibia,12.4,D Wiese,Imad Wasim,0,{},{}
+2nd innings,Namibia,12.5,D Wiese,Imad Wasim,0,{},{}
+2nd innings,Namibia,12.6,D Wiese,Imad Wasim,1,{},{}
+2nd innings,Namibia,13.1,D Wiese,Shadab Khan,2,{},{}
+2nd innings,Namibia,13.2,D Wiese,Shadab Khan,0,{},{}
+2nd innings,Namibia,13.3,D Wiese,Shadab Khan,1,{},{}
+2nd innings,Namibia,13.4,CG Williams,Shadab Khan,2,{},{}
+2nd innings,Namibia,13.5,CG Williams,Shadab Khan,4,{},{}
+2nd innings,Namibia,13.6,CG Williams,Shadab Khan,0,{},"{'player_out': 'CG Williams', 'fielders': ['Hasan Ali'], 'kind': 'caught'}"
+2nd innings,Namibia,14.1,D Wiese,Hasan Ali,0,{},{}
+2nd innings,Namibia,14.2,D Wiese,Hasan Ali,0,{},{}
+2nd innings,Namibia,14.3,D Wiese,Hasan Ali,2,{},{}
+2nd innings,Namibia,14.4,D Wiese,Hasan Ali,4,{},{}
+2nd innings,Namibia,14.5,D Wiese,Hasan Ali,1,{},{}
+2nd innings,Namibia,14.6,JJ Smit,Hasan Ali,1,{},{}
+2nd innings,Namibia,15.1,JJ Smit,Shaheen Shah Afridi,1,{},{}
+2nd innings,Namibia,15.2,D Wiese,Shaheen Shah Afridi,0,{},{}
+2nd innings,Namibia,15.3,D Wiese,Shaheen Shah Afridi,4,{},{}
+2nd innings,Namibia,15.4,D Wiese,Shaheen Shah Afridi,0,{},{}
+2nd innings,Namibia,15.5,D Wiese,Shaheen Shah Afridi,1,{},{}
+2nd innings,Namibia,15.6,JJ Smit,Shaheen Shah Afridi,0,{},{}
+2nd innings,Namibia,16.1,D Wiese,Haris Rauf,0,{},{}
+2nd innings,Namibia,16.2,D Wiese,Haris Rauf,2,{},{}
+2nd innings,Namibia,16.3,D Wiese,Haris Rauf,1,{},{}
+2nd innings,Namibia,16.4,JJ Smit,Haris Rauf,0,{},{}
+2nd innings,Namibia,16.5,JJ Smit,Haris Rauf,0,{},"{'player_out': 'JJ Smit', 'fielders': ['Fakhar Zaman'], 'kind': 'caught'}"
+2nd innings,Namibia,16.6,D Wiese,Haris Rauf,1,{'legbyes': 1},{}
+2nd innings,Namibia,17.1,D Wiese,Hasan Ali,1,{},{}
+2nd innings,Namibia,17.2,JN Loftie-Eaton,Hasan Ali,0,{},{}
+2nd innings,Namibia,17.3,JN Loftie-Eaton,Hasan Ali,1,{},{}
+2nd innings,Namibia,17.4,D Wiese,Hasan Ali,1,{},{}
+2nd innings,Namibia,17.5,JN Loftie-Eaton,Hasan Ali,2,{},{}
+2nd innings,Namibia,17.6,JN Loftie-Eaton,Hasan Ali,0,{},{}
+2nd innings,Namibia,18.1,D Wiese,Haris Rauf,6,{},{}
+2nd innings,Namibia,18.2,D Wiese,Haris Rauf,0,{},{}
+2nd innings,Namibia,18.3,D Wiese,Haris Rauf,2,{},{}
+2nd innings,Namibia,18.4,D Wiese,Haris Rauf,1,{'legbyes': 1},{}
+2nd innings,Namibia,18.5,JN Loftie-Eaton,Haris Rauf,2,{},{}
+2nd innings,Namibia,18.6,JN Loftie-Eaton,Haris Rauf,1,{},{}
+2nd innings,Namibia,19.1,JN Loftie-Eaton,Shaheen Shah Afridi,1,{},{}
+2nd innings,Namibia,19.2,D Wiese,Shaheen Shah Afridi,2,{},{}
+2nd innings,Namibia,19.3,D Wiese,Shaheen Shah Afridi,6,{},{}
+2nd innings,Namibia,19.4,D Wiese,Shaheen Shah Afridi,5,{'noballs': 1},{}
+2nd innings,Namibia,19.5,D Wiese,Shaheen Shah Afridi,0,{},{}
+2nd innings,Namibia,19.6,D Wiese,Shaheen Shah Afridi,2,{},{}
+2nd innings,Namibia,19.7,D Wiese,Shaheen Shah Afridi,0,{},{}

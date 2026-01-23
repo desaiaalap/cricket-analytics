@@ -1,0 +1,1875 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sharjah
+  competition: International League T20
+  dates:
+  - '2023-01-19'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Gulf Giants
+    by:
+      runs: 101
+  overs: 20
+  player_of_match:
+  - JM Vince
+  players:
+    Gulf Giants:
+    - Rehan Ahmed
+    - JM Vince
+    - CA Lynn
+    - MG Erasmus
+    - SO Hetmyer
+    - D Wiese
+    - LA Dawson
+    - CJ Jordan
+    - A Valthapa
+    - SM Sharma
+    - RJ Gleeson
+    Dubai Capitals:
+    - RV Uthappa
+    - JE Root
+    - Chirag Suri
+    - R Powell
+    - MD Shanaka
+    - YK Pathan
+    - FA Allen
+    - C Karunaratne
+    - I Udana
+    - Mujeeb Ur Rahman
+    - Akif Raja
+  registry:
+    people:
+      A Valthapa: ba7b21fd
+      Akbar Ali: e753931d
+      Akif Raja: 9d0344f3
+      C Karunaratne: fb3e0d39
+      CA Lynn: 45eda7c8
+      CJ Jordan: ffe699c0
+      Chirag Suri: 6176f240
+      D Wiese: aa8d28ae
+      FA Allen: b52ffbbd
+      I Udana: ac5ae4af
+      JE Root: a343262c
+      JM Vince: a15618fe
+      LA Dawson: 4a461c24
+      MD Shanaka: 3ff033bb
+      MG Erasmus: 95a5e066
+      MJ Saggers: 402d5937
+      Mujeeb Ur Rahman: 7d92277a
+      R Powell: 650d5e49
+      RA Kettleborough: 4017868f
+      RJ Gleeson: 402f8494
+      RSA Palliyaguruge: 4339c19d
+      RV Uthappa: 1c17e270
+      Rehan Ahmed: 0ecb4de6
+      SJA Taufel: 4b43d5ac
+      SM Sharma: cec44e08
+      SO Hetmyer: 48a1d7b7
+      YK Pathan: 3c6ffae8
+  teams:
+  - Gulf Giants
+  - Dubai Capitals
+  toss:
+    winner: Dubai Capitals
+    decision: field
+  umpires:
+  - Akbar Ali
+  - RSA Palliyaguruge
+  venue: Sharjah Cricket Stadium
+innings:
+- 1st innings:
+    team: Gulf Giants
+    deliveries:
+    - 0.1:
+        non_striker: JM Vince
+        bowler: I Udana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rehan Ahmed
+    - 0.2:
+        non_striker: Rehan Ahmed
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 0.3:
+        non_striker: Rehan Ahmed
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 0.4:
+        non_striker: Rehan Ahmed
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 0.5:
+        non_striker: Rehan Ahmed
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 0.6:
+        non_striker: JM Vince
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+    - 1.1:
+        non_striker: Rehan Ahmed
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 1.2:
+        non_striker: JM Vince
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+    - 1.3:
+        non_striker: JM Vince
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rehan Ahmed
+    - 1.4:
+        non_striker: JM Vince
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rehan Ahmed
+    - 1.5:
+        non_striker: JM Vince
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rehan Ahmed
+    - 1.6:
+        non_striker: JM Vince
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+    - 2.1:
+        non_striker: Rehan Ahmed
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 2.2:
+        non_striker: Rehan Ahmed
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 2.3:
+        non_striker: Rehan Ahmed
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 2.4:
+        non_striker: Rehan Ahmed
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 2.5:
+        non_striker: Rehan Ahmed
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 2.6:
+        non_striker: JM Vince
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+        wicket:
+          player_out: Rehan Ahmed
+          fielders:
+          - R Powell
+          kind: caught
+    - 3.1:
+        non_striker: CA Lynn
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 3.2:
+        non_striker: CA Lynn
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JM Vince
+    - 3.3:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 3.4:
+        non_striker: CA Lynn
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 3.5:
+        non_striker: CA Lynn
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 3.6:
+        non_striker: CA Lynn
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 4.1:
+        non_striker: JM Vince
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 4.2:
+        non_striker: JM Vince
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 4.3:
+        non_striker: JM Vince
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 4.4:
+        non_striker: JM Vince
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 4.5:
+        non_striker: JM Vince
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 4.6:
+        non_striker: CA Lynn
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 5.1:
+        non_striker: CA Lynn
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 5.2:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 5.3:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 5.4:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 5.5:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 5.6:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 6.1:
+        non_striker: JM Vince
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 6.2:
+        non_striker: JM Vince
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 6.3:
+        non_striker: CA Lynn
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 6.4:
+        non_striker: JM Vince
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 6.5:
+        non_striker: CA Lynn
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 6.6:
+        non_striker: CA Lynn
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 7.1:
+        non_striker: CA Lynn
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 7.2:
+        non_striker: JM Vince
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 7.3:
+        non_striker: CA Lynn
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 7.4:
+        non_striker: JM Vince
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 7.5:
+        non_striker: CA Lynn
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 7.6:
+        non_striker: JM Vince
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 8.1:
+        non_striker: CA Lynn
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 8.2:
+        non_striker: CA Lynn
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Vince
+    - 8.3:
+        non_striker: CA Lynn
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 8.4:
+        non_striker: JM Vince
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 8.5:
+        non_striker: CA Lynn
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 8.6:
+        non_striker: JM Vince
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 9.1:
+        non_striker: JM Vince
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 9.2:
+        non_striker: JM Vince
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 9.3:
+        non_striker: CA Lynn
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Vince
+    - 9.4:
+        non_striker: CA Lynn
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 9.5:
+        non_striker: CA Lynn
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Vince
+    - 9.6:
+        non_striker: CA Lynn
+        bowler: FA Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 10.1:
+        non_striker: CA Lynn
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 10.2:
+        non_striker: JM Vince
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 10.3:
+        non_striker: CA Lynn
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 10.4:
+        non_striker: JM Vince
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 10.5:
+        non_striker: CA Lynn
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 10.6:
+        non_striker: CA Lynn
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 11.1:
+        non_striker: CA Lynn
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Vince
+    - 11.2:
+        non_striker: CA Lynn
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 11.3:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 11.4:
+        non_striker: CA Lynn
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Vince
+    - 11.5:
+        non_striker: CA Lynn
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Vince
+    - 11.6:
+        non_striker: CA Lynn
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 11.7:
+        non_striker: JM Vince
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+        wicket:
+          player_out: CA Lynn
+          fielders:
+          - C Karunaratne
+          kind: caught
+    - 12.1:
+        non_striker: MG Erasmus
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 12.2:
+        non_striker: JM Vince
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.3:
+        non_striker: MG Erasmus
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 12.4:
+        non_striker: JM Vince
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.5:
+        non_striker: MG Erasmus
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 12.6:
+        non_striker: JM Vince
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 13.1:
+        non_striker: MG Erasmus
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 13.2:
+        non_striker: JM Vince
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 13.3:
+        non_striker: MG Erasmus
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 13.4:
+        non_striker: JM Vince
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          fielders:
+          - I Udana
+          kind: caught
+    - 13.5:
+        non_striker: JM Vince
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.6:
+        non_striker: SO Hetmyer
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 14.1:
+        non_striker: SO Hetmyer
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 14.2:
+        non_striker: JM Vince
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.3:
+        non_striker: SO Hetmyer
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 14.4:
+        non_striker: SO Hetmyer
+        bowler: Akif Raja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Vince
+    - 14.5:
+        non_striker: SO Hetmyer
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+        wicket:
+          player_out: JM Vince
+          fielders:
+          - JE Root
+          kind: caught
+    - 14.6:
+        non_striker: SO Hetmyer
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+        wicket:
+          player_out: D Wiese
+          kind: bowled
+    - 14.7:
+        non_striker: SO Hetmyer
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 15.1:
+        non_striker: SO Hetmyer
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 15.2:
+        non_striker: LA Dawson
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 15.3:
+        non_striker: LA Dawson
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 15.4:
+        non_striker: SO Hetmyer
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 15.5:
+        non_striker: LA Dawson
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 15.6:
+        non_striker: LA Dawson
+        bowler: R Powell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 15.7:
+        non_striker: LA Dawson
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 16.1:
+        non_striker: LA Dawson
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 16.2:
+        non_striker: SO Hetmyer
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 16.3:
+        non_striker: LA Dawson
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 16.4:
+        non_striker: SO Hetmyer
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 16.5:
+        non_striker: LA Dawson
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 16.6:
+        non_striker: LA Dawson
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 17.1:
+        non_striker: SO Hetmyer
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LA Dawson
+    - 17.2:
+        non_striker: SO Hetmyer
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 17.3:
+        non_striker: LA Dawson
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 17.4:
+        non_striker: LA Dawson
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 17.5:
+        non_striker: LA Dawson
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 17.6:
+        non_striker: SO Hetmyer
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LA Dawson
+    - 18.1:
+        non_striker: LA Dawson
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 18.2:
+        non_striker: LA Dawson
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 18.3:
+        non_striker: SO Hetmyer
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LA Dawson
+    - 18.4:
+        non_striker: SO Hetmyer
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Dawson
+    - 18.5:
+        non_striker: SO Hetmyer
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 18.6:
+        non_striker: LA Dawson
+        bowler: C Karunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 19.1:
+        non_striker: LA Dawson
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 19.2:
+        non_striker: SO Hetmyer
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 19.3:
+        non_striker: LA Dawson
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 19.4:
+        non_striker: LA Dawson
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 19.5:
+        non_striker: SO Hetmyer
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+        wicket:
+          player_out: LA Dawson
+          kind: caught and bowled
+    - 19.6:
+        non_striker: SO Hetmyer
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Jordan
+- 2nd innings:
+    team: Dubai Capitals
+    deliveries:
+    - 0.1:
+        non_striker: JE Root
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 0.2:
+        non_striker: JE Root
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 0.3:
+        non_striker: JE Root
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 0.4:
+        non_striker: RV Uthappa
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 0.5:
+        non_striker: RV Uthappa
+        bowler: RJ Gleeson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: JE Root
+    - 0.6:
+        non_striker: JE Root
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+        wicket:
+          player_out: RV Uthappa
+          fielders:
+          - A Valthapa
+          kind: caught
+    - 1.1:
+        non_striker: Chirag Suri
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 1.2:
+        non_striker: Chirag Suri
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JE Root
+    - 1.3:
+        non_striker: Chirag Suri
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Root
+    - 1.4:
+        non_striker: Chirag Suri
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 1.5:
+        non_striker: JE Root
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 1.6:
+        non_striker: JE Root
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chirag Suri
+    - 2.1:
+        non_striker: JE Root
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 2.2:
+        non_striker: JE Root
+        bowler: RJ Gleeson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Chirag Suri
+    - 2.3:
+        non_striker: Chirag Suri
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 2.4:
+        non_striker: Chirag Suri
+        bowler: RJ Gleeson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JE Root
+    - 2.5:
+        non_striker: Chirag Suri
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Root
+    - 2.6:
+        non_striker: Chirag Suri
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 2.7:
+        non_striker: Chirag Suri
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 3.1:
+        non_striker: Chirag Suri
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Root
+    - 3.2:
+        non_striker: Chirag Suri
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 3.3:
+        non_striker: JE Root
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 3.4:
+        non_striker: JE Root
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chirag Suri
+    - 3.5:
+        non_striker: Chirag Suri
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 3.6:
+        non_striker: JE Root
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Chirag Suri
+    - 4.1:
+        non_striker: Chirag Suri
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 4.2:
+        non_striker: JE Root
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+        wicket:
+          player_out: Chirag Suri
+          kind: lbw
+    - 4.3:
+        non_striker: JE Root
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Powell
+    - 4.4:
+        non_striker: R Powell
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 4.5:
+        non_striker: JE Root
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 4.6:
+        non_striker: JE Root
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          kind: caught and bowled
+    - 5.1:
+        non_striker: MD Shanaka
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 5.2:
+        non_striker: MD Shanaka
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JE Root
+    - 5.3:
+        non_striker: JE Root
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Shanaka
+    - 5.4:
+        non_striker: JE Root
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 5.5:
+        non_striker: JE Root
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 5.6:
+        non_striker: JE Root
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 5.7:
+        non_striker: JE Root
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 6.1:
+        non_striker: JE Root
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 6.2:
+        non_striker: JE Root
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 6.3:
+        non_striker: MD Shanaka
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 6.4:
+        non_striker: MD Shanaka
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+        wicket:
+          player_out: JE Root
+          kind: bowled
+    - 6.5:
+        non_striker: MD Shanaka
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 6.6:
+        non_striker: MD Shanaka
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 7.1:
+        non_striker: YK Pathan
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 7.2:
+        non_striker: YK Pathan
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 7.3:
+        non_striker: YK Pathan
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 7.4:
+        non_striker: MD Shanaka
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 7.5:
+        non_striker: MD Shanaka
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 7.6:
+        non_striker: MD Shanaka
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 8.1:
+        non_striker: MD Shanaka
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 8.2:
+        non_striker: MD Shanaka
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 8.3:
+        non_striker: YK Pathan
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 8.4:
+        non_striker: YK Pathan
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 8.5:
+        non_striker: MD Shanaka
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 8.6:
+        non_striker: MD Shanaka
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 9.1:
+        non_striker: MD Shanaka
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+    - 9.2:
+        non_striker: MD Shanaka
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+        wicket:
+          player_out: YK Pathan
+          fielders:
+          - LA Dawson
+          kind: caught
+    - 9.3:
+        non_striker: MD Shanaka
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Allen
+    - 9.4:
+        non_striker: MD Shanaka
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Allen
+    - 9.5:
+        non_striker: MD Shanaka
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: FA Allen
+    - 9.6:
+        non_striker: FA Allen
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 10.1:
+        non_striker: FA Allen
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 10.2:
+        non_striker: FA Allen
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 10.3:
+        non_striker: MD Shanaka
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Allen
+    - 10.4:
+        non_striker: FA Allen
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 10.5:
+        non_striker: FA Allen
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 10.6:
+        non_striker: FA Allen
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 11.1:
+        non_striker: FA Allen
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 11.2:
+        non_striker: FA Allen
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+        wicket:
+          player_out: MD Shanaka
+          fielders:
+          - CJ Jordan
+          kind: caught
+    - 11.3:
+        non_striker: FA Allen
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Karunaratne
+    - 11.4:
+        non_striker: C Karunaratne
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FA Allen
+    - 11.5:
+        non_striker: C Karunaratne
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Allen
+    - 11.6:
+        non_striker: FA Allen
+        bowler: SM Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Karunaratne
+    - 12.1:
+        non_striker: FA Allen
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Karunaratne
+    - 12.2:
+        non_striker: C Karunaratne
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Allen
+        wicket:
+          player_out: FA Allen
+          kind: bowled
+    - 12.3:
+        non_striker: C Karunaratne
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 12.4:
+        non_striker: C Karunaratne
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Udana
+    - 12.5:
+        non_striker: C Karunaratne
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 12.6:
+        non_striker: C Karunaratne
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Udana
+    - 13.1:
+        non_striker: I Udana
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Karunaratne
+    - 13.2:
+        non_striker: C Karunaratne
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 13.3:
+        non_striker: I Udana
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Karunaratne
+    - 13.4:
+        non_striker: C Karunaratne
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+        wicket:
+          player_out: I Udana
+          fielders:
+          - JM Vince
+          kind: caught
+    - 13.5:
+        non_striker: C Karunaratne
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb Ur Rahman
+    - 13.6:
+        non_striker: C Karunaratne
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mujeeb Ur Rahman
+    - 14.1:
+        non_striker: Mujeeb Ur Rahman
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Karunaratne
+        wicket:
+          player_out: C Karunaratne
+          kind: bowled
+    - 14.2:
+        non_striker: Mujeeb Ur Rahman
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akif Raja
+    - 14.3:
+        non_striker: Mujeeb Ur Rahman
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akif Raja
+        wicket:
+          player_out: Akif Raja
+          kind: bowled

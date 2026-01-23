@@ -1,0 +1,242 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Namibia,0.1,M van Lingen,M Theekshana,0,{},{}
+1st innings,Namibia,0.2,M van Lingen,M Theekshana,0,{},{}
+1st innings,Namibia,0.3,M van Lingen,M Theekshana,1,{},{}
+1st innings,Namibia,0.4,D la Cock,M Theekshana,1,{},{}
+1st innings,Namibia,0.5,M van Lingen,M Theekshana,2,{},{}
+1st innings,Namibia,0.6,M van Lingen,M Theekshana,1,{'wides': 1},{}
+1st innings,Namibia,0.7,M van Lingen,M Theekshana,0,{},{}
+1st innings,Namibia,1.1,D la Cock,PVD Chameera,1,{},{}
+1st innings,Namibia,1.2,M van Lingen,PVD Chameera,0,{},"{'player_out': 'M van Lingen', 'fielders': ['PM Liyanagamage'], 'kind': 'caught'}"
+1st innings,Namibia,1.3,JN Loftie-Eaton,PVD Chameera,1,{},{}
+1st innings,Namibia,1.4,D la Cock,PVD Chameera,4,{},{}
+1st innings,Namibia,1.5,D la Cock,PVD Chameera,0,{},{}
+1st innings,Namibia,1.6,D la Cock,PVD Chameera,2,{},{}
+1st innings,Namibia,2.1,JN Loftie-Eaton,PM Liyanagamage,1,{},{}
+1st innings,Namibia,2.2,D la Cock,PM Liyanagamage,1,{},{}
+1st innings,Namibia,2.3,JN Loftie-Eaton,PM Liyanagamage,1,{},{}
+1st innings,Namibia,2.4,D la Cock,PM Liyanagamage,0,{},{}
+1st innings,Namibia,2.5,D la Cock,PM Liyanagamage,0,{},{}
+1st innings,Namibia,2.6,D la Cock,PM Liyanagamage,0,{},"{'player_out': 'D la Cock', 'fielders': ['MD Shanaka'], 'kind': 'caught'}"
+1st innings,Namibia,3.1,JN Loftie-Eaton,PVD Chameera,0,{},{}
+1st innings,Namibia,3.2,JN Loftie-Eaton,PVD Chameera,0,{},{}
+1st innings,Namibia,3.3,JN Loftie-Eaton,PVD Chameera,1,{},{}
+1st innings,Namibia,3.4,SJ Baard,PVD Chameera,1,{},{}
+1st innings,Namibia,3.5,JN Loftie-Eaton,PVD Chameera,6,{},{}
+1st innings,Namibia,3.6,JN Loftie-Eaton,PVD Chameera,0,{},{}
+1st innings,Namibia,4.1,SJ Baard,C Karunaratne,1,{},{}
+1st innings,Namibia,4.2,JN Loftie-Eaton,C Karunaratne,4,{},{}
+1st innings,Namibia,4.3,JN Loftie-Eaton,C Karunaratne,6,{},{}
+1st innings,Namibia,4.4,JN Loftie-Eaton,C Karunaratne,0,{},{}
+1st innings,Namibia,4.5,JN Loftie-Eaton,C Karunaratne,0,{},"{'player_out': 'JN Loftie-Eaton', 'fielders': ['BKG Mendis'], 'kind': 'caught'}"
+1st innings,Namibia,4.6,MG Erasmus,C Karunaratne,1,{},{}
+1st innings,Namibia,5.1,MG Erasmus,PM Liyanagamage,1,{},{}
+1st innings,Namibia,5.2,SJ Baard,PM Liyanagamage,0,{},{}
+1st innings,Namibia,5.3,SJ Baard,PM Liyanagamage,1,{},{}
+1st innings,Namibia,5.4,MG Erasmus,PM Liyanagamage,1,{},{}
+1st innings,Namibia,5.5,SJ Baard,PM Liyanagamage,0,{},{}
+1st innings,Namibia,5.6,SJ Baard,PM Liyanagamage,4,{},{}
+1st innings,Namibia,6.1,MG Erasmus,M Theekshana,1,{},{}
+1st innings,Namibia,6.2,SJ Baard,M Theekshana,1,{},{}
+1st innings,Namibia,6.3,MG Erasmus,M Theekshana,1,{},{}
+1st innings,Namibia,6.4,SJ Baard,M Theekshana,0,{},{}
+1st innings,Namibia,6.5,SJ Baard,M Theekshana,1,{},{}
+1st innings,Namibia,6.6,MG Erasmus,M Theekshana,1,{},{}
+1st innings,Namibia,7.1,MG Erasmus,PWH de Silva,1,{},{}
+1st innings,Namibia,7.2,SJ Baard,PWH de Silva,2,{},{}
+1st innings,Namibia,7.3,SJ Baard,PWH de Silva,1,{},{}
+1st innings,Namibia,7.4,MG Erasmus,PWH de Silva,0,{},{}
+1st innings,Namibia,7.5,MG Erasmus,PWH de Silva,0,{},{}
+1st innings,Namibia,7.6,MG Erasmus,PWH de Silva,0,{},{}
+1st innings,Namibia,8.1,SJ Baard,C Karunaratne,0,{},{}
+1st innings,Namibia,8.2,SJ Baard,C Karunaratne,1,{},{}
+1st innings,Namibia,8.3,MG Erasmus,C Karunaratne,0,{},{}
+1st innings,Namibia,8.4,MG Erasmus,C Karunaratne,1,{},{}
+1st innings,Namibia,8.5,SJ Baard,C Karunaratne,1,{},{}
+1st innings,Namibia,8.6,MG Erasmus,C Karunaratne,1,{},{}
+1st innings,Namibia,9.1,MG Erasmus,PWH de Silva,0,{},{}
+1st innings,Namibia,9.2,MG Erasmus,PWH de Silva,0,{},{}
+1st innings,Namibia,9.3,MG Erasmus,PWH de Silva,1,{},{}
+1st innings,Namibia,9.4,SJ Baard,PWH de Silva,1,{},{}
+1st innings,Namibia,9.5,MG Erasmus,PWH de Silva,1,{},{}
+1st innings,Namibia,9.6,SJ Baard,PWH de Silva,0,{},{}
+1st innings,Namibia,10.1,MG Erasmus,M Theekshana,2,{},{}
+1st innings,Namibia,10.2,MG Erasmus,M Theekshana,2,{},{}
+1st innings,Namibia,10.3,MG Erasmus,M Theekshana,1,{},{}
+1st innings,Namibia,10.4,SJ Baard,M Theekshana,2,{},{}
+1st innings,Namibia,10.5,SJ Baard,M Theekshana,1,{},{}
+1st innings,Namibia,10.6,MG Erasmus,M Theekshana,1,{},{}
+1st innings,Namibia,11.1,MG Erasmus,PWH de Silva,1,{},{}
+1st innings,Namibia,11.2,SJ Baard,PWH de Silva,4,{},{}
+1st innings,Namibia,11.3,SJ Baard,PWH de Silva,1,{},{}
+1st innings,Namibia,11.4,MG Erasmus,PWH de Silva,2,{},{}
+1st innings,Namibia,11.5,MG Erasmus,PWH de Silva,0,{},"{'player_out': 'MG Erasmus', 'fielders': ['MD Gunathilaka'], 'kind': 'caught'}"
+1st innings,Namibia,11.6,JN Frylinck,PWH de Silva,2,{},{}
+1st innings,Namibia,12.1,SJ Baard,C Karunaratne,1,{},{}
+1st innings,Namibia,12.2,JN Frylinck,C Karunaratne,1,{},{}
+1st innings,Namibia,12.3,SJ Baard,C Karunaratne,1,{},{}
+1st innings,Namibia,12.4,JN Frylinck,C Karunaratne,0,{},{}
+1st innings,Namibia,12.5,JN Frylinck,C Karunaratne,0,{},{}
+1st innings,Namibia,12.6,JN Frylinck,C Karunaratne,1,{},{}
+1st innings,Namibia,13.1,JN Frylinck,PM Liyanagamage,4,{},{}
+1st innings,Namibia,13.2,JN Frylinck,PM Liyanagamage,1,{},{}
+1st innings,Namibia,13.3,SJ Baard,PM Liyanagamage,1,{},{}
+1st innings,Namibia,13.4,JN Frylinck,PM Liyanagamage,2,{},{}
+1st innings,Namibia,13.5,JN Frylinck,PM Liyanagamage,1,{},{}
+1st innings,Namibia,13.6,SJ Baard,PM Liyanagamage,0,{},"{'player_out': 'SJ Baard', 'fielders': ['DM de Silva'], 'kind': 'caught'}"
+1st innings,Namibia,14.1,JN Frylinck,M Theekshana,1,{'wides': 1},{}
+1st innings,Namibia,14.2,JN Frylinck,M Theekshana,1,{},{}
+1st innings,Namibia,14.3,D Wiese,M Theekshana,0,{},"{'player_out': 'D Wiese', 'fielders': ['BKG Mendis'], 'kind': 'caught'}"
+1st innings,Namibia,14.4,JJ Smit,M Theekshana,1,{},{}
+1st innings,Namibia,14.5,JN Frylinck,M Theekshana,0,{},{}
+1st innings,Namibia,14.6,JN Frylinck,M Theekshana,1,{},{}
+1st innings,Namibia,14.7,JJ Smit,M Theekshana,0,{},{}
+1st innings,Namibia,15.1,JN Frylinck,PVD Chameera,1,{},{}
+1st innings,Namibia,15.2,JJ Smit,PVD Chameera,1,{},{}
+1st innings,Namibia,15.3,JN Frylinck,PVD Chameera,2,{},{}
+1st innings,Namibia,15.4,JN Frylinck,PVD Chameera,4,{},{}
+1st innings,Namibia,15.5,JN Frylinck,PVD Chameera,2,{},{}
+1st innings,Namibia,15.6,JN Frylinck,PVD Chameera,1,{},{}
+1st innings,Namibia,16.1,JN Frylinck,PWH de Silva,1,{},{}
+1st innings,Namibia,16.2,JJ Smit,PWH de Silva,1,{},{}
+1st innings,Namibia,16.3,JN Frylinck,PWH de Silva,1,{},{}
+1st innings,Namibia,16.4,JJ Smit,PWH de Silva,6,{},{}
+1st innings,Namibia,16.5,JJ Smit,PWH de Silva,1,{},{}
+1st innings,Namibia,16.6,JN Frylinck,PWH de Silva,0,{},{}
+1st innings,Namibia,17.1,JJ Smit,C Karunaratne,1,{},{}
+1st innings,Namibia,17.2,JN Frylinck,C Karunaratne,4,{},{}
+1st innings,Namibia,17.3,JN Frylinck,C Karunaratne,1,{},{}
+1st innings,Namibia,17.4,JJ Smit,C Karunaratne,0,{},{}
+1st innings,Namibia,17.5,JJ Smit,C Karunaratne,5,{'wides': 5},{}
+1st innings,Namibia,17.6,JJ Smit,C Karunaratne,4,{},{}
+1st innings,Namibia,17.7,JJ Smit,C Karunaratne,1,{},{}
+1st innings,Namibia,18.1,JJ Smit,PM Liyanagamage,4,{},{}
+1st innings,Namibia,18.2,JJ Smit,PM Liyanagamage,1,{},{}
+1st innings,Namibia,18.3,JN Frylinck,PM Liyanagamage,3,{},{}
+1st innings,Namibia,18.4,JJ Smit,PM Liyanagamage,2,{},{}
+1st innings,Namibia,18.5,JJ Smit,PM Liyanagamage,2,{},{}
+1st innings,Namibia,18.6,JJ Smit,PM Liyanagamage,6,{},{}
+1st innings,Namibia,19.1,JN Frylinck,PVD Chameera,1,{'wides': 1},{}
+1st innings,Namibia,19.2,JN Frylinck,PVD Chameera,2,{},{}
+1st innings,Namibia,19.3,JN Frylinck,PVD Chameera,4,{},{}
+1st innings,Namibia,19.4,JN Frylinck,PVD Chameera,1,{},{}
+1st innings,Namibia,19.5,JJ Smit,PVD Chameera,1,{'wides': 1},{}
+1st innings,Namibia,19.6,JJ Smit,PVD Chameera,1,{'byes': 1},{}
+1st innings,Namibia,19.7,JN Frylinck,PVD Chameera,2,{},{}
+1st innings,Namibia,19.8,JN Frylinck,PVD Chameera,1,{},"{'player_out': 'JN Frylinck', 'fielders': ['BKG Mendis', 'MD Gunathilaka'], 'kind': 'run out'}"
+2nd innings,Sri Lanka,0.1,P Nissanka,MG Erasmus,4,{},{}
+2nd innings,Sri Lanka,0.2,P Nissanka,MG Erasmus,1,{},{}
+2nd innings,Sri Lanka,0.3,BKG Mendis,MG Erasmus,1,{},{}
+2nd innings,Sri Lanka,0.4,P Nissanka,MG Erasmus,0,{},{}
+2nd innings,Sri Lanka,0.5,P Nissanka,MG Erasmus,1,{},{}
+2nd innings,Sri Lanka,0.6,BKG Mendis,MG Erasmus,1,{},{}
+2nd innings,Sri Lanka,1.1,BKG Mendis,D Wiese,0,{},{}
+2nd innings,Sri Lanka,1.2,BKG Mendis,D Wiese,2,{},{}
+2nd innings,Sri Lanka,1.3,BKG Mendis,D Wiese,2,{},{}
+2nd innings,Sri Lanka,1.4,BKG Mendis,D Wiese,0,{},"{'player_out': 'BKG Mendis', 'fielders': ['ZE Green'], 'kind': 'caught'}"
+2nd innings,Sri Lanka,1.5,DM de Silva,D Wiese,1,{},{}
+2nd innings,Sri Lanka,1.6,P Nissanka,D Wiese,0,{},{}
+2nd innings,Sri Lanka,2.1,DM de Silva,BM Scholtz,0,{},{}
+2nd innings,Sri Lanka,2.2,DM de Silva,BM Scholtz,4,{},{}
+2nd innings,Sri Lanka,2.3,DM de Silva,BM Scholtz,1,{},{}
+2nd innings,Sri Lanka,2.4,P Nissanka,BM Scholtz,2,{},{}
+2nd innings,Sri Lanka,2.5,P Nissanka,BM Scholtz,0,{},{}
+2nd innings,Sri Lanka,2.6,P Nissanka,BM Scholtz,1,{},{}
+2nd innings,Sri Lanka,3.1,P Nissanka,B Shikongo,0,{},{}
+2nd innings,Sri Lanka,3.2,P Nissanka,B Shikongo,0,{},"{'player_out': 'P Nissanka', 'fielders': ['JJ Smit'], 'kind': 'caught'}"
+2nd innings,Sri Lanka,3.3,MD Gunathilaka,B Shikongo,0,{},"{'player_out': 'MD Gunathilaka', 'fielders': ['ZE Green'], 'kind': 'caught'}"
+2nd innings,Sri Lanka,3.4,PBB Rajapaksa,B Shikongo,0,{},{}
+2nd innings,Sri Lanka,3.5,PBB Rajapaksa,B Shikongo,0,{},{}
+2nd innings,Sri Lanka,3.6,PBB Rajapaksa,B Shikongo,1,{'legbyes': 1},{}
+2nd innings,Sri Lanka,4.1,PBB Rajapaksa,JJ Smit,1,{'wides': 1},{}
+2nd innings,Sri Lanka,4.2,PBB Rajapaksa,JJ Smit,1,{},{}
+2nd innings,Sri Lanka,4.3,DM de Silva,JJ Smit,0,{},{}
+2nd innings,Sri Lanka,4.4,DM de Silva,JJ Smit,3,{},{}
+2nd innings,Sri Lanka,4.5,PBB Rajapaksa,JJ Smit,2,{},{}
+2nd innings,Sri Lanka,4.6,PBB Rajapaksa,JJ Smit,1,{},{}
+2nd innings,Sri Lanka,4.7,DM de Silva,JJ Smit,0,{},{}
+2nd innings,Sri Lanka,5.1,PBB Rajapaksa,D Wiese,4,{},{}
+2nd innings,Sri Lanka,5.2,PBB Rajapaksa,D Wiese,0,{},{}
+2nd innings,Sri Lanka,5.3,PBB Rajapaksa,D Wiese,1,{},{}
+2nd innings,Sri Lanka,5.4,DM de Silva,D Wiese,1,{},{}
+2nd innings,Sri Lanka,5.5,PBB Rajapaksa,D Wiese,1,{'legbyes': 1},{}
+2nd innings,Sri Lanka,5.6,DM de Silva,D Wiese,1,{},{}
+2nd innings,Sri Lanka,6.1,DM de Silva,JN Frylinck,1,{},{}
+2nd innings,Sri Lanka,6.2,PBB Rajapaksa,JN Frylinck,1,{},{}
+2nd innings,Sri Lanka,6.3,DM de Silva,JN Frylinck,0,{},"{'player_out': 'DM de Silva', 'fielders': ['B Shikongo'], 'kind': 'caught'}"
+2nd innings,Sri Lanka,6.4,MD Shanaka,JN Frylinck,1,{},{}
+2nd innings,Sri Lanka,6.5,PBB Rajapaksa,JN Frylinck,1,{'wides': 1},{}
+2nd innings,Sri Lanka,6.6,PBB Rajapaksa,JN Frylinck,0,{},{}
+2nd innings,Sri Lanka,6.7,PBB Rajapaksa,JN Frylinck,0,{},{}
+2nd innings,Sri Lanka,7.1,MD Shanaka,B Shikongo,2,{},{}
+2nd innings,Sri Lanka,7.2,MD Shanaka,B Shikongo,1,{},{}
+2nd innings,Sri Lanka,7.3,PBB Rajapaksa,B Shikongo,1,{},{}
+2nd innings,Sri Lanka,7.4,MD Shanaka,B Shikongo,1,{},{}
+2nd innings,Sri Lanka,7.5,PBB Rajapaksa,B Shikongo,4,{},{}
+2nd innings,Sri Lanka,7.6,PBB Rajapaksa,B Shikongo,1,{},{}
+2nd innings,Sri Lanka,8.1,PBB Rajapaksa,JN Frylinck,1,{},{}
+2nd innings,Sri Lanka,8.2,MD Shanaka,JN Frylinck,0,{},{}
+2nd innings,Sri Lanka,8.3,MD Shanaka,JN Frylinck,0,{},{}
+2nd innings,Sri Lanka,8.4,MD Shanaka,JN Frylinck,0,{},{}
+2nd innings,Sri Lanka,8.5,MD Shanaka,JN Frylinck,6,{},{}
+2nd innings,Sri Lanka,8.6,MD Shanaka,JN Frylinck,1,{},{}
+2nd innings,Sri Lanka,9.1,MD Shanaka,B Shikongo,1,{},{}
+2nd innings,Sri Lanka,9.2,PBB Rajapaksa,B Shikongo,1,{},{}
+2nd innings,Sri Lanka,9.3,MD Shanaka,B Shikongo,4,{},{}
+2nd innings,Sri Lanka,9.4,MD Shanaka,B Shikongo,4,{},{}
+2nd innings,Sri Lanka,9.5,MD Shanaka,B Shikongo,1,{},{}
+2nd innings,Sri Lanka,9.6,PBB Rajapaksa,B Shikongo,1,{},{}
+2nd innings,Sri Lanka,10.1,PBB Rajapaksa,BM Scholtz,1,{},{}
+2nd innings,Sri Lanka,10.2,MD Shanaka,BM Scholtz,1,{},{}
+2nd innings,Sri Lanka,10.3,PBB Rajapaksa,BM Scholtz,0,{},"{'player_out': 'PBB Rajapaksa', 'fielders': ['D la Cock'], 'kind': 'caught'}"
+2nd innings,Sri Lanka,10.4,PWH de Silva,BM Scholtz,0,{},{}
+2nd innings,Sri Lanka,10.5,PWH de Silva,BM Scholtz,0,{},{}
+2nd innings,Sri Lanka,10.6,PWH de Silva,BM Scholtz,1,{},{}
+2nd innings,Sri Lanka,11.1,PWH de Silva,JJ Smit,1,{},{}
+2nd innings,Sri Lanka,11.2,MD Shanaka,JJ Smit,0,{},{}
+2nd innings,Sri Lanka,11.3,MD Shanaka,JJ Smit,1,{},{}
+2nd innings,Sri Lanka,11.4,PWH de Silva,JJ Smit,2,{},{}
+2nd innings,Sri Lanka,11.5,PWH de Silva,JJ Smit,0,{},{}
+2nd innings,Sri Lanka,11.6,PWH de Silva,JJ Smit,0,{},{}
+2nd innings,Sri Lanka,12.1,MD Shanaka,BM Scholtz,0,{},{}
+2nd innings,Sri Lanka,12.2,MD Shanaka,BM Scholtz,1,{},{}
+2nd innings,Sri Lanka,12.3,PWH de Silva,BM Scholtz,0,{},"{'player_out': 'PWH de Silva', 'fielders': ['JN Loftie-Eaton'], 'kind': 'caught'}"
+2nd innings,Sri Lanka,12.4,C Karunaratne,BM Scholtz,1,{},{}
+2nd innings,Sri Lanka,12.5,MD Shanaka,BM Scholtz,1,{},{}
+2nd innings,Sri Lanka,12.6,C Karunaratne,BM Scholtz,1,{},{}
+2nd innings,Sri Lanka,13.1,C Karunaratne,JN Frylinck,1,{},{}
+2nd innings,Sri Lanka,13.2,MD Shanaka,JN Frylinck,0,{},{}
+2nd innings,Sri Lanka,13.3,MD Shanaka,JN Frylinck,1,{},{}
+2nd innings,Sri Lanka,13.4,C Karunaratne,JN Frylinck,1,{},{}
+2nd innings,Sri Lanka,13.5,MD Shanaka,JN Frylinck,2,{},{}
+2nd innings,Sri Lanka,13.6,MD Shanaka,JN Frylinck,0,{},"{'player_out': 'MD Shanaka', 'fielders': ['ZE Green'], 'kind': 'caught'}"
+2nd innings,Sri Lanka,14.1,C Karunaratne,BM Scholtz,0,{},{}
+2nd innings,Sri Lanka,14.2,C Karunaratne,BM Scholtz,0,{},"{'player_out': 'PM Liyanagamage', 'fielders': ['M van Lingen', 'ZE Green'], 'kind': 'run out'}"
+2nd innings,Sri Lanka,14.3,PVD Chameera,BM Scholtz,1,{},{}
+2nd innings,Sri Lanka,14.4,C Karunaratne,BM Scholtz,1,{},{}
+2nd innings,Sri Lanka,14.5,PVD Chameera,BM Scholtz,0,{},{}
+2nd innings,Sri Lanka,14.6,PVD Chameera,BM Scholtz,1,{},{}
+2nd innings,Sri Lanka,15.1,PVD Chameera,JJ Smit,1,{},{}
+2nd innings,Sri Lanka,15.2,C Karunaratne,JJ Smit,0,{},"{'player_out': 'C Karunaratne', 'fielders': ['SJ Baard'], 'kind': 'caught'}"
+2nd innings,Sri Lanka,15.3,M Theekshana,JJ Smit,1,{},{}
+2nd innings,Sri Lanka,15.4,PVD Chameera,JJ Smit,0,{},{}
+2nd innings,Sri Lanka,15.5,PVD Chameera,JJ Smit,1,{},{}
+2nd innings,Sri Lanka,15.6,M Theekshana,JJ Smit,1,{},{}
+2nd innings,Sri Lanka,16.1,M Theekshana,D Wiese,0,{},{}
+2nd innings,Sri Lanka,16.2,M Theekshana,D Wiese,1,{},{}
+2nd innings,Sri Lanka,16.3,PVD Chameera,D Wiese,1,{},{}
+2nd innings,Sri Lanka,16.4,M Theekshana,D Wiese,0,{},{}
+2nd innings,Sri Lanka,16.5,M Theekshana,D Wiese,0,{},{}
+2nd innings,Sri Lanka,16.6,M Theekshana,D Wiese,0,{},{}
+2nd innings,Sri Lanka,17.1,PVD Chameera,JN Frylinck,0,{},{}
+2nd innings,Sri Lanka,17.2,PVD Chameera,JN Frylinck,1,{},{}
+2nd innings,Sri Lanka,17.3,M Theekshana,JN Frylinck,0,{},{}
+2nd innings,Sri Lanka,17.4,M Theekshana,JN Frylinck,6,{},{}
+2nd innings,Sri Lanka,17.5,M Theekshana,JN Frylinck,1,{},{}
+2nd innings,Sri Lanka,17.6,PVD Chameera,JN Frylinck,1,{},{}
+2nd innings,Sri Lanka,18.1,PVD Chameera,D Wiese,1,{},{}
+2nd innings,Sri Lanka,18.2,M Theekshana,D Wiese,1,{},{}
+2nd innings,Sri Lanka,18.3,PVD Chameera,D Wiese,0,{},{}
+2nd innings,Sri Lanka,18.4,PVD Chameera,D Wiese,0,{},{}
+2nd innings,Sri Lanka,18.5,PVD Chameera,D Wiese,0,{},{}
+2nd innings,Sri Lanka,18.6,PVD Chameera,D Wiese,0,{},"{'player_out': 'PVD Chameera', 'fielders': ['MG Erasmus'], 'kind': 'caught'}"

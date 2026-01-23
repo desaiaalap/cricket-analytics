@@ -1,0 +1,2197 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-01-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sharjah
+  competition: International League T20
+  dates:
+  - '2025-01-26'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Gulf Giants
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - TP Alsop
+  players:
+    Sharjah Warriorz:
+    - T Kohler-Cadmore
+    - J Charles
+    - WIA Fernando
+    - JJ Roy
+    - TL Seifert
+    - Ethan D'Souza
+    - AC Agar
+    - Rohan Mustafa
+    - TG Southee
+    - AF Milne
+    - A Zampa
+    - D Madushanka
+    Gulf Giants:
+    - DJ Worrall
+    - JM Vince
+    - TP Alsop
+    - JM Cox
+    - MG Erasmus
+    - SO Hetmyer
+    - TK Curran
+    - MR Adair
+    - Aayan Afzal Khan
+    - B Muzarabani
+    - Saghir Khan
+    - DC Drakes
+  registry:
+    people:
+      A Zampa: 14f96089
+      AC Agar: a2421394
+      AF Milne: 350bb1b1
+      Aasif Iqbal: 42c41e1a
+      Aayan Afzal Khan: d2d15439
+      Akbar Ali: e753931d
+      B Muzarabani: 449f4e3c
+      D Madushanka: de7d833e
+      DC Drakes: 34b332d3
+      DJ Worrall: 208f22ea
+      Ethan D'Souza: 31ca7a9c
+      J Charles: '09a9d073'
+      JJ Roy: d1c36f5c
+      JM Cox: ff154ecd
+      JM Vince: a15618fe
+      MG Erasmus: 95a5e066
+      MJ Saggers: 402d5937
+      MR Adair: fc55ec67
+      P Wilson: 68304a36
+      RS Mahanama: '57910393'
+      Rohan Mustafa: d1988788
+      SO Hetmyer: 48a1d7b7
+      Saghir Khan: 730d2283
+      T Kohler-Cadmore: f836b33d
+      TG Southee: 13c35c9e
+      TK Curran: e86754b2
+      TL Seifert: 4663bd23
+      TP Alsop: 961b8ff1
+      WIA Fernando: 9550470d
+  teams:
+  - Sharjah Warriorz
+  - Gulf Giants
+  toss:
+    winner: Gulf Giants
+    decision: field
+  umpires:
+  - Aasif Iqbal
+  - MJ Saggers
+  venue: Sharjah Cricket Stadium
+innings:
+- 1st innings:
+    team: Sharjah Warriorz
+    deliveries:
+    - 0.1:
+        non_striker: J Charles
+        bowler: DJ Worrall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: T Kohler-Cadmore
+    - 0.2:
+        non_striker: J Charles
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 0.3:
+        non_striker: J Charles
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kohler-Cadmore
+    - 0.4:
+        non_striker: J Charles
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 0.5:
+        non_striker: J Charles
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 0.6:
+        non_striker: J Charles
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 0.7:
+        non_striker: J Charles
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 1.1:
+        non_striker: J Charles
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Kohler-Cadmore
+    - 1.2:
+        non_striker: J Charles
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 1.3:
+        non_striker: J Charles
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 1.4:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 1.5:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 1.6:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Charles
+    - 1.7:
+        non_striker: T Kohler-Cadmore
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 2.1:
+        non_striker: J Charles
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 2.2:
+        non_striker: J Charles
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 2.3:
+        non_striker: J Charles
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 2.4:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 2.5:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 2.6:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.1:
+        non_striker: J Charles
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 3.2:
+        non_striker: J Charles
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 3.3:
+        non_striker: T Kohler-Cadmore
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.4:
+        non_striker: T Kohler-Cadmore
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 3.5:
+        non_striker: J Charles
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Kohler-Cadmore
+    - 3.6:
+        non_striker: J Charles
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 3.7:
+        non_striker: T Kohler-Cadmore
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 4.1:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 4.2:
+        non_striker: J Charles
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 4.3:
+        non_striker: J Charles
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 4.4:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 4.5:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Charles
+    - 4.6:
+        non_striker: J Charles
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 5.1:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 5.2:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 5.3:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 5.4:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 5.5:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 5.6:
+        non_striker: T Kohler-Cadmore
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+        wicket:
+          player_out: J Charles
+          fielders:
+          - MR Adair
+          kind: caught
+    - 6.1:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 6.2:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 6.3:
+        non_striker: T Kohler-Cadmore
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 6.4:
+        non_striker: T Kohler-Cadmore
+        bowler: DC Drakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WIA Fernando
+    - 6.5:
+        non_striker: T Kohler-Cadmore
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 6.6:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kohler-Cadmore
+    - 6.7:
+        non_striker: WIA Fernando
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 7.1:
+        non_striker: WIA Fernando
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 7.2:
+        non_striker: WIA Fernando
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 7.3:
+        non_striker: T Kohler-Cadmore
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 7.4:
+        non_striker: WIA Fernando
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+        wicket:
+          player_out: T Kohler-Cadmore
+          fielders:
+          - DJ Worrall
+          kind: caught
+    - 7.5:
+        non_striker: WIA Fernando
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 7.6:
+        non_striker: JJ Roy
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 8.1:
+        non_striker: WIA Fernando
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Roy
+    - 8.2:
+        non_striker: WIA Fernando
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 8.3:
+        non_striker: JJ Roy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+        wicket:
+          player_out: WIA Fernando
+          kind: bowled
+    - 8.4:
+        non_striker: JJ Roy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 8.5:
+        non_striker: JJ Roy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 8.6:
+        non_striker: TL Seifert
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JJ Roy
+    - 9.1:
+        non_striker: TL Seifert
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 9.2:
+        non_striker: TL Seifert
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 9.3:
+        non_striker: JJ Roy
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 9.4:
+        non_striker: JJ Roy
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 9.5:
+        non_striker: JJ Roy
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 9.6:
+        non_striker: JJ Roy
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 10.1:
+        non_striker: JJ Roy
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 10.2:
+        non_striker: TL Seifert
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 10.3:
+        non_striker: TL Seifert
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Roy
+    - 10.4:
+        non_striker: TL Seifert
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 10.5:
+        non_striker: JJ Roy
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 10.6:
+        non_striker: TL Seifert
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 11.1:
+        non_striker: TL Seifert
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 11.2:
+        non_striker: TL Seifert
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 11.3:
+        non_striker: JJ Roy
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 11.4:
+        non_striker: JJ Roy
+        bowler: DJ Worrall
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: TL Seifert
+    - 11.5:
+        non_striker: JJ Roy
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 11.6:
+        non_striker: JJ Roy
+        bowler: DJ Worrall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 12.1:
+        non_striker: TL Seifert
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: TP Alsop
+            out: DJ Worrall
+            team: Gulf Giants
+            reason: impact_player
+        batsman: JJ Roy
+    - 12.2:
+        non_striker: JJ Roy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 12.3:
+        non_striker: JJ Roy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 12.4:
+        non_striker: JJ Roy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 12.5:
+        non_striker: JJ Roy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 12.6:
+        non_striker: TL Seifert
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 13.1:
+        non_striker: TL Seifert
+        bowler: DC Drakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JJ Roy
+    - 13.2:
+        non_striker: JJ Roy
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 13.3:
+        non_striker: JJ Roy
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 13.4:
+        non_striker: JJ Roy
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ethan D'Souza
+    - 13.5:
+        non_striker: Ethan D'Souza
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 13.6:
+        non_striker: Ethan D'Souza
+        bowler: DC Drakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Roy
+    - 13.7:
+        non_striker: Ethan D'Souza
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 14.1:
+        non_striker: Ethan D'Souza
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 14.2:
+        non_striker: Ethan D'Souza
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 14.3:
+        non_striker: Ethan D'Souza
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Roy
+    - 14.4:
+        non_striker: Ethan D'Souza
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 14.5:
+        non_striker: JJ Roy
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ethan D'Souza
+    - 14.6:
+        non_striker: Ethan D'Souza
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 15.1:
+        non_striker: Ethan D'Souza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 15.2:
+        non_striker: JJ Roy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ethan D'Souza
+    - 15.3:
+        non_striker: Ethan D'Souza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 15.4:
+        non_striker: JJ Roy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ethan D'Souza
+    - 15.5:
+        non_striker: JJ Roy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ethan D'Souza
+    - 15.6:
+        non_striker: JJ Roy
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ethan D'Souza
+    - 15.7:
+        non_striker: JJ Roy
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ethan D'Souza
+    - 16.1:
+        non_striker: Ethan D'Souza
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 16.2:
+        non_striker: Ethan D'Souza
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 16.3:
+        non_striker: Ethan D'Souza
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 16.4:
+        non_striker: JJ Roy
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ethan D'Souza
+    - 16.5:
+        non_striker: Ethan D'Souza
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 16.6:
+        non_striker: Ethan D'Souza
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Roy
+    - 16.7:
+        non_striker: Ethan D'Souza
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Roy
+    - 16.8:
+        non_striker: Ethan D'Souza
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 17.1:
+        non_striker: JJ Roy
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ethan D'Souza
+    - 17.2:
+        non_striker: JJ Roy
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ethan D'Souza
+        wicket:
+          player_out: Ethan D'Souza
+          fielders:
+          - JM Vince
+          kind: caught
+    - 17.3:
+        non_striker: JJ Roy
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 17.4:
+        non_striker: JJ Roy
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 17.5:
+        non_striker: JJ Roy
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 17.6:
+        non_striker: AC Agar
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+        wicket:
+          player_out: JJ Roy
+          fielders:
+          - JM Vince
+          kind: caught
+    - 18.1:
+        non_striker: Rohan Mustafa
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 18.2:
+        non_striker: AC Agar
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 18.3:
+        non_striker: Rohan Mustafa
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 18.4:
+        non_striker: Rohan Mustafa
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Agar
+    - 18.5:
+        non_striker: Rohan Mustafa
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Agar
+    - 18.6:
+        non_striker: Rohan Mustafa
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 19.1:
+        non_striker: Rohan Mustafa
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+    - 19.2:
+        non_striker: Rohan Mustafa
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Agar
+    - 19.3:
+        non_striker: Rohan Mustafa
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 19.4:
+        non_striker: AC Agar
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 19.5:
+        non_striker: Rohan Mustafa
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Agar
+    - 19.6:
+        non_striker: Rohan Mustafa
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+- 2nd innings:
+    team: Gulf Giants
+    deliveries:
+    - 0.1:
+        non_striker: TP Alsop
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: D Madushanka
+            out: J Charles
+            team: Sharjah Warriorz
+            reason: impact_player
+        batsman: JM Vince
+    - 0.2:
+        non_striker: JM Vince
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 0.3:
+        non_striker: JM Vince
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 0.4:
+        non_striker: TP Alsop
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 0.5:
+        non_striker: JM Vince
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 0.6:
+        non_striker: JM Vince
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 1.1:
+        non_striker: TP Alsop
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 1.2:
+        non_striker: TP Alsop
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 1.3:
+        non_striker: TP Alsop
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 1.4:
+        non_striker: JM Vince
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 1.5:
+        non_striker: JM Vince
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Alsop
+    - 1.6:
+        non_striker: JM Vince
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Alsop
+    - 2.1:
+        non_striker: TP Alsop
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 2.2:
+        non_striker: TP Alsop
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 2.3:
+        non_striker: TP Alsop
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Vince
+    - 2.4:
+        non_striker: TP Alsop
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 2.5:
+        non_striker: TP Alsop
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Vince
+    - 2.6:
+        non_striker: JM Vince
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Alsop
+    - 2.7:
+        non_striker: JM Vince
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Alsop
+    - 3.1:
+        non_striker: TP Alsop
+        bowler: D Madushanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Vince
+    - 3.2:
+        non_striker: TP Alsop
+        bowler: D Madushanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JM Vince
+    - 3.3:
+        non_striker: TP Alsop
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 3.4:
+        non_striker: TP Alsop
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Vince
+    - 3.5:
+        non_striker: TP Alsop
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+    - 3.6:
+        non_striker: TP Alsop
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Vince
+        wicket:
+          player_out: JM Vince
+          fielders:
+          - Ethan D'Souza
+          kind: caught
+    - 3.7:
+        non_striker: TP Alsop
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Cox
+    - 3.8:
+        non_striker: TP Alsop
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+    - 4.1:
+        non_striker: JM Cox
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 4.2:
+        non_striker: JM Cox
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 4.3:
+        non_striker: TP Alsop
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 4.4:
+        non_striker: JM Cox
+        bowler: AF Milne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TP Alsop
+    - 4.5:
+        non_striker: JM Cox
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 4.6:
+        non_striker: JM Cox
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Alsop
+    - 4.7:
+        non_striker: JM Cox
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 5.1:
+        non_striker: JM Cox
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Alsop
+    - 5.2:
+        non_striker: JM Cox
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Alsop
+    - 5.3:
+        non_striker: JM Cox
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 5.4:
+        non_striker: TP Alsop
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 5.5:
+        non_striker: JM Cox
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 5.6:
+        non_striker: JM Cox
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 6.1:
+        non_striker: TP Alsop
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 6.2:
+        non_striker: JM Cox
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 6.3:
+        non_striker: TP Alsop
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Cox
+    - 6.4:
+        non_striker: JM Cox
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 6.5:
+        non_striker: TP Alsop
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Cox
+        wicket:
+          player_out: JM Cox
+          fielders:
+          - WIA Fernando
+          kind: caught
+    - 6.6:
+        non_striker: TP Alsop
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 7.1:
+        non_striker: MG Erasmus
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 7.2:
+        non_striker: TP Alsop
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 7.3:
+        non_striker: MG Erasmus
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 7.4:
+        non_striker: TP Alsop
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 7.5:
+        non_striker: TP Alsop
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 7.6:
+        non_striker: MG Erasmus
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 8.1:
+        non_striker: MG Erasmus
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 8.2:
+        non_striker: TP Alsop
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 8.3:
+        non_striker: MG Erasmus
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Alsop
+    - 8.4:
+        non_striker: MG Erasmus
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 8.5:
+        non_striker: MG Erasmus
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 8.6:
+        non_striker: TP Alsop
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 9.1:
+        non_striker: MG Erasmus
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Alsop
+    - 9.2:
+        non_striker: MG Erasmus
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 9.3:
+        non_striker: TP Alsop
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 9.4:
+        non_striker: MG Erasmus
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Alsop
+    - 9.5:
+        non_striker: MG Erasmus
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 9.6:
+        non_striker: TP Alsop
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.1:
+        non_striker: TP Alsop
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 10.2:
+        non_striker: TP Alsop
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.3:
+        non_striker: MG Erasmus
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 10.4:
+        non_striker: MG Erasmus
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 10.5:
+        non_striker: MG Erasmus
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 10.6:
+        non_striker: MG Erasmus
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 11.1:
+        non_striker: MG Erasmus
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 11.2:
+        non_striker: MG Erasmus
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Alsop
+    - 11.3:
+        non_striker: MG Erasmus
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 11.4:
+        non_striker: TP Alsop
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 11.5:
+        non_striker: TP Alsop
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          kind: bowled
+    - 11.6:
+        non_striker: TP Alsop
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.1:
+        non_striker: TP Alsop
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.2:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 12.3:
+        non_striker: TP Alsop
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 12.4:
+        non_striker: TP Alsop
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 12.5:
+        non_striker: TP Alsop
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.6:
+        non_striker: SO Hetmyer
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 13.1:
+        non_striker: TP Alsop
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 13.2:
+        non_striker: TP Alsop
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.3:
+        non_striker: SO Hetmyer
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 13.4:
+        non_striker: TP Alsop
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - JJ Roy
+          kind: caught
+    - 13.5:
+        non_striker: TP Alsop
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 13.6:
+        non_striker: TK Curran
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 14.1:
+        non_striker: TP Alsop
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 14.2:
+        non_striker: TK Curran
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 14.3:
+        non_striker: TP Alsop
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 14.4:
+        non_striker: TP Alsop
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 14.5:
+        non_striker: TK Curran
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Alsop
+    - 14.6:
+        non_striker: TK Curran
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 15.1:
+        non_striker: TK Curran
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 15.2:
+        non_striker: TP Alsop
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran
+    - 15.3:
+        non_striker: TP Alsop
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 15.4:
+        non_striker: TK Curran
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Alsop
+    - 15.5:
+        non_striker: TK Curran
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Alsop
+    - 15.6:
+        non_striker: TK Curran
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Alsop
+    - 16.1:
+        non_striker: TP Alsop
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 16.2:
+        non_striker: TK Curran
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 16.3:
+        non_striker: TP Alsop
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 16.4:
+        non_striker: TP Alsop
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 16.5:
+        non_striker: TK Curran
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 16.6:
+        non_striker: TK Curran
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Alsop
+    - 17.1:
+        non_striker: TP Alsop
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TK Curran
+    - 17.2:
+        non_striker: TP Alsop
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 17.3:
+        non_striker: TK Curran
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Alsop
+    - 17.4:
+        non_striker: TK Curran
+        bowler: AF Milne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TP Alsop
+    - 17.5:
+        non_striker: TK Curran
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 17.6:
+        non_striker: TP Alsop
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TK Curran
+    - 17.7:
+        non_striker: TP Alsop
+        bowler: AF Milne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TK Curran
+    - 18.1:
+        non_striker: TP Alsop
+        bowler: AC Agar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TK Curran
+    - 18.2:
+        non_striker: TP Alsop
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 18.3:
+        non_striker: TK Curran
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Alsop
+    - 18.4:
+        non_striker: TK Curran
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 18.5:
+        non_striker: TP Alsop
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TK Curran
+    - 18.6:
+        non_striker: TP Alsop
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TK Curran
+    - 18.7:
+        non_striker: TK Curran
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 19.1:
+        non_striker: TK Curran
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Alsop
+    - 19.2:
+        non_striker: TK Curran
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 19.3:
+        non_striker: TP Alsop
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran

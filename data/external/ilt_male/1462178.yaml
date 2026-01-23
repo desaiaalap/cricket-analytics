@@ -1,0 +1,2230 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-01-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abu Dhabi
+  competition: International League T20
+  dates:
+  - '2025-01-15'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Abu Dhabi Knight Riders
+    by:
+      runs: 30
+  overs: 20
+  player_of_match:
+  - DJ Willey
+  players:
+    Abu Dhabi Knight Riders:
+    - PD Salt
+    - KR Mayers
+    - JM Clarke
+    - MS Pepper
+    - A Sharafu
+    - LJ Evans
+    - AD Russell
+    - Shahid Bhutta
+    - DJ Willey
+    - JO Holder
+    - SP Narine
+    - V Viyaskanth
+    Sharjah Warriorz:
+    - T Kohler-Cadmore
+    - J Charles
+    - JJ Roy
+    - Rohan Mustafa
+    - PBB Rajapaksa
+    - Karim Janat
+    - KMA Paul
+    - Harmeet Singh
+    - AU Rashid
+    - TG Southee
+    - AF Milne
+    - Muhammad Jawadullah
+  registry:
+    people:
+      A Sharafu: 06cad4f0
+      AD Russell: bbd41817
+      AF Milne: 350bb1b1
+      AT Holdstock: 6fa3258c
+      AU Rashid: 249d60c9
+      Ahmed Shah Pakteen: '43602937'
+      DJ Willey: 7f048519
+      Harmeet Singh: 0bf15e52
+      J Charles: '09a9d073'
+      JJ Roy: d1c36f5c
+      JM Clarke: 2eca67f5
+      JO Holder: 0f721006
+      KMA Paul: 75224f22
+      KR Mayers: 73c18486
+      Karim Janat: '62175638'
+      LJ Evans: 1c513d54
+      MJ Saggers: 402d5937
+      MS Pepper: 270e4c23
+      Muhammad Jawadullah: '098a757c'
+      P Wilson: 68304a36
+      PBB Rajapaksa: 6c882e9a
+      PD Salt: 3d284ca3
+      Rohan Mustafa: d1988788
+      SJA Taufel: 4b43d5ac
+      SP Narine: 9d430b40
+      Shahid Bhutta: 97b8d15e
+      T Kohler-Cadmore: f836b33d
+      TG Southee: 13c35c9e
+      V Viyaskanth: 03a83c50
+  teams:
+  - Abu Dhabi Knight Riders
+  - Sharjah Warriorz
+  toss:
+    winner: Sharjah Warriorz
+    decision: field
+  umpires:
+  - AT Holdstock
+  - MJ Saggers
+  venue: Zayed Cricket Stadium, Abu Dhabi
+innings:
+- 1st innings:
+    team: Abu Dhabi Knight Riders
+    deliveries:
+    - 0.1:
+        non_striker: KR Mayers
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.2:
+        non_striker: PD Salt
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 0.3:
+        non_striker: PD Salt
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KR Mayers
+    - 0.4:
+        non_striker: KR Mayers
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 0.5:
+        non_striker: KR Mayers
+        bowler: AF Milne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PD Salt
+    - 0.6:
+        non_striker: PD Salt
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 1.1:
+        non_striker: KR Mayers
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 1.2:
+        non_striker: KR Mayers
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 1.3:
+        non_striker: PD Salt
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KR Mayers
+    - 1.4:
+        non_striker: PD Salt
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 1.5:
+        non_striker: PD Salt
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KR Mayers
+    - 1.6:
+        non_striker: PD Salt
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 1.7:
+        non_striker: PD Salt
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KR Mayers
+    - 2.1:
+        non_striker: KR Mayers
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 2.2:
+        non_striker: KR Mayers
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+        wicket:
+          player_out: PD Salt
+          kind: bowled
+    - 2.3:
+        non_striker: KR Mayers
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 2.4:
+        non_striker: JM Clarke
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KR Mayers
+    - 2.5:
+        non_striker: JM Clarke
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+        wicket:
+          player_out: KR Mayers
+          kind: bowled
+    - 2.6:
+        non_striker: JM Clarke
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Pepper
+    - 3.1:
+        non_striker: MS Pepper
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 3.2:
+        non_striker: MS Pepper
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 3.3:
+        non_striker: MS Pepper
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 3.4:
+        non_striker: MS Pepper
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 3.5:
+        non_striker: JM Clarke
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Pepper
+    - 3.6:
+        non_striker: JM Clarke
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MS Pepper
+    - 3.7:
+        non_striker: MS Pepper
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 4.1:
+        non_striker: JM Clarke
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Pepper
+    - 4.2:
+        non_striker: JM Clarke
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Pepper
+    - 4.3:
+        non_striker: JM Clarke
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MS Pepper
+    - 4.4:
+        non_striker: MS Pepper
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 4.5:
+        non_striker: MS Pepper
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 4.6:
+        non_striker: MS Pepper
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 5.1:
+        non_striker: MS Pepper
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 5.2:
+        non_striker: MS Pepper
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Clarke
+    - 5.3:
+        non_striker: MS Pepper
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 5.4:
+        non_striker: MS Pepper
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Clarke
+    - 5.5:
+        non_striker: MS Pepper
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 5.6:
+        non_striker: JM Clarke
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Pepper
+    - 6.1:
+        non_striker: JM Clarke
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Pepper
+    - 6.2:
+        non_striker: MS Pepper
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 6.3:
+        non_striker: MS Pepper
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 6.4:
+        non_striker: JM Clarke
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Pepper
+    - 6.5:
+        non_striker: JM Clarke
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Pepper
+    - 6.6:
+        non_striker: JM Clarke
+        bowler: KMA Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Pepper
+    - 7.1:
+        non_striker: MS Pepper
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 7.2:
+        non_striker: JM Clarke
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Pepper
+    - 7.3:
+        non_striker: MS Pepper
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 7.4:
+        non_striker: JM Clarke
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Pepper
+        wicket:
+          player_out: MS Pepper
+          fielders:
+          - Rohan Mustafa
+          kind: caught
+    - 7.5:
+        non_striker: JM Clarke
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 7.6:
+        non_striker: JM Clarke
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 8.1:
+        non_striker: A Sharafu
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 8.2:
+        non_striker: A Sharafu
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 8.3:
+        non_striker: A Sharafu
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 8.4:
+        non_striker: A Sharafu
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 8.5:
+        non_striker: JM Clarke
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 8.6:
+        non_striker: JM Clarke
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 9.1:
+        non_striker: JM Clarke
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 9.2:
+        non_striker: A Sharafu
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 9.3:
+        non_striker: JM Clarke
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 9.4:
+        non_striker: A Sharafu
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 9.5:
+        non_striker: JM Clarke
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 9.6:
+        non_striker: A Sharafu
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 10.1:
+        non_striker: A Sharafu
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 10.2:
+        non_striker: JM Clarke
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 10.3:
+        non_striker: JM Clarke
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 10.4:
+        non_striker: JM Clarke
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 10.5:
+        non_striker: JM Clarke
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Sharafu
+    - 10.6:
+        non_striker: JM Clarke
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 10.7:
+        non_striker: JM Clarke
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 11.1:
+        non_striker: JM Clarke
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 11.2:
+        non_striker: A Sharafu
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+        wicket:
+          player_out: JM Clarke
+          kind: lbw
+    - 11.3:
+        non_striker: A Sharafu
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 11.4:
+        non_striker: A Sharafu
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 11.5:
+        non_striker: LJ Evans
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 11.6:
+        non_striker: A Sharafu
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 12.1:
+        non_striker: A Sharafu
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 12.2:
+        non_striker: LJ Evans
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 12.3:
+        non_striker: A Sharafu
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 12.4:
+        non_striker: A Sharafu
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 12.5:
+        non_striker: A Sharafu
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 12.6:
+        non_striker: LJ Evans
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 13.1:
+        non_striker: LJ Evans
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 13.2:
+        non_striker: A Sharafu
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 13.3:
+        non_striker: LJ Evans
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 13.4:
+        non_striker: LJ Evans
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 13.5:
+        non_striker: A Sharafu
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 13.6:
+        non_striker: LJ Evans
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 14.1:
+        non_striker: LJ Evans
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 14.2:
+        non_striker: A Sharafu
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Evans
+    - 14.3:
+        non_striker: A Sharafu
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 14.4:
+        non_striker: A Sharafu
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Evans
+    - 14.5:
+        non_striker: A Sharafu
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Evans
+    - 14.6:
+        non_striker: A Sharafu
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 15.1:
+        non_striker: A Sharafu
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 15.2:
+        non_striker: A Sharafu
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 15.3:
+        non_striker: LJ Evans
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+        wicket:
+          player_out: A Sharafu
+          fielders:
+          - Muhammad Jawadullah
+          kind: caught
+    - 15.4:
+        non_striker: LJ Evans
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 15.5:
+        non_striker: LJ Evans
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 15.6:
+        non_striker: LJ Evans
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 16.1:
+        non_striker: AD Russell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 16.2:
+        non_striker: AD Russell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 16.3:
+        non_striker: LJ Evans
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 16.4:
+        non_striker: LJ Evans
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 16.5:
+        non_striker: LJ Evans
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 16.6:
+        non_striker: AD Russell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Evans
+    - 16.7:
+        non_striker: AD Russell
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LJ Evans
+    - 16.8:
+        non_striker: AD Russell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 17.1:
+        non_striker: LJ Evans
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 17.2:
+        non_striker: AD Russell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 17.3:
+        non_striker: AD Russell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Evans
+    - 17.4:
+        non_striker: AD Russell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 17.5:
+        non_striker: LJ Evans
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 17.6:
+        non_striker: AD Russell
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 18.1:
+        non_striker: LJ Evans
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 18.2:
+        non_striker: AD Russell
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Evans
+    - 18.3:
+        non_striker: AD Russell
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 18.4:
+        non_striker: AD Russell
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 18.5:
+        non_striker: LJ Evans
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 18.6:
+        non_striker: LJ Evans
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 19.1:
+        non_striker: AD Russell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LJ Evans
+    - 19.2:
+        non_striker: AD Russell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 19.3:
+        non_striker: LJ Evans
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 19.4:
+        non_striker: LJ Evans
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 19.5:
+        non_striker: AD Russell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Evans
+    - 19.6:
+        non_striker: AD Russell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 19.7:
+        non_striker: LJ Evans
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+- 2nd innings:
+    team: Sharjah Warriorz
+    deliveries:
+    - 0.1:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: V Viyaskanth
+            out: AD Russell
+            team: Abu Dhabi Knight Riders
+            reason: impact_player
+        batsman: T Kohler-Cadmore
+    - 0.2:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Kohler-Cadmore
+    - 0.3:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+        wicket:
+          player_out: T Kohler-Cadmore
+          fielders:
+          - A Sharafu
+          kind: caught
+    - 0.4:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 0.5:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 0.6:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Roy
+    - 0.7:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 1.1:
+        non_striker: JJ Roy
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 1.2:
+        non_striker: JJ Roy
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 1.3:
+        non_striker: JJ Roy
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 1.4:
+        non_striker: JJ Roy
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 1.5:
+        non_striker: JJ Roy
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 1.6:
+        non_striker: JJ Roy
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 2.1:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 2.2:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 2.3:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+        wicket:
+          player_out: JJ Roy
+          fielders:
+          - JM Clarke
+          kind: caught
+    - 2.4:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 2.5:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 2.6:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 3.1:
+        non_striker: Rohan Mustafa
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 3.2:
+        non_striker: J Charles
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 3.3:
+        non_striker: J Charles
+        bowler: KR Mayers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rohan Mustafa
+    - 3.4:
+        non_striker: Rohan Mustafa
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.5:
+        non_striker: Rohan Mustafa
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.6:
+        non_striker: Rohan Mustafa
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 4.1:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 4.2:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rohan Mustafa
+    - 4.3:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 4.4:
+        non_striker: Rohan Mustafa
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 4.5:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 4.6:
+        non_striker: J Charles
+        bowler: DJ Willey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rohan Mustafa
+    - 4.7:
+        non_striker: Rohan Mustafa
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 5.1:
+        non_striker: J Charles
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 5.2:
+        non_striker: J Charles
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 5.3:
+        non_striker: Rohan Mustafa
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 5.4:
+        non_striker: Rohan Mustafa
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Charles
+    - 5.5:
+        non_striker: Rohan Mustafa
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+        wicket:
+          player_out: J Charles
+          fielders:
+          - MS Pepper
+          kind: caught
+    - 5.6:
+        non_striker: Rohan Mustafa
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: PBB Rajapaksa
+            out: JJ Roy
+            team: Sharjah Warriorz
+            reason: impact_player
+        batsman: PBB Rajapaksa
+    - 5.7:
+        non_striker: Rohan Mustafa
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 6.1:
+        non_striker: PBB Rajapaksa
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 6.2:
+        non_striker: PBB Rajapaksa
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 6.3:
+        non_striker: PBB Rajapaksa
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 6.4:
+        non_striker: PBB Rajapaksa
+        bowler: Shahid Bhutta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rohan Mustafa
+    - 6.5:
+        non_striker: PBB Rajapaksa
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 6.6:
+        non_striker: Rohan Mustafa
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 6.7:
+        non_striker: Rohan Mustafa
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 7.1:
+        non_striker: PBB Rajapaksa
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rohan Mustafa
+    - 7.2:
+        non_striker: Rohan Mustafa
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 7.3:
+        non_striker: Rohan Mustafa
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 7.4:
+        non_striker: PBB Rajapaksa
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+    - 7.5:
+        non_striker: PBB Rajapaksa
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rohan Mustafa
+    - 7.6:
+        non_striker: PBB Rajapaksa
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rohan Mustafa
+        wicket:
+          player_out: Rohan Mustafa
+          kind: bowled
+    - 8.1:
+        non_striker: Karim Janat
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 8.2:
+        non_striker: Karim Janat
+        bowler: Shahid Bhutta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PBB Rajapaksa
+    - 8.3:
+        non_striker: PBB Rajapaksa
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+    - 8.4:
+        non_striker: PBB Rajapaksa
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+    - 8.5:
+        non_striker: PBB Rajapaksa
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Karim Janat
+    - 8.6:
+        non_striker: PBB Rajapaksa
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+    - 9.1:
+        non_striker: Karim Janat
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 9.2:
+        non_striker: PBB Rajapaksa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karim Janat
+    - 9.3:
+        non_striker: Karim Janat
+        bowler: SP Narine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PBB Rajapaksa
+    - 9.4:
+        non_striker: PBB Rajapaksa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karim Janat
+    - 9.5:
+        non_striker: Karim Janat
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 9.6:
+        non_striker: Karim Janat
+        bowler: SP Narine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PBB Rajapaksa
+    - 10.1:
+        non_striker: Karim Janat
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 10.2:
+        non_striker: PBB Rajapaksa
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karim Janat
+    - 10.3:
+        non_striker: Karim Janat
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PBB Rajapaksa
+    - 10.4:
+        non_striker: Karim Janat
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 10.5:
+        non_striker: PBB Rajapaksa
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+    - 10.6:
+        non_striker: PBB Rajapaksa
+        bowler: DJ Willey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karim Janat
+        wicket:
+          player_out: Karim Janat
+          fielders:
+          - LJ Evans
+          kind: caught
+    - 11.1:
+        non_striker: KMA Paul
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 11.2:
+        non_striker: KMA Paul
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 11.3:
+        non_striker: PBB Rajapaksa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KMA Paul
+    - 11.4:
+        non_striker: PBB Rajapaksa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 11.5:
+        non_striker: PBB Rajapaksa
+        bowler: SP Narine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KMA Paul
+    - 11.6:
+        non_striker: PBB Rajapaksa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 11.7:
+        non_striker: PBB Rajapaksa
+        bowler: SP Narine
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: KMA Paul
+    - 12.1:
+        non_striker: KMA Paul
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 12.2:
+        non_striker: KMA Paul
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+        wicket:
+          player_out: PBB Rajapaksa
+          fielders:
+          - PD Salt
+          kind: caught
+    - 12.3:
+        non_striker: KMA Paul
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 12.4:
+        non_striker: KMA Paul
+        bowler: Shahid Bhutta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Harmeet Singh
+    - 12.5:
+        non_striker: KMA Paul
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 12.6:
+        non_striker: KMA Paul
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Harmeet Singh
+    - 12.7:
+        non_striker: KMA Paul
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Harmeet Singh
+    - 13.1:
+        non_striker: Harmeet Singh
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 13.2:
+        non_striker: KMA Paul
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 13.3:
+        non_striker: KMA Paul
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 13.4:
+        non_striker: KMA Paul
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 13.5:
+        non_striker: KMA Paul
+        bowler: SP Narine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Harmeet Singh
+    - 13.6:
+        non_striker: Harmeet Singh
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 14.1:
+        non_striker: Harmeet Singh
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 14.2:
+        non_striker: KMA Paul
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 14.3:
+        non_striker: KMA Paul
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 14.4:
+        non_striker: KMA Paul
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+        wicket:
+          player_out: Harmeet Singh
+          fielders:
+          - LJ Evans
+          kind: caught
+    - 14.5:
+        non_striker: KMA Paul
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AU Rashid
+    - 14.6:
+        non_striker: KMA Paul
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid
+    - 15.1:
+        non_striker: KMA Paul
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid
+    - 15.2:
+        non_striker: AU Rashid
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 15.3:
+        non_striker: KMA Paul
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AU Rashid
+    - 15.4:
+        non_striker: KMA Paul
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid
+    - 15.5:
+        non_striker: AU Rashid
+        bowler: SP Narine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KMA Paul
+    - 15.6:
+        non_striker: AU Rashid
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 15.7:
+        non_striker: AU Rashid
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Paul
+    - 16.1:
+        non_striker: AU Rashid
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KMA Paul
+    - 16.2:
+        non_striker: AU Rashid
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KMA Paul
+    - 16.3:
+        non_striker: AU Rashid
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 16.4:
+        non_striker: AU Rashid
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KMA Paul
+    - 16.5:
+        non_striker: AU Rashid
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+    - 16.6:
+        non_striker: AU Rashid
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KMA Paul
+    - 16.7:
+        non_striker: AU Rashid
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Paul
+        wicket:
+          player_out: KMA Paul
+          fielders:
+          - LJ Evans
+          kind: caught
+    - 17.1:
+        non_striker: TG Southee
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid
+    - 17.2:
+        non_striker: AU Rashid
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 17.3:
+        non_striker: TG Southee
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AU Rashid
+        wicket:
+          player_out: AU Rashid
+          fielders:
+          - MS Pepper
+          kind: caught
+    - 17.4:
+        non_striker: TG Southee
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AF Milne
+    - 17.5:
+        non_striker: TG Southee
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AF Milne
+    - 17.6:
+        non_striker: AF Milne
+        bowler: KR Mayers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TG Southee
+    - 18.1:
+        non_striker: AF Milne
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Southee
+    - 18.2:
+        non_striker: AF Milne
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 18.3:
+        non_striker: AF Milne
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TG Southee
+    - 18.4:
+        non_striker: AF Milne
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Southee
+    - 18.5:
+        non_striker: AF Milne
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TG Southee
+    - 18.6:
+        non_striker: AF Milne
+        bowler: Shahid Bhutta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Southee
+    - 19.1:
+        non_striker: AF Milne
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Southee
+    - 19.2:
+        non_striker: AF Milne
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+    - 19.3:
+        non_striker: AF Milne
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Southee
+        wicket:
+          player_out: TG Southee
+          fielders:
+          - MS Pepper
+          kind: caught

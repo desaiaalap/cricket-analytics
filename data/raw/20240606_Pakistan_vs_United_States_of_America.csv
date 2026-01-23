@@ -1,0 +1,271 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Pakistan,0.1,Mohammad Rizwan,NP Kenjige,0,{},{}
+1st innings,Pakistan,0.2,Mohammad Rizwan,NP Kenjige,0,{},{}
+1st innings,Pakistan,0.3,Mohammad Rizwan,NP Kenjige,6,{},{}
+1st innings,Pakistan,0.4,Mohammad Rizwan,NP Kenjige,0,{},{}
+1st innings,Pakistan,0.5,Mohammad Rizwan,NP Kenjige,2,{},{}
+1st innings,Pakistan,0.6,Mohammad Rizwan,NP Kenjige,1,{},{}
+1st innings,Pakistan,1.1,Mohammad Rizwan,SN Netravalkar,0,{},{}
+1st innings,Pakistan,1.2,Mohammad Rizwan,SN Netravalkar,0,{},"{'player_out': 'Mohammad Rizwan', 'fielders': ['SR Taylor'], 'kind': 'caught'}"
+1st innings,Pakistan,1.3,Usman Khan,SN Netravalkar,3,{},{}
+1st innings,Pakistan,1.4,Babar Azam,SN Netravalkar,0,{},{}
+1st innings,Pakistan,1.5,Babar Azam,SN Netravalkar,0,{},{}
+1st innings,Pakistan,1.6,Babar Azam,SN Netravalkar,1,{},{}
+1st innings,Pakistan,2.1,Babar Azam,NP Kenjige,1,{},{}
+1st innings,Pakistan,2.2,Usman Khan,NP Kenjige,0,{},{}
+1st innings,Pakistan,2.3,Usman Khan,NP Kenjige,0,{},"{'player_out': 'Usman Khan', 'fielders': ['NR Kumar'], 'kind': 'caught'}"
+1st innings,Pakistan,2.4,Fakhar Zaman,NP Kenjige,6,{},{}
+1st innings,Pakistan,2.5,Fakhar Zaman,NP Kenjige,1,{},{}
+1st innings,Pakistan,2.6,Babar Azam,NP Kenjige,0,{},{}
+1st innings,Pakistan,3.1,Fakhar Zaman,SN Netravalkar,0,{},{}
+1st innings,Pakistan,3.2,Fakhar Zaman,SN Netravalkar,1,{},{}
+1st innings,Pakistan,3.3,Babar Azam,SN Netravalkar,0,{},{}
+1st innings,Pakistan,3.4,Babar Azam,SN Netravalkar,0,{},{}
+1st innings,Pakistan,3.5,Babar Azam,SN Netravalkar,0,{},{}
+1st innings,Pakistan,3.6,Babar Azam,SN Netravalkar,0,{},{}
+1st innings,Pakistan,4.1,Fakhar Zaman,Ali Khan,2,{},{}
+1st innings,Pakistan,4.2,Fakhar Zaman,Ali Khan,1,{},{}
+1st innings,Pakistan,4.3,Babar Azam,Ali Khan,1,{'legbyes': 1},{}
+1st innings,Pakistan,4.4,Fakhar Zaman,Ali Khan,0,{},"{'player_out': 'Fakhar Zaman', 'fielders': ['SR Taylor'], 'kind': 'caught'}"
+1st innings,Pakistan,4.5,Shadab Khan,Ali Khan,0,{},{}
+1st innings,Pakistan,4.6,Shadab Khan,Ali Khan,1,{'wides': 1},{}
+1st innings,Pakistan,4.7,Shadab Khan,Ali Khan,0,{},{}
+1st innings,Pakistan,5.1,Babar Azam,SN Netravalkar,0,{},{}
+1st innings,Pakistan,5.2,Babar Azam,SN Netravalkar,1,{},{}
+1st innings,Pakistan,5.3,Shadab Khan,SN Netravalkar,0,{},{}
+1st innings,Pakistan,5.4,Shadab Khan,SN Netravalkar,1,{},{}
+1st innings,Pakistan,5.5,Babar Azam,SN Netravalkar,0,{},{}
+1st innings,Pakistan,5.6,Babar Azam,SN Netravalkar,1,{},{}
+1st innings,Pakistan,6.1,Babar Azam,Harmeet Singh,1,{'legbyes': 1},{}
+1st innings,Pakistan,6.2,Shadab Khan,Harmeet Singh,2,{},{}
+1st innings,Pakistan,6.3,Shadab Khan,Harmeet Singh,0,{},{}
+1st innings,Pakistan,6.4,Shadab Khan,Harmeet Singh,0,{},{}
+1st innings,Pakistan,6.5,Shadab Khan,Harmeet Singh,1,{},{}
+1st innings,Pakistan,6.6,Babar Azam,Harmeet Singh,1,{},{}
+1st innings,Pakistan,7.1,Babar Azam,Jasdeep Singh,1,{'legbyes': 1},{}
+1st innings,Pakistan,7.2,Shadab Khan,Jasdeep Singh,0,{},{}
+1st innings,Pakistan,7.3,Shadab Khan,Jasdeep Singh,2,{},{}
+1st innings,Pakistan,7.4,Shadab Khan,Jasdeep Singh,1,{},{}
+1st innings,Pakistan,7.5,Babar Azam,Jasdeep Singh,0,{},{}
+1st innings,Pakistan,7.6,Babar Azam,Jasdeep Singh,1,{},{}
+1st innings,Pakistan,8.1,Babar Azam,Harmeet Singh,0,{},{}
+1st innings,Pakistan,8.2,Babar Azam,Harmeet Singh,1,{},{}
+1st innings,Pakistan,8.3,Shadab Khan,Harmeet Singh,1,{},{}
+1st innings,Pakistan,8.4,Babar Azam,Harmeet Singh,1,{'legbyes': 1},{}
+1st innings,Pakistan,8.5,Shadab Khan,Harmeet Singh,1,{},{}
+1st innings,Pakistan,8.6,Babar Azam,Harmeet Singh,2,{},{}
+1st innings,Pakistan,9.1,Shadab Khan,Jasdeep Singh,6,{},{}
+1st innings,Pakistan,9.2,Shadab Khan,Jasdeep Singh,6,{},{}
+1st innings,Pakistan,9.3,Shadab Khan,Jasdeep Singh,1,{'wides': 1},{}
+1st innings,Pakistan,9.4,Shadab Khan,Jasdeep Singh,1,{},{}
+1st innings,Pakistan,9.5,Babar Azam,Jasdeep Singh,1,{},{}
+1st innings,Pakistan,9.6,Shadab Khan,Jasdeep Singh,1,{},{}
+1st innings,Pakistan,9.7,Babar Azam,Jasdeep Singh,4,{},{}
+1st innings,Pakistan,10.1,Shadab Khan,NP Kenjige,1,{},{}
+1st innings,Pakistan,10.2,Babar Azam,NP Kenjige,0,{},{}
+1st innings,Pakistan,10.3,Babar Azam,NP Kenjige,4,{},{}
+1st innings,Pakistan,10.4,Babar Azam,NP Kenjige,1,{},{}
+1st innings,Pakistan,10.5,Shadab Khan,NP Kenjige,1,{},{}
+1st innings,Pakistan,10.6,Babar Azam,NP Kenjige,1,{},{}
+1st innings,Pakistan,11.1,Babar Azam,Harmeet Singh,6,{},{}
+1st innings,Pakistan,11.2,Babar Azam,Harmeet Singh,1,{},{}
+1st innings,Pakistan,11.3,Shadab Khan,Harmeet Singh,4,{},{}
+1st innings,Pakistan,11.4,Shadab Khan,Harmeet Singh,1,{},{}
+1st innings,Pakistan,11.5,Babar Azam,Harmeet Singh,1,{},{}
+1st innings,Pakistan,11.6,Shadab Khan,Harmeet Singh,6,{},{}
+1st innings,Pakistan,12.1,Babar Azam,NP Kenjige,1,{},{}
+1st innings,Pakistan,12.2,Shadab Khan,NP Kenjige,2,{},{}
+1st innings,Pakistan,12.3,Shadab Khan,NP Kenjige,2,{},{}
+1st innings,Pakistan,12.4,Shadab Khan,NP Kenjige,0,{},"{'player_out': 'Shadab Khan', 'fielders': ['SN Netravalkar'], 'kind': 'caught'}"
+1st innings,Pakistan,12.5,Azam Khan,NP Kenjige,0,{},"{'player_out': 'Azam Khan', 'kind': 'lbw'}"
+1st innings,Pakistan,12.6,Iftikhar Ahmed,NP Kenjige,0,{},{}
+1st innings,Pakistan,13.1,Babar Azam,Ali Khan,1,{},{}
+1st innings,Pakistan,13.2,Iftikhar Ahmed,Ali Khan,1,{},{}
+1st innings,Pakistan,13.3,Babar Azam,Ali Khan,1,{},{}
+1st innings,Pakistan,13.4,Iftikhar Ahmed,Ali Khan,1,{},{}
+1st innings,Pakistan,13.5,Babar Azam,Ali Khan,1,{},{}
+1st innings,Pakistan,13.6,Iftikhar Ahmed,Ali Khan,4,{},{}
+1st innings,Pakistan,14.1,Babar Azam,Harmeet Singh,0,{},{}
+1st innings,Pakistan,14.2,Babar Azam,Harmeet Singh,1,{'wides': 1},{}
+1st innings,Pakistan,14.3,Babar Azam,Harmeet Singh,0,{},{}
+1st innings,Pakistan,14.4,Babar Azam,Harmeet Singh,4,{},{}
+1st innings,Pakistan,14.5,Babar Azam,Harmeet Singh,1,{},{}
+1st innings,Pakistan,14.6,Iftikhar Ahmed,Harmeet Singh,0,{},{}
+1st innings,Pakistan,14.7,Iftikhar Ahmed,Harmeet Singh,0,{},{}
+1st innings,Pakistan,15.1,Babar Azam,Jasdeep Singh,6,{},{}
+1st innings,Pakistan,15.2,Babar Azam,Jasdeep Singh,1,{},{}
+1st innings,Pakistan,15.3,Iftikhar Ahmed,Jasdeep Singh,4,{},{}
+1st innings,Pakistan,15.4,Iftikhar Ahmed,Jasdeep Singh,1,{},{}
+1st innings,Pakistan,15.5,Babar Azam,Jasdeep Singh,0,{},"{'player_out': 'Babar Azam', 'kind': 'lbw'}"
+1st innings,Pakistan,15.6,Shaheen Shah Afridi,Jasdeep Singh,1,{},{}
+1st innings,Pakistan,16.1,Shaheen Shah Afridi,CJ Anderson,1,{},{}
+1st innings,Pakistan,16.2,Iftikhar Ahmed,CJ Anderson,4,{},{}
+1st innings,Pakistan,16.3,Iftikhar Ahmed,CJ Anderson,0,{},{}
+1st innings,Pakistan,16.4,Iftikhar Ahmed,CJ Anderson,1,{},{}
+1st innings,Pakistan,16.5,Shaheen Shah Afridi,CJ Anderson,0,{},{}
+1st innings,Pakistan,16.6,Shaheen Shah Afridi,CJ Anderson,0,{},{}
+1st innings,Pakistan,17.1,Iftikhar Ahmed,Ali Khan,1,{},{}
+1st innings,Pakistan,17.2,Shaheen Shah Afridi,Ali Khan,0,{},{}
+1st innings,Pakistan,17.3,Shaheen Shah Afridi,Ali Khan,4,{},{}
+1st innings,Pakistan,17.4,Shaheen Shah Afridi,Ali Khan,1,{},{}
+1st innings,Pakistan,17.5,Iftikhar Ahmed,Ali Khan,1,{},{}
+1st innings,Pakistan,17.6,Shaheen Shah Afridi,Ali Khan,0,{},{}
+1st innings,Pakistan,18.1,Iftikhar Ahmed,SN Netravalkar,0,{},"{'player_out': 'Iftikhar Ahmed', 'kind': 'lbw'}"
+1st innings,Pakistan,18.2,Haris Rauf,SN Netravalkar,1,{},{}
+1st innings,Pakistan,18.3,Shaheen Shah Afridi,SN Netravalkar,6,{},{}
+1st innings,Pakistan,18.4,Shaheen Shah Afridi,SN Netravalkar,1,{},{}
+1st innings,Pakistan,18.5,Haris Rauf,SN Netravalkar,1,{},{}
+1st innings,Pakistan,18.6,Shaheen Shah Afridi,SN Netravalkar,1,{},{}
+1st innings,Pakistan,19.1,Shaheen Shah Afridi,Ali Khan,0,{},{}
+1st innings,Pakistan,19.2,Shaheen Shah Afridi,Ali Khan,0,{},{}
+1st innings,Pakistan,19.3,Shaheen Shah Afridi,Ali Khan,1,{},{}
+1st innings,Pakistan,19.4,Haris Rauf,Ali Khan,1,{},{}
+1st innings,Pakistan,19.5,Shaheen Shah Afridi,Ali Khan,1,{'wides': 1},{}
+1st innings,Pakistan,19.6,Shaheen Shah Afridi,Ali Khan,6,{},{}
+1st innings,Pakistan,19.7,Shaheen Shah Afridi,Ali Khan,1,{},{}
+2nd innings,United States of America,0.1,SR Taylor,Shaheen Shah Afridi,0,{},{}
+2nd innings,United States of America,0.2,SR Taylor,Shaheen Shah Afridi,0,{},{}
+2nd innings,United States of America,0.3,SR Taylor,Shaheen Shah Afridi,1,{'wides': 1},{}
+2nd innings,United States of America,0.4,SR Taylor,Shaheen Shah Afridi,4,{},{}
+2nd innings,United States of America,0.5,SR Taylor,Shaheen Shah Afridi,1,{},{}
+2nd innings,United States of America,0.6,MD Patel,Shaheen Shah Afridi,0,{},{}
+2nd innings,United States of America,0.7,MD Patel,Shaheen Shah Afridi,0,{},{}
+2nd innings,United States of America,1.1,SR Taylor,Mohammad Amir,1,{'wides': 1},{}
+2nd innings,United States of America,1.2,SR Taylor,Mohammad Amir,1,{'wides': 1},{}
+2nd innings,United States of America,1.3,SR Taylor,Mohammad Amir,0,{},{}
+2nd innings,United States of America,1.4,SR Taylor,Mohammad Amir,1,{},{}
+2nd innings,United States of America,1.5,MD Patel,Mohammad Amir,0,{},{}
+2nd innings,United States of America,1.6,MD Patel,Mohammad Amir,1,{'wides': 1},{}
+2nd innings,United States of America,1.7,MD Patel,Mohammad Amir,0,{},{}
+2nd innings,United States of America,1.8,MD Patel,Mohammad Amir,4,{},{}
+2nd innings,United States of America,1.9,MD Patel,Mohammad Amir,0,{},{}
+2nd innings,United States of America,2.1,SR Taylor,Shaheen Shah Afridi,0,{},{}
+2nd innings,United States of America,2.2,SR Taylor,Shaheen Shah Afridi,0,{},{}
+2nd innings,United States of America,2.3,SR Taylor,Shaheen Shah Afridi,1,{},{}
+2nd innings,United States of America,2.4,MD Patel,Shaheen Shah Afridi,1,{'wides': 1},{}
+2nd innings,United States of America,2.5,MD Patel,Shaheen Shah Afridi,4,{},{}
+2nd innings,United States of America,2.6,MD Patel,Shaheen Shah Afridi,4,{},{}
+2nd innings,United States of America,2.7,MD Patel,Shaheen Shah Afridi,0,{},{}
+2nd innings,United States of America,3.1,SR Taylor,Naseem Shah,1,{},{}
+2nd innings,United States of America,3.2,MD Patel,Naseem Shah,0,{},{}
+2nd innings,United States of America,3.3,MD Patel,Naseem Shah,0,{},{}
+2nd innings,United States of America,3.4,MD Patel,Naseem Shah,1,{},{}
+2nd innings,United States of America,3.5,SR Taylor,Naseem Shah,1,{},{}
+2nd innings,United States of America,3.6,MD Patel,Naseem Shah,1,{},{}
+2nd innings,United States of America,4.1,MD Patel,Mohammad Amir,4,{},{}
+2nd innings,United States of America,4.2,MD Patel,Mohammad Amir,1,{},{}
+2nd innings,United States of America,4.3,SR Taylor,Mohammad Amir,0,{},{}
+2nd innings,United States of America,4.4,SR Taylor,Mohammad Amir,0,{},{}
+2nd innings,United States of America,4.5,SR Taylor,Mohammad Amir,2,{},{}
+2nd innings,United States of America,4.6,SR Taylor,Mohammad Amir,1,{},{}
+2nd innings,United States of America,5.1,SR Taylor,Naseem Shah,0,{},"{'player_out': 'SR Taylor', 'fielders': ['Mohammad Rizwan'], 'kind': 'caught'}"
+2nd innings,United States of America,5.2,AGS Gous,Naseem Shah,4,{},{}
+2nd innings,United States of America,5.3,AGS Gous,Naseem Shah,0,{},{}
+2nd innings,United States of America,5.4,AGS Gous,Naseem Shah,0,{},{}
+2nd innings,United States of America,5.5,AGS Gous,Naseem Shah,4,{},{}
+2nd innings,United States of America,5.6,AGS Gous,Naseem Shah,0,{},{}
+2nd innings,United States of America,6.1,MD Patel,Haris Rauf,0,{},{}
+2nd innings,United States of America,6.2,MD Patel,Haris Rauf,1,{},{}
+2nd innings,United States of America,6.3,AGS Gous,Haris Rauf,2,{},{}
+2nd innings,United States of America,6.4,AGS Gous,Haris Rauf,4,{},{}
+2nd innings,United States of America,6.5,AGS Gous,Haris Rauf,0,{},{}
+2nd innings,United States of America,6.6,AGS Gous,Haris Rauf,0,{},{}
+2nd innings,United States of America,7.1,MD Patel,Shadab Khan,2,{},{}
+2nd innings,United States of America,7.2,MD Patel,Shadab Khan,1,{},{}
+2nd innings,United States of America,7.3,AGS Gous,Shadab Khan,0,{},{}
+2nd innings,United States of America,7.4,AGS Gous,Shadab Khan,1,{},{}
+2nd innings,United States of America,7.5,MD Patel,Shadab Khan,1,{},{}
+2nd innings,United States of America,7.6,AGS Gous,Shadab Khan,0,{},{}
+2nd innings,United States of America,8.1,MD Patel,Haris Rauf,2,{},{}
+2nd innings,United States of America,8.2,MD Patel,Haris Rauf,0,{},{}
+2nd innings,United States of America,8.3,MD Patel,Haris Rauf,1,{},{}
+2nd innings,United States of America,8.4,AGS Gous,Haris Rauf,1,{},{}
+2nd innings,United States of America,8.5,MD Patel,Haris Rauf,1,{},{}
+2nd innings,United States of America,8.6,AGS Gous,Haris Rauf,4,{},{}
+2nd innings,United States of America,9.1,MD Patel,Shadab Khan,1,{'wides': 1},{}
+2nd innings,United States of America,9.2,MD Patel,Shadab Khan,1,{},{}
+2nd innings,United States of America,9.3,AGS Gous,Shadab Khan,6,{},{}
+2nd innings,United States of America,9.4,AGS Gous,Shadab Khan,0,{},{}
+2nd innings,United States of America,9.5,AGS Gous,Shadab Khan,1,{},{}
+2nd innings,United States of America,9.6,MD Patel,Shadab Khan,1,{},{}
+2nd innings,United States of America,9.7,AGS Gous,Shadab Khan,1,{},{}
+2nd innings,United States of America,10.1,AGS Gous,Naseem Shah,0,{},{}
+2nd innings,United States of America,10.2,AGS Gous,Naseem Shah,4,{},{}
+2nd innings,United States of America,10.3,AGS Gous,Naseem Shah,0,{},{}
+2nd innings,United States of America,10.4,AGS Gous,Naseem Shah,1,{},{}
+2nd innings,United States of America,10.5,MD Patel,Naseem Shah,1,{},{}
+2nd innings,United States of America,10.6,AGS Gous,Naseem Shah,1,{'wides': 1},{}
+2nd innings,United States of America,10.7,AGS Gous,Naseem Shah,1,{},{}
+2nd innings,United States of America,11.1,AGS Gous,Iftikhar Ahmed,1,{},{}
+2nd innings,United States of America,11.2,MD Patel,Iftikhar Ahmed,0,{},{}
+2nd innings,United States of America,11.3,MD Patel,Iftikhar Ahmed,4,{},{}
+2nd innings,United States of America,11.4,MD Patel,Iftikhar Ahmed,4,{},{}
+2nd innings,United States of America,11.5,MD Patel,Iftikhar Ahmed,1,{},{}
+2nd innings,United States of America,11.6,AGS Gous,Iftikhar Ahmed,0,{},{}
+2nd innings,United States of America,12.1,MD Patel,Shaheen Shah Afridi,0,{},{}
+2nd innings,United States of America,12.2,MD Patel,Shaheen Shah Afridi,4,{},{}
+2nd innings,United States of America,12.3,MD Patel,Shaheen Shah Afridi,6,{},{}
+2nd innings,United States of America,12.4,MD Patel,Shaheen Shah Afridi,0,{},{}
+2nd innings,United States of America,12.5,MD Patel,Shaheen Shah Afridi,0,{},{}
+2nd innings,United States of America,12.6,MD Patel,Shaheen Shah Afridi,0,{},{}
+2nd innings,United States of America,13.1,AGS Gous,Haris Rauf,0,{},"{'player_out': 'AGS Gous', 'kind': 'bowled'}"
+2nd innings,United States of America,13.2,Aaron Jones,Haris Rauf,0,{},{}
+2nd innings,United States of America,13.3,Aaron Jones,Haris Rauf,3,{'wides': 3},{}
+2nd innings,United States of America,13.4,Aaron Jones,Haris Rauf,0,{},{}
+2nd innings,United States of America,13.5,Aaron Jones,Haris Rauf,0,{},{}
+2nd innings,United States of America,13.6,Aaron Jones,Haris Rauf,4,{},{}
+2nd innings,United States of America,13.7,Aaron Jones,Haris Rauf,0,{},{}
+2nd innings,United States of America,14.1,MD Patel,Mohammad Amir,0,{},"{'player_out': 'MD Patel', 'fielders': ['Mohammad Rizwan'], 'kind': 'caught'}"
+2nd innings,United States of America,14.2,NR Kumar,Mohammad Amir,0,{},{}
+2nd innings,United States of America,14.3,NR Kumar,Mohammad Amir,1,{},{}
+2nd innings,United States of America,14.4,Aaron Jones,Mohammad Amir,0,{},{}
+2nd innings,United States of America,14.5,Aaron Jones,Mohammad Amir,2,{},{}
+2nd innings,United States of America,14.6,Aaron Jones,Mohammad Amir,1,{},{}
+2nd innings,United States of America,15.1,Aaron Jones,Shadab Khan,1,{},{}
+2nd innings,United States of America,15.2,NR Kumar,Shadab Khan,1,{},{}
+2nd innings,United States of America,15.3,Aaron Jones,Shadab Khan,2,{},{}
+2nd innings,United States of America,15.4,Aaron Jones,Shadab Khan,6,{},{}
+2nd innings,United States of America,15.5,Aaron Jones,Shadab Khan,0,{},{}
+2nd innings,United States of America,15.6,Aaron Jones,Shadab Khan,1,{},{}
+2nd innings,United States of America,16.1,Aaron Jones,Naseem Shah,1,{},{}
+2nd innings,United States of America,16.2,NR Kumar,Naseem Shah,0,{},{}
+2nd innings,United States of America,16.3,NR Kumar,Naseem Shah,1,{},{}
+2nd innings,United States of America,16.4,Aaron Jones,Naseem Shah,1,{'wides': 1},{}
+2nd innings,United States of America,16.5,Aaron Jones,Naseem Shah,1,{},{}
+2nd innings,United States of America,16.6,NR Kumar,Naseem Shah,1,{},{}
+2nd innings,United States of America,16.7,Aaron Jones,Naseem Shah,1,{},{}
+2nd innings,United States of America,17.1,Aaron Jones,Shaheen Shah Afridi,0,{},{}
+2nd innings,United States of America,17.2,Aaron Jones,Shaheen Shah Afridi,4,{},{}
+2nd innings,United States of America,17.3,Aaron Jones,Shaheen Shah Afridi,1,{},{}
+2nd innings,United States of America,17.4,NR Kumar,Shaheen Shah Afridi,0,{},{}
+2nd innings,United States of America,17.5,NR Kumar,Shaheen Shah Afridi,1,{},{}
+2nd innings,United States of America,17.6,Aaron Jones,Shaheen Shah Afridi,1,{},{}
+2nd innings,United States of America,18.1,Aaron Jones,Mohammad Amir,1,{},{}
+2nd innings,United States of America,18.2,NR Kumar,Mohammad Amir,1,{'legbyes': 1},{}
+2nd innings,United States of America,18.3,Aaron Jones,Mohammad Amir,0,{},{}
+2nd innings,United States of America,18.4,Aaron Jones,Mohammad Amir,1,{},{}
+2nd innings,United States of America,18.5,NR Kumar,Mohammad Amir,0,{},{}
+2nd innings,United States of America,18.6,NR Kumar,Mohammad Amir,3,{},{}
+2nd innings,United States of America,19.1,NR Kumar,Haris Rauf,1,{},{}
+2nd innings,United States of America,19.2,Aaron Jones,Haris Rauf,1,{},{}
+2nd innings,United States of America,19.3,NR Kumar,Haris Rauf,1,{},{}
+2nd innings,United States of America,19.4,Aaron Jones,Haris Rauf,6,{},{}
+2nd innings,United States of America,19.5,Aaron Jones,Haris Rauf,1,{},{}
+2nd innings,United States of America,19.6,NR Kumar,Haris Rauf,4,{},{}
+United States of America Super Over,United States of America,0.1,Aaron Jones,Mohammad Amir,4,{},{}
+United States of America Super Over,United States of America,0.2,Aaron Jones,Mohammad Amir,2,{},{}
+United States of America Super Over,United States of America,0.3,Aaron Jones,Mohammad Amir,1,{},{}
+United States of America Super Over,United States of America,0.4,Harmeet Singh,Mohammad Amir,2,{'wides': 2},{}
+United States of America Super Over,United States of America,0.5,Aaron Jones,Mohammad Amir,1,{},{}
+United States of America Super Over,United States of America,0.6,Harmeet Singh,Mohammad Amir,2,{'wides': 2},{}
+United States of America Super Over,United States of America,0.7,Aaron Jones,Mohammad Amir,2,{},{}
+United States of America Super Over,United States of America,0.8,Aaron Jones,Mohammad Amir,3,{'wides': 3},{}
+United States of America Super Over,United States of America,0.9,Aaron Jones,Mohammad Amir,1,{},"{'player_out': 'Aaron Jones', 'fielders': ['Mohammad Rizwan'], 'kind': 'run out'}"
+Pakistan Super Over,Pakistan,0.1,Iftikhar Ahmed,SN Netravalkar,0,{},{}
+Pakistan Super Over,Pakistan,0.2,Iftikhar Ahmed,SN Netravalkar,4,{},{}
+Pakistan Super Over,Pakistan,0.3,Iftikhar Ahmed,SN Netravalkar,1,{'wides': 1},{}
+Pakistan Super Over,Pakistan,0.4,Iftikhar Ahmed,SN Netravalkar,0,{},"{'player_out': 'Iftikhar Ahmed', 'fielders': ['NR Kumar'], 'kind': 'caught'}"
+Pakistan Super Over,Pakistan,0.5,Shadab Khan,SN Netravalkar,1,{'wides': 1},{}
+Pakistan Super Over,Pakistan,0.6,Shadab Khan,SN Netravalkar,4,{'legbyes': 4},{}
+Pakistan Super Over,Pakistan,0.7,Shadab Khan,SN Netravalkar,2,{},{}
+Pakistan Super Over,Pakistan,0.8,Shadab Khan,SN Netravalkar,1,{},{}

@@ -1,0 +1,1727 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-01-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  competition: International League T20
+  dates:
+  - '2025-01-28'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sharjah Warriorz
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - A Zampa
+  players:
+    Dubai Capitals:
+    - AM Rossington
+    - SD Hope
+    - Gulbadin Naib
+    - Sikandar Raza
+    - Najibullah Zadran
+    - Khalid Shah
+    - MD Shanaka
+    - R Powell
+    - PVD Chameera
+    - Haider Ali
+    - OC McCoy
+    - Zahir Khan
+    Sharjah Warriorz:
+    - T Kohler-Cadmore
+    - J Charles
+    - WIA Fernando
+    - JJ Roy
+    - TL Seifert
+    - Ethan D'Souza
+    - AC Agar
+    - Rohan Mustafa
+    - TG Southee
+    - D Madushanka
+    - A Zampa
+    - AF Milne
+  registry:
+    people:
+      A Zampa: 14f96089
+      AC Agar: a2421394
+      AF Milne: 350bb1b1
+      AM Rossington: 7bcde3fe
+      Aasif Iqbal: 42c41e1a
+      Akbar Ali: e753931d
+      D Madushanka: de7d833e
+      Ethan D'Souza: 31ca7a9c
+      Gulbadin Naib: 9f77963a
+      Haider Ali: dd572696
+      J Charles: '09a9d073'
+      JJ Roy: d1c36f5c
+      Khalid Shah: 9e432a38
+      MD Shanaka: 3ff033bb
+      MJ Saggers: 402d5937
+      Najibullah Zadran: 1212cbec
+      OC McCoy: 529eb9e0
+      P Wilson: 68304a36
+      PVD Chameera: 327b58d3
+      R Powell: 650d5e49
+      RS Mahanama: '57910393'
+      Rohan Mustafa: d1988788
+      SD Hope: 1fc6ef83
+      Sikandar Raza: 26d041c4
+      T Kohler-Cadmore: f836b33d
+      TG Southee: 13c35c9e
+      TL Seifert: 4663bd23
+      WIA Fernando: 9550470d
+      Zahir Khan: 786b7fe8
+  teams:
+  - Dubai Capitals
+  - Sharjah Warriorz
+  toss:
+    winner: Sharjah Warriorz
+    decision: field
+  umpires:
+  - Akbar Ali
+  - MJ Saggers
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: Dubai Capitals
+    deliveries:
+    - 0.1:
+        non_striker: SD Hope
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 0.2:
+        non_striker: SD Hope
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 0.3:
+        non_striker: SD Hope
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 0.4:
+        non_striker: SD Hope
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Rossington
+    - 0.5:
+        non_striker: SD Hope
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rossington
+    - 0.6:
+        non_striker: SD Hope
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rossington
+    - 1.1:
+        non_striker: AM Rossington
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 1.2:
+        non_striker: AM Rossington
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 1.3:
+        non_striker: AM Rossington
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 1.4:
+        non_striker: SD Hope
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 1.5:
+        non_striker: SD Hope
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 1.6:
+        non_striker: AM Rossington
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 2.1:
+        non_striker: SD Hope
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rossington
+    - 2.2:
+        non_striker: SD Hope
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 2.3:
+        non_striker: SD Hope
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 2.4:
+        non_striker: AM Rossington
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 2.5:
+        non_striker: SD Hope
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Rossington
+    - 2.6:
+        non_striker: SD Hope
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 3.1:
+        non_striker: SD Hope
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 3.2:
+        non_striker: SD Hope
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AM Rossington
+    - 3.3:
+        non_striker: AM Rossington
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 3.4:
+        non_striker: AM Rossington
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 3.5:
+        non_striker: SD Hope
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 3.6:
+        non_striker: SD Hope
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 4.1:
+        non_striker: AM Rossington
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 4.2:
+        non_striker: AM Rossington
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 4.3:
+        non_striker: AM Rossington
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 4.4:
+        non_striker: AM Rossington
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 4.5:
+        non_striker: SD Hope
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 4.6:
+        non_striker: AM Rossington
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 5.1:
+        non_striker: SD Hope
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 5.2:
+        non_striker: AM Rossington
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 5.3:
+        non_striker: AM Rossington
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 5.4:
+        non_striker: AM Rossington
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 5.5:
+        non_striker: AM Rossington
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 5.6:
+        non_striker: SD Hope
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rossington
+    - 6.1:
+        non_striker: AM Rossington
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 6.2:
+        non_striker: AM Rossington
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 6.3:
+        non_striker: SD Hope
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rossington
+    - 6.4:
+        non_striker: AM Rossington
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 6.5:
+        non_striker: SD Hope
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+    - 6.6:
+        non_striker: SD Hope
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rossington
+        wicket:
+          player_out: AM Rossington
+          fielders:
+          - TG Southee
+          kind: caught
+    - 7.1:
+        non_striker: Gulbadin Naib
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 7.2:
+        non_striker: Gulbadin Naib
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 7.3:
+        non_striker: SD Hope
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 7.4:
+        non_striker: Gulbadin Naib
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 7.5:
+        non_striker: Gulbadin Naib
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 7.6:
+        non_striker: Gulbadin Naib
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 8.1:
+        non_striker: SD Hope
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 8.2:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 8.3:
+        non_striker: SD Hope
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+        wicket:
+          player_out: Gulbadin Naib
+          fielders:
+          - TL Seifert
+          kind: caught
+    - 8.4:
+        non_striker: SD Hope
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 8.5:
+        non_striker: SD Hope
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 8.6:
+        non_striker: Sikandar Raza
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 9.1:
+        non_striker: Sikandar Raza
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 9.2:
+        non_striker: Sikandar Raza
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 9.3:
+        non_striker: SD Hope
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 9.4:
+        non_striker: SD Hope
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 9.5:
+        non_striker: Sikandar Raza
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 9.6:
+        non_striker: SD Hope
+        bowler: AC Agar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Sikandar Raza
+    - 9.7:
+        non_striker: Sikandar Raza
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 10.1:
+        non_striker: Sikandar Raza
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 10.2:
+        non_striker: Sikandar Raza
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 10.3:
+        non_striker: SD Hope
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 10.4:
+        non_striker: Sikandar Raza
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 10.5:
+        non_striker: SD Hope
+        bowler: A Zampa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 10.6:
+        non_striker: SD Hope
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 10.7:
+        non_striker: Sikandar Raza
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 11.1:
+        non_striker: Sikandar Raza
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 11.2:
+        non_striker: SD Hope
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 11.3:
+        non_striker: Sikandar Raza
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 11.4:
+        non_striker: Sikandar Raza
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 11.5:
+        non_striker: SD Hope
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 11.6:
+        non_striker: Sikandar Raza
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 12.1:
+        non_striker: Sikandar Raza
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 12.2:
+        non_striker: SD Hope
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - JJ Roy
+          kind: caught
+    - 12.3:
+        non_striker: SD Hope
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 12.4:
+        non_striker: Najibullah Zadran
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+        wicket:
+          player_out: Najibullah Zadran
+          fielders:
+          - JJ Roy
+          - TL Seifert
+          kind: run out
+    - 12.5:
+        non_striker: SD Hope
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khalid Shah
+    - 12.6:
+        non_striker: SD Hope
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khalid Shah
+    - 13.1:
+        non_striker: Khalid Shah
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 13.2:
+        non_striker: Khalid Shah
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 13.3:
+        non_striker: SD Hope
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khalid Shah
+        wicket:
+          player_out: Khalid Shah
+          fielders:
+          - TG Southee
+          kind: caught
+    - 13.4:
+        non_striker: SD Hope
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 13.5:
+        non_striker: SD Hope
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 13.6:
+        non_striker: SD Hope
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 14.1:
+        non_striker: SD Hope
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 14.2:
+        non_striker: SD Hope
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 14.3:
+        non_striker: MD Shanaka
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 14.4:
+        non_striker: MD Shanaka
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 14.5:
+        non_striker: SD Hope
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 14.6:
+        non_striker: MD Shanaka
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 15.1:
+        non_striker: MD Shanaka
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 15.2:
+        non_striker: MD Shanaka
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 15.3:
+        non_striker: MD Shanaka
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 15.4:
+        non_striker: SD Hope
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 15.5:
+        non_striker: MD Shanaka
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 15.6:
+        non_striker: SD Hope
+        bowler: Rohan Mustafa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+        wicket:
+          player_out: MD Shanaka
+          fielders:
+          - T Kohler-Cadmore
+          kind: caught
+    - 16.1:
+        non_striker: R Powell
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 16.2:
+        non_striker: SD Hope
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 16.3:
+        non_striker: R Powell
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 16.4:
+        non_striker: SD Hope
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 16.5:
+        non_striker: SD Hope
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 16.6:
+        non_striker: SD Hope
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 17.1:
+        non_striker: R Powell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+        wicket:
+          player_out: SD Hope
+          fielders:
+          - Ethan D'Souza
+          kind: caught
+    - 17.2:
+        non_striker: R Powell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 17.3:
+        non_striker: PVD Chameera
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 17.4:
+        non_striker: R Powell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 17.5:
+        non_striker: R Powell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 17.6:
+        non_striker: R Powell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 18.1:
+        non_striker: PVD Chameera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 18.2:
+        non_striker: PVD Chameera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 18.3:
+        non_striker: PVD Chameera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 18.4:
+        non_striker: PVD Chameera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 18.5:
+        non_striker: PVD Chameera
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 18.6:
+        non_striker: R Powell
+        bowler: AF Milne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+        wicket:
+          player_out: PVD Chameera
+          kind: bowled
+    - 19.1:
+        non_striker: Haider Ali
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 19.2:
+        non_striker: Haider Ali
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 19.3:
+        non_striker: Haider Ali
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+        wicket:
+          player_out: Haider Ali
+          fielders:
+          - JJ Roy
+          - TG Southee
+          kind: run out
+    - 19.4:
+        non_striker: OC McCoy
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 19.5:
+        non_striker: OC McCoy
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 19.6:
+        non_striker: OC McCoy
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+- 2nd innings:
+    team: Sharjah Warriorz
+    deliveries:
+    - 0.1:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: Zahir Khan
+            out: AM Rossington
+            team: Dubai Capitals
+            reason: impact_player
+          - in: J Charles
+            out: D Madushanka
+            team: Sharjah Warriorz
+            reason: impact_player
+        batsman: T Kohler-Cadmore
+    - 0.2:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 0.3:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 0.4:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 0.5:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 0.6:
+        non_striker: T Kohler-Cadmore
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 1.1:
+        non_striker: J Charles
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 1.2:
+        non_striker: T Kohler-Cadmore
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 1.3:
+        non_striker: T Kohler-Cadmore
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 1.4:
+        non_striker: T Kohler-Cadmore
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 1.5:
+        non_striker: J Charles
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 1.6:
+        non_striker: J Charles
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 2.1:
+        non_striker: T Kohler-Cadmore
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 2.2:
+        non_striker: T Kohler-Cadmore
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 2.3:
+        non_striker: T Kohler-Cadmore
+        bowler: Haider Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Charles
+    - 2.4:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 2.5:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 2.6:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 3.1:
+        non_striker: J Charles
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 3.2:
+        non_striker: J Charles
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 3.3:
+        non_striker: T Kohler-Cadmore
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.4:
+        non_striker: T Kohler-Cadmore
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 3.5:
+        non_striker: J Charles
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 3.6:
+        non_striker: J Charles
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 4.1:
+        non_striker: T Kohler-Cadmore
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Charles
+    - 4.2:
+        non_striker: T Kohler-Cadmore
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 4.3:
+        non_striker: T Kohler-Cadmore
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 4.4:
+        non_striker: T Kohler-Cadmore
+        bowler: Zahir Khan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: J Charles
+    - 4.5:
+        non_striker: T Kohler-Cadmore
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 4.6:
+        non_striker: T Kohler-Cadmore
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 5.1:
+        non_striker: J Charles
+        bowler: OC McCoy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Kohler-Cadmore
+    - 5.2:
+        non_striker: J Charles
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 5.3:
+        non_striker: J Charles
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 5.4:
+        non_striker: J Charles
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 5.5:
+        non_striker: J Charles
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 5.6:
+        non_striker: T Kohler-Cadmore
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 5.7:
+        non_striker: T Kohler-Cadmore
+        bowler: OC McCoy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 6.1:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 6.2:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 6.3:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 6.4:
+        non_striker: T Kohler-Cadmore
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 6.5:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 6.6:
+        non_striker: T Kohler-Cadmore
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 7.1:
+        non_striker: T Kohler-Cadmore
+        bowler: Zahir Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Charles
+    - 7.2:
+        non_striker: T Kohler-Cadmore
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 7.3:
+        non_striker: T Kohler-Cadmore
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 7.4:
+        non_striker: T Kohler-Cadmore
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 7.5:
+        non_striker: T Kohler-Cadmore
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 7.6:
+        non_striker: T Kohler-Cadmore
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 7.7:
+        non_striker: T Kohler-Cadmore
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 8.1:
+        non_striker: T Kohler-Cadmore
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 8.2:
+        non_striker: T Kohler-Cadmore
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 8.3:
+        non_striker: T Kohler-Cadmore
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 8.4:
+        non_striker: J Charles
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 8.5:
+        non_striker: T Kohler-Cadmore
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 8.6:
+        non_striker: J Charles
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 9.1:
+        non_striker: T Kohler-Cadmore
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 9.2:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 9.3:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kohler-Cadmore
+    - 9.4:
+        non_striker: J Charles
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 9.5:
+        non_striker: T Kohler-Cadmore
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 9.6:
+        non_striker: T Kohler-Cadmore
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 10.1:
+        non_striker: T Kohler-Cadmore
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+        wicket:
+          player_out: J Charles
+          fielders:
+          - Najibullah Zadran
+          kind: caught
+    - 10.2:
+        non_striker: T Kohler-Cadmore
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WIA Fernando
+    - 10.3:
+        non_striker: T Kohler-Cadmore
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 10.4:
+        non_striker: T Kohler-Cadmore
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 10.5:
+        non_striker: T Kohler-Cadmore
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 10.6:
+        non_striker: T Kohler-Cadmore
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 11.1:
+        non_striker: WIA Fernando
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kohler-Cadmore
+    - 11.2:
+        non_striker: WIA Fernando
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore
+    - 11.3:
+        non_striker: WIA Fernando
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kohler-Cadmore
+    - 11.4:
+        non_striker: T Kohler-Cadmore
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 11.5:
+        non_striker: WIA Fernando
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Kohler-Cadmore

@@ -1,0 +1,76 @@
+---
+meta:
+  data_version: 1.0.0
+  created: 2024-01-01
+  revision: 1
+
+info:
+  venue: Test Stadium
+  city: Test City
+  dates:
+    - 2024-01-15
+  gender: male
+  match_type: T20
+  teams:
+    - Team A
+    - Team B
+  toss:
+    winner: Team A
+    decision: bat
+  outcome:
+    winner: Team A
+    by:
+      runs: 25
+  players:
+    Team A:
+      - Player A1
+      - Player A2
+      - Player A3
+    Team B:
+      - Player B1
+      - Player B2
+      - Player B3
+
+innings:
+  - team: Team A
+    deliveries:
+      - 0.1:
+          batsman: Player A1
+          bowler: Player B1
+          non_striker: Player A2
+          runs:
+            batsman: 4
+            extras: 0
+            total: 4
+      - 0.2:
+          batsman: Player A1
+          bowler: Player B1
+          non_striker: Player A2
+          runs:
+            batsman: 6
+            extras: 0
+            total: 6
+      - 0.3:
+          batsman: Player A1
+          bowler: Player B1
+          non_striker: Player A2
+          runs:
+            batsman: 0
+            extras: 0
+            total: 0
+          wicket:
+            player_out: Player A1
+            kind: caught
+            fielders:
+              - Player B2
+
+  - team: Team B
+    deliveries:
+      - 0.1:
+          batsman: Player B1
+          bowler: Player A1
+          non_striker: Player B2
+          runs:
+            batsman: 1
+            extras: 0
+            total: 1

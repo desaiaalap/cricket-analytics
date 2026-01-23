@@ -1,0 +1,212 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Pakistan,0.1,Mohammad Rizwan,WD Parnell,0,{},{}
+1st innings,Pakistan,0.2,Mohammad Rizwan,WD Parnell,4,{},{}
+1st innings,Pakistan,0.3,Mohammad Rizwan,WD Parnell,0,{},{}
+1st innings,Pakistan,0.4,Mohammad Rizwan,WD Parnell,0,{},"{'player_out': 'Mohammad Rizwan', 'kind': 'bowled'}"
+1st innings,Pakistan,0.5,Mohammad Haris,WD Parnell,0,{},{}
+1st innings,Pakistan,0.6,Mohammad Haris,WD Parnell,0,{},{}
+1st innings,Pakistan,1.1,Babar Azam,K Rabada,0,{},{}
+1st innings,Pakistan,1.2,Babar Azam,K Rabada,0,{},{}
+1st innings,Pakistan,1.3,Babar Azam,K Rabada,1,{},{}
+1st innings,Pakistan,1.4,Mohammad Haris,K Rabada,6,{},{}
+1st innings,Pakistan,1.5,Mohammad Haris,K Rabada,6,{},{}
+1st innings,Pakistan,1.6,Mohammad Haris,K Rabada,4,{},{}
+1st innings,Pakistan,2.1,Babar Azam,WD Parnell,0,{},{}
+1st innings,Pakistan,2.2,Babar Azam,WD Parnell,0,{},{}
+1st innings,Pakistan,2.3,Babar Azam,WD Parnell,0,{},{}
+1st innings,Pakistan,2.4,Babar Azam,WD Parnell,1,{},{}
+1st innings,Pakistan,2.5,Mohammad Haris,WD Parnell,4,{},{}
+1st innings,Pakistan,2.6,Mohammad Haris,WD Parnell,1,{},{}
+1st innings,Pakistan,3.1,Mohammad Haris,L Ngidi,1,{},{}
+1st innings,Pakistan,3.2,Babar Azam,L Ngidi,0,{},{}
+1st innings,Pakistan,3.3,Babar Azam,L Ngidi,0,{},{}
+1st innings,Pakistan,3.4,Babar Azam,L Ngidi,2,{},{}
+1st innings,Pakistan,3.5,Babar Azam,L Ngidi,0,{},{}
+1st innings,Pakistan,3.6,Babar Azam,L Ngidi,1,{},{}
+1st innings,Pakistan,4.1,Babar Azam,A Nortje,1,{},{}
+1st innings,Pakistan,4.2,Mohammad Haris,A Nortje,0,{},{}
+1st innings,Pakistan,4.3,Mohammad Haris,A Nortje,6,{},{}
+1st innings,Pakistan,4.4,Mohammad Haris,A Nortje,0,{},"{'player_out': 'Mohammad Haris', 'kind': 'lbw'}"
+1st innings,Pakistan,4.5,Shan Masood,A Nortje,0,{},{}
+1st innings,Pakistan,4.6,Shan Masood,A Nortje,2,{},{}
+1st innings,Pakistan,5.1,Babar Azam,L Ngidi,0,{},{}
+1st innings,Pakistan,5.2,Babar Azam,L Ngidi,0,{},"{'player_out': 'Babar Azam', 'fielders': ['K Rabada'], 'kind': 'caught'}"
+1st innings,Pakistan,5.3,Iftikhar Ahmed,L Ngidi,0,{},{}
+1st innings,Pakistan,5.4,Iftikhar Ahmed,L Ngidi,1,{},{}
+1st innings,Pakistan,5.5,Shan Masood,L Ngidi,1,{'wides': 1},{}
+1st innings,Pakistan,5.6,Shan Masood,L Ngidi,0,{},{}
+1st innings,Pakistan,5.7,Shan Masood,L Ngidi,0,{},{}
+1st innings,Pakistan,6.1,Iftikhar Ahmed,A Nortje,1,{},{}
+1st innings,Pakistan,6.2,Shan Masood,A Nortje,0,{},{}
+1st innings,Pakistan,6.3,Shan Masood,A Nortje,0,{},"{'player_out': 'Shan Masood', 'fielders': ['T Bavuma'], 'kind': 'caught'}"
+1st innings,Pakistan,6.4,Mohammad Nawaz,A Nortje,0,{},{}
+1st innings,Pakistan,6.5,Mohammad Nawaz,A Nortje,0,{},{}
+1st innings,Pakistan,6.6,Mohammad Nawaz,A Nortje,0,{},{}
+1st innings,Pakistan,7.1,Iftikhar Ahmed,K Rabada,1,{},{}
+1st innings,Pakistan,7.2,Mohammad Nawaz,K Rabada,0,{},{}
+1st innings,Pakistan,7.3,Mohammad Nawaz,K Rabada,4,{},{}
+1st innings,Pakistan,7.4,Mohammad Nawaz,K Rabada,1,{},{}
+1st innings,Pakistan,7.5,Iftikhar Ahmed,K Rabada,1,{},{}
+1st innings,Pakistan,7.6,Mohammad Nawaz,K Rabada,0,{},{}
+1st innings,Pakistan,8.1,Iftikhar Ahmed,T Shamsi,0,{},{}
+1st innings,Pakistan,8.2,Iftikhar Ahmed,T Shamsi,1,{},{}
+1st innings,Pakistan,8.3,Mohammad Nawaz,T Shamsi,1,{},{}
+1st innings,Pakistan,8.4,Iftikhar Ahmed,T Shamsi,1,{},{}
+1st innings,Pakistan,8.5,Mohammad Nawaz,T Shamsi,1,{},{}
+1st innings,Pakistan,8.6,Iftikhar Ahmed,T Shamsi,1,{},{}
+1st innings,Pakistan,9.1,Iftikhar Ahmed,K Rabada,4,{},{}
+1st innings,Pakistan,9.2,Iftikhar Ahmed,K Rabada,2,{},{}
+1st innings,Pakistan,9.3,Iftikhar Ahmed,K Rabada,4,{},{}
+1st innings,Pakistan,9.4,Iftikhar Ahmed,K Rabada,1,{},{}
+1st innings,Pakistan,9.5,Mohammad Nawaz,K Rabada,1,{'legbyes': 1},{}
+1st innings,Pakistan,9.6,Iftikhar Ahmed,K Rabada,1,{},{}
+1st innings,Pakistan,10.1,Iftikhar Ahmed,T Shamsi,1,{},{}
+1st innings,Pakistan,10.2,Mohammad Nawaz,T Shamsi,0,{},{}
+1st innings,Pakistan,10.3,Mohammad Nawaz,T Shamsi,1,{},{}
+1st innings,Pakistan,10.4,Iftikhar Ahmed,T Shamsi,0,{},{}
+1st innings,Pakistan,10.5,Iftikhar Ahmed,T Shamsi,0,{},{}
+1st innings,Pakistan,10.6,Iftikhar Ahmed,T Shamsi,1,{},{}
+1st innings,Pakistan,11.1,Iftikhar Ahmed,L Ngidi,1,{},{}
+1st innings,Pakistan,11.2,Mohammad Nawaz,L Ngidi,0,{},{}
+1st innings,Pakistan,11.3,Mohammad Nawaz,L Ngidi,0,{},{}
+1st innings,Pakistan,11.4,Mohammad Nawaz,L Ngidi,2,{},{}
+1st innings,Pakistan,11.5,Mohammad Nawaz,L Ngidi,4,{},{}
+1st innings,Pakistan,11.6,Mohammad Nawaz,L Ngidi,4,{},{}
+1st innings,Pakistan,12.1,Iftikhar Ahmed,T Shamsi,1,{'wides': 1},{}
+1st innings,Pakistan,12.2,Iftikhar Ahmed,T Shamsi,1,{},{}
+1st innings,Pakistan,12.3,Mohammad Nawaz,T Shamsi,0,{},{}
+1st innings,Pakistan,12.4,Mohammad Nawaz,T Shamsi,4,{},{}
+1st innings,Pakistan,12.5,Mohammad Nawaz,T Shamsi,1,{'wides': 1},{}
+1st innings,Pakistan,12.6,Mohammad Nawaz,T Shamsi,0,{},{}
+1st innings,Pakistan,12.7,Mohammad Nawaz,T Shamsi,6,{},{}
+1st innings,Pakistan,12.8,Mohammad Nawaz,T Shamsi,0,{},"{'player_out': 'Mohammad Nawaz', 'kind': 'lbw'}"
+1st innings,Pakistan,13.1,Iftikhar Ahmed,WD Parnell,6,{},{}
+1st innings,Pakistan,13.2,Iftikhar Ahmed,WD Parnell,1,{},{}
+1st innings,Pakistan,13.3,Shadab Khan,WD Parnell,1,{},{}
+1st innings,Pakistan,13.4,Iftikhar Ahmed,WD Parnell,1,{},{}
+1st innings,Pakistan,13.5,Shadab Khan,WD Parnell,0,{},{}
+1st innings,Pakistan,13.6,Shadab Khan,WD Parnell,1,{},{}
+1st innings,Pakistan,14.1,Shadab Khan,T Shamsi,4,{},{}
+1st innings,Pakistan,14.2,Shadab Khan,T Shamsi,0,{},{}
+1st innings,Pakistan,14.3,Shadab Khan,T Shamsi,2,{},{}
+1st innings,Pakistan,14.4,Shadab Khan,T Shamsi,6,{},{}
+1st innings,Pakistan,14.5,Shadab Khan,T Shamsi,1,{},{}
+1st innings,Pakistan,14.6,Iftikhar Ahmed,T Shamsi,2,{},{}
+1st innings,Pakistan,15.1,Shadab Khan,L Ngidi,2,{},{}
+1st innings,Pakistan,15.2,Shadab Khan,L Ngidi,1,{},{}
+1st innings,Pakistan,15.3,Iftikhar Ahmed,L Ngidi,0,{},{}
+1st innings,Pakistan,15.4,Iftikhar Ahmed,L Ngidi,6,{},{}
+1st innings,Pakistan,15.5,Iftikhar Ahmed,L Ngidi,1,{'wides': 1},{}
+1st innings,Pakistan,15.6,Iftikhar Ahmed,L Ngidi,1,{},{}
+1st innings,Pakistan,15.7,Shadab Khan,L Ngidi,4,{},{}
+1st innings,Pakistan,16.1,Iftikhar Ahmed,A Nortje,1,{},{}
+1st innings,Pakistan,16.2,Shadab Khan,A Nortje,0,{},{}
+1st innings,Pakistan,16.3,Shadab Khan,A Nortje,4,{},{}
+1st innings,Pakistan,16.4,Shadab Khan,A Nortje,6,{},{}
+1st innings,Pakistan,16.5,Shadab Khan,A Nortje,1,{},{}
+1st innings,Pakistan,16.6,Iftikhar Ahmed,A Nortje,1,{},{}
+1st innings,Pakistan,17.1,Iftikhar Ahmed,WD Parnell,4,{},{}
+1st innings,Pakistan,17.2,Iftikhar Ahmed,WD Parnell,1,{},{}
+1st innings,Pakistan,17.3,Shadab Khan,WD Parnell,2,{},{}
+1st innings,Pakistan,17.4,Shadab Khan,WD Parnell,0,{},{}
+1st innings,Pakistan,17.5,Shadab Khan,WD Parnell,3,{},{}
+1st innings,Pakistan,17.6,Iftikhar Ahmed,WD Parnell,1,{},{}
+1st innings,Pakistan,18.1,Iftikhar Ahmed,A Nortje,2,{},{}
+1st innings,Pakistan,18.2,Iftikhar Ahmed,A Nortje,1,{},{}
+1st innings,Pakistan,18.3,Shadab Khan,A Nortje,7,{'noballs': 1},{}
+1st innings,Pakistan,18.4,Shadab Khan,A Nortje,6,{},{}
+1st innings,Pakistan,18.5,Shadab Khan,A Nortje,2,{},{}
+1st innings,Pakistan,18.6,Shadab Khan,A Nortje,0,{},"{'player_out': 'Shadab Khan', 'fielders': ['T Stubbs'], 'kind': 'caught'}"
+1st innings,Pakistan,18.7,Mohammad Wasim,A Nortje,0,{},"{'player_out': 'Mohammad Wasim', 'fielders': ['T Bavuma'], 'kind': 'caught'}"
+1st innings,Pakistan,19.1,Iftikhar Ahmed,K Rabada,0,{},"{'player_out': 'Iftikhar Ahmed', 'fielders': ['RR Rossouw'], 'kind': 'caught'}"
+1st innings,Pakistan,19.2,Haris Rauf,K Rabada,1,{},{}
+1st innings,Pakistan,19.3,Naseem Shah,K Rabada,2,{},{}
+1st innings,Pakistan,19.4,Naseem Shah,K Rabada,0,{},{}
+1st innings,Pakistan,19.5,Naseem Shah,K Rabada,3,{},{}
+1st innings,Pakistan,19.6,Haris Rauf,K Rabada,2,{},"{'player_out': 'Haris Rauf', 'fielders': ['T Bavuma', 'H Klaasen'], 'kind': 'run out'}"
+2nd innings,South Africa,0.1,T Bavuma,Shaheen Shah Afridi,1,{},{}
+2nd innings,South Africa,0.2,Q de Kock,Shaheen Shah Afridi,0,{},{}
+2nd innings,South Africa,0.3,Q de Kock,Shaheen Shah Afridi,0,{},{}
+2nd innings,South Africa,0.4,Q de Kock,Shaheen Shah Afridi,0,{},{}
+2nd innings,South Africa,0.5,Q de Kock,Shaheen Shah Afridi,0,{},{}
+2nd innings,South Africa,0.6,Q de Kock,Shaheen Shah Afridi,0,{},"{'player_out': 'Q de Kock', 'fielders': ['Mohammad Haris'], 'kind': 'caught'}"
+2nd innings,South Africa,1.1,T Bavuma,Naseem Shah,1,{'wides': 1},{}
+2nd innings,South Africa,1.2,T Bavuma,Naseem Shah,1,{},{}
+2nd innings,South Africa,1.3,RR Rossouw,Naseem Shah,0,{},{}
+2nd innings,South Africa,1.4,RR Rossouw,Naseem Shah,6,{},{}
+2nd innings,South Africa,1.5,RR Rossouw,Naseem Shah,1,{},{}
+2nd innings,South Africa,1.6,T Bavuma,Naseem Shah,4,{},{}
+2nd innings,South Africa,1.7,T Bavuma,Naseem Shah,1,{},{}
+2nd innings,South Africa,2.1,T Bavuma,Shaheen Shah Afridi,1,{},{}
+2nd innings,South Africa,2.2,RR Rossouw,Shaheen Shah Afridi,0,{},{}
+2nd innings,South Africa,2.3,RR Rossouw,Shaheen Shah Afridi,0,{},{}
+2nd innings,South Africa,2.4,RR Rossouw,Shaheen Shah Afridi,0,{},"{'player_out': 'RR Rossouw', 'fielders': ['Naseem Shah'], 'kind': 'caught'}"
+2nd innings,South Africa,2.5,AK Markram,Shaheen Shah Afridi,0,{},{}
+2nd innings,South Africa,2.6,AK Markram,Shaheen Shah Afridi,0,{},{}
+2nd innings,South Africa,3.1,T Bavuma,Haris Rauf,4,{},{}
+2nd innings,South Africa,3.2,T Bavuma,Haris Rauf,2,{},{}
+2nd innings,South Africa,3.3,T Bavuma,Haris Rauf,1,{'wides': 1},{}
+2nd innings,South Africa,3.4,T Bavuma,Haris Rauf,4,{},{}
+2nd innings,South Africa,3.5,T Bavuma,Haris Rauf,1,{},{}
+2nd innings,South Africa,3.6,AK Markram,Haris Rauf,4,{},{}
+2nd innings,South Africa,3.7,AK Markram,Haris Rauf,4,{},{}
+2nd innings,South Africa,4.1,T Bavuma,Naseem Shah,1,{},{}
+2nd innings,South Africa,4.2,AK Markram,Naseem Shah,0,{},{}
+2nd innings,South Africa,4.3,AK Markram,Naseem Shah,0,{},{}
+2nd innings,South Africa,4.4,AK Markram,Naseem Shah,2,{},{}
+2nd innings,South Africa,4.5,AK Markram,Naseem Shah,0,{},{}
+2nd innings,South Africa,4.6,AK Markram,Naseem Shah,0,{},{}
+2nd innings,South Africa,5.1,T Bavuma,Mohammad Wasim,4,{},{}
+2nd innings,South Africa,5.2,T Bavuma,Mohammad Wasim,0,{},{}
+2nd innings,South Africa,5.3,T Bavuma,Mohammad Wasim,1,{},{}
+2nd innings,South Africa,5.4,AK Markram,Mohammad Wasim,1,{},{}
+2nd innings,South Africa,5.5,T Bavuma,Mohammad Wasim,2,{},{}
+2nd innings,South Africa,5.6,T Bavuma,Mohammad Wasim,1,{},{}
+2nd innings,South Africa,6.1,T Bavuma,Haris Rauf,6,{},{}
+2nd innings,South Africa,6.2,T Bavuma,Haris Rauf,1,{},{}
+2nd innings,South Africa,6.3,AK Markram,Haris Rauf,4,{},{}
+2nd innings,South Africa,6.4,AK Markram,Haris Rauf,1,{},{}
+2nd innings,South Africa,6.5,T Bavuma,Haris Rauf,1,{},{}
+2nd innings,South Africa,6.6,AK Markram,Haris Rauf,4,{},{}
+2nd innings,South Africa,7.1,T Bavuma,Shadab Khan,0,{},"{'player_out': 'T Bavuma', 'fielders': ['Mohammad Rizwan'], 'kind': 'caught'}"
+2nd innings,South Africa,7.2,H Klaasen,Shadab Khan,1,{},{}
+2nd innings,South Africa,7.3,AK Markram,Shadab Khan,0,{},"{'player_out': 'AK Markram', 'kind': 'bowled'}"
+2nd innings,South Africa,7.4,T Stubbs,Shadab Khan,0,{},{}
+2nd innings,South Africa,7.5,T Stubbs,Shadab Khan,1,{},{}
+2nd innings,South Africa,7.6,H Klaasen,Shadab Khan,0,{},{}
+2nd innings,South Africa,8.1,T Stubbs,Mohammad Nawaz,1,{},{}
+2nd innings,South Africa,8.2,H Klaasen,Mohammad Nawaz,0,{},{}
+2nd innings,South Africa,8.3,H Klaasen,Mohammad Nawaz,1,{},{}
+2nd innings,South Africa,8.4,T Stubbs,Mohammad Nawaz,0,{},{}
+2nd innings,South Africa,8.5,T Stubbs,Mohammad Nawaz,0,{},{}
+2nd innings,South Africa,8.6,T Stubbs,Mohammad Nawaz,0,{},{}
+2nd innings,South Africa,9.1,H Klaasen,Shadab Khan,1,{},{}
+2nd innings,South Africa,9.2,T Stubbs,Shadab Khan,6,{},{}
+2nd innings,South Africa,9.3,T Stubbs,Shadab Khan,2,{},{}
+2nd innings,South Africa,9.4,T Stubbs,Shadab Khan,0,{},{}
+2nd innings,South Africa,9.5,T Stubbs,Shadab Khan,1,{},{}
+2nd innings,South Africa,9.6,H Klaasen,Shadab Khan,4,{},{}
+2nd innings,South Africa,10.1,T Stubbs,Shaheen Shah Afridi,2,{},{}
+2nd innings,South Africa,10.2,T Stubbs,Shaheen Shah Afridi,1,{},{}
+2nd innings,South Africa,10.3,H Klaasen,Shaheen Shah Afridi,4,{},{}
+2nd innings,South Africa,10.4,H Klaasen,Shaheen Shah Afridi,4,{},{}
+2nd innings,South Africa,10.5,H Klaasen,Shaheen Shah Afridi,0,{},"{'player_out': 'H Klaasen', 'fielders': ['Mohammad Wasim'], 'kind': 'caught'}"
+2nd innings,South Africa,10.6,WD Parnell,Shaheen Shah Afridi,1,{},{}
+2nd innings,South Africa,11.1,WD Parnell,Mohammad Wasim,1,{},{}
+2nd innings,South Africa,11.2,T Stubbs,Mohammad Wasim,1,{},{}
+2nd innings,South Africa,11.3,WD Parnell,Mohammad Wasim,1,{},{}
+2nd innings,South Africa,11.4,T Stubbs,Mohammad Wasim,1,{},{}
+2nd innings,South Africa,11.5,WD Parnell,Mohammad Wasim,0,{},"{'player_out': 'WD Parnell', 'kind': 'lbw'}"
+2nd innings,South Africa,11.6,K Rabada,Mohammad Wasim,0,{},{}
+2nd innings,South Africa,12.1,T Stubbs,Naseem Shah,2,{},{}
+2nd innings,South Africa,12.2,T Stubbs,Naseem Shah,0,{},{}
+2nd innings,South Africa,12.3,T Stubbs,Naseem Shah,0,{},{}
+2nd innings,South Africa,12.4,T Stubbs,Naseem Shah,0,{},"{'player_out': 'T Stubbs', 'fielders': ['Mohammad Nawaz'], 'kind': 'caught'}"
+2nd innings,South Africa,12.5,A Nortje,Naseem Shah,0,{},{}
+2nd innings,South Africa,12.6,A Nortje,Naseem Shah,0,{},{}
+2nd innings,South Africa,13.1,K Rabada,Haris Rauf,1,{},{}
+2nd innings,South Africa,13.2,A Nortje,Haris Rauf,1,{},"{'player_out': 'K Rabada', 'fielders': ['Mohammad Nawaz', 'Haris Rauf'], 'kind': 'run out'}"
+2nd innings,South Africa,13.3,A Nortje,Haris Rauf,0,{},{}
+2nd innings,South Africa,13.4,A Nortje,Haris Rauf,0,{},"{'player_out': 'A Nortje', 'fielders': ['Mohammad Haris'], 'kind': 'caught'}"
+2nd innings,South Africa,13.5,T Shamsi,Haris Rauf,1,{},{}
+2nd innings,South Africa,13.6,L Ngidi,Haris Rauf,4,{},{}

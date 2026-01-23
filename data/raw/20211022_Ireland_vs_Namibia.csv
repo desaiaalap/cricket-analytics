@@ -1,0 +1,239 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Ireland,0.1,PR Stirling,R Trumpelmann,1,{},{}
+1st innings,Ireland,0.2,KJ O'Brien,R Trumpelmann,0,{},{}
+1st innings,Ireland,0.3,KJ O'Brien,R Trumpelmann,0,{},{}
+1st innings,Ireland,0.4,KJ O'Brien,R Trumpelmann,1,{},{}
+1st innings,Ireland,0.5,PR Stirling,R Trumpelmann,0,{},{}
+1st innings,Ireland,0.6,PR Stirling,R Trumpelmann,1,{'wides': 1},{}
+1st innings,Ireland,0.7,PR Stirling,R Trumpelmann,0,{},{}
+1st innings,Ireland,1.1,KJ O'Brien,D Wiese,0,{},{}
+1st innings,Ireland,1.2,KJ O'Brien,D Wiese,1,{},{}
+1st innings,Ireland,1.3,PR Stirling,D Wiese,0,{},{}
+1st innings,Ireland,1.4,PR Stirling,D Wiese,4,{},{}
+1st innings,Ireland,1.5,PR Stirling,D Wiese,1,{},{}
+1st innings,Ireland,1.6,KJ O'Brien,D Wiese,0,{},{}
+1st innings,Ireland,2.1,PR Stirling,JJ Smit,0,{},{}
+1st innings,Ireland,2.2,PR Stirling,JJ Smit,6,{},{}
+1st innings,Ireland,2.3,PR Stirling,JJ Smit,1,{},{}
+1st innings,Ireland,2.4,KJ O'Brien,JJ Smit,0,{},{}
+1st innings,Ireland,2.5,KJ O'Brien,JJ Smit,2,{},{}
+1st innings,Ireland,2.6,KJ O'Brien,JJ Smit,2,{},{}
+1st innings,Ireland,3.1,PR Stirling,BM Scholtz,4,{},{}
+1st innings,Ireland,3.2,PR Stirling,BM Scholtz,4,{},{}
+1st innings,Ireland,3.3,PR Stirling,BM Scholtz,1,{},{}
+1st innings,Ireland,3.4,KJ O'Brien,BM Scholtz,1,{},{}
+1st innings,Ireland,3.5,PR Stirling,BM Scholtz,0,{},{}
+1st innings,Ireland,3.6,PR Stirling,BM Scholtz,4,{},{}
+1st innings,Ireland,4.1,KJ O'Brien,R Trumpelmann,1,{},{}
+1st innings,Ireland,4.2,PR Stirling,R Trumpelmann,0,{},{}
+1st innings,Ireland,4.3,PR Stirling,R Trumpelmann,2,{},{}
+1st innings,Ireland,4.4,PR Stirling,R Trumpelmann,4,{},{}
+1st innings,Ireland,4.5,PR Stirling,R Trumpelmann,1,{},{}
+1st innings,Ireland,4.6,KJ O'Brien,R Trumpelmann,1,{},{}
+1st innings,Ireland,5.1,KJ O'Brien,JN Frylinck,4,{},{}
+1st innings,Ireland,5.2,KJ O'Brien,JN Frylinck,1,{},{}
+1st innings,Ireland,5.3,PR Stirling,JN Frylinck,1,{},{}
+1st innings,Ireland,5.4,KJ O'Brien,JN Frylinck,4,{},{}
+1st innings,Ireland,5.5,KJ O'Brien,JN Frylinck,1,{},{}
+1st innings,Ireland,5.6,PR Stirling,JN Frylinck,1,{},{}
+1st innings,Ireland,6.1,PR Stirling,JJ Smit,1,{},{}
+1st innings,Ireland,6.2,KJ O'Brien,JJ Smit,1,{},{}
+1st innings,Ireland,6.3,PR Stirling,JJ Smit,1,{},{}
+1st innings,Ireland,6.4,KJ O'Brien,JJ Smit,1,{},{}
+1st innings,Ireland,6.5,PR Stirling,JJ Smit,1,{},{}
+1st innings,Ireland,6.6,KJ O'Brien,JJ Smit,1,{},{}
+1st innings,Ireland,7.1,KJ O'Brien,BM Scholtz,1,{},{}
+1st innings,Ireland,7.2,PR Stirling,BM Scholtz,0,{},"{'player_out': 'PR Stirling', 'fielders': ['JN Loftie-Eaton'], 'kind': 'caught'}"
+1st innings,Ireland,7.3,KJ O'Brien,BM Scholtz,1,{},{}
+1st innings,Ireland,7.4,A Balbirnie,BM Scholtz,1,{},{}
+1st innings,Ireland,7.5,KJ O'Brien,BM Scholtz,1,{},{}
+1st innings,Ireland,7.6,A Balbirnie,BM Scholtz,1,{},{}
+1st innings,Ireland,8.1,A Balbirnie,JN Frylinck,0,{},{}
+1st innings,Ireland,8.2,A Balbirnie,JN Frylinck,1,{},{}
+1st innings,Ireland,8.3,KJ O'Brien,JN Frylinck,0,{},{}
+1st innings,Ireland,8.4,KJ O'Brien,JN Frylinck,0,{},"{'player_out': ""KJ O'Brien"", 'fielders': ['M van Lingen'], 'kind': 'caught'}"
+1st innings,Ireland,8.5,A Balbirnie,JN Frylinck,0,{},{}
+1st innings,Ireland,8.6,A Balbirnie,JN Frylinck,1,{},{}
+1st innings,Ireland,9.1,A Balbirnie,HN Ya France,1,{},{}
+1st innings,Ireland,9.2,GJ Delany,HN Ya France,0,{},{}
+1st innings,Ireland,9.3,GJ Delany,HN Ya France,1,{'legbyes': 1},{}
+1st innings,Ireland,9.4,A Balbirnie,HN Ya France,0,{},{}
+1st innings,Ireland,9.5,A Balbirnie,HN Ya France,1,{'wides': 1},{}
+1st innings,Ireland,9.6,A Balbirnie,HN Ya France,0,{},{}
+1st innings,Ireland,9.7,A Balbirnie,HN Ya France,0,{},{}
+1st innings,Ireland,10.1,GJ Delany,JN Frylinck,0,{},{}
+1st innings,Ireland,10.2,GJ Delany,JN Frylinck,0,{},{}
+1st innings,Ireland,10.3,GJ Delany,JN Frylinck,1,{'wides': 1},{}
+1st innings,Ireland,10.4,GJ Delany,JN Frylinck,0,{},{}
+1st innings,Ireland,10.5,GJ Delany,JN Frylinck,1,{},{}
+1st innings,Ireland,10.6,A Balbirnie,JN Frylinck,1,{},{}
+1st innings,Ireland,10.7,GJ Delany,JN Frylinck,1,{},{}
+1st innings,Ireland,11.1,GJ Delany,HN Ya France,1,{},{}
+1st innings,Ireland,11.2,A Balbirnie,HN Ya France,4,{},{}
+1st innings,Ireland,11.3,A Balbirnie,HN Ya France,1,{},{}
+1st innings,Ireland,11.4,GJ Delany,HN Ya France,1,{},{}
+1st innings,Ireland,11.5,A Balbirnie,HN Ya France,1,{},{}
+1st innings,Ireland,11.6,GJ Delany,HN Ya France,1,{},{}
+1st innings,Ireland,12.1,GJ Delany,JJ Smit,0,{},{}
+1st innings,Ireland,12.2,GJ Delany,JJ Smit,1,{},{}
+1st innings,Ireland,12.3,A Balbirnie,JJ Smit,0,{},{}
+1st innings,Ireland,12.4,A Balbirnie,JJ Smit,0,{},{}
+1st innings,Ireland,12.5,A Balbirnie,JJ Smit,1,{},{}
+1st innings,Ireland,12.6,GJ Delany,JJ Smit,2,{},{}
+1st innings,Ireland,13.1,A Balbirnie,BM Scholtz,4,{},{}
+1st innings,Ireland,13.2,A Balbirnie,BM Scholtz,1,{},{}
+1st innings,Ireland,13.3,GJ Delany,BM Scholtz,0,{},{}
+1st innings,Ireland,13.4,GJ Delany,BM Scholtz,0,{},{}
+1st innings,Ireland,13.5,GJ Delany,BM Scholtz,1,{},{}
+1st innings,Ireland,13.6,A Balbirnie,BM Scholtz,0,{},{}
+1st innings,Ireland,14.1,GJ Delany,D Wiese,0,{},{}
+1st innings,Ireland,14.2,GJ Delany,D Wiese,0,{},"{'player_out': 'GJ Delany', 'kind': 'bowled'}"
+1st innings,Ireland,14.3,C Campher,D Wiese,1,{},{}
+1st innings,Ireland,14.4,A Balbirnie,D Wiese,0,{},{}
+1st innings,Ireland,14.5,A Balbirnie,D Wiese,0,{},{}
+1st innings,Ireland,14.6,A Balbirnie,D Wiese,0,{},{}
+1st innings,Ireland,15.1,C Campher,R Trumpelmann,1,{},{}
+1st innings,Ireland,15.2,A Balbirnie,R Trumpelmann,2,{},{}
+1st innings,Ireland,15.3,A Balbirnie,R Trumpelmann,0,{},{}
+1st innings,Ireland,15.4,A Balbirnie,R Trumpelmann,0,{},{}
+1st innings,Ireland,15.5,A Balbirnie,R Trumpelmann,1,{},{}
+1st innings,Ireland,15.6,C Campher,R Trumpelmann,2,{},{}
+1st innings,Ireland,16.1,A Balbirnie,JN Frylinck,0,{},"{'player_out': 'A Balbirnie', 'kind': 'lbw'}"
+1st innings,Ireland,16.2,HT Tector,JN Frylinck,0,{},{}
+1st innings,Ireland,16.3,HT Tector,JN Frylinck,2,{},{}
+1st innings,Ireland,16.4,HT Tector,JN Frylinck,1,{},{}
+1st innings,Ireland,16.5,C Campher,JN Frylinck,0,{},{}
+1st innings,Ireland,16.6,C Campher,JN Frylinck,0,{},"{'player_out': 'C Campher', 'kind': 'bowled'}"
+1st innings,Ireland,17.1,HT Tector,D Wiese,1,{},{}
+1st innings,Ireland,17.2,NA Rock,D Wiese,1,{},{}
+1st innings,Ireland,17.3,HT Tector,D Wiese,4,{},{}
+1st innings,Ireland,17.4,HT Tector,D Wiese,0,{},"{'player_out': 'HT Tector', 'fielders': ['ZE Green'], 'kind': 'caught'}"
+1st innings,Ireland,17.5,MR Adair,D Wiese,1,{},{}
+1st innings,Ireland,17.6,NA Rock,D Wiese,1,{},{}
+1st innings,Ireland,18.1,NA Rock,JJ Smit,2,{},{}
+1st innings,Ireland,18.2,NA Rock,JJ Smit,1,{},{}
+1st innings,Ireland,18.3,MR Adair,JJ Smit,1,{},{}
+1st innings,Ireland,18.4,NA Rock,JJ Smit,0,{},"{'player_out': 'NA Rock', 'kind': 'bowled'}"
+1st innings,Ireland,18.5,Simi Singh,JJ Smit,1,{},{}
+1st innings,Ireland,18.6,MR Adair,JJ Smit,1,{},{}
+1st innings,Ireland,19.1,MR Adair,D Wiese,1,{},{}
+1st innings,Ireland,19.2,Simi Singh,D Wiese,1,{},{}
+1st innings,Ireland,19.3,MR Adair,D Wiese,1,{},{}
+1st innings,Ireland,19.4,Simi Singh,D Wiese,0,{},"{'player_out': 'MR Adair', 'fielders': ['D Wiese'], 'kind': 'run out'}"
+1st innings,Ireland,19.5,CA Young,D Wiese,1,{},{}
+1st innings,Ireland,19.6,Simi Singh,D Wiese,3,{},{}
+2nd innings,Namibia,0.1,CG Williams,J Little,0,{},{}
+2nd innings,Namibia,0.2,CG Williams,J Little,0,{},{}
+2nd innings,Namibia,0.3,CG Williams,J Little,0,{},{}
+2nd innings,Namibia,0.4,CG Williams,J Little,1,{},{}
+2nd innings,Namibia,0.5,ZE Green,J Little,0,{},{}
+2nd innings,Namibia,0.6,ZE Green,J Little,0,{},{}
+2nd innings,Namibia,1.1,CG Williams,CA Young,0,{},{}
+2nd innings,Namibia,1.2,CG Williams,CA Young,0,{},{}
+2nd innings,Namibia,1.3,CG Williams,CA Young,0,{},{}
+2nd innings,Namibia,1.4,CG Williams,CA Young,4,{},{}
+2nd innings,Namibia,1.5,CG Williams,CA Young,0,{},{}
+2nd innings,Namibia,1.6,CG Williams,CA Young,0,{},{}
+2nd innings,Namibia,2.1,ZE Green,J Little,1,{'wides': 1},{}
+2nd innings,Namibia,2.2,ZE Green,J Little,0,{},{}
+2nd innings,Namibia,2.3,ZE Green,J Little,2,{},{}
+2nd innings,Namibia,2.4,ZE Green,J Little,0,{},{}
+2nd innings,Namibia,2.5,ZE Green,J Little,0,{},{}
+2nd innings,Namibia,2.6,ZE Green,J Little,1,{'wides': 1},{}
+2nd innings,Namibia,2.7,ZE Green,J Little,1,{},{}
+2nd innings,Namibia,2.8,CG Williams,J Little,1,{},{}
+2nd innings,Namibia,3.1,CG Williams,MR Adair,4,{},{}
+2nd innings,Namibia,3.2,CG Williams,MR Adair,0,{},{}
+2nd innings,Namibia,3.3,CG Williams,MR Adair,4,{},{}
+2nd innings,Namibia,3.4,CG Williams,MR Adair,1,{},{}
+2nd innings,Namibia,3.5,ZE Green,MR Adair,0,{},{}
+2nd innings,Namibia,3.6,ZE Green,MR Adair,1,{},{}
+2nd innings,Namibia,4.1,ZE Green,CA Young,0,{},{}
+2nd innings,Namibia,4.2,ZE Green,CA Young,2,{},{}
+2nd innings,Namibia,4.3,ZE Green,CA Young,0,{},{}
+2nd innings,Namibia,4.4,ZE Green,CA Young,0,{},{}
+2nd innings,Namibia,4.5,ZE Green,CA Young,0,{},{}
+2nd innings,Namibia,4.6,ZE Green,CA Young,2,{},{}
+2nd innings,Namibia,5.1,CG Williams,C Campher,0,{},"{'player_out': 'CG Williams', 'fielders': [""KJ O'Brien""], 'kind': 'caught'}"
+2nd innings,Namibia,5.2,MG Erasmus,C Campher,0,{},{}
+2nd innings,Namibia,5.3,MG Erasmus,C Campher,0,{},{}
+2nd innings,Namibia,5.4,MG Erasmus,C Campher,0,{},{}
+2nd innings,Namibia,5.5,MG Erasmus,C Campher,0,{},{}
+2nd innings,Namibia,5.6,MG Erasmus,C Campher,2,{},{}
+2nd innings,Namibia,6.1,ZE Green,MR Adair,1,{},{}
+2nd innings,Namibia,6.2,MG Erasmus,MR Adair,0,{},{}
+2nd innings,Namibia,6.3,MG Erasmus,MR Adair,0,{},{}
+2nd innings,Namibia,6.4,MG Erasmus,MR Adair,1,{},{}
+2nd innings,Namibia,6.5,ZE Green,KJ O'Brien,4,{},{}
+2nd innings,Namibia,6.6,ZE Green,KJ O'Brien,0,{},{}
+2nd innings,Namibia,7.1,MG Erasmus,Simi Singh,0,{},{}
+2nd innings,Namibia,7.2,MG Erasmus,Simi Singh,1,{},{}
+2nd innings,Namibia,7.3,ZE Green,Simi Singh,0,{},{}
+2nd innings,Namibia,7.4,ZE Green,Simi Singh,1,{},{}
+2nd innings,Namibia,7.5,MG Erasmus,Simi Singh,0,{},{}
+2nd innings,Namibia,7.6,MG Erasmus,Simi Singh,0,{},{}
+2nd innings,Namibia,8.1,ZE Green,KJ O'Brien,1,{},{}
+2nd innings,Namibia,8.2,MG Erasmus,KJ O'Brien,0,{},{}
+2nd innings,Namibia,8.3,MG Erasmus,KJ O'Brien,1,{},{}
+2nd innings,Namibia,8.4,ZE Green,KJ O'Brien,2,{},{}
+2nd innings,Namibia,8.5,ZE Green,KJ O'Brien,1,{},{}
+2nd innings,Namibia,8.6,MG Erasmus,KJ O'Brien,1,{},{}
+2nd innings,Namibia,9.1,MG Erasmus,Simi Singh,2,{},{}
+2nd innings,Namibia,9.2,MG Erasmus,Simi Singh,1,{},{}
+2nd innings,Namibia,9.3,ZE Green,Simi Singh,1,{},{}
+2nd innings,Namibia,9.4,MG Erasmus,Simi Singh,2,{},{}
+2nd innings,Namibia,9.5,MG Erasmus,Simi Singh,1,{},{}
+2nd innings,Namibia,9.6,ZE Green,Simi Singh,1,{'wides': 1},{}
+2nd innings,Namibia,9.7,ZE Green,Simi Singh,0,{},{}
+2nd innings,Namibia,10.1,MG Erasmus,KJ O'Brien,1,{},{}
+2nd innings,Namibia,10.2,ZE Green,KJ O'Brien,1,{},{}
+2nd innings,Namibia,10.3,MG Erasmus,KJ O'Brien,1,{},{}
+2nd innings,Namibia,10.4,ZE Green,KJ O'Brien,1,{},{}
+2nd innings,Namibia,10.5,MG Erasmus,KJ O'Brien,0,{},{}
+2nd innings,Namibia,10.6,MG Erasmus,KJ O'Brien,1,{},{}
+2nd innings,Namibia,11.1,MG Erasmus,Simi Singh,0,{},{}
+2nd innings,Namibia,11.2,MG Erasmus,Simi Singh,2,{},{}
+2nd innings,Namibia,11.3,MG Erasmus,Simi Singh,1,{},{}
+2nd innings,Namibia,11.4,ZE Green,Simi Singh,1,{'byes': 1},{}
+2nd innings,Namibia,11.5,MG Erasmus,Simi Singh,2,{},{}
+2nd innings,Namibia,11.6,MG Erasmus,Simi Singh,1,{},{}
+2nd innings,Namibia,12.1,MG Erasmus,J Little,4,{},{}
+2nd innings,Namibia,12.2,MG Erasmus,J Little,1,{},{}
+2nd innings,Namibia,12.3,ZE Green,J Little,0,{},{}
+2nd innings,Namibia,12.4,ZE Green,J Little,1,{},{}
+2nd innings,Namibia,12.5,MG Erasmus,J Little,0,{},{}
+2nd innings,Namibia,12.6,MG Erasmus,J Little,4,{},{}
+2nd innings,Namibia,13.1,ZE Green,C Campher,2,{},{}
+2nd innings,Namibia,13.2,ZE Green,C Campher,0,{},"{'player_out': 'ZE Green', 'fielders': [""KJ O'Brien""], 'kind': 'caught'}"
+2nd innings,Namibia,13.3,MG Erasmus,C Campher,1,{},{}
+2nd innings,Namibia,13.4,D Wiese,C Campher,1,{},{}
+2nd innings,Namibia,13.5,MG Erasmus,C Campher,1,{},{}
+2nd innings,Namibia,13.6,D Wiese,C Campher,1,{},{}
+2nd innings,Namibia,14.1,D Wiese,CA Young,2,{},{}
+2nd innings,Namibia,14.2,D Wiese,CA Young,6,{},{}
+2nd innings,Namibia,14.3,D Wiese,CA Young,6,{},{}
+2nd innings,Namibia,14.4,D Wiese,CA Young,1,{},{}
+2nd innings,Namibia,14.5,MG Erasmus,CA Young,0,{},{}
+2nd innings,Namibia,14.6,MG Erasmus,CA Young,1,{},{}
+2nd innings,Namibia,15.1,MG Erasmus,C Campher,1,{},{}
+2nd innings,Namibia,15.2,D Wiese,C Campher,1,{},{}
+2nd innings,Namibia,15.3,MG Erasmus,C Campher,1,{},{}
+2nd innings,Namibia,15.4,D Wiese,C Campher,1,{},{}
+2nd innings,Namibia,15.5,MG Erasmus,C Campher,1,{'legbyes': 1},{}
+2nd innings,Namibia,15.6,D Wiese,C Campher,2,{},{}
+2nd innings,Namibia,16.1,MG Erasmus,J Little,0,{},{}
+2nd innings,Namibia,16.2,MG Erasmus,J Little,1,{},{}
+2nd innings,Namibia,16.3,D Wiese,J Little,1,{},{}
+2nd innings,Namibia,16.4,MG Erasmus,J Little,1,{},{}
+2nd innings,Namibia,16.5,D Wiese,J Little,1,{},{}
+2nd innings,Namibia,16.6,MG Erasmus,J Little,1,{},{}
+2nd innings,Namibia,17.1,MG Erasmus,Simi Singh,2,{},{}
+2nd innings,Namibia,17.2,MG Erasmus,Simi Singh,6,{},{}
+2nd innings,Namibia,17.3,MG Erasmus,Simi Singh,1,{},{}
+2nd innings,Namibia,17.4,D Wiese,Simi Singh,1,{'wides': 1},{}
+2nd innings,Namibia,17.5,D Wiese,Simi Singh,0,{},{}
+2nd innings,Namibia,17.6,D Wiese,Simi Singh,1,{},{}
+2nd innings,Namibia,17.7,MG Erasmus,Simi Singh,1,{},{}
+2nd innings,Namibia,18.1,MG Erasmus,CA Young,4,{},{}
+2nd innings,Namibia,18.2,MG Erasmus,CA Young,1,{},{}
+2nd innings,Namibia,18.3,D Wiese,CA Young,4,{},{}

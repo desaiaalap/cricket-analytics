@@ -1,0 +1,201 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Bangladesh,0.1,Mohammad Naim,KA Maharaj,0,{},{}
+1st innings,Bangladesh,0.2,Mohammad Naim,KA Maharaj,1,{},{}
+1st innings,Bangladesh,0.3,Liton Das,KA Maharaj,0,{},{}
+1st innings,Bangladesh,0.4,Liton Das,KA Maharaj,2,{},{}
+1st innings,Bangladesh,0.5,Liton Das,KA Maharaj,0,{},{}
+1st innings,Bangladesh,0.6,Liton Das,KA Maharaj,1,{},{}
+1st innings,Bangladesh,1.1,Liton Das,K Rabada,0,{},{}
+1st innings,Bangladesh,1.2,Liton Das,K Rabada,4,{},{}
+1st innings,Bangladesh,1.3,Liton Das,K Rabada,1,{},{}
+1st innings,Bangladesh,1.4,Mohammad Naim,K Rabada,0,{},{}
+1st innings,Bangladesh,1.5,Mohammad Naim,K Rabada,0,{},{}
+1st innings,Bangladesh,1.6,Mohammad Naim,K Rabada,0,{},{}
+1st innings,Bangladesh,2.1,Liton Das,KA Maharaj,0,{},{}
+1st innings,Bangladesh,2.2,Liton Das,KA Maharaj,1,{},{}
+1st innings,Bangladesh,2.3,Mohammad Naim,KA Maharaj,1,{},{}
+1st innings,Bangladesh,2.4,Liton Das,KA Maharaj,1,{},{}
+1st innings,Bangladesh,2.5,Mohammad Naim,KA Maharaj,4,{},{}
+1st innings,Bangladesh,2.6,Mohammad Naim,KA Maharaj,1,{},{}
+1st innings,Bangladesh,3.1,Mohammad Naim,K Rabada,1,{},{}
+1st innings,Bangladesh,3.2,Liton Das,K Rabada,1,{},{}
+1st innings,Bangladesh,3.3,Mohammad Naim,K Rabada,1,{},{}
+1st innings,Bangladesh,3.4,Liton Das,K Rabada,1,{},{}
+1st innings,Bangladesh,3.5,Mohammad Naim,K Rabada,1,{'wides': 1},{}
+1st innings,Bangladesh,3.6,Mohammad Naim,K Rabada,0,{},"{'player_out': 'Mohammad Naim', 'fielders': ['RR Hendricks'], 'kind': 'caught'}"
+1st innings,Bangladesh,3.7,Soumya Sarkar,K Rabada,0,{},"{'player_out': 'Soumya Sarkar', 'kind': 'lbw'}"
+1st innings,Bangladesh,4.1,Liton Das,A Nortje,0,{},{}
+1st innings,Bangladesh,4.2,Liton Das,A Nortje,0,{},{}
+1st innings,Bangladesh,4.3,Liton Das,A Nortje,2,{},{}
+1st innings,Bangladesh,4.4,Liton Das,A Nortje,0,{},{}
+1st innings,Bangladesh,4.5,Liton Das,A Nortje,0,{},{}
+1st innings,Bangladesh,4.6,Liton Das,A Nortje,0,{},{}
+1st innings,Bangladesh,5.1,Mushfiqur Rahim,K Rabada,0,{},{}
+1st innings,Bangladesh,5.2,Mushfiqur Rahim,K Rabada,0,{},{}
+1st innings,Bangladesh,5.3,Mushfiqur Rahim,K Rabada,0,{},"{'player_out': 'Mushfiqur Rahim', 'fielders': ['RR Hendricks'], 'kind': 'caught'}"
+1st innings,Bangladesh,5.4,Mahmudullah,K Rabada,2,{},{}
+1st innings,Bangladesh,5.5,Mahmudullah,K Rabada,1,{'wides': 1},{}
+1st innings,Bangladesh,5.6,Mahmudullah,K Rabada,1,{'wides': 1},{}
+1st innings,Bangladesh,5.7,Mahmudullah,K Rabada,0,{},{}
+1st innings,Bangladesh,5.8,Mahmudullah,K Rabada,0,{},{}
+1st innings,Bangladesh,6.1,Liton Das,D Pretorius,0,{},{}
+1st innings,Bangladesh,6.2,Liton Das,D Pretorius,1,{},{}
+1st innings,Bangladesh,6.3,Mahmudullah,D Pretorius,1,{},{}
+1st innings,Bangladesh,6.4,Liton Das,D Pretorius,1,{},{}
+1st innings,Bangladesh,6.5,Mahmudullah,D Pretorius,0,{},{}
+1st innings,Bangladesh,6.6,Mahmudullah,D Pretorius,0,{},{}
+1st innings,Bangladesh,7.1,Liton Das,A Nortje,1,{},{}
+1st innings,Bangladesh,7.2,Mahmudullah,A Nortje,0,{},{}
+1st innings,Bangladesh,7.3,Mahmudullah,A Nortje,1,{'legbyes': 1},{}
+1st innings,Bangladesh,7.4,Liton Das,A Nortje,0,{},{}
+1st innings,Bangladesh,7.5,Liton Das,A Nortje,1,{},{}
+1st innings,Bangladesh,7.6,Mahmudullah,A Nortje,0,{},"{'player_out': 'Mahmudullah', 'fielders': ['AK Markram'], 'kind': 'caught'}"
+1st innings,Bangladesh,8.1,Afif Hossain,D Pretorius,0,{},"{'player_out': 'Afif Hossain', 'kind': 'bowled'}"
+1st innings,Bangladesh,8.2,Shamim Hossain,D Pretorius,0,{},{}
+1st innings,Bangladesh,8.3,Shamim Hossain,D Pretorius,0,{},{}
+1st innings,Bangladesh,8.4,Shamim Hossain,D Pretorius,1,{},{}
+1st innings,Bangladesh,8.5,Liton Das,D Pretorius,0,{},{}
+1st innings,Bangladesh,8.6,Liton Das,D Pretorius,1,{},{}
+1st innings,Bangladesh,9.1,Liton Das,A Nortje,0,{},{}
+1st innings,Bangladesh,9.2,Liton Das,A Nortje,0,{},{}
+1st innings,Bangladesh,9.3,Liton Das,A Nortje,0,{},{}
+1st innings,Bangladesh,9.4,Liton Das,A Nortje,1,{'wides': 1},{}
+1st innings,Bangladesh,9.5,Liton Das,A Nortje,1,{},{}
+1st innings,Bangladesh,9.6,Shamim Hossain,A Nortje,0,{},{}
+1st innings,Bangladesh,9.7,Shamim Hossain,A Nortje,2,{},{}
+1st innings,Bangladesh,10.1,Liton Das,KA Maharaj,0,{},{}
+1st innings,Bangladesh,10.2,Liton Das,KA Maharaj,1,{},{}
+1st innings,Bangladesh,10.3,Shamim Hossain,KA Maharaj,0,{},{}
+1st innings,Bangladesh,10.4,Shamim Hossain,KA Maharaj,0,{},{}
+1st innings,Bangladesh,10.5,Shamim Hossain,KA Maharaj,1,{},{}
+1st innings,Bangladesh,10.6,Liton Das,KA Maharaj,1,{},{}
+1st innings,Bangladesh,11.1,Liton Das,T Shamsi,2,{},{}
+1st innings,Bangladesh,11.2,Liton Das,T Shamsi,0,{},{}
+1st innings,Bangladesh,11.3,Liton Das,T Shamsi,0,{},"{'player_out': 'Liton Das', 'kind': 'lbw'}"
+1st innings,Bangladesh,11.4,Mahedi Hasan,T Shamsi,1,{},{}
+1st innings,Bangladesh,11.5,Shamim Hossain,T Shamsi,0,{},{}
+1st innings,Bangladesh,11.6,Shamim Hossain,T Shamsi,0,{},{}
+1st innings,Bangladesh,12.1,Mahedi Hasan,KA Maharaj,4,{},{}
+1st innings,Bangladesh,12.2,Mahedi Hasan,KA Maharaj,2,{},{}
+1st innings,Bangladesh,12.3,Mahedi Hasan,KA Maharaj,0,{},{}
+1st innings,Bangladesh,12.4,Mahedi Hasan,KA Maharaj,1,{},{}
+1st innings,Bangladesh,12.5,Shamim Hossain,KA Maharaj,1,{},{}
+1st innings,Bangladesh,12.6,Mahedi Hasan,KA Maharaj,0,{},{}
+1st innings,Bangladesh,13.1,Shamim Hossain,T Shamsi,1,{},{}
+1st innings,Bangladesh,13.2,Mahedi Hasan,T Shamsi,0,{},{}
+1st innings,Bangladesh,13.3,Mahedi Hasan,T Shamsi,1,{},{}
+1st innings,Bangladesh,13.4,Shamim Hossain,T Shamsi,0,{},{}
+1st innings,Bangladesh,13.5,Shamim Hossain,T Shamsi,0,{},{}
+1st innings,Bangladesh,13.6,Shamim Hossain,T Shamsi,0,{},{}
+1st innings,Bangladesh,14.1,Mahedi Hasan,K Rabada,1,{'noballs': 1},{}
+1st innings,Bangladesh,14.2,Mahedi Hasan,K Rabada,0,{},{}
+1st innings,Bangladesh,14.3,Mahedi Hasan,K Rabada,0,{},{}
+1st innings,Bangladesh,14.4,Mahedi Hasan,K Rabada,0,{},{}
+1st innings,Bangladesh,14.5,Mahedi Hasan,K Rabada,1,{},{}
+1st innings,Bangladesh,14.6,Shamim Hossain,K Rabada,1,{'noballs': 1},{}
+1st innings,Bangladesh,14.7,Shamim Hossain,K Rabada,2,{},{}
+1st innings,Bangladesh,14.8,Shamim Hossain,K Rabada,1,{},{}
+1st innings,Bangladesh,15.1,Shamim Hossain,T Shamsi,2,{},{}
+1st innings,Bangladesh,15.2,Shamim Hossain,T Shamsi,0,{},"{'player_out': 'Shamim Hossain', 'fielders': ['KA Maharaj'], 'kind': 'caught'}"
+1st innings,Bangladesh,15.3,Mahedi Hasan,T Shamsi,1,{},{}
+1st innings,Bangladesh,15.4,Taskin Ahmed,T Shamsi,1,{},{}
+1st innings,Bangladesh,15.5,Mahedi Hasan,T Shamsi,4,{},{}
+1st innings,Bangladesh,15.6,Mahedi Hasan,T Shamsi,1,{},{}
+1st innings,Bangladesh,16.1,Mahedi Hasan,D Pretorius,1,{},{}
+1st innings,Bangladesh,16.2,Taskin Ahmed,D Pretorius,1,{},{}
+1st innings,Bangladesh,16.3,Mahedi Hasan,D Pretorius,2,{},{}
+1st innings,Bangladesh,16.4,Mahedi Hasan,D Pretorius,0,{},{}
+1st innings,Bangladesh,16.5,Mahedi Hasan,D Pretorius,1,{},{}
+1st innings,Bangladesh,16.6,Taskin Ahmed,D Pretorius,1,{},{}
+1st innings,Bangladesh,17.1,Taskin Ahmed,T Shamsi,0,{},{}
+1st innings,Bangladesh,17.2,Taskin Ahmed,T Shamsi,0,{},"{'player_out': 'Taskin Ahmed', 'fielders': ['T Bavuma'], 'kind': 'run out'}"
+1st innings,Bangladesh,17.3,Mahedi Hasan,T Shamsi,6,{},{}
+1st innings,Bangladesh,17.4,Mahedi Hasan,T Shamsi,0,{},{}
+1st innings,Bangladesh,17.5,Mahedi Hasan,T Shamsi,0,{},{}
+1st innings,Bangladesh,17.6,Mahedi Hasan,T Shamsi,1,{},{}
+1st innings,Bangladesh,18.1,Mahedi Hasan,A Nortje,0,{},"{'player_out': 'Mahedi Hasan', 'kind': 'caught and bowled'}"
+1st innings,Bangladesh,18.2,Nasum Ahmed,A Nortje,0,{},"{'player_out': 'Nasum Ahmed', 'kind': 'hit wicket'}"
+2nd innings,South Africa,0.1,Q de Kock,Taskin Ahmed,1,{'wides': 1},{}
+2nd innings,South Africa,0.2,Q de Kock,Taskin Ahmed,1,{},{}
+2nd innings,South Africa,0.3,RR Hendricks,Taskin Ahmed,0,{},{}
+2nd innings,South Africa,0.4,RR Hendricks,Taskin Ahmed,0,{},{}
+2nd innings,South Africa,0.5,RR Hendricks,Taskin Ahmed,4,{},{}
+2nd innings,South Africa,0.6,RR Hendricks,Taskin Ahmed,0,{},{}
+2nd innings,South Africa,0.7,RR Hendricks,Taskin Ahmed,0,{},"{'player_out': 'RR Hendricks', 'kind': 'lbw'}"
+2nd innings,South Africa,1.1,Q de Kock,Shoriful Islam,0,{},{}
+2nd innings,South Africa,1.2,Q de Kock,Shoriful Islam,0,{},{}
+2nd innings,South Africa,1.3,Q de Kock,Shoriful Islam,0,{},{}
+2nd innings,South Africa,1.4,Q de Kock,Shoriful Islam,1,{},{}
+2nd innings,South Africa,1.5,HE van der Dussen,Shoriful Islam,1,{'wides': 1},{}
+2nd innings,South Africa,1.6,HE van der Dussen,Shoriful Islam,0,{},{}
+2nd innings,South Africa,1.7,HE van der Dussen,Shoriful Islam,1,{'legbyes': 1},{}
+2nd innings,South Africa,2.1,HE van der Dussen,Taskin Ahmed,1,{},{}
+2nd innings,South Africa,2.2,Q de Kock,Taskin Ahmed,0,{},{}
+2nd innings,South Africa,2.3,Q de Kock,Taskin Ahmed,2,{},{}
+2nd innings,South Africa,2.4,Q de Kock,Taskin Ahmed,0,{},{}
+2nd innings,South Africa,2.5,Q de Kock,Taskin Ahmed,0,{},{}
+2nd innings,South Africa,2.6,Q de Kock,Taskin Ahmed,4,{},{}
+2nd innings,South Africa,3.1,HE van der Dussen,Shoriful Islam,0,{},{}
+2nd innings,South Africa,3.2,HE van der Dussen,Shoriful Islam,0,{},{}
+2nd innings,South Africa,3.3,HE van der Dussen,Shoriful Islam,0,{},{}
+2nd innings,South Africa,3.4,HE van der Dussen,Shoriful Islam,4,{},{}
+2nd innings,South Africa,3.5,HE van der Dussen,Shoriful Islam,0,{},{}
+2nd innings,South Africa,3.6,HE van der Dussen,Shoriful Islam,0,{},{}
+2nd innings,South Africa,4.1,Q de Kock,Mahedi Hasan,0,{},{}
+2nd innings,South Africa,4.2,Q de Kock,Mahedi Hasan,4,{},{}
+2nd innings,South Africa,4.3,Q de Kock,Mahedi Hasan,4,{},{}
+2nd innings,South Africa,4.4,Q de Kock,Mahedi Hasan,0,{},{}
+2nd innings,South Africa,4.5,Q de Kock,Mahedi Hasan,0,{},"{'player_out': 'Q de Kock', 'kind': 'bowled'}"
+2nd innings,South Africa,4.6,AK Markram,Mahedi Hasan,0,{},{}
+2nd innings,South Africa,5.1,HE van der Dussen,Taskin Ahmed,0,{},{}
+2nd innings,South Africa,5.2,HE van der Dussen,Taskin Ahmed,1,{},{}
+2nd innings,South Africa,5.3,AK Markram,Taskin Ahmed,0,{},{}
+2nd innings,South Africa,5.4,AK Markram,Taskin Ahmed,4,{'byes': 4},{}
+2nd innings,South Africa,5.5,AK Markram,Taskin Ahmed,0,{},"{'player_out': 'AK Markram', 'fielders': ['Mohammad Naim'], 'kind': 'caught'}"
+2nd innings,South Africa,5.6,T Bavuma,Taskin Ahmed,0,{},{}
+2nd innings,South Africa,6.1,HE van der Dussen,Shoriful Islam,0,{},{}
+2nd innings,South Africa,6.2,HE van der Dussen,Shoriful Islam,0,{},{}
+2nd innings,South Africa,6.3,HE van der Dussen,Shoriful Islam,1,{},{}
+2nd innings,South Africa,6.4,T Bavuma,Shoriful Islam,0,{},{}
+2nd innings,South Africa,6.5,T Bavuma,Shoriful Islam,0,{},{}
+2nd innings,South Africa,6.6,T Bavuma,Shoriful Islam,3,{},{}
+2nd innings,South Africa,7.1,T Bavuma,Taskin Ahmed,0,{},{}
+2nd innings,South Africa,7.2,T Bavuma,Taskin Ahmed,0,{},{}
+2nd innings,South Africa,7.3,T Bavuma,Taskin Ahmed,0,{},{}
+2nd innings,South Africa,7.4,T Bavuma,Taskin Ahmed,4,{},{}
+2nd innings,South Africa,7.5,T Bavuma,Taskin Ahmed,0,{},{}
+2nd innings,South Africa,7.6,T Bavuma,Taskin Ahmed,0,{},{}
+2nd innings,South Africa,8.1,HE van der Dussen,Nasum Ahmed,1,{},{}
+2nd innings,South Africa,8.2,T Bavuma,Nasum Ahmed,0,{},{}
+2nd innings,South Africa,8.3,T Bavuma,Nasum Ahmed,2,{},{}
+2nd innings,South Africa,8.4,T Bavuma,Nasum Ahmed,6,{},{}
+2nd innings,South Africa,8.5,T Bavuma,Nasum Ahmed,0,{},{}
+2nd innings,South Africa,8.6,T Bavuma,Nasum Ahmed,0,{},{}
+2nd innings,South Africa,9.1,HE van der Dussen,Shoriful Islam,1,{},{}
+2nd innings,South Africa,9.2,T Bavuma,Shoriful Islam,3,{},{}
+2nd innings,South Africa,9.3,HE van der Dussen,Shoriful Islam,0,{},{}
+2nd innings,South Africa,9.4,HE van der Dussen,Shoriful Islam,1,{},{}
+2nd innings,South Africa,9.5,T Bavuma,Shoriful Islam,0,{},{}
+2nd innings,South Africa,9.6,T Bavuma,Shoriful Islam,0,{},{}
+2nd innings,South Africa,10.1,HE van der Dussen,Mahedi Hasan,1,{},{}
+2nd innings,South Africa,10.2,T Bavuma,Mahedi Hasan,1,{},{}
+2nd innings,South Africa,10.3,HE van der Dussen,Mahedi Hasan,1,{},{}
+2nd innings,South Africa,10.4,T Bavuma,Mahedi Hasan,0,{},{}
+2nd innings,South Africa,10.5,T Bavuma,Mahedi Hasan,1,{},{}
+2nd innings,South Africa,10.6,HE van der Dussen,Mahedi Hasan,1,{},{}
+2nd innings,South Africa,11.1,HE van der Dussen,Soumya Sarkar,1,{},{}
+2nd innings,South Africa,11.2,T Bavuma,Soumya Sarkar,1,{},{}
+2nd innings,South Africa,11.3,HE van der Dussen,Soumya Sarkar,0,{},{}
+2nd innings,South Africa,11.4,HE van der Dussen,Soumya Sarkar,1,{},{}
+2nd innings,South Africa,11.5,T Bavuma,Soumya Sarkar,4,{},{}
+2nd innings,South Africa,11.6,T Bavuma,Soumya Sarkar,0,{},{}
+2nd innings,South Africa,12.1,HE van der Dussen,Nasum Ahmed,3,{},{}
+2nd innings,South Africa,12.2,T Bavuma,Nasum Ahmed,1,{'wides': 1},{}
+2nd innings,South Africa,12.3,T Bavuma,Nasum Ahmed,0,{},{}
+2nd innings,South Africa,12.4,T Bavuma,Nasum Ahmed,4,{},{}
+2nd innings,South Africa,12.5,T Bavuma,Nasum Ahmed,1,{},{}
+2nd innings,South Africa,12.6,HE van der Dussen,Nasum Ahmed,4,{},{}
+2nd innings,South Africa,12.7,HE van der Dussen,Nasum Ahmed,0,{},"{'player_out': 'HE van der Dussen', 'fielders': ['Shoriful Islam'], 'kind': 'caught'}"
+2nd innings,South Africa,13.1,DA Miller,Mahedi Hasan,1,{},{}
+2nd innings,South Africa,13.2,T Bavuma,Mahedi Hasan,1,{},{}
+2nd innings,South Africa,13.3,DA Miller,Mahedi Hasan,4,{},{}

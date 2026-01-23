@@ -1,0 +1,214 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,United Arab Emirates,0.1,Amjad Ali,PR Stirling,0,{},{}
+1st innings,United Arab Emirates,0.2,Amjad Ali,PR Stirling,0,{},{}
+1st innings,United Arab Emirates,0.3,Amjad Ali,PR Stirling,1,{},{}
+1st innings,United Arab Emirates,0.4,Faizan Asif,PR Stirling,0,{},{}
+1st innings,United Arab Emirates,0.5,Faizan Asif,PR Stirling,1,{'wides': 1},{}
+1st innings,United Arab Emirates,0.6,Faizan Asif,PR Stirling,1,{},{}
+1st innings,United Arab Emirates,0.7,Amjad Ali,PR Stirling,0,{},{}
+1st innings,United Arab Emirates,1.1,Faizan Asif,MC Sorensen,1,{},{}
+1st innings,United Arab Emirates,1.2,Amjad Ali,MC Sorensen,0,{},{}
+1st innings,United Arab Emirates,1.3,Amjad Ali,MC Sorensen,0,{},{}
+1st innings,United Arab Emirates,1.4,Amjad Ali,MC Sorensen,0,{},{}
+1st innings,United Arab Emirates,1.5,Amjad Ali,MC Sorensen,0,{},{}
+1st innings,United Arab Emirates,1.6,Amjad Ali,MC Sorensen,4,{},{}
+1st innings,United Arab Emirates,2.1,Faizan Asif,PR Stirling,0,{},{}
+1st innings,United Arab Emirates,2.2,Faizan Asif,PR Stirling,2,{},{}
+1st innings,United Arab Emirates,2.3,Faizan Asif,PR Stirling,0,{},{}
+1st innings,United Arab Emirates,2.4,Faizan Asif,PR Stirling,5,{'wides': 5},{}
+1st innings,United Arab Emirates,2.5,Faizan Asif,PR Stirling,0,{},{}
+1st innings,United Arab Emirates,2.6,Faizan Asif,PR Stirling,0,{},{}
+1st innings,United Arab Emirates,2.7,Faizan Asif,PR Stirling,2,{},{}
+1st innings,United Arab Emirates,3.1,Amjad Ali,MC Sorensen,1,{},{}
+1st innings,United Arab Emirates,3.2,Faizan Asif,MC Sorensen,1,{},{}
+1st innings,United Arab Emirates,3.3,Amjad Ali,MC Sorensen,0,{},{}
+1st innings,United Arab Emirates,3.4,Amjad Ali,MC Sorensen,4,{},{}
+1st innings,United Arab Emirates,3.5,Amjad Ali,MC Sorensen,0,{},{}
+1st innings,United Arab Emirates,3.6,Amjad Ali,MC Sorensen,4,{},{}
+1st innings,United Arab Emirates,4.1,Faizan Asif,TJ Murtagh,4,{},{}
+1st innings,United Arab Emirates,4.2,Faizan Asif,TJ Murtagh,2,{'byes': 2},{}
+1st innings,United Arab Emirates,4.3,Faizan Asif,TJ Murtagh,0,{},{}
+1st innings,United Arab Emirates,4.4,Faizan Asif,TJ Murtagh,1,{'legbyes': 1},{}
+1st innings,United Arab Emirates,4.5,Amjad Ali,TJ Murtagh,1,{},{}
+1st innings,United Arab Emirates,4.6,Faizan Asif,TJ Murtagh,0,{},"{'fielders': ['TJ Murtagh', 'GC Wilson'], 'kind': 'run out', 'player_out': 'Faizan Asif'}"
+1st innings,United Arab Emirates,5.1,Amjad Ali,AR Cusack,1,{'legbyes': 1},{}
+1st innings,United Arab Emirates,5.2,Khurram Khan,AR Cusack,0,{},{}
+1st innings,United Arab Emirates,5.3,Khurram Khan,AR Cusack,1,{},{}
+1st innings,United Arab Emirates,5.4,Amjad Ali,AR Cusack,4,{},{}
+1st innings,United Arab Emirates,5.5,Amjad Ali,AR Cusack,1,{},{}
+1st innings,United Arab Emirates,5.6,Khurram Khan,AR Cusack,4,{},{}
+1st innings,United Arab Emirates,6.1,Amjad Ali,PR Stirling,0,{},"{'fielders': ['GH Dockrell'], 'kind': 'caught', 'player_out': 'Amjad Ali'}"
+1st innings,United Arab Emirates,6.2,SP Patil,PR Stirling,0,{},{}
+1st innings,United Arab Emirates,6.3,SP Patil,PR Stirling,0,{},{}
+1st innings,United Arab Emirates,6.4,SP Patil,PR Stirling,0,{},"{'fielders': ['WTS Porterfield'], 'kind': 'caught', 'player_out': 'SP Patil'}"
+1st innings,United Arab Emirates,6.5,Shaiman Anwar,PR Stirling,0,{},{}
+1st innings,United Arab Emirates,6.6,Shaiman Anwar,PR Stirling,0,{},{}
+1st innings,United Arab Emirates,7.1,Khurram Khan,AR Cusack,1,{},{}
+1st innings,United Arab Emirates,7.2,Shaiman Anwar,AR Cusack,1,{},{}
+1st innings,United Arab Emirates,7.3,Khurram Khan,AR Cusack,1,{},{}
+1st innings,United Arab Emirates,7.4,Shaiman Anwar,AR Cusack,0,{},{}
+1st innings,United Arab Emirates,7.5,Shaiman Anwar,AR Cusack,0,{},{}
+1st innings,United Arab Emirates,7.6,Shaiman Anwar,AR Cusack,1,{},{}
+1st innings,United Arab Emirates,8.1,Shaiman Anwar,GH Dockrell,2,{},{}
+1st innings,United Arab Emirates,8.2,Shaiman Anwar,GH Dockrell,1,{},{}
+1st innings,United Arab Emirates,8.3,Khurram Khan,GH Dockrell,1,{},{}
+1st innings,United Arab Emirates,8.4,Shaiman Anwar,GH Dockrell,0,{},{}
+1st innings,United Arab Emirates,8.5,Shaiman Anwar,GH Dockrell,0,{},{}
+1st innings,United Arab Emirates,8.6,Shaiman Anwar,GH Dockrell,6,{},{}
+1st innings,United Arab Emirates,9.1,Khurram Khan,TJ Murtagh,1,{},{}
+1st innings,United Arab Emirates,9.2,Shaiman Anwar,TJ Murtagh,0,{},{}
+1st innings,United Arab Emirates,9.3,Shaiman Anwar,TJ Murtagh,1,{'wides': 1},{}
+1st innings,United Arab Emirates,9.4,Shaiman Anwar,TJ Murtagh,0,{},{}
+1st innings,United Arab Emirates,9.5,Shaiman Anwar,TJ Murtagh,1,{},{}
+1st innings,United Arab Emirates,9.6,Khurram Khan,TJ Murtagh,1,{},{}
+1st innings,United Arab Emirates,9.7,Shaiman Anwar,TJ Murtagh,2,{},{}
+1st innings,United Arab Emirates,10.1,Khurram Khan,MC Sorensen,1,{},{}
+1st innings,United Arab Emirates,10.2,Shaiman Anwar,MC Sorensen,6,{},{}
+1st innings,United Arab Emirates,10.3,Shaiman Anwar,MC Sorensen,1,{},{}
+1st innings,United Arab Emirates,10.4,Khurram Khan,MC Sorensen,0,{},{}
+1st innings,United Arab Emirates,10.5,Khurram Khan,MC Sorensen,1,{},{}
+1st innings,United Arab Emirates,10.6,Shaiman Anwar,MC Sorensen,0,{},{}
+1st innings,United Arab Emirates,11.1,Khurram Khan,KJ O'Brien,0,{},{}
+1st innings,United Arab Emirates,11.2,Khurram Khan,KJ O'Brien,1,{'legbyes': 1},{}
+1st innings,United Arab Emirates,11.3,Shaiman Anwar,KJ O'Brien,0,{},{}
+1st innings,United Arab Emirates,11.4,Shaiman Anwar,KJ O'Brien,1,{},{}
+1st innings,United Arab Emirates,11.5,Khurram Khan,KJ O'Brien,0,{},{}
+1st innings,United Arab Emirates,11.6,Khurram Khan,KJ O'Brien,0,{},{}
+1st innings,United Arab Emirates,12.1,Shaiman Anwar,SR Thompson,0,{},{}
+1st innings,United Arab Emirates,12.2,Shaiman Anwar,SR Thompson,1,{},{}
+1st innings,United Arab Emirates,12.3,Khurram Khan,SR Thompson,0,{},{}
+1st innings,United Arab Emirates,12.4,Khurram Khan,SR Thompson,1,{},{}
+1st innings,United Arab Emirates,12.5,Shaiman Anwar,SR Thompson,2,{},{}
+1st innings,United Arab Emirates,12.6,Shaiman Anwar,SR Thompson,1,{},{}
+1st innings,United Arab Emirates,13.1,Shaiman Anwar,KJ O'Brien,1,{},{}
+1st innings,United Arab Emirates,13.2,Khurram Khan,KJ O'Brien,1,{},{}
+1st innings,United Arab Emirates,13.3,Shaiman Anwar,KJ O'Brien,2,{},{}
+1st innings,United Arab Emirates,13.4,Shaiman Anwar,KJ O'Brien,1,{},{}
+1st innings,United Arab Emirates,13.5,Khurram Khan,KJ O'Brien,1,{},{}
+1st innings,United Arab Emirates,13.6,Shaiman Anwar,KJ O'Brien,0,{},"{'kind': 'caught and bowled', 'player_out': 'Shaiman Anwar'}"
+1st innings,United Arab Emirates,14.1,Khurram Khan,TJ Murtagh,1,{},{}
+1st innings,United Arab Emirates,14.2,Amjad Javed,TJ Murtagh,1,{},{}
+1st innings,United Arab Emirates,14.3,Khurram Khan,TJ Murtagh,0,{},"{'fielders': ['EC Joyce'], 'kind': 'caught', 'player_out': 'Khurram Khan'}"
+1st innings,United Arab Emirates,14.4,Amjad Javed,TJ Murtagh,0,{},{}
+1st innings,United Arab Emirates,14.5,Amjad Javed,TJ Murtagh,0,{},{}
+1st innings,United Arab Emirates,14.6,Amjad Javed,TJ Murtagh,1,{},{}
+1st innings,United Arab Emirates,15.1,Amjad Javed,KJ O'Brien,0,{},{}
+1st innings,United Arab Emirates,15.2,Amjad Javed,KJ O'Brien,1,{},{}
+1st innings,United Arab Emirates,15.3,Rohan Mustafa,KJ O'Brien,0,{},{}
+1st innings,United Arab Emirates,15.4,Rohan Mustafa,KJ O'Brien,0,{},{}
+1st innings,United Arab Emirates,15.5,Rohan Mustafa,KJ O'Brien,0,{},{}
+1st innings,United Arab Emirates,15.6,Rohan Mustafa,KJ O'Brien,2,{},{}
+1st innings,United Arab Emirates,16.1,Amjad Javed,TJ Murtagh,4,{},{}
+1st innings,United Arab Emirates,16.2,Amjad Javed,TJ Murtagh,0,{},{}
+1st innings,United Arab Emirates,16.3,Amjad Javed,TJ Murtagh,0,{},{}
+1st innings,United Arab Emirates,16.4,Amjad Javed,TJ Murtagh,0,{},{}
+1st innings,United Arab Emirates,16.5,Amjad Javed,TJ Murtagh,1,{},{}
+1st innings,United Arab Emirates,16.6,Rohan Mustafa,TJ Murtagh,1,{},{}
+1st innings,United Arab Emirates,17.1,Rohan Mustafa,AR Cusack,1,{},{}
+1st innings,United Arab Emirates,17.2,Amjad Javed,AR Cusack,0,{},{}
+1st innings,United Arab Emirates,17.3,Amjad Javed,AR Cusack,0,{},{}
+1st innings,United Arab Emirates,17.4,Amjad Javed,AR Cusack,4,{},{}
+1st innings,United Arab Emirates,17.5,Amjad Javed,AR Cusack,2,{},{}
+1st innings,United Arab Emirates,17.6,Amjad Javed,AR Cusack,1,{'noballs': 1},{}
+1st innings,United Arab Emirates,17.7,Amjad Javed,AR Cusack,0,{},{}
+1st innings,United Arab Emirates,18.1,Rohan Mustafa,KJ O'Brien,1,{},{}
+1st innings,United Arab Emirates,18.2,Amjad Javed,KJ O'Brien,1,{},{}
+1st innings,United Arab Emirates,18.3,Rohan Mustafa,KJ O'Brien,1,{},{}
+1st innings,United Arab Emirates,18.4,Amjad Javed,KJ O'Brien,0,{},{}
+1st innings,United Arab Emirates,18.5,Amjad Javed,KJ O'Brien,4,{},{}
+1st innings,United Arab Emirates,18.6,Amjad Javed,KJ O'Brien,0,{},"{'fielders': ['EC Joyce'], 'kind': 'caught', 'player_out': 'Amjad Javed'}"
+1st innings,United Arab Emirates,19.1,Rohan Mustafa,AR Cusack,2,{},{}
+1st innings,United Arab Emirates,19.2,Rohan Mustafa,AR Cusack,0,{},{}
+1st innings,United Arab Emirates,19.3,Rohan Mustafa,AR Cusack,2,{},{}
+1st innings,United Arab Emirates,19.4,Rohan Mustafa,AR Cusack,2,{},{}
+1st innings,United Arab Emirates,19.5,Rohan Mustafa,AR Cusack,1,{},{}
+1st innings,United Arab Emirates,19.6,V Shetty,AR Cusack,1,{},{}
+2nd innings,Ireland,0.1,WTS Porterfield,Sharif Asadullah,1,{},{}
+2nd innings,Ireland,0.2,PR Stirling,Sharif Asadullah,0,{},{}
+2nd innings,Ireland,0.3,PR Stirling,Sharif Asadullah,1,{'wides': 1},{}
+2nd innings,Ireland,0.4,PR Stirling,Sharif Asadullah,4,{},{}
+2nd innings,Ireland,0.5,PR Stirling,Sharif Asadullah,0,{},{}
+2nd innings,Ireland,0.6,PR Stirling,Sharif Asadullah,0,{},{}
+2nd innings,Ireland,0.7,PR Stirling,Sharif Asadullah,4,{},{}
+2nd innings,Ireland,1.1,WTS Porterfield,Kamran Shazad,0,{},{}
+2nd innings,Ireland,1.2,WTS Porterfield,Kamran Shazad,5,{'wides': 5},"{'kind': 'retired hurt', 'player_out': 'PR Stirling'}"
+2nd innings,Ireland,1.3,WTS Porterfield,Kamran Shazad,4,{},{}
+2nd innings,Ireland,1.4,WTS Porterfield,Kamran Shazad,1,{},{}
+2nd innings,Ireland,1.5,EC Joyce,Kamran Shazad,0,{},{}
+2nd innings,Ireland,1.6,EC Joyce,Kamran Shazad,0,{},{}
+2nd innings,Ireland,1.7,EC Joyce,Kamran Shazad,4,{},{}
+2nd innings,Ireland,2.1,WTS Porterfield,Sharif Asadullah,0,{},{}
+2nd innings,Ireland,2.2,WTS Porterfield,Sharif Asadullah,1,{},{}
+2nd innings,Ireland,2.3,EC Joyce,Sharif Asadullah,1,{},{}
+2nd innings,Ireland,2.4,WTS Porterfield,Sharif Asadullah,0,{},{}
+2nd innings,Ireland,2.5,WTS Porterfield,Sharif Asadullah,4,{},{}
+2nd innings,Ireland,2.6,WTS Porterfield,Sharif Asadullah,1,{},{}
+2nd innings,Ireland,3.1,WTS Porterfield,Amjad Javed,0,{},{}
+2nd innings,Ireland,3.2,WTS Porterfield,Amjad Javed,1,{},{}
+2nd innings,Ireland,3.3,EC Joyce,Amjad Javed,0,{},{}
+2nd innings,Ireland,3.4,EC Joyce,Amjad Javed,1,{'wides': 1},{}
+2nd innings,Ireland,3.5,EC Joyce,Amjad Javed,0,{},{}
+2nd innings,Ireland,3.6,EC Joyce,Amjad Javed,0,{},{}
+2nd innings,Ireland,3.7,EC Joyce,Amjad Javed,0,{},{}
+2nd innings,Ireland,4.1,WTS Porterfield,Rohan Mustafa,0,{},{}
+2nd innings,Ireland,4.2,WTS Porterfield,Rohan Mustafa,0,{},{}
+2nd innings,Ireland,4.3,WTS Porterfield,Rohan Mustafa,0,{},{}
+2nd innings,Ireland,4.4,WTS Porterfield,Rohan Mustafa,1,{},{}
+2nd innings,Ireland,4.5,EC Joyce,Rohan Mustafa,1,{},{}
+2nd innings,Ireland,4.6,WTS Porterfield,Rohan Mustafa,0,{},{}
+2nd innings,Ireland,5.1,EC Joyce,Amjad Javed,4,{},{}
+2nd innings,Ireland,5.2,EC Joyce,Amjad Javed,0,{},{}
+2nd innings,Ireland,5.3,EC Joyce,Amjad Javed,0,{},{}
+2nd innings,Ireland,5.4,EC Joyce,Amjad Javed,2,{},{}
+2nd innings,Ireland,5.5,EC Joyce,Amjad Javed,4,{},{}
+2nd innings,Ireland,5.6,EC Joyce,Amjad Javed,6,{'penalty': 5},{}
+2nd innings,Ireland,6.1,EC Joyce,Rohan Mustafa,0,{},{}
+2nd innings,Ireland,6.2,EC Joyce,Rohan Mustafa,0,{},{}
+2nd innings,Ireland,6.3,EC Joyce,Rohan Mustafa,0,{},{}
+2nd innings,Ireland,6.4,EC Joyce,Rohan Mustafa,0,{},{}
+2nd innings,Ireland,6.5,EC Joyce,Rohan Mustafa,0,{},{}
+2nd innings,Ireland,6.6,EC Joyce,Rohan Mustafa,2,{},{}
+2nd innings,Ireland,7.1,WTS Porterfield,Ahmed Raza,1,{'legbyes': 1},{}
+2nd innings,Ireland,7.2,EC Joyce,Ahmed Raza,2,{},{}
+2nd innings,Ireland,7.3,EC Joyce,Ahmed Raza,6,{},{}
+2nd innings,Ireland,7.4,EC Joyce,Ahmed Raza,4,{},{}
+2nd innings,Ireland,7.5,EC Joyce,Ahmed Raza,1,{},{}
+2nd innings,Ireland,7.6,WTS Porterfield,Ahmed Raza,1,{},{}
+2nd innings,Ireland,8.1,WTS Porterfield,Rohan Mustafa,0,{},{}
+2nd innings,Ireland,8.2,WTS Porterfield,Rohan Mustafa,1,{},{}
+2nd innings,Ireland,8.3,EC Joyce,Rohan Mustafa,0,{},{}
+2nd innings,Ireland,8.4,EC Joyce,Rohan Mustafa,0,{},{}
+2nd innings,Ireland,8.5,EC Joyce,Rohan Mustafa,1,{},{}
+2nd innings,Ireland,8.6,WTS Porterfield,Rohan Mustafa,0,{},{}
+2nd innings,Ireland,9.1,EC Joyce,Kamran Shazad,1,{},{}
+2nd innings,Ireland,9.2,WTS Porterfield,Kamran Shazad,0,{},{}
+2nd innings,Ireland,9.3,WTS Porterfield,Kamran Shazad,1,{'legbyes': 1},{}
+2nd innings,Ireland,9.4,EC Joyce,Kamran Shazad,0,{},{}
+2nd innings,Ireland,9.5,EC Joyce,Kamran Shazad,1,{},{}
+2nd innings,Ireland,9.6,WTS Porterfield,Kamran Shazad,1,{},{}
+2nd innings,Ireland,10.1,WTS Porterfield,Rohan Mustafa,1,{},{}
+2nd innings,Ireland,10.2,EC Joyce,Rohan Mustafa,1,{},{}
+2nd innings,Ireland,10.3,WTS Porterfield,Rohan Mustafa,1,{},{}
+2nd innings,Ireland,10.4,EC Joyce,Rohan Mustafa,1,{},{}
+2nd innings,Ireland,10.5,WTS Porterfield,Rohan Mustafa,1,{},{}
+2nd innings,Ireland,10.6,EC Joyce,Rohan Mustafa,2,{},{}
+2nd innings,Ireland,11.1,WTS Porterfield,Kamran Shazad,1,{},{}
+2nd innings,Ireland,11.2,EC Joyce,Kamran Shazad,1,{},{}
+2nd innings,Ireland,11.3,WTS Porterfield,Kamran Shazad,1,{},{}
+2nd innings,Ireland,11.4,EC Joyce,Kamran Shazad,1,{},{}
+2nd innings,Ireland,11.5,WTS Porterfield,Kamran Shazad,6,{},{}
+2nd innings,Ireland,11.6,WTS Porterfield,Kamran Shazad,1,{},{}
+2nd innings,Ireland,12.1,WTS Porterfield,Sharif Asadullah,1,{},{}
+2nd innings,Ireland,12.2,EC Joyce,Sharif Asadullah,2,{},{}
+2nd innings,Ireland,12.3,EC Joyce,Sharif Asadullah,0,{},"{'fielders': ['Khurram Khan'], 'kind': 'caught', 'player_out': 'EC Joyce'}"
+2nd innings,Ireland,12.4,WTS Porterfield,Sharif Asadullah,1,{},{}
+2nd innings,Ireland,12.5,KJ O'Brien,Sharif Asadullah,0,{},{}
+2nd innings,Ireland,12.6,KJ O'Brien,Sharif Asadullah,0,{},"{'fielders': ['V Shetty'], 'kind': 'caught', 'player_out': ""KJ O'Brien""}"
+2nd innings,Ireland,13.1,WTS Porterfield,Amjad Javed,1,{},{}
+2nd innings,Ireland,13.2,AD Poynter,Amjad Javed,0,{},{}
+2nd innings,Ireland,13.3,AD Poynter,Amjad Javed,0,{},{}
+2nd innings,Ireland,13.4,AD Poynter,Amjad Javed,4,{},{}
+2nd innings,Ireland,13.5,AD Poynter,Amjad Javed,0,{},{}
+2nd innings,Ireland,13.6,AD Poynter,Amjad Javed,0,{},"{'kind': 'bowled', 'player_out': 'AD Poynter'}"
+2nd innings,Ireland,14.1,WTS Porterfield,Ahmed Raza,1,{},{}
+2nd innings,Ireland,14.2,GC Wilson,Ahmed Raza,1,{},{}

@@ -1,0 +1,2156 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-27'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Dubai
+  competition: International League T20
+  dates:
+  - '2023-01-13'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Dubai Capitals
+    by:
+      runs: 73
+  overs: 20
+  player_of_match:
+  - R Powell
+  players:
+    Dubai Capitals:
+    - RV Uthappa
+    - JE Root
+    - PBB Rajapaksa
+    - R Powell
+    - Sikandar Raza
+    - YK Pathan
+    - RS Bopara
+    - I Udana
+    - Mujeeb Ur Rahman
+    - Hazrat Luqman
+    - Akif Raja
+    Abu Dhabi Knight Riders:
+    - CA Ingram
+    - PR Stirling
+    - BA King
+    - Zawar Farid
+    - SP Narine
+    - AD Russell
+    - C Esterhuizen
+    - AJ Hosein
+    - Fahad Nawaz
+    - R Rampaul
+    - Ali Khan
+  registry:
+    people:
+      AD Russell: bbd41817
+      AG Wharf: 2e0fcc58
+      AJ Hosein: 4d7f517e
+      Akif Raja: 9d0344f3
+      Ali Khan: b0eaaac6
+      BA King: 7fca84b7
+      C Esterhuizen: ef9acbcc
+      CA Ingram: c995d726
+      Fahad Nawaz: 5d68fe4f
+      Hazrat Luqman: fdc1ac0f
+      I Udana: ac5ae4af
+      JE Root: a343262c
+      LS Reifer: 5dee559a
+      Mujeeb Ur Rahman: 7d92277a
+      PBB Rajapaksa: 6c882e9a
+      PR Stirling: cf494ffe
+      R Powell: 650d5e49
+      R Rampaul: d68e7f48
+      RJ Tucker: 38810cfc
+      RS Bopara: 7ca5e05d
+      RS Mahanama: '57910393'
+      RV Uthappa: 1c17e270
+      SJA Taufel: 4b43d5ac
+      SP Narine: 9d430b40
+      Sikandar Raza: 26d041c4
+      YK Pathan: 3c6ffae8
+      Zawar Farid: d07dbc28
+  teams:
+  - Dubai Capitals
+  - Abu Dhabi Knight Riders
+  toss:
+    winner: Abu Dhabi Knight Riders
+    decision: field
+  umpires:
+  - RJ Tucker
+  - SJA Taufel
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: Dubai Capitals
+    deliveries:
+    - 0.1:
+        non_striker: JE Root
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 0.2:
+        non_striker: JE Root
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 0.3:
+        non_striker: JE Root
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 0.4:
+        non_striker: RV Uthappa
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 0.5:
+        non_striker: JE Root
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 0.6:
+        non_striker: JE Root
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 1.1:
+        non_striker: RV Uthappa
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 1.2:
+        non_striker: RV Uthappa
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Root
+    - 1.3:
+        non_striker: RV Uthappa
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 1.4:
+        non_striker: JE Root
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 1.5:
+        non_striker: JE Root
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 1.6:
+        non_striker: JE Root
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 2.1:
+        non_striker: RV Uthappa
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 2.2:
+        non_striker: RV Uthappa
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 2.3:
+        non_striker: RV Uthappa
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 2.4:
+        non_striker: JE Root
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 2.5:
+        non_striker: RV Uthappa
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 2.6:
+        non_striker: RV Uthappa
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 3.1:
+        non_striker: RV Uthappa
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JE Root
+    - 3.2:
+        non_striker: RV Uthappa
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 3.3:
+        non_striker: RV Uthappa
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 3.4:
+        non_striker: RV Uthappa
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JE Root
+    - 3.5:
+        non_striker: RV Uthappa
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 3.6:
+        non_striker: RV Uthappa
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JE Root
+    - 4.1:
+        non_striker: JE Root
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 4.2:
+        non_striker: JE Root
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RV Uthappa
+    - 4.3:
+        non_striker: JE Root
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 4.4:
+        non_striker: RV Uthappa
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 4.5:
+        non_striker: JE Root
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RV Uthappa
+    - 4.6:
+        non_striker: JE Root
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 4.7:
+        non_striker: RV Uthappa
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Root
+    - 5.1:
+        non_striker: RV Uthappa
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 5.2:
+        non_striker: RV Uthappa
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 5.3:
+        non_striker: RV Uthappa
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+    - 5.4:
+        non_striker: RV Uthappa
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JE Root
+        wicket:
+          player_out: JE Root
+          fielders:
+          - Zawar Farid
+          kind: caught
+    - 5.5:
+        non_striker: RV Uthappa
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 5.6:
+        non_striker: PBB Rajapaksa
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RV Uthappa
+    - 6.1:
+        non_striker: RV Uthappa
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 6.2:
+        non_striker: RV Uthappa
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+    - 6.3:
+        non_striker: RV Uthappa
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PBB Rajapaksa
+    - 6.4:
+        non_striker: RV Uthappa
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 6.5:
+        non_striker: PBB Rajapaksa
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RV Uthappa
+    - 6.6:
+        non_striker: PBB Rajapaksa
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 7.1:
+        non_striker: RV Uthappa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PBB Rajapaksa
+    - 7.2:
+        non_striker: PBB Rajapaksa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 7.3:
+        non_striker: RV Uthappa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 7.4:
+        non_striker: PBB Rajapaksa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 7.5:
+        non_striker: RV Uthappa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PBB Rajapaksa
+    - 7.6:
+        non_striker: PBB Rajapaksa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 8.1:
+        non_striker: PBB Rajapaksa
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RV Uthappa
+    - 8.2:
+        non_striker: RV Uthappa
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PBB Rajapaksa
+        wicket:
+          player_out: PBB Rajapaksa
+          fielders:
+          - SP Narine
+          kind: caught
+    - 8.3:
+        non_striker: RV Uthappa
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 8.4:
+        non_striker: RV Uthappa
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 8.5:
+        non_striker: R Powell
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RV Uthappa
+    - 8.6:
+        non_striker: RV Uthappa
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 9.1:
+        non_striker: R Powell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 9.2:
+        non_striker: RV Uthappa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 9.3:
+        non_striker: RV Uthappa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 9.4:
+        non_striker: RV Uthappa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 9.5:
+        non_striker: R Powell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 9.6:
+        non_striker: RV Uthappa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 10.1:
+        non_striker: R Powell
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RV Uthappa
+    - 10.2:
+        non_striker: R Powell
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 10.3:
+        non_striker: R Powell
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RV Uthappa
+    - 10.4:
+        non_striker: R Powell
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RV Uthappa
+    - 10.5:
+        non_striker: R Powell
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 10.6:
+        non_striker: R Powell
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 11.1:
+        non_striker: R Powell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RV Uthappa
+    - 11.2:
+        non_striker: RV Uthappa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 11.3:
+        non_striker: RV Uthappa
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 11.4:
+        non_striker: R Powell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RV Uthappa
+    - 11.5:
+        non_striker: R Powell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RV Uthappa
+    - 11.6:
+        non_striker: R Powell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+        wicket:
+          player_out: RV Uthappa
+          kind: bowled
+    - 12.1:
+        non_striker: Sikandar Raza
+        bowler: Ali Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 12.2:
+        non_striker: Sikandar Raza
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 12.3:
+        non_striker: Sikandar Raza
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 12.4:
+        non_striker: R Powell
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 12.5:
+        non_striker: Sikandar Raza
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 12.6:
+        non_striker: Sikandar Raza
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 12.7:
+        non_striker: Sikandar Raza
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 13.1:
+        non_striker: R Powell
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 13.2:
+        non_striker: R Powell
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 13.3:
+        non_striker: R Powell
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.4:
+        non_striker: Sikandar Raza
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 13.5:
+        non_striker: R Powell
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 13.6:
+        non_striker: R Powell
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 14.1:
+        non_striker: Sikandar Raza
+        bowler: Zawar Farid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 14.2:
+        non_striker: Sikandar Raza
+        bowler: Zawar Farid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 14.3:
+        non_striker: Sikandar Raza
+        bowler: Zawar Farid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 14.4:
+        non_striker: Sikandar Raza
+        bowler: Zawar Farid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 14.5:
+        non_striker: Sikandar Raza
+        bowler: Zawar Farid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 14.6:
+        non_striker: Sikandar Raza
+        bowler: Zawar Farid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 15.1:
+        non_striker: Sikandar Raza
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 15.2:
+        non_striker: Sikandar Raza
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 15.3:
+        non_striker: R Powell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 15.4:
+        non_striker: R Powell
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 15.5:
+        non_striker: Sikandar Raza
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 15.6:
+        non_striker: Sikandar Raza
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 16.1:
+        non_striker: Sikandar Raza
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 16.2:
+        non_striker: Sikandar Raza
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 16.3:
+        non_striker: Sikandar Raza
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 16.4:
+        non_striker: Sikandar Raza
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          fielders:
+          - CA Ingram
+          kind: caught
+    - 16.5:
+        non_striker: Sikandar Raza
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YK Pathan
+    - 16.6:
+        non_striker: Sikandar Raza
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YK Pathan
+    - 17.1:
+        non_striker: YK Pathan
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 17.2:
+        non_striker: YK Pathan
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sikandar Raza
+    - 17.3:
+        non_striker: YK Pathan
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 17.4:
+        non_striker: YK Pathan
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 17.5:
+        non_striker: Sikandar Raza
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 17.6:
+        non_striker: YK Pathan
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 18.1:
+        non_striker: Sikandar Raza
+        bowler: R Rampaul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YK Pathan
+    - 18.2:
+        non_striker: Sikandar Raza
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YK Pathan
+    - 18.3:
+        non_striker: YK Pathan
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 18.4:
+        non_striker: YK Pathan
+        bowler: R Rampaul
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: Sikandar Raza
+    - 18.5:
+        non_striker: YK Pathan
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 18.6:
+        non_striker: YK Pathan
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - AD Russell
+          kind: caught
+    - 18.7:
+        non_striker: YK Pathan
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RS Bopara
+    - 18.8:
+        non_striker: YK Pathan
+        bowler: R Rampaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 19.1:
+        non_striker: RS Bopara
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YK Pathan
+        wicket:
+          player_out: YK Pathan
+          fielders:
+          - BA King
+          kind: caught
+    - 19.2:
+        non_striker: RS Bopara
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Udana
+    - 19.3:
+        non_striker: RS Bopara
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Udana
+    - 19.4:
+        non_striker: RS Bopara
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 19.5:
+        non_striker: I Udana
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Bopara
+    - 19.6:
+        non_striker: I Udana
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Bopara
+- 2nd innings:
+    team: Abu Dhabi Knight Riders
+    deliveries:
+    - 0.1:
+        non_striker: PR Stirling
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 0.2:
+        non_striker: PR Stirling
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 0.3:
+        non_striker: CA Ingram
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 0.4:
+        non_striker: PR Stirling
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 0.5:
+        non_striker: PR Stirling
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+        wicket:
+          player_out: CA Ingram
+          fielders:
+          - JE Root
+          kind: caught
+    - 1.1:
+        non_striker: BA King
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.2:
+        non_striker: BA King
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.3:
+        non_striker: BA King
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.4:
+        non_striker: BA King
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: BA King
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PR Stirling
+    - 1.6:
+        non_striker: BA King
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 2.1:
+        non_striker: BA King
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.2:
+        non_striker: BA King
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.3:
+        non_striker: BA King
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 2.4:
+        non_striker: PR Stirling
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 2.5:
+        non_striker: PR Stirling
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 2.6:
+        non_striker: BA King
+        bowler: I Udana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PR Stirling
+    - 3.1:
+        non_striker: BA King
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 3.2:
+        non_striker: BA King
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 3.3:
+        non_striker: PR Stirling
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 3.4:
+        non_striker: PR Stirling
+        bowler: Hazrat Luqman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA King
+    - 3.5:
+        non_striker: PR Stirling
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 3.6:
+        non_striker: BA King
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.7:
+        non_striker: BA King
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 4.1:
+        non_striker: PR Stirling
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA King
+    - 4.2:
+        non_striker: PR Stirling
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+        wicket:
+          player_out: BA King
+          fielders:
+          - RV Uthappa
+          kind: caught
+    - 4.3:
+        non_striker: PR Stirling
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zawar Farid
+    - 4.4:
+        non_striker: Zawar Farid
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 4.5:
+        non_striker: PR Stirling
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zawar Farid
+    - 4.6:
+        non_striker: Zawar Farid
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Stirling
+    - 5.1:
+        non_striker: PR Stirling
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zawar Farid
+    - 5.2:
+        non_striker: PR Stirling
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zawar Farid
+    - 5.3:
+        non_striker: PR Stirling
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zawar Farid
+    - 5.4:
+        non_striker: PR Stirling
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zawar Farid
+    - 5.5:
+        non_striker: PR Stirling
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zawar Farid
+    - 5.6:
+        non_striker: PR Stirling
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zawar Farid
+    - 6.1:
+        non_striker: Zawar Farid
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 6.2:
+        non_striker: PR Stirling
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zawar Farid
+    - 6.3:
+        non_striker: Zawar Farid
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PR Stirling
+    - 6.4:
+        non_striker: Zawar Farid
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 6.5:
+        non_striker: PR Stirling
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zawar Farid
+    - 6.6:
+        non_striker: Zawar Farid
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 7.1:
+        non_striker: Zawar Farid
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PR Stirling
+    - 7.2:
+        non_striker: Zawar Farid
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 7.3:
+        non_striker: Zawar Farid
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 7.4:
+        non_striker: Zawar Farid
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 7.5:
+        non_striker: Zawar Farid
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 7.6:
+        non_striker: PR Stirling
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Zawar Farid
+    - 8.1:
+        non_striker: PR Stirling
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zawar Farid
+    - 8.2:
+        non_striker: PR Stirling
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zawar Farid
+    - 8.3:
+        non_striker: Zawar Farid
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 8.4:
+        non_striker: PR Stirling
+        bowler: Sikandar Raza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zawar Farid
+    - 8.5:
+        non_striker: PR Stirling
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zawar Farid
+    - 8.6:
+        non_striker: PR Stirling
+        bowler: Sikandar Raza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Zawar Farid
+    - 8.7:
+        non_striker: Zawar Farid
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 9.1:
+        non_striker: Zawar Farid
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 9.2:
+        non_striker: PR Stirling
+        bowler: R Powell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Zawar Farid
+    - 9.3:
+        non_striker: Zawar Farid
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 9.4:
+        non_striker: Zawar Farid
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 9.5:
+        non_striker: PR Stirling
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zawar Farid
+    - 9.6:
+        non_striker: PR Stirling
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zawar Farid
+        wicket:
+          player_out: Zawar Farid
+          fielders:
+          - Mujeeb Ur Rahman
+          kind: caught
+    - 10.1:
+        non_striker: SP Narine
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 10.2:
+        non_striker: SP Narine
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 10.3:
+        non_striker: PR Stirling
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Narine
+    - 10.4:
+        non_striker: SP Narine
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 10.5:
+        non_striker: SP Narine
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 10.6:
+        non_striker: PR Stirling
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 11.1:
+        non_striker: SP Narine
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 11.2:
+        non_striker: SP Narine
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 11.3:
+        non_striker: PR Stirling
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SP Narine
+    - 11.4:
+        non_striker: PR Stirling
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Narine
+    - 11.5:
+        non_striker: SP Narine
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - JE Root
+          kind: caught
+    - 11.6:
+        non_striker: SP Narine
+        bowler: R Powell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 12.1:
+        non_striker: SP Narine
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 12.2:
+        non_striker: AD Russell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+    - 12.3:
+        non_striker: AD Russell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Narine
+        wicket:
+          player_out: SP Narine
+          fielders:
+          - JE Root
+          kind: caught
+    - 12.4:
+        non_striker: AD Russell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Esterhuizen
+    - 12.5:
+        non_striker: C Esterhuizen
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 12.6:
+        non_striker: AD Russell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Esterhuizen
+    - 13.1:
+        non_striker: C Esterhuizen
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 13.2:
+        non_striker: AD Russell
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Esterhuizen
+    - 13.3:
+        non_striker: C Esterhuizen
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 13.4:
+        non_striker: C Esterhuizen
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 13.5:
+        non_striker: AD Russell
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Esterhuizen
+    - 13.6:
+        non_striker: C Esterhuizen
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 14.1:
+        non_striker: C Esterhuizen
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 14.2:
+        non_striker: C Esterhuizen
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 14.3:
+        non_striker: AD Russell
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Esterhuizen
+    - 14.4:
+        non_striker: C Esterhuizen
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 14.5:
+        non_striker: AD Russell
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Esterhuizen
+        wicket:
+          player_out: C Esterhuizen
+          fielders:
+          - YK Pathan
+          kind: caught
+    - 14.6:
+        non_striker: AD Russell
+        bowler: Akif Raja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hosein
+    - 15.1:
+        non_striker: AJ Hosein
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 15.2:
+        non_striker: AJ Hosein
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+        wicket:
+          player_out: AD Russell
+          fielders:
+          - JE Root
+          kind: caught
+    - 15.3:
+        non_striker: AJ Hosein
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahad Nawaz
+    - 15.4:
+        non_striker: Fahad Nawaz
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hosein
+    - 15.5:
+        non_striker: AJ Hosein
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahad Nawaz
+    - 15.6:
+        non_striker: AJ Hosein
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahad Nawaz
+    - 16.1:
+        non_striker: Fahad Nawaz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hosein
+        wicket:
+          player_out: AJ Hosein
+          fielders:
+          - RV Uthappa
+          kind: caught
+    - 16.2:
+        non_striker: Fahad Nawaz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rampaul
+    - 16.3:
+        non_striker: Fahad Nawaz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rampaul
+    - 16.4:
+        non_striker: R Rampaul
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahad Nawaz
+        wicket:
+          player_out: Fahad Nawaz
+          kind: bowled
+    - 16.5:
+        non_striker: R Rampaul
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Khan
+    - 16.6:
+        non_striker: R Rampaul
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Khan
+    - 17.1:
+        non_striker: Ali Khan
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rampaul
+    - 17.2:
+        non_striker: Ali Khan
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rampaul
+    - 17.3:
+        non_striker: Ali Khan
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rampaul
+    - 17.4:
+        non_striker: R Rampaul
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Khan
+    - 17.5:
+        non_striker: Ali Khan
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rampaul
+    - 17.6:
+        non_striker: Ali Khan
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rampaul
+    - 18.1:
+        non_striker: R Rampaul
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Khan
+    - 18.2:
+        non_striker: Ali Khan
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rampaul
+    - 18.3:
+        non_striker: R Rampaul
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Khan
+    - 18.4:
+        non_striker: R Rampaul
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Khan
+    - 18.5:
+        non_striker: Ali Khan
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rampaul
+    - 18.6:
+        non_striker: R Rampaul
+        bowler: Hazrat Luqman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Khan
+    - 19.1:
+        non_striker: R Rampaul
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Khan
+    - 19.2:
+        non_striker: R Rampaul
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Khan
+    - 19.3:
+        non_striker: R Rampaul
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Khan
+    - 19.4:
+        non_striker: Ali Khan
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rampaul
+    - 19.5:
+        non_striker: R Rampaul
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Khan
+    - 19.6:
+        non_striker: Ali Khan
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rampaul

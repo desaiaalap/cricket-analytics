@@ -1,0 +1,206 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Ireland,0.1,WTS Porterfield,MR Swart,0,{},{}
+1st innings,Ireland,0.2,WTS Porterfield,MR Swart,1,{},{}
+1st innings,Ireland,0.3,PR Stirling,MR Swart,1,{},{}
+1st innings,Ireland,0.4,WTS Porterfield,MR Swart,0,{},{}
+1st innings,Ireland,0.5,WTS Porterfield,MR Swart,0,{},{}
+1st innings,Ireland,0.6,WTS Porterfield,MR Swart,4,{},{}
+1st innings,Ireland,1.1,PR Stirling,T van der Gugten,0,{},{}
+1st innings,Ireland,1.2,PR Stirling,T van der Gugten,2,{},{}
+1st innings,Ireland,1.3,PR Stirling,T van der Gugten,0,{},{}
+1st innings,Ireland,1.4,PR Stirling,T van der Gugten,0,{},{}
+1st innings,Ireland,1.5,PR Stirling,T van der Gugten,4,{},{}
+1st innings,Ireland,1.6,PR Stirling,T van der Gugten,0,{},{}
+1st innings,Ireland,2.1,WTS Porterfield,Ahsan Malik,2,{},{}
+1st innings,Ireland,2.2,WTS Porterfield,Ahsan Malik,2,{},{}
+1st innings,Ireland,2.3,WTS Porterfield,Ahsan Malik,4,{},{}
+1st innings,Ireland,2.4,WTS Porterfield,Ahsan Malik,6,{},{}
+1st innings,Ireland,2.5,WTS Porterfield,Ahsan Malik,1,{},{}
+1st innings,Ireland,2.6,PR Stirling,Ahsan Malik,0,{},{}
+1st innings,Ireland,3.1,WTS Porterfield,T van der Gugten,1,{},{}
+1st innings,Ireland,3.2,PR Stirling,T van der Gugten,0,{},"{'fielders': ['PW Borren'], 'kind': 'caught', 'player_out': 'PR Stirling'}"
+1st innings,Ireland,3.3,WTS Porterfield,T van der Gugten,4,{},{}
+1st innings,Ireland,3.4,WTS Porterfield,T van der Gugten,0,{},{}
+1st innings,Ireland,3.5,WTS Porterfield,T van der Gugten,4,{},{}
+1st innings,Ireland,3.6,WTS Porterfield,T van der Gugten,0,{},{}
+1st innings,Ireland,4.1,EC Joyce,MR Swart,0,{},{}
+1st innings,Ireland,4.2,EC Joyce,MR Swart,0,{},{}
+1st innings,Ireland,4.3,EC Joyce,MR Swart,1,{},{}
+1st innings,Ireland,4.4,WTS Porterfield,MR Swart,6,{},{}
+1st innings,Ireland,4.5,WTS Porterfield,MR Swart,0,{},{}
+1st innings,Ireland,4.6,WTS Porterfield,MR Swart,0,{},{}
+1st innings,Ireland,5.1,EC Joyce,Mudassar Bukhari,0,{},{}
+1st innings,Ireland,5.2,EC Joyce,Mudassar Bukhari,0,{},{}
+1st innings,Ireland,5.3,EC Joyce,Mudassar Bukhari,1,{},{}
+1st innings,Ireland,5.4,WTS Porterfield,Mudassar Bukhari,4,{},{}
+1st innings,Ireland,5.5,WTS Porterfield,Mudassar Bukhari,0,{},{}
+1st innings,Ireland,5.6,WTS Porterfield,Mudassar Bukhari,0,{},{}
+1st innings,Ireland,6.1,EC Joyce,TLW Cooper,1,{},{}
+1st innings,Ireland,6.2,WTS Porterfield,TLW Cooper,0,{},{}
+1st innings,Ireland,6.3,WTS Porterfield,TLW Cooper,1,{},{}
+1st innings,Ireland,6.4,EC Joyce,TLW Cooper,1,{},{}
+1st innings,Ireland,6.5,WTS Porterfield,TLW Cooper,1,{},{}
+1st innings,Ireland,6.6,EC Joyce,TLW Cooper,4,{},{}
+1st innings,Ireland,7.1,WTS Porterfield,PW Borren,1,{},{}
+1st innings,Ireland,7.2,EC Joyce,PW Borren,1,{},{}
+1st innings,Ireland,7.3,WTS Porterfield,PW Borren,2,{},{}
+1st innings,Ireland,7.4,WTS Porterfield,PW Borren,1,{},{}
+1st innings,Ireland,7.5,EC Joyce,PW Borren,1,{'legbyes': 1},{}
+1st innings,Ireland,7.6,WTS Porterfield,PW Borren,1,{'wides': 1},{}
+1st innings,Ireland,7.7,WTS Porterfield,PW Borren,0,{},{}
+1st innings,Ireland,8.1,EC Joyce,PM Seelaar,2,{},{}
+1st innings,Ireland,8.2,EC Joyce,PM Seelaar,1,{},{}
+1st innings,Ireland,8.3,WTS Porterfield,PM Seelaar,1,{},{}
+1st innings,Ireland,8.4,EC Joyce,PM Seelaar,1,{},{}
+1st innings,Ireland,8.5,WTS Porterfield,PM Seelaar,0,{},{}
+1st innings,Ireland,8.6,WTS Porterfield,PM Seelaar,1,{},{}
+1st innings,Ireland,9.1,WTS Porterfield,Ahsan Malik,0,{},"{'kind': 'bowled', 'player_out': 'WTS Porterfield'}"
+1st innings,Ireland,9.2,AD Poynter,Ahsan Malik,1,{},{}
+1st innings,Ireland,9.3,EC Joyce,Ahsan Malik,0,{},{}
+1st innings,Ireland,9.4,EC Joyce,Ahsan Malik,1,{},{}
+1st innings,Ireland,9.5,AD Poynter,Ahsan Malik,0,{},{}
+1st innings,Ireland,9.6,AD Poynter,Ahsan Malik,0,{},{}
+1st innings,Ireland,10.1,EC Joyce,PM Seelaar,6,{},{}
+1st innings,Ireland,10.2,EC Joyce,PM Seelaar,1,{},{}
+1st innings,Ireland,10.3,AD Poynter,PM Seelaar,0,{},{}
+1st innings,Ireland,10.4,AD Poynter,PM Seelaar,1,{},{}
+1st innings,Ireland,10.5,EC Joyce,PM Seelaar,0,{},{}
+1st innings,Ireland,10.6,EC Joyce,PM Seelaar,1,{},{}
+1st innings,Ireland,11.1,EC Joyce,MR Swart,1,{},{}
+1st innings,Ireland,11.2,AD Poynter,MR Swart,0,{},{}
+1st innings,Ireland,11.3,AD Poynter,MR Swart,1,{},{}
+1st innings,Ireland,11.4,EC Joyce,MR Swart,1,{},{}
+1st innings,Ireland,11.5,AD Poynter,MR Swart,1,{},{}
+1st innings,Ireland,11.6,EC Joyce,MR Swart,1,{},{}
+1st innings,Ireland,12.1,EC Joyce,Mudassar Bukhari,2,{},{}
+1st innings,Ireland,12.2,EC Joyce,Mudassar Bukhari,1,{},{}
+1st innings,Ireland,12.3,AD Poynter,Mudassar Bukhari,0,{},"{'fielders': ['W Barresi'], 'kind': 'run out', 'player_out': 'EC Joyce'}"
+1st innings,Ireland,12.4,KJ O'Brien,Mudassar Bukhari,1,{},{}
+1st innings,Ireland,12.5,AD Poynter,Mudassar Bukhari,1,{'wides': 1},{}
+1st innings,Ireland,12.6,AD Poynter,Mudassar Bukhari,2,{},{}
+1st innings,Ireland,12.7,AD Poynter,Mudassar Bukhari,1,{},{}
+1st innings,Ireland,13.1,AD Poynter,PW Borren,6,{},{}
+1st innings,Ireland,13.2,AD Poynter,PW Borren,1,{},{}
+1st innings,Ireland,13.3,KJ O'Brien,PW Borren,4,{},{}
+1st innings,Ireland,13.4,KJ O'Brien,PW Borren,1,{},{}
+1st innings,Ireland,13.5,AD Poynter,PW Borren,0,{},{}
+1st innings,Ireland,13.6,AD Poynter,PW Borren,1,{},{}
+1st innings,Ireland,14.1,AD Poynter,Mudassar Bukhari,0,{},{}
+1st innings,Ireland,14.2,AD Poynter,Mudassar Bukhari,4,{},{}
+1st innings,Ireland,14.3,AD Poynter,Mudassar Bukhari,1,{},{}
+1st innings,Ireland,14.4,KJ O'Brien,Mudassar Bukhari,6,{},{}
+1st innings,Ireland,14.5,KJ O'Brien,Mudassar Bukhari,1,{},{}
+1st innings,Ireland,14.6,AD Poynter,Mudassar Bukhari,1,{},{}
+1st innings,Ireland,15.1,AD Poynter,MR Swart,1,{},{}
+1st innings,Ireland,15.2,KJ O'Brien,MR Swart,1,{},{}
+1st innings,Ireland,15.3,AD Poynter,MR Swart,6,{},{}
+1st innings,Ireland,15.4,AD Poynter,MR Swart,6,{},{}
+1st innings,Ireland,15.5,AD Poynter,MR Swart,6,{},{}
+1st innings,Ireland,15.6,AD Poynter,MR Swart,1,{},{}
+1st innings,Ireland,16.1,AD Poynter,T van der Gugten,4,{},{}
+1st innings,Ireland,16.2,AD Poynter,T van der Gugten,4,{},{}
+1st innings,Ireland,16.3,AD Poynter,T van der Gugten,1,{},{}
+1st innings,Ireland,16.4,KJ O'Brien,T van der Gugten,0,{},{}
+1st innings,Ireland,16.5,KJ O'Brien,T van der Gugten,2,{},{}
+1st innings,Ireland,16.6,KJ O'Brien,T van der Gugten,6,{},{}
+1st innings,Ireland,17.1,AD Poynter,Ahsan Malik,0,{},{}
+1st innings,Ireland,17.2,AD Poynter,Ahsan Malik,1,{},{}
+1st innings,Ireland,17.3,KJ O'Brien,Ahsan Malik,1,{},{}
+1st innings,Ireland,17.4,AD Poynter,Ahsan Malik,0,{},{}
+1st innings,Ireland,17.5,AD Poynter,Ahsan Malik,1,{},{}
+1st innings,Ireland,17.6,KJ O'Brien,Ahsan Malik,1,{},{}
+1st innings,Ireland,18.1,KJ O'Brien,LV van Beek,6,{},{}
+1st innings,Ireland,18.2,KJ O'Brien,LV van Beek,6,{},{}
+1st innings,Ireland,18.3,KJ O'Brien,LV van Beek,1,{},{}
+1st innings,Ireland,18.4,AD Poynter,LV van Beek,0,{},{}
+1st innings,Ireland,18.5,AD Poynter,LV van Beek,1,{},{}
+1st innings,Ireland,18.6,KJ O'Brien,LV van Beek,4,{},{}
+1st innings,Ireland,19.1,AD Poynter,Ahsan Malik,0,{},{}
+1st innings,Ireland,19.2,AD Poynter,Ahsan Malik,1,{'legbyes': 1},{}
+1st innings,Ireland,19.3,KJ O'Brien,Ahsan Malik,1,{},{}
+1st innings,Ireland,19.4,AD Poynter,Ahsan Malik,4,{'legbyes': 4},{}
+1st innings,Ireland,19.5,AD Poynter,Ahsan Malik,4,{},{}
+1st innings,Ireland,19.6,AD Poynter,Ahsan Malik,0,{},"{'fielders': ['LV van Beek'], 'kind': 'caught', 'player_out': 'AD Poynter'}"
+2nd innings,Netherlands,0.1,PW Borren,PR Stirling,4,{},{}
+2nd innings,Netherlands,0.2,PW Borren,PR Stirling,0,{},{}
+2nd innings,Netherlands,0.3,PW Borren,PR Stirling,1,{},{}
+2nd innings,Netherlands,0.4,SJ Myburgh,PR Stirling,1,{},{}
+2nd innings,Netherlands,0.5,PW Borren,PR Stirling,1,{},{}
+2nd innings,Netherlands,0.6,SJ Myburgh,PR Stirling,2,{},{}
+2nd innings,Netherlands,1.1,PW Borren,AR McBrine,6,{},{}
+2nd innings,Netherlands,1.2,PW Borren,AR McBrine,1,{'legbyes': 1},{}
+2nd innings,Netherlands,1.3,SJ Myburgh,AR McBrine,6,{},{}
+2nd innings,Netherlands,1.4,SJ Myburgh,AR McBrine,6,{},{}
+2nd innings,Netherlands,1.5,SJ Myburgh,AR McBrine,6,{},{}
+2nd innings,Netherlands,1.6,SJ Myburgh,AR McBrine,0,{},{}
+2nd innings,Netherlands,2.1,PW Borren,TJ Murtagh,0,{},{}
+2nd innings,Netherlands,2.2,PW Borren,TJ Murtagh,6,{},{}
+2nd innings,Netherlands,2.3,PW Borren,TJ Murtagh,1,{'legbyes': 1},{}
+2nd innings,Netherlands,2.4,SJ Myburgh,TJ Murtagh,4,{},{}
+2nd innings,Netherlands,2.5,SJ Myburgh,TJ Murtagh,0,{},{}
+2nd innings,Netherlands,2.6,SJ Myburgh,TJ Murtagh,1,{},{}
+2nd innings,Netherlands,3.1,SJ Myburgh,AR Cusack,6,{},{}
+2nd innings,Netherlands,3.2,SJ Myburgh,AR Cusack,6,{},{}
+2nd innings,Netherlands,3.3,SJ Myburgh,AR Cusack,6,{},{}
+2nd innings,Netherlands,3.4,SJ Myburgh,AR Cusack,0,{},{}
+2nd innings,Netherlands,3.5,SJ Myburgh,AR Cusack,0,{},{}
+2nd innings,Netherlands,3.6,SJ Myburgh,AR Cusack,4,{},{}
+2nd innings,Netherlands,4.1,PW Borren,TJ Murtagh,4,{},{}
+2nd innings,Netherlands,4.2,PW Borren,TJ Murtagh,1,{},{}
+2nd innings,Netherlands,4.3,SJ Myburgh,TJ Murtagh,0,{},{}
+2nd innings,Netherlands,4.4,SJ Myburgh,TJ Murtagh,4,{},{}
+2nd innings,Netherlands,4.5,SJ Myburgh,TJ Murtagh,4,{},{}
+2nd innings,Netherlands,4.6,SJ Myburgh,TJ Murtagh,1,{'legbyes': 1},{}
+2nd innings,Netherlands,5.1,SJ Myburgh,KJ O'Brien,0,{},{}
+2nd innings,Netherlands,5.2,SJ Myburgh,KJ O'Brien,1,{},{}
+2nd innings,Netherlands,5.3,PW Borren,KJ O'Brien,0,{},{}
+2nd innings,Netherlands,5.4,PW Borren,KJ O'Brien,4,{},{}
+2nd innings,Netherlands,5.5,PW Borren,KJ O'Brien,4,{},{}
+2nd innings,Netherlands,5.6,PW Borren,KJ O'Brien,0,{},"{'fielders': ['GH Dockrell'], 'kind': 'caught', 'player_out': 'PW Borren'}"
+2nd innings,Netherlands,6.1,W Barresi,GH Dockrell,1,{},{}
+2nd innings,Netherlands,6.2,SJ Myburgh,GH Dockrell,6,{},{}
+2nd innings,Netherlands,6.3,SJ Myburgh,GH Dockrell,0,{},"{'fielders': ['EC Joyce'], 'kind': 'caught', 'player_out': 'SJ Myburgh'}"
+2nd innings,Netherlands,6.4,W Barresi,GH Dockrell,0,{},{}
+2nd innings,Netherlands,6.5,W Barresi,GH Dockrell,1,{},{}
+2nd innings,Netherlands,6.6,LV van Beek,GH Dockrell,1,{},{}
+2nd innings,Netherlands,7.1,LV van Beek,KJ O'Brien,0,{},{}
+2nd innings,Netherlands,7.2,LV van Beek,KJ O'Brien,0,{},"{'fielders': ['WTS Porterfield'], 'kind': 'caught', 'player_out': 'LV van Beek'}"
+2nd innings,Netherlands,7.3,W Barresi,KJ O'Brien,1,{},{}
+2nd innings,Netherlands,7.4,TLW Cooper,KJ O'Brien,1,{},{}
+2nd innings,Netherlands,7.5,W Barresi,KJ O'Brien,4,{},{}
+2nd innings,Netherlands,7.6,W Barresi,KJ O'Brien,1,{},{}
+2nd innings,Netherlands,8.1,W Barresi,GH Dockrell,1,{},{}
+2nd innings,Netherlands,8.2,TLW Cooper,GH Dockrell,1,{},{}
+2nd innings,Netherlands,8.3,W Barresi,GH Dockrell,1,{},{}
+2nd innings,Netherlands,8.4,TLW Cooper,GH Dockrell,6,{},{}
+2nd innings,Netherlands,8.5,TLW Cooper,GH Dockrell,0,{},{}
+2nd innings,Netherlands,8.6,TLW Cooper,GH Dockrell,0,{},{}
+2nd innings,Netherlands,9.1,W Barresi,PR Stirling,6,{},{}
+2nd innings,Netherlands,9.2,W Barresi,PR Stirling,0,{},{}
+2nd innings,Netherlands,9.3,W Barresi,PR Stirling,1,{},{}
+2nd innings,Netherlands,9.4,TLW Cooper,PR Stirling,6,{},{}
+2nd innings,Netherlands,9.5,TLW Cooper,PR Stirling,2,{},{}
+2nd innings,Netherlands,9.6,TLW Cooper,PR Stirling,1,{'legbyes': 1},{}
+2nd innings,Netherlands,10.1,TLW Cooper,GH Dockrell,6,{},{}
+2nd innings,Netherlands,10.2,TLW Cooper,GH Dockrell,6,{},{}
+2nd innings,Netherlands,10.3,TLW Cooper,GH Dockrell,6,{},{}
+2nd innings,Netherlands,10.4,TLW Cooper,GH Dockrell,6,{},{}
+2nd innings,Netherlands,10.5,TLW Cooper,GH Dockrell,1,{},{}
+2nd innings,Netherlands,10.6,W Barresi,GH Dockrell,0,{},{}
+2nd innings,Netherlands,11.1,TLW Cooper,TJ Murtagh,4,{},{}
+2nd innings,Netherlands,11.2,TLW Cooper,TJ Murtagh,0,{},"{'fielders': [""KJ O'Brien""], 'kind': 'caught', 'player_out': 'TLW Cooper'}"
+2nd innings,Netherlands,11.3,W Barresi,TJ Murtagh,0,{},{}
+2nd innings,Netherlands,11.4,W Barresi,TJ Murtagh,1,{},{}
+2nd innings,Netherlands,11.5,BN Cooper,TJ Murtagh,0,{},{}
+2nd innings,Netherlands,11.6,BN Cooper,TJ Murtagh,2,{},{}
+2nd innings,Netherlands,12.1,W Barresi,KJ O'Brien,1,{},{}
+2nd innings,Netherlands,12.2,BN Cooper,KJ O'Brien,0,{},{}
+2nd innings,Netherlands,12.3,BN Cooper,KJ O'Brien,1,{},{}
+2nd innings,Netherlands,12.4,W Barresi,KJ O'Brien,4,{},{}
+2nd innings,Netherlands,12.5,W Barresi,KJ O'Brien,1,{},{}
+2nd innings,Netherlands,12.6,BN Cooper,KJ O'Brien,6,{},{}
+2nd innings,Netherlands,13.1,W Barresi,TJ Murtagh,0,{},{}
+2nd innings,Netherlands,13.2,W Barresi,TJ Murtagh,6,{},{}
+2nd innings,Netherlands,13.3,W Barresi,TJ Murtagh,0,{},{}
+2nd innings,Netherlands,13.4,W Barresi,TJ Murtagh,4,{},{}
+2nd innings,Netherlands,13.5,W Barresi,TJ Murtagh,6,{},{}

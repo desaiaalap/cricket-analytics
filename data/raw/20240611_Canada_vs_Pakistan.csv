@@ -1,0 +1,237 @@
+inning,batting_team,ball,batsman,bowler,runs,extras,wicket
+1st innings,Canada,0.1,A Johnson,Shaheen Shah Afridi,4,{},{}
+1st innings,Canada,0.2,A Johnson,Shaheen Shah Afridi,4,{},{}
+1st innings,Canada,0.3,A Johnson,Shaheen Shah Afridi,2,{},{}
+1st innings,Canada,0.4,A Johnson,Shaheen Shah Afridi,0,{},{}
+1st innings,Canada,0.5,A Johnson,Shaheen Shah Afridi,1,{'legbyes': 1},{}
+1st innings,Canada,0.6,NS Dhaliwal,Shaheen Shah Afridi,0,{},{}
+1st innings,Canada,1.1,A Johnson,Naseem Shah,1,{'wides': 1},{}
+1st innings,Canada,1.2,A Johnson,Naseem Shah,4,{},{}
+1st innings,Canada,1.3,A Johnson,Naseem Shah,0,{},{}
+1st innings,Canada,1.4,A Johnson,Naseem Shah,0,{},{}
+1st innings,Canada,1.5,A Johnson,Naseem Shah,0,{},{}
+1st innings,Canada,1.6,A Johnson,Naseem Shah,0,{},{}
+1st innings,Canada,1.7,A Johnson,Naseem Shah,0,{},{}
+1st innings,Canada,2.1,NS Dhaliwal,Mohammad Amir,4,{},{}
+1st innings,Canada,2.2,NS Dhaliwal,Mohammad Amir,0,{},{}
+1st innings,Canada,2.3,NS Dhaliwal,Mohammad Amir,0,{},{}
+1st innings,Canada,2.4,NS Dhaliwal,Mohammad Amir,0,{},{}
+1st innings,Canada,2.5,NS Dhaliwal,Mohammad Amir,0,{},{}
+1st innings,Canada,2.6,NS Dhaliwal,Mohammad Amir,0,{},"{'player_out': 'NS Dhaliwal', 'kind': 'bowled'}"
+1st innings,Canada,3.1,A Johnson,Naseem Shah,4,{},{}
+1st innings,Canada,3.2,A Johnson,Naseem Shah,2,{},{}
+1st innings,Canada,3.3,A Johnson,Naseem Shah,0,{},{}
+1st innings,Canada,3.4,A Johnson,Naseem Shah,1,{},{}
+1st innings,Canada,3.5,Pargat Singh,Naseem Shah,1,{},{}
+1st innings,Canada,3.6,A Johnson,Naseem Shah,0,{},{}
+1st innings,Canada,4.1,Pargat Singh,Mohammad Amir,0,{},{}
+1st innings,Canada,4.2,Pargat Singh,Mohammad Amir,0,{},{}
+1st innings,Canada,4.3,Pargat Singh,Mohammad Amir,0,{},{}
+1st innings,Canada,4.4,Pargat Singh,Mohammad Amir,1,{},{}
+1st innings,Canada,4.5,A Johnson,Mohammad Amir,0,{},{}
+1st innings,Canada,4.6,A Johnson,Mohammad Amir,0,{},{}
+1st innings,Canada,5.1,Pargat Singh,Shaheen Shah Afridi,0,{},"{'player_out': 'Pargat Singh', 'fielders': ['Fakhar Zaman'], 'kind': 'caught'}"
+1st innings,Canada,5.2,NR Kirton,Shaheen Shah Afridi,1,{'wides': 1},{}
+1st innings,Canada,5.3,NR Kirton,Shaheen Shah Afridi,0,{},{}
+1st innings,Canada,5.4,NR Kirton,Shaheen Shah Afridi,0,{},{}
+1st innings,Canada,5.5,NR Kirton,Shaheen Shah Afridi,0,{},{}
+1st innings,Canada,5.6,NR Kirton,Shaheen Shah Afridi,0,{},{}
+1st innings,Canada,5.7,NR Kirton,Shaheen Shah Afridi,0,{},{}
+1st innings,Canada,6.1,A Johnson,Haris Rauf,0,{},{}
+1st innings,Canada,6.2,A Johnson,Haris Rauf,6,{},{}
+1st innings,Canada,6.3,A Johnson,Haris Rauf,5,{'wides': 5},{}
+1st innings,Canada,6.4,A Johnson,Haris Rauf,1,{},{}
+1st innings,Canada,6.5,NR Kirton,Haris Rauf,1,{},{}
+1st innings,Canada,6.6,A Johnson,Haris Rauf,0,{},{}
+1st innings,Canada,6.7,A Johnson,Haris Rauf,0,{},"{'player_out': 'NR Kirton', 'fielders': ['Imad Wasim'], 'kind': 'run out'}"
+1st innings,Canada,7.1,S Movva,Shaheen Shah Afridi,0,{},{}
+1st innings,Canada,7.2,S Movva,Shaheen Shah Afridi,0,{},{}
+1st innings,Canada,7.3,S Movva,Shaheen Shah Afridi,0,{},{}
+1st innings,Canada,7.4,S Movva,Shaheen Shah Afridi,1,{},{}
+1st innings,Canada,7.5,A Johnson,Shaheen Shah Afridi,0,{},{}
+1st innings,Canada,7.6,A Johnson,Shaheen Shah Afridi,6,{},{}
+1st innings,Canada,8.1,S Movva,Imad Wasim,1,{},{}
+1st innings,Canada,8.2,A Johnson,Imad Wasim,0,{},{}
+1st innings,Canada,8.3,A Johnson,Imad Wasim,1,{},{}
+1st innings,Canada,8.4,S Movva,Imad Wasim,0,{},{}
+1st innings,Canada,8.5,S Movva,Imad Wasim,0,{},{}
+1st innings,Canada,8.6,S Movva,Imad Wasim,0,{},{}
+1st innings,Canada,9.1,A Johnson,Haris Rauf,0,{},{}
+1st innings,Canada,9.2,A Johnson,Haris Rauf,1,{},{}
+1st innings,Canada,9.3,S Movva,Haris Rauf,1,{'wides': 1},{}
+1st innings,Canada,9.4,S Movva,Haris Rauf,0,{},"{'player_out': 'S Movva', 'fielders': ['Mohammad Rizwan'], 'kind': 'caught'}"
+1st innings,Canada,9.5,Ravinderpal Singh,Haris Rauf,0,{},{}
+1st innings,Canada,9.6,Ravinderpal Singh,Haris Rauf,0,{},"{'player_out': 'Ravinderpal Singh', 'fielders': ['Fakhar Zaman'], 'kind': 'caught'}"
+1st innings,Canada,9.7,Saad Bin Zafar,Haris Rauf,1,{'legbyes': 1},{}
+1st innings,Canada,10.1,Saad Bin Zafar,Imad Wasim,0,{},{}
+1st innings,Canada,10.2,Saad Bin Zafar,Imad Wasim,1,{},{}
+1st innings,Canada,10.3,A Johnson,Imad Wasim,0,{},{}
+1st innings,Canada,10.4,A Johnson,Imad Wasim,6,{},{}
+1st innings,Canada,10.5,A Johnson,Imad Wasim,0,{},{}
+1st innings,Canada,10.6,A Johnson,Imad Wasim,1,{},{}
+1st innings,Canada,11.1,A Johnson,Haris Rauf,1,{},{}
+1st innings,Canada,11.2,Saad Bin Zafar,Haris Rauf,0,{},{}
+1st innings,Canada,11.3,Saad Bin Zafar,Haris Rauf,0,{},{}
+1st innings,Canada,11.4,Saad Bin Zafar,Haris Rauf,1,{},{}
+1st innings,Canada,11.5,A Johnson,Haris Rauf,1,{},{}
+1st innings,Canada,11.6,Saad Bin Zafar,Haris Rauf,0,{},{}
+1st innings,Canada,12.1,A Johnson,Imad Wasim,0,{},{}
+1st innings,Canada,12.2,A Johnson,Imad Wasim,0,{},{}
+1st innings,Canada,12.3,A Johnson,Imad Wasim,0,{},{}
+1st innings,Canada,12.4,A Johnson,Imad Wasim,6,{},{}
+1st innings,Canada,12.5,A Johnson,Imad Wasim,0,{},{}
+1st innings,Canada,12.6,A Johnson,Imad Wasim,1,{},{}
+1st innings,Canada,13.1,A Johnson,Naseem Shah,0,{},{}
+1st innings,Canada,13.2,A Johnson,Naseem Shah,0,{},{}
+1st innings,Canada,13.3,A Johnson,Naseem Shah,0,{},"{'player_out': 'A Johnson', 'kind': 'bowled'}"
+1st innings,Canada,13.4,Kaleem Sana,Naseem Shah,0,{},{}
+1st innings,Canada,13.5,Kaleem Sana,Naseem Shah,1,{},{}
+1st innings,Canada,13.6,Saad Bin Zafar,Naseem Shah,1,{},{}
+1st innings,Canada,14.1,Saad Bin Zafar,Imad Wasim,0,{},{}
+1st innings,Canada,14.2,Saad Bin Zafar,Imad Wasim,1,{'wides': 1},{}
+1st innings,Canada,14.3,Saad Bin Zafar,Imad Wasim,0,{},{}
+1st innings,Canada,14.4,Saad Bin Zafar,Imad Wasim,0,{},{}
+1st innings,Canada,14.5,Saad Bin Zafar,Imad Wasim,1,{},{}
+1st innings,Canada,14.6,Kaleem Sana,Imad Wasim,0,{},{}
+1st innings,Canada,14.7,Kaleem Sana,Imad Wasim,0,{},{}
+1st innings,Canada,15.1,Saad Bin Zafar,Haris Rauf,0,{},{}
+1st innings,Canada,15.2,Saad Bin Zafar,Haris Rauf,4,{},{}
+1st innings,Canada,15.3,Saad Bin Zafar,Haris Rauf,0,{},{}
+1st innings,Canada,15.4,Saad Bin Zafar,Haris Rauf,0,{},{}
+1st innings,Canada,15.5,Saad Bin Zafar,Haris Rauf,1,{'wides': 1},{}
+1st innings,Canada,15.6,Saad Bin Zafar,Haris Rauf,1,{},{}
+1st innings,Canada,15.7,Kaleem Sana,Haris Rauf,2,{},{}
+1st innings,Canada,16.1,Saad Bin Zafar,Mohammad Amir,0,{},{}
+1st innings,Canada,16.2,Saad Bin Zafar,Mohammad Amir,1,{},{}
+1st innings,Canada,16.3,Kaleem Sana,Mohammad Amir,1,{},{}
+1st innings,Canada,16.4,Saad Bin Zafar,Mohammad Amir,0,{},{}
+1st innings,Canada,16.5,Saad Bin Zafar,Mohammad Amir,0,{},"{'player_out': 'Saad Bin Zafar', 'fielders': ['Mohammad Rizwan'], 'kind': 'caught'}"
+1st innings,Canada,16.6,D Heyliger,Mohammad Amir,1,{},{}
+1st innings,Canada,17.1,D Heyliger,Shaheen Shah Afridi,1,{},{}
+1st innings,Canada,17.2,Kaleem Sana,Shaheen Shah Afridi,0,{},{}
+1st innings,Canada,17.3,Kaleem Sana,Shaheen Shah Afridi,0,{},{}
+1st innings,Canada,17.4,Kaleem Sana,Shaheen Shah Afridi,0,{},{}
+1st innings,Canada,17.5,Kaleem Sana,Shaheen Shah Afridi,1,{},{}
+1st innings,Canada,17.6,D Heyliger,Shaheen Shah Afridi,1,{},{}
+1st innings,Canada,18.1,D Heyliger,Mohammad Amir,0,{},{}
+1st innings,Canada,18.2,D Heyliger,Mohammad Amir,4,{},{}
+1st innings,Canada,18.3,D Heyliger,Mohammad Amir,0,{},{}
+1st innings,Canada,18.4,D Heyliger,Mohammad Amir,0,{},{}
+1st innings,Canada,18.5,D Heyliger,Mohammad Amir,1,{},{}
+1st innings,Canada,18.6,Kaleem Sana,Mohammad Amir,0,{},{}
+1st innings,Canada,19.1,D Heyliger,Naseem Shah,0,{},{}
+1st innings,Canada,19.2,D Heyliger,Naseem Shah,1,{'byes': 1},{}
+1st innings,Canada,19.3,Kaleem Sana,Naseem Shah,6,{},{}
+1st innings,Canada,19.4,Kaleem Sana,Naseem Shah,1,{},{}
+1st innings,Canada,19.5,D Heyliger,Naseem Shah,1,{},{}
+1st innings,Canada,19.6,Kaleem Sana,Naseem Shah,1,{},{}
+2nd innings,Pakistan,0.1,Mohammad Rizwan,Kaleem Sana,1,{},{}
+2nd innings,Pakistan,0.2,Saim Ayub,Kaleem Sana,0,{},{}
+2nd innings,Pakistan,0.3,Saim Ayub,Kaleem Sana,5,{'wides': 5},{}
+2nd innings,Pakistan,0.4,Saim Ayub,Kaleem Sana,0,{},{}
+2nd innings,Pakistan,0.5,Saim Ayub,Kaleem Sana,0,{},{}
+2nd innings,Pakistan,0.6,Saim Ayub,Kaleem Sana,2,{},{}
+2nd innings,Pakistan,0.7,Saim Ayub,Kaleem Sana,0,{},{}
+2nd innings,Pakistan,1.1,Mohammad Rizwan,JOA Gordon,0,{},{}
+2nd innings,Pakistan,1.2,Mohammad Rizwan,JOA Gordon,0,{},{}
+2nd innings,Pakistan,1.3,Mohammad Rizwan,JOA Gordon,0,{},{}
+2nd innings,Pakistan,1.4,Mohammad Rizwan,JOA Gordon,0,{},{}
+2nd innings,Pakistan,1.5,Mohammad Rizwan,JOA Gordon,0,{},{}
+2nd innings,Pakistan,1.6,Mohammad Rizwan,JOA Gordon,1,{},{}
+2nd innings,Pakistan,2.1,Mohammad Rizwan,Kaleem Sana,1,{},{}
+2nd innings,Pakistan,2.2,Saim Ayub,Kaleem Sana,0,{},{}
+2nd innings,Pakistan,2.3,Saim Ayub,Kaleem Sana,1,{},{}
+2nd innings,Pakistan,2.4,Mohammad Rizwan,Kaleem Sana,1,{},{}
+2nd innings,Pakistan,2.5,Saim Ayub,Kaleem Sana,0,{},{}
+2nd innings,Pakistan,2.6,Saim Ayub,Kaleem Sana,2,{},{}
+2nd innings,Pakistan,3.1,Mohammad Rizwan,JOA Gordon,2,{},{}
+2nd innings,Pakistan,3.2,Mohammad Rizwan,JOA Gordon,0,{},{}
+2nd innings,Pakistan,3.3,Mohammad Rizwan,JOA Gordon,1,{},{}
+2nd innings,Pakistan,3.4,Saim Ayub,JOA Gordon,0,{},{}
+2nd innings,Pakistan,3.5,Saim Ayub,JOA Gordon,1,{},{}
+2nd innings,Pakistan,3.6,Mohammad Rizwan,JOA Gordon,1,{},{}
+2nd innings,Pakistan,4.1,Mohammad Rizwan,D Heyliger,1,{},{}
+2nd innings,Pakistan,4.2,Saim Ayub,D Heyliger,0,{},"{'player_out': 'Saim Ayub', 'fielders': ['S Movva'], 'kind': 'caught'}"
+2nd innings,Pakistan,4.3,Babar Azam,D Heyliger,1,{'wides': 1},{}
+2nd innings,Pakistan,4.4,Babar Azam,D Heyliger,0,{},{}
+2nd innings,Pakistan,4.5,Babar Azam,D Heyliger,0,{},{}
+2nd innings,Pakistan,4.6,Babar Azam,D Heyliger,0,{},{}
+2nd innings,Pakistan,4.7,Babar Azam,D Heyliger,0,{},{}
+2nd innings,Pakistan,5.1,Mohammad Rizwan,JOA Gordon,0,{},{}
+2nd innings,Pakistan,5.2,Mohammad Rizwan,JOA Gordon,4,{},{}
+2nd innings,Pakistan,5.3,Mohammad Rizwan,JOA Gordon,2,{},{}
+2nd innings,Pakistan,5.4,Mohammad Rizwan,JOA Gordon,0,{},{}
+2nd innings,Pakistan,5.5,Mohammad Rizwan,JOA Gordon,0,{},{}
+2nd innings,Pakistan,5.6,Mohammad Rizwan,JOA Gordon,1,{},{}
+2nd innings,Pakistan,6.1,Mohammad Rizwan,Saad Bin Zafar,1,{'wides': 1},{}
+2nd innings,Pakistan,6.2,Mohammad Rizwan,Saad Bin Zafar,0,{},{}
+2nd innings,Pakistan,6.3,Mohammad Rizwan,Saad Bin Zafar,1,{},{}
+2nd innings,Pakistan,6.4,Babar Azam,Saad Bin Zafar,1,{},{}
+2nd innings,Pakistan,6.5,Mohammad Rizwan,Saad Bin Zafar,1,{},{}
+2nd innings,Pakistan,6.6,Babar Azam,Saad Bin Zafar,2,{},{}
+2nd innings,Pakistan,6.7,Babar Azam,Saad Bin Zafar,1,{},{}
+2nd innings,Pakistan,7.1,Babar Azam,Junaid Siddiqui,1,{},{}
+2nd innings,Pakistan,7.2,Mohammad Rizwan,Junaid Siddiqui,1,{},{}
+2nd innings,Pakistan,7.3,Babar Azam,Junaid Siddiqui,1,{},{}
+2nd innings,Pakistan,7.4,Mohammad Rizwan,Junaid Siddiqui,1,{},{}
+2nd innings,Pakistan,7.5,Babar Azam,Junaid Siddiqui,1,{'wides': 1},{}
+2nd innings,Pakistan,7.6,Babar Azam,Junaid Siddiqui,1,{},{}
+2nd innings,Pakistan,7.7,Mohammad Rizwan,Junaid Siddiqui,0,{},{}
+2nd innings,Pakistan,8.1,Babar Azam,Saad Bin Zafar,1,{},{}
+2nd innings,Pakistan,8.2,Mohammad Rizwan,Saad Bin Zafar,0,{},{}
+2nd innings,Pakistan,8.3,Mohammad Rizwan,Saad Bin Zafar,1,{},{}
+2nd innings,Pakistan,8.4,Babar Azam,Saad Bin Zafar,1,{},{}
+2nd innings,Pakistan,8.5,Mohammad Rizwan,Saad Bin Zafar,0,{},{}
+2nd innings,Pakistan,8.6,Mohammad Rizwan,Saad Bin Zafar,4,{},{}
+2nd innings,Pakistan,9.1,Babar Azam,Junaid Siddiqui,6,{},{}
+2nd innings,Pakistan,9.2,Babar Azam,Junaid Siddiqui,0,{},{}
+2nd innings,Pakistan,9.3,Babar Azam,Junaid Siddiqui,1,{},{}
+2nd innings,Pakistan,9.4,Mohammad Rizwan,Junaid Siddiqui,2,{},{}
+2nd innings,Pakistan,9.5,Mohammad Rizwan,Junaid Siddiqui,1,{},{}
+2nd innings,Pakistan,9.6,Babar Azam,Junaid Siddiqui,1,{},{}
+2nd innings,Pakistan,10.1,Babar Azam,D Heyliger,0,{},{}
+2nd innings,Pakistan,10.2,Babar Azam,D Heyliger,1,{},{}
+2nd innings,Pakistan,10.3,Mohammad Rizwan,D Heyliger,1,{},{}
+2nd innings,Pakistan,10.4,Babar Azam,D Heyliger,1,{},{}
+2nd innings,Pakistan,10.5,Mohammad Rizwan,D Heyliger,1,{},{}
+2nd innings,Pakistan,10.6,Babar Azam,D Heyliger,1,{},{}
+2nd innings,Pakistan,11.1,Babar Azam,Saad Bin Zafar,1,{},{}
+2nd innings,Pakistan,11.2,Mohammad Rizwan,Saad Bin Zafar,0,{},{}
+2nd innings,Pakistan,11.3,Mohammad Rizwan,Saad Bin Zafar,0,{},{}
+2nd innings,Pakistan,11.4,Mohammad Rizwan,Saad Bin Zafar,1,{},{}
+2nd innings,Pakistan,11.5,Babar Azam,Saad Bin Zafar,1,{},{}
+2nd innings,Pakistan,11.6,Mohammad Rizwan,Saad Bin Zafar,1,{},{}
+2nd innings,Pakistan,12.1,Mohammad Rizwan,Kaleem Sana,1,{},{}
+2nd innings,Pakistan,12.2,Babar Azam,Kaleem Sana,0,{},{}
+2nd innings,Pakistan,12.3,Babar Azam,Kaleem Sana,2,{},{}
+2nd innings,Pakistan,12.4,Babar Azam,Kaleem Sana,0,{},{}
+2nd innings,Pakistan,12.5,Babar Azam,Kaleem Sana,4,{},{}
+2nd innings,Pakistan,12.6,Babar Azam,Kaleem Sana,1,{},{}
+2nd innings,Pakistan,13.1,Babar Azam,Saad Bin Zafar,1,{},{}
+2nd innings,Pakistan,13.2,Mohammad Rizwan,Saad Bin Zafar,0,{},{}
+2nd innings,Pakistan,13.3,Mohammad Rizwan,Saad Bin Zafar,1,{},{}
+2nd innings,Pakistan,13.4,Babar Azam,Saad Bin Zafar,1,{},{}
+2nd innings,Pakistan,13.5,Mohammad Rizwan,Saad Bin Zafar,2,{},{}
+2nd innings,Pakistan,13.6,Mohammad Rizwan,Saad Bin Zafar,0,{},{}
+2nd innings,Pakistan,14.1,Babar Azam,D Heyliger,0,{},{}
+2nd innings,Pakistan,14.2,Babar Azam,D Heyliger,2,{},{}
+2nd innings,Pakistan,14.3,Babar Azam,D Heyliger,0,{},{}
+2nd innings,Pakistan,14.4,Babar Azam,D Heyliger,0,{},"{'player_out': 'Babar Azam', 'fielders': ['S Movva'], 'kind': 'caught'}"
+2nd innings,Pakistan,14.5,Fakhar Zaman,D Heyliger,1,{},{}
+2nd innings,Pakistan,14.6,Mohammad Rizwan,D Heyliger,1,{},{}
+2nd innings,Pakistan,15.1,Mohammad Rizwan,Junaid Siddiqui,6,{},{}
+2nd innings,Pakistan,15.2,Mohammad Rizwan,Junaid Siddiqui,2,{},{}
+2nd innings,Pakistan,15.3,Mohammad Rizwan,Junaid Siddiqui,0,{},{}
+2nd innings,Pakistan,15.4,Mohammad Rizwan,Junaid Siddiqui,1,{},{}
+2nd innings,Pakistan,15.5,Fakhar Zaman,Junaid Siddiqui,1,{},{}
+2nd innings,Pakistan,15.6,Mohammad Rizwan,Junaid Siddiqui,1,{},{}
+2nd innings,Pakistan,16.1,Mohammad Rizwan,D Heyliger,1,{},{}
+2nd innings,Pakistan,16.2,Fakhar Zaman,D Heyliger,0,{},{}
+2nd innings,Pakistan,16.3,Fakhar Zaman,D Heyliger,1,{},{}
+2nd innings,Pakistan,16.4,Mohammad Rizwan,D Heyliger,1,{},{}
+2nd innings,Pakistan,16.5,Fakhar Zaman,D Heyliger,1,{},{}
+2nd innings,Pakistan,16.6,Mohammad Rizwan,D Heyliger,3,{},{}
+2nd innings,Pakistan,17.1,Mohammad Rizwan,JOA Gordon,1,{},{}
+2nd innings,Pakistan,17.2,Fakhar Zaman,JOA Gordon,0,{},"{'player_out': 'Fakhar Zaman', 'fielders': ['DS Bajwa (sub)'], 'kind': 'caught'}"
+2nd innings,Pakistan,17.3,Usman Khan,JOA Gordon,1,{'wides': 1},{}
+2nd innings,Pakistan,17.4,Usman Khan,JOA Gordon,2,{},{}
