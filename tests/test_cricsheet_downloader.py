@@ -4,13 +4,13 @@ Unit tests for Cricsheet Downloader
 Tests the automated data download functionality from Cricsheet.org
 """
 
-import unittest
-from unittest.mock import Mock, patch, MagicMock
-import sys
 import os
-from pathlib import Path
-import tempfile
 import shutil
+import sys
+import tempfile
+import unittest
+from pathlib import Path
+from unittest.mock import MagicMock, Mock, patch
 
 # Add scripts directory to path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))

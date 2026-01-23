@@ -4,11 +4,12 @@ Integration tests for data processing pipeline
 Tests the complete data processing workflow
 """
 
-import unittest
-import sys
 import os
-import pandas as pd
+import sys
+import unittest
 from pathlib import Path
+
+import pandas as pd
 
 # Add scripts directory to path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))

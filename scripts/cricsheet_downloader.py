@@ -11,13 +11,14 @@ Usage:
     downloader.download_tournament('icc_mens_t20_world_cup_male', 'data/external')
 """
 
-import requests
-import zipfile
-import os
-from pathlib import Path
-from typing import List, Dict, Optional
 import json
+import os
+import zipfile
+from pathlib import Path
+from typing import Dict, List, Optional
 from urllib.parse import urljoin
+
+import requests
 
 
 class CricsheetDownloader:

@@ -4,12 +4,13 @@ Pytest configuration and shared fixtures
 This file contains pytest fixtures that can be used across all test files.
 """
 
-import pytest
-import sys
 import os
-from pathlib import Path
-import tempfile
 import shutil
+import sys
+import tempfile
+from pathlib import Path
+
+import pytest
 
 # Add scripts directory to path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))
