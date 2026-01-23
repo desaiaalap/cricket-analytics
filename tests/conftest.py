@@ -12,7 +12,7 @@ import tempfile
 import shutil
 
 # Add scripts directory to path
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'scripts'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))
 
 
 @pytest.fixture
@@ -23,96 +23,70 @@ def sample_match_data():
     Returns a dictionary representing a minimal valid match structure
     """
     return {
-        'meta': {
-            'data_version': '1.0.0',
-            'created': '2024-01-01',
-            'revision': 1
-        },
-        'info': {
-            'venue': 'Melbourne Cricket Ground',
-            'city': 'Melbourne',
-            'dates': ['2024-01-15'],
-            'gender': 'male',
-            'match_type': 'T20',
-            'teams': ['Australia', 'India'],
-            'toss': {
-                'winner': 'Australia',
-                'decision': 'bat'
+        "meta": {"data_version": "1.0.0", "created": "2024-01-01", "revision": 1},
+        "info": {
+            "venue": "Melbourne Cricket Ground",
+            "city": "Melbourne",
+            "dates": ["2024-01-15"],
+            "gender": "male",
+            "match_type": "T20",
+            "teams": ["Australia", "India"],
+            "toss": {"winner": "Australia", "decision": "bat"},
+            "outcome": {"winner": "Australia", "by": {"runs": 25}},
+            "players": {
+                "Australia": ["Player A1", "Player A2", "Player A3"],
+                "India": ["Player I1", "Player I2", "Player I3"],
             },
-            'outcome': {
-                'winner': 'Australia',
-                'by': {'runs': 25}
-            },
-            'players': {
-                'Australia': ['Player A1', 'Player A2', 'Player A3'],
-                'India': ['Player I1', 'Player I2', 'Player I3']
-            }
         },
-        'innings': [
+        "innings": [
             {
-                'team': 'Australia',
-                'deliveries': [
+                "team": "Australia",
+                "deliveries": [
                     {
-                        '0.1': {
-                            'batsman': 'Player A1',
-                            'bowler': 'Player I1',
-                            'non_striker': 'Player A2',
-                            'runs': {
-                                'batsman': 4,
-                                'extras': 0,
-                                'total': 4
-                            }
+                        "0.1": {
+                            "batsman": "Player A1",
+                            "bowler": "Player I1",
+                            "non_striker": "Player A2",
+                            "runs": {"batsman": 4, "extras": 0, "total": 4},
                         }
                     },
                     {
-                        '0.2': {
-                            'batsman': 'Player A1',
-                            'bowler': 'Player I1',
-                            'non_striker': 'Player A2',
-                            'runs': {
-                                'batsman': 6,
-                                'extras': 0,
-                                'total': 6
-                            }
+                        "0.2": {
+                            "batsman": "Player A1",
+                            "bowler": "Player I1",
+                            "non_striker": "Player A2",
+                            "runs": {"batsman": 6, "extras": 0, "total": 6},
                         }
                     },
                     {
-                        '0.3': {
-                            'batsman': 'Player A1',
-                            'bowler': 'Player I1',
-                            'non_striker': 'Player A2',
-                            'runs': {
-                                'batsman': 0,
-                                'extras': 0,
-                                'total': 0
+                        "0.3": {
+                            "batsman": "Player A1",
+                            "bowler": "Player I1",
+                            "non_striker": "Player A2",
+                            "runs": {"batsman": 0, "extras": 0, "total": 0},
+                            "wicket": {
+                                "player_out": "Player A1",
+                                "kind": "caught",
+                                "fielders": ["Player I2"],
                             },
-                            'wicket': {
-                                'player_out': 'Player A1',
-                                'kind': 'caught',
-                                'fielders': ['Player I2']
-                            }
                         }
-                    }
-                ]
+                    },
+                ],
             },
             {
-                'team': 'India',
-                'deliveries': [
+                "team": "India",
+                "deliveries": [
                     {
-                        '0.1': {
-                            'batsman': 'Player I1',
-                            'bowler': 'Player A1',
-                            'non_striker': 'Player I2',
-                            'runs': {
-                                'batsman': 1,
-                                'extras': 0,
-                                'total': 1
-                            }
+                        "0.1": {
+                            "batsman": "Player I1",
+                            "bowler": "Player A1",
+                            "non_striker": "Player I2",
+                            "runs": {"batsman": 1, "extras": 0, "total": 1},
                         }
                     }
-                ]
-            }
-        ]
+                ],
+            },
+        ],
     }
 
 
@@ -136,19 +110,21 @@ def sample_deliveries_data():
     """
     import pandas as pd
 
-    return pd.DataFrame({
-        'innings': [1, 1, 1, 2],
-        'over': [0, 0, 0, 0],
-        'ball': [1, 2, 3, 1],
-        'batting_team': ['Australia', 'Australia', 'Australia', 'India'],
-        'batsman': ['Player A1', 'Player A1', 'Player A1', 'Player I1'],
-        'bowler': ['Player I1', 'Player I1', 'Player I1', 'Player A1'],
-        'non_striker': ['Player A2', 'Player A2', 'Player A2', 'Player I2'],
-        'runs_batsman': [4, 6, 0, 1],
-        'runs_extras': [0, 0, 0, 0],
-        'runs_total': [4, 6, 0, 1],
-        'dismissal': [None, None, 'caught', None]
-    })
+    return pd.DataFrame(
+        {
+            "innings": [1, 1, 1, 2],
+            "over": [0, 0, 0, 0],
+            "ball": [1, 2, 3, 1],
+            "batting_team": ["Australia", "Australia", "Australia", "India"],
+            "batsman": ["Player A1", "Player A1", "Player A1", "Player I1"],
+            "bowler": ["Player I1", "Player I1", "Player I1", "Player A1"],
+            "non_striker": ["Player A2", "Player A2", "Player A2", "Player I2"],
+            "runs_batsman": [4, 6, 0, 1],
+            "runs_extras": [0, 0, 0, 0],
+            "runs_total": [4, 6, 0, 1],
+            "dismissal": [None, None, "caught", None],
+        }
+    )
 
 
 @pytest.fixture
@@ -156,14 +132,15 @@ def mock_cricsheet_response():
     """
     Fixture providing a mock HTTP response for Cricsheet downloads
     """
+
     class MockResponse:
         def __init__(self):
             self.status_code = 200
-            self.headers = {'content-length': '1000'}
+            self.headers = {"content-length": "1000"}
 
         def iter_content(self, chunk_size=8192):
             # Return fake data in chunks
-            return [b'test data chunk 1', b'test data chunk 2']
+            return [b"test data chunk 1", b"test data chunk 2"]
 
         def raise_for_status(self):
             pass
@@ -178,7 +155,7 @@ def processed_data_path():
 
     Returns None if data doesn't exist
     """
-    path = Path('data/processed')
+    path = Path("data/processed")
     if path.exists():
         return path
     return None
@@ -189,27 +166,20 @@ def test_data_dir():
     """
     Session-scoped fixture for test data directory
     """
-    return Path(__file__).parent / 'test_data'
+    return Path(__file__).parent / "test_data"
 
 
 # Pytest hooks for custom test behavior
+
 
 def pytest_configure(config):
     """
     Custom pytest configuration
     """
-    config.addinivalue_line(
-        "markers", "unit: mark test as a unit test"
-    )
-    config.addinivalue_line(
-        "markers", "integration: mark test as an integration test"
-    )
-    config.addinivalue_line(
-        "markers", "slow: mark test as slow running"
-    )
-    config.addinivalue_line(
-        "markers", "network: mark test as requiring network access"
-    )
+    config.addinivalue_line("markers", "unit: mark test as a unit test")
+    config.addinivalue_line("markers", "integration: mark test as an integration test")
+    config.addinivalue_line("markers", "slow: mark test as slow running")
+    config.addinivalue_line("markers", "network: mark test as requiring network access")
 
 
 def pytest_collection_modifyitems(config, items):

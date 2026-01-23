@@ -33,30 +33,26 @@ class CricsheetDownloader:
     # Available tournaments and their download URLs
     TOURNAMENTS = {
         # T20 International
-        'icc_mens_t20_world_cup': 't20s_male_yaml.zip',
-        'icc_womens_t20_world_cup': 't20s_female_yaml.zip',
-        't20_internationals_male': 't20s_male_yaml.zip',
-        't20_internationals_female': 't20s_female_yaml.zip',
-
+        "icc_mens_t20_world_cup": "t20s_male_yaml.zip",
+        "icc_womens_t20_world_cup": "t20s_female_yaml.zip",
+        "t20_internationals_male": "t20s_male_yaml.zip",
+        "t20_internationals_female": "t20s_female_yaml.zip",
         # T20 Leagues
-        'ipl': 'ipl_male_yaml.zip',
-        'bbl': 'bbl_male_yaml.zip',
-        'cpl': 'cpl_male_yaml.zip',
-        'psl': 'psl_male_yaml.zip',
-        'blast': 'blast_male_yaml.zip',
-        'hundred': 'hundred_male_yaml.zip',
-        'super_smash': 'super_smash_male_yaml.zip',
-
+        "ipl": "ipl_male_yaml.zip",
+        "bbl": "bbl_male_yaml.zip",
+        "cpl": "cpl_male_yaml.zip",
+        "psl": "psl_male_yaml.zip",
+        "blast": "blast_male_yaml.zip",
+        "hundred": "hundred_male_yaml.zip",
+        "super_smash": "super_smash_male_yaml.zip",
         # ODI
-        'odi_male': 'odis_male_yaml.zip',
-        'odi_female': 'odis_female_yaml.zip',
-
+        "odi_male": "odis_male_yaml.zip",
+        "odi_female": "odis_female_yaml.zip",
         # Test
-        'test_male': 'tests_male_yaml.zip',
-        'test_female': 'tests_female_yaml.zip',
-
+        "test_male": "tests_male_yaml.zip",
+        "test_female": "tests_female_yaml.zip",
         # Other formats
-        'all_matches': 'all_yaml.zip',
+        "all_matches": "all_yaml.zip",
     }
 
     def __init__(self, base_url: Optional[str] = None):
@@ -91,7 +87,7 @@ class CricsheetDownloader:
             ValueError: If tournament not found
         """
         if tournament not in self.TOURNAMENTS:
-            available = ', '.join(self.TOURNAMENTS.keys())
+            available = ", ".join(self.TOURNAMENTS.keys())
             raise ValueError(f"Tournament '{tournament}' not found. Available: {available}")
 
         filename = self.TOURNAMENTS[tournament]
@@ -100,9 +96,9 @@ class CricsheetDownloader:
     def download_tournament(
         self,
         tournament: str,
-        output_dir: str = 'data/external',
+        output_dir: str = "data/external",
         extract: bool = True,
-        cleanup_zip: bool = True
+        cleanup_zip: bool = True,
     ) -> Path:
         """
         Download tournament data from Cricsheet
@@ -140,19 +136,22 @@ class CricsheetDownloader:
             response.raise_for_status()
 
             # Get file size
-            total_size = int(response.headers.get('content-length', 0))
+            total_size = int(response.headers.get("content-length", 0))
             block_size = 8192
             downloaded = 0
 
             # Download with progress
-            with open(zip_path, 'wb') as f:
+            with open(zip_path, "wb") as f:
                 for chunk in response.iter_content(chunk_size=block_size):
                     if chunk:
                         f.write(chunk)
                         downloaded += len(chunk)
                         if total_size > 0:
                             pct = (downloaded / total_size) * 100
-                            print(f"\r   Progress: {pct:.1f}% ({downloaded:,}/{total_size:,} bytes)", end='')
+                            print(
+                                f"\r   Progress: {pct:.1f}% ({downloaded:,}/{total_size:,} bytes)",
+                                end="",
+                            )
 
             print(f"\n✅ Download complete: {zip_path}")
 
@@ -162,15 +161,15 @@ class CricsheetDownloader:
 
         # Extract if requested
         if extract:
-            extract_dir = output_path / filename.replace('.zip', '')
+            extract_dir = output_path / filename.replace(".zip", "")
             print(f"\n📦 Extracting to {extract_dir}...")
 
             try:
-                with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+                with zipfile.ZipFile(zip_path, "r") as zip_ref:
                     zip_ref.extractall(extract_dir)
 
                 # Count extracted files
-                yaml_files = list(extract_dir.glob('**/*.yaml'))
+                yaml_files = list(extract_dir.glob("**/*.yaml"))
                 print(f"✅ Extracted {len(yaml_files)} YAML files")
 
                 # Cleanup ZIP if requested
@@ -187,10 +186,7 @@ class CricsheetDownloader:
         return zip_path
 
     def download_multiple_tournaments(
-        self,
-        tournaments: List[str],
-        output_dir: str = 'data/external',
-        **kwargs
+        self, tournaments: List[str], output_dir: str = "data/external", **kwargs
     ) -> Dict[str, Path]:
         """
         Download multiple tournaments
@@ -243,15 +239,15 @@ class CricsheetDownloader:
             raise ValueError(f"Tournament '{tournament}' not found")
 
         return {
-            'name': tournament,
-            'filename': self.TOURNAMENTS[tournament],
-            'url': self.get_download_url(tournament),
-            'format': 'YAML',
-            'compressed': True
+            "name": tournament,
+            "filename": self.TOURNAMENTS[tournament],
+            "url": self.get_download_url(tournament),
+            "format": "YAML",
+            "compressed": True,
         }
 
 
-def download_cricsheet_data(tournament: str, output_dir: str = 'data/external') -> Path:
+def download_cricsheet_data(tournament: str, output_dir: str = "data/external") -> Path:
     """
     Convenience function to download Cricsheet data
 
@@ -271,7 +267,7 @@ def download_cricsheet_data(tournament: str, output_dir: str = 'data/external') 
     return downloader.download_tournament(tournament, output_dir)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     # Example usage
     print("🏏 Cricsheet Data Downloader\n")
 
