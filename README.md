@@ -461,8 +461,6 @@ This project is for educational and analytical purposes. Data sourced from Crics
 
 **Aalap Desai**
 - Email: adesai@altsportsdata.com
-- Project: Cricket Analytics Platform
-- Status: Production Ready ✅
 
 ---
 
