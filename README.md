@@ -8,6 +8,36 @@
 [![Tests](https://img.shields.io/badge/Tests-37%2B%20Passing-brightgreen.svg)]()
 [![Coverage](https://img.shields.io/badge/Coverage-80%25%2B-green.svg)]()
 
+## ⚡ Super Quick Start
+
+**First time? Just run:**
+
+```bash
+python demo.py
+```
+
+**That's it!** Everything else is automatic. ✨
+
+👉 **[See START_HERE.md](START_HERE.md)** for what this does
+
+---
+
+## 🚀 Manual Setup (if you prefer)
+
+```bash
+# 1. Install dependencies
+pip install -r requirements.txt
+
+# 2. Download data
+python -c "from scripts.cricsheet_downloader import download_cricsheet_data; download_cricsheet_data('t20_internationals_male', 'data/external')"
+
+# 3. Process and view
+python scripts/process_all_matches.py
+jupyter notebook  # Open notebooks/02_batting_analysis.ipynb
+```
+
+👉 **[QUICKSTART.md](QUICKSTART.md)** for detailed steps
+
 ---
 
 ## 📊 Project Overview

@@ -1,0 +1,130 @@
+version: '3.8'
+
+services:
+  # End-to-End Pipeline Initializer
+  # This service runs once to download and process data
+  init:
+    build: .
+    container_name: cricket-analytics-init
+    volumes:
+      - ./data:/app/data
+    working_dir: /app/scripts
+    command: python init_pipeline.py
+    profiles: ["init"]  # Only run with --profile init
+
+  # Home Dashboard (Main Entry Point) - Runs E2E Pipeline
+  home:
+    build: .
+    container_name: cricket-analytics-home
+    ports:
+      - "8501:8501"  # Home dashboard
+    volumes:
+      - ./data:/app/data
+      - ./dashboard:/app/dashboard
+      - ./scripts:/app/scripts
+    environment:
+      - PYTHONUNBUFFERED=1
+    # Run init pipeline before starting home dashboard
+    command: >
+      sh -c "python scripts/init_pipeline.py &&
+             streamlit run dashboard/home.py --server.port=8501 --server.address=0.0.0.0"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 120s  # Increased to allow time for data download/processing
+
+  # Storytelling Dashboard
+  storytelling:
+    build: .
+    container_name: cricket-analytics-storytelling
+    ports:
+      - "8502:8501"  # Storytelling on port 8502
+    volumes:
+      - ./data:/app/data
+      - ./dashboard:/app/dashboard
+      - ./scripts:/app/scripts
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: streamlit run dashboard/storytelling_app.py --server.port=8501 --server.address=0.0.0.0
+    restart: unless-stopped
+    profiles: ["full"]  # Only start with --profile full
+
+  # Player Explorer Dashboard
+  player-explorer:
+    build: .
+    container_name: cricket-analytics-player-explorer
+    ports:
+      - "8503:8501"  # Player explorer on port 8503
+    volumes:
+      - ./data:/app/data
+      - ./dashboard:/app/dashboard
+      - ./scripts:/app/scripts
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: streamlit run dashboard/player_explorer.py --server.port=8501 --server.address=0.0.0.0
+    restart: unless-stopped
+    profiles: ["full"]  # Only start with --profile full
+
+  # Match Viewer Dashboard
+  match-viewer:
+    build: .
+    container_name: cricket-analytics-match-viewer
+    ports:
+      - "8504:8501"  # Match viewer on port 8504
+    volumes:
+      - ./data:/app/data
+      - ./dashboard:/app/dashboard
+      - ./scripts:/app/scripts
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: streamlit run dashboard/match_viewer.py --server.port=8501 --server.address=0.0.0.0
+    restart: unless-stopped
+    profiles: ["full"]  # Only start with --profile full
+
+  # Classic Dashboard (Original)
+  classic:
+    build: .
+    container_name: cricket-analytics-classic
+    ports:
+      - "8505:8501"  # Classic dashboard on port 8505
+    volumes:
+      - ./data:/app/data
+      - ./dashboard:/app/dashboard
+      - ./scripts:/app/scripts
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: streamlit run dashboard/app.py --server.port=8501 --server.address=0.0.0.0
+    restart: unless-stopped
+    profiles: ["full"]  # Only start with --profile full
+
+  # Jupyter Notebooks (optional)
+  jupyter:
+    build: .
+    container_name: cricket-analytics-jupyter
+    ports:
+      - "8888:8888"  # Jupyter
+    volumes:
+      - ./data:/app/data
+      - ./notebooks:/app/notebooks
+      - ./scripts:/app/scripts
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+    command: jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root --NotebookApp.token='' --NotebookApp.password=''
+    restart: unless-stopped
+    profiles: ["dev"]  # Only start with --profile dev
+
+  # Data Processor (manual one-time run)
+  processor:
+    build: .
+    container_name: cricket-analytics-processor
+    volumes:
+      - ./data:/app/data
+    command: python scripts/process_all_matches.py
+    profiles: ["process"]  # Only run with --profile process
+
+volumes:
+  data:
+    driver: local
