@@ -1,65 +1,139 @@
-# T20 World Cup Cricket Analytics
+# 🏏 Cricket Analytics - Interactive Data Platform
 
-> Comprehensive analysis of ICC Men's T20 World Cup tournaments (2014-2024) using cricpy-powered data processing
+> **Fully automated end-to-end cricket analytics platform** with interactive storytelling dashboards, advanced analytics, and production-ready deployment.
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Data Source](https://img.shields.io/badge/Data-Cricsheet-green.svg)](https://cricsheet.org/)
 [![Status](https://img.shields.io/badge/Status-Production--Ready-success.svg)]()
-[![Tests](https://img.shields.io/badge/Tests-37%2B%20Passing-brightgreen.svg)]()
-[![Coverage](https://img.shields.io/badge/Coverage-80%25%2B-green.svg)]()
-
-## ⚡ Super Quick Start
-
-**First time? Just run:**
-
-```bash
-python demo.py
-```
-
-**That's it!** Everything else is automatic. ✨
-
-👉 **[See START_HERE.md](START_HERE.md)** for what this does
+[![Tests](https://img.shields.io/badge/Tests-34%20Passing-brightgreen.svg)]()
+[![Dashboards](https://img.shields.io/badge/Dashboards-5%20Interactive-purple.svg)]()
+[![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)]()
 
 ---
 
-## 🚀 Manual Setup (if you prefer)
+## ⚡ Super Quick Start
+
+**Never used this before? One command gets you everything:**
+
+```bash
+docker-compose up --build
+```
+
+**What this does:**
+1. ✅ Automatically downloads T20 cricket data from Cricsheet.org
+2. ✅ Processes all matches (40,966+ ball-by-ball records)
+3. ✅ Launches interactive home dashboard on http://localhost:8501
+4. ✅ Ready in ~3-5 minutes (first run) or ~10 seconds (subsequent runs)
+
+**No configuration. No manual steps. Just works!** 🚀
+
+👉 **Having download issues?** See [DATA_SOURCES.md](DATA_SOURCES.md) for troubleshooting
+
+---
+
+## 🎯 What You Get
+
+### 📊 Five Interactive Dashboards
+
+| Dashboard | Purpose | Port |
+|-----------|---------|------|
+| 🏠 **Home** | Main gateway with quick stats and navigation | 8501 |
+| 📖 **Storytelling** | Magazine-style narratives about cricket | 8502 |
+| 🎮 **Player Explorer** | Deep dive into player stats and comparisons | 8503 |
+| 🎬 **Match Viewer** | Replay matches with momentum charts | 8504 |
+| 📊 **Classic** | Traditional comprehensive analytics | 8505 |
+
+**Launch all dashboards:**
+```bash
+docker-compose --profile full up --build
+```
+
+👉 **[Complete Dashboard Guide](DASHBOARD_GUIDE.md)**
+
+### 🔬 Advanced Analytics
+
+- ✅ Partnership analysis (biggest stands, run rates)
+- ✅ Match phase analysis (Powerplay, Middle, Death)
+- ✅ Player form tracking (match-by-match trends)
+- ✅ Match momentum calculation (over-by-over)
+- ✅ Head-to-head player comparisons
+- ✅ Automated key insights extraction
+
+### 🐳 Production-Ready Deployment
+
+- ✅ Multi-service Docker orchestration
+- ✅ Automated E2E pipeline (download → process → visualize)
+- ✅ Health checks and auto-restart
+- ✅ Cloud deployment ready (Heroku, GCP, AWS, Streamlit Cloud)
+- ✅ 34+ automated tests with CI/CD
+
+---
+
+## 📊 Project Statistics
+
+- **181+ T20 World Cup matches** analyzed
+- **40,966+ ball-by-ball records** processed
+- **525+ unique batsmen** with detailed stats
+- **372+ unique bowlers** with performance metrics
+- **5 interactive dashboards** for different use cases
+- **34+ automated tests** with GitHub Actions CI/CD
+
+---
+
+## 🚀 Usage Options
+
+### Option 1: Docker (Recommended - Zero Setup)
+
+```bash
+# Home dashboard only (with auto data download)
+docker-compose up --build
+
+# All 5 dashboards simultaneously
+docker-compose --profile full up --build
+
+# With Jupyter notebooks for development
+docker-compose --profile full --profile dev up --build
+```
+
+**Access:**
+- Home: http://localhost:8501
+- Storytelling: http://localhost:8502
+- Player Explorer: http://localhost:8503
+- Match Viewer: http://localhost:8504
+- Classic: http://localhost:8505
+- Jupyter: http://localhost:8888 (dev profile)
+
+### Option 2: Local Python Setup
 
 ```bash
 # 1. Install dependencies
 pip install -r requirements.txt
 
-# 2. Download data
-python -c "from scripts.cricsheet_downloader import download_cricsheet_data; download_cricsheet_data('t20_internationals_male', 'data/external')"
+# 2. Run E2E pipeline (downloads data automatically)
+python scripts/init_pipeline.py
 
-# 3. Process and view
-python scripts/process_all_matches.py
-jupyter notebook  # Open notebooks/02_batting_analysis.ipynb
+# 3. Launch any dashboard
+streamlit run dashboard/home.py
+streamlit run dashboard/storytelling_app.py
+streamlit run dashboard/player_explorer.py
+streamlit run dashboard/match_viewer.py
 ```
 
-👉 **[QUICKSTART.md](QUICKSTART.md)** for detailed steps
+### Option 3: Jupyter Notebooks
 
----
+```bash
+# Process data first
+python scripts/init_pipeline.py
 
-## 📊 Project Overview
+# Launch Jupyter
+jupyter notebook
 
-This project provides end-to-end analytics of T20 World Cup cricket, covering **181 matches** across **5 tournament editions** (2014, 2016, 2021, 2022, 2024). It includes delivery-level data processing, player performance analysis, match insights, and comprehensive visualizations.
-
-### Key Statistics
-- **40,966** ball-by-ball records
-- **525** unique batsmen analyzed
-- **372** unique bowlers analyzed
-- **49,225** total runs scored
-- **2,252** total wickets taken
-
----
-
-## 🎯 Project Goals
-
-1. **Data Processing**: Convert raw Cricsheet YAML files into structured, analysis-ready datasets
-2. **Player Analysis**: Identify top performers, patterns, and trends in batting and bowling
-3. **Match Insights**: Understand winning factors, toss impact, and team dynamics
-4. **Visualizations**: Create compelling charts and insights
-5. **Predictions**: Build models for match outcome prediction (future work)
+# Open notebooks in order:
+# 1. notebooks/01_data_exploration.ipynb
+# 2. notebooks/02_batting_analysis.ipynb
+# 3. notebooks/03_bowling_analysis.ipynb
+# 4. notebooks/04_match_insights.ipynb
+```
 
 ---
 
@@ -68,291 +142,365 @@ This project provides end-to-end analytics of T20 World Cup cricket, covering **
 ```
 cricket-analytics/
 ├── data/
-│   ├── external/                    # Raw YAML files from Cricsheet
-│   │   ├── icc_mens_t20_world_cup_male/  (181 matches)
-│   │   └── ilt20_male/                   (100 matches)
-│   └── processed/                   # ✨ Processed datasets
-│       ├── all_deliveries.csv       # 40,966 ball-by-ball records
-│       ├── match_summaries.csv      # 181 match metadata
-│       ├── player_batting_stats.csv # 525 batsmen aggregates
-│       └── player_bowling_stats.csv # 372 bowlers aggregates
+│   ├── external/              # Downloaded JSON/YAML files
+│   └── processed/             # Generated CSV datasets
+│       ├── all_deliveries.csv
+│       ├── match_summaries.csv
+│       ├── player_batting_stats.csv
+│       └── player_bowling_stats.csv
 │
 ├── scripts/
-│   ├── cricpy_loader.py             # Data loading utilities (cricpy functions)
-│   ├── cricsheet_downloader.py      # ✨ Automated data download from Cricsheet
-│   ├── download_example.py          # Download usage examples
-│   └── process_all_matches.py       # Batch processing pipeline
+│   ├── cricpy_loader.py              # Data loading utilities
+│   ├── cricsheet_downloader.py       # Automated download (updated 2026)
+│   ├── process_all_matches.py        # Batch processing
+│   ├── init_pipeline.py              # E2E pipeline orchestrator
+│   └── advanced_analytics.py         # Advanced analytics module
+│
+├── dashboard/
+│   ├── home.py                       # Home dashboard
+│   ├── storytelling_app.py           # Storytelling dashboard
+│   ├── player_explorer.py            # Player analysis
+│   ├── match_viewer.py               # Match replay
+│   └── app.py                        # Classic dashboard
 │
 ├── notebooks/
-│   ├── 01_data_exploration.ipynb    # Initial exploration
-│   ├── 02_batting_analysis.ipynb    # ⭐ Comprehensive batting analysis
-│   ├── 03_bowling_analysis.ipynb    # ⭐ Comprehensive bowling analysis
-│   └── 04_match_insights.ipynb      # ⭐ Match-level insights
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_batting_analysis.ipynb
+│   ├── 03_bowling_analysis.ipynb
+│   └── 04_match_insights.ipynb
 │
-├── docs/
-│   ├── DATA_PROCESSING_SUMMARY.md   # Processing results summary
-│   ├── PROJECT_SUMMARY.md           # Comprehensive overview
-│   └── CRICSHEET_DOWNLOADER_GUIDE.md # ✨ Download automation guide
+├── tests/
+│   ├── test_cricpy_loader.py
+│   ├── test_cricsheet_downloader.py
+│   └── test_data_processing.py
 │
-├── DATA_PROCESSING_SUMMARY.md       # Processing results summary
-├── INTEGRATION_PLAN.md              # Project integration notes
-├── .gitignore                       # ✨ Git ignore rules
-└── README.md                        # This file
+├── Dockerfile                        # Multi-stage Docker build
+├── docker-compose.yml                # Multi-service orchestration
+├── requirements.txt                  # Python dependencies
+└── pyproject.toml                    # Black/isort configuration
 ```
 
 ---
 
-## 🚀 Quick Start
+## 🎨 Dashboard Highlights
 
-### 1. Download Data (New Feature!)
+### 📖 Storytelling Dashboard
 
-**Option A: Automated Download (Recommended)**
-```python
-from scripts.cricsheet_downloader import download_cricsheet_data
+**Magazine-style narrative experience** with:
+- 5 chapters telling the story of T20 cricket
+- Beautiful gradient cards and serif typography
+- Narrative-driven visualizations
+- Perfect for presentations and non-technical audiences
 
-# Download T20 World Cup data automatically
-data_path = download_cricsheet_data('t20_internationals_male', 'data/external')
-```
+**Chapters:**
+1. By The Numbers - Statistical landscape
+2. The Legends - Top performers spotlight
+3. The Battle - Bat vs Ball analysis
+4. Partnerships - Biggest stands
+5. What Wins? - Match-winning factors
 
-**Option B: Manual Download**
-- Visit [Cricsheet.org](https://cricsheet.org/downloads/)
-- Download desired tournament ZIP file
-- Extract to `data/external/`
+### 🎮 Player Explorer
 
-👉 **[See full download guide](docs/CRICSHEET_DOWNLOADER_GUIDE.md)**
+**Deep player analysis** with:
+- Batsman scoring patterns and form trends
+- Bowler efficiency metrics and economy analysis
+- Interactive radar chart comparisons
+- Match-by-match performance tracking
 
-### 2. Data Processing
+### 🎬 Match Viewer
 
-Process all T20 World Cup matches into structured datasets:
-
-```bash
-python scripts/process_all_matches.py
-```
-
-**Output:**
-- Creates 4 CSV files in `data/processed/`
-- Processes 181 matches in <2 minutes
-- 100% success rate, zero data loss
-
-### 3. Analysis Notebooks
-
-Run the Jupyter notebooks to explore insights:
-
-```bash
-jupyter notebook
-```
-
-**Recommended Order:**
-1. `02_batting_analysis.ipynb` - Discover top run scorers, strike rates, boundary patterns
-2. `03_bowling_analysis.ipynb` - Analyze wicket takers, economy rates, dismissal types
-3. `04_match_insights.ipynb` - Understand toss impact, team performance, winning factors
+**Replay any match** with:
+- Momentum charts (runs + wickets progression)
+- Manhattan charts (runs per over)
+- Worm charts (run rate comparison)
+- Phase analysis (Powerplay/Middle/Death)
+- Key moments highlighting
 
 ---
 
 ## 🏆 Key Findings
 
-### Top Performers (All Tournaments Combined)
+### Top Performers (All Tournaments)
 
-#### 🏏 Batting Champions
-| Rank | Player | Runs | Average | Strike Rate | Matches |
-|------|--------|------|---------|-------------|---------|
-| 1 | Virat Kohli | 1,083 | 57.0 | 130.8 | 27 |
-| 2 | Jos Buttler | 949 | 45.2 | 151.8 | 27 |
-| 3 | Rohit Sharma | 753 | 27.9 | 131.6 | 28 |
-| 4 | Kane Williamson | 642 | 35.7 | 116.5 | 22 |
-| 5 | David Warner | 638 | - | 141.9 | - |
+#### 🏏 Leading Run Scorers
+| Player | Runs | Average | Strike Rate | Matches |
+|--------|------|---------|-------------|---------|
+| Virat Kohli | 1,083 | 57.0 | 130.8 | 27 |
+| Jos Buttler | 949 | 45.2 | 151.8 | 27 |
+| Rohit Sharma | 753 | 27.9 | 131.6 | 28 |
 
-#### ⚾ Bowling Champions
-| Rank | Player | Wickets | Economy | Average | Matches |
-|------|--------|---------|---------|---------|---------|
-| 1 | Shakib Al Hasan | 39 | 7.18 | 18.7 | 28 |
-| 2 | Anrich Nortje | 38 | 5.89 | 11.1 | 18 |
-| 3 | Wanindu Hasaranga | 35 | 6.17 | 12.1 | 18 |
-| 4 | Chris Jordan | 34 | 7.89 | 17.3 | 22 |
-| 5 | Adam Zampa | 32 | 6.45 | 14.3 | 19 |
+#### ⚾ Leading Wicket Takers
+| Player | Wickets | Economy | Average | Matches |
+|--------|---------|---------|---------|---------|
+| Shakib Al Hasan | 39 | 7.18 | 18.7 | 28 |
+| Anrich Nortje | 38 | 5.89 | 11.1 | 18 |
+| Wanindu Hasaranga | 35 | 6.17 | 12.1 | 18 |
 
 ### Match Insights
-
-- **Toss Impact**: Team winning toss wins match ~52% of the time
-- **Preferred Decision**: Teams choose to field first 62% of the time
-- **Most Common Dismissal**: Caught (45% of all wickets)
-- **Average Match Score**: ~160 runs per innings
-
----
-
-## 📈 Analysis Highlights
-
-### Batting Analysis
-- ✅ Strike rate vs average comparisons
-- ✅ Boundary hitting patterns (fours vs sixes)
-- ✅ Consistency metrics and player rankings
-- ✅ Tournament evolution analysis
-
-### Bowling Analysis
-- ✅ Economy rate vs wickets analysis
-- ✅ Wicket-taking efficiency metrics
-- ✅ Dismissal type distribution
-- ✅ Powerplay vs death bowling specialists
-
-### Match Insights
-- ✅ Toss impact on match outcomes
-- ✅ Team performance rankings
-- ✅ Venue analysis
-- ✅ Winning margin patterns
+- **Toss Impact:** 52% of toss winners win the match
+- **Preferred Decision:** Teams field first 62% of the time
+- **Average Score:** ~160 runs per innings
+- **Most Common Dismissal:** Caught (45% of wickets)
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies
 
-- **Python 3.10**: Core programming language
-- **pandas**: Data manipulation and analysis
-- **NumPy**: Numerical computations
-- **Matplotlib & Seaborn**: Data visualization
-- **Jupyter**: Interactive notebooks
-- **PyYAML**: YAML file parsing
-- **cricpy** (custom): Cricket data processing utilities
+**Core Stack:**
+- Python 3.10+
+- pandas, NumPy (data processing)
+- Streamlit (dashboards)
+- Plotly (interactive visualizations)
+- Docker (containerization)
 
----
+**Analytics:**
+- Custom cricket analytics module
+- Partnership tracking algorithms
+- Phase-wise analysis
+- Momentum calculation
 
-## 📊 Datasets Description
-
-### 1. all_deliveries.csv (2.7 MB)
-Ball-by-ball records with columns:
-- Match metadata: `match_id`, `inning`, `batting_team`
-- Delivery details: `ball`, `batsman`, `bowler`
-- Runs: `runs_total`, `runs_batter`, `runs_extras`
-- Events: `extras_type`, `dismissal`, `fielder`
-
-### 2. match_summaries.csv (37 KB)
-Match-level information:
-- Teams, venue, date, city
-- Toss details (winner, decision)
-- Match outcome (winner, margin)
-- Player of the match
-
-### 3. player_batting_stats.csv (20 KB)
-Aggregated batting statistics:
-- Runs, balls faced, dismissals
-- Average, strike rate
-- Boundaries (fours, sixes)
-- Number of matches played
-
-### 4. player_bowling_stats.csv (16 KB)
-Aggregated bowling statistics:
-- Wickets, balls bowled, runs conceded
-- Economy, average, strike rate
-- Overs bowled, matches played
+**DevOps:**
+- GitHub Actions (CI/CD)
+- pytest (testing)
+- Black, isort (code quality)
+- Multi-stage Docker builds
 
 ---
 
-## ✨ New Features (January 2026)
+## 📥 Data Sources
 
-### 📥 Automated Data Download
-No more manual downloads! Use the built-in Cricsheet downloader:
+**Primary:** [Cricsheet.org](https://cricsheet.org)
 
-```python
-from scripts.cricsheet_downloader import download_cricsheet_data
+### Automatic Download
 
-# Download any tournament with one line
-data_path = download_cricsheet_data('ipl', 'data/external')
+The project automatically downloads data when you run:
+```bash
+docker-compose up --build
 ```
 
-**Supported tournaments:**
-- IPL, BBL, CPL, PSL (T20 Leagues)
-- T20 World Cups (Men's & Women's)
-- ODIs, Tests, and more
+### Updated URLs (2026)
 
-👉 **[Full Download Guide](docs/CRICSHEET_DOWNLOADER_GUIDE.md)**
+Cricsheet migrated from YAML to JSON format:
 
-### 🧪 Comprehensive Testing & CI/CD
-Professional test suite with automated quality assurance:
+- **T20 Internationals (Men):** `t20s_male_json.zip`
+- **T20 Internationals (Women):** `t20s_female_json.zip`
+- **IPL:** `ipl_male_json.zip`
+- **ODI (Men):** `odis_male_json.zip`
+
+**Legacy YAML format still supported as fallback.**
+
+### Troubleshooting Downloads
+
+**If you see download errors (404, 403):**
+
+1. **Check internet connection**
+2. **See detailed guide:** [DATA_SOURCES.md](DATA_SOURCES.md)
+3. **Manual download option available**
+4. **Alternative data sources provided**
+
+👉 **[Complete Data Sources Guide](DATA_SOURCES.md)**
+
+---
+
+## 🧪 Testing & Quality
+
+### Run Tests
 
 ```bash
-# Run all tests
-make test
+# All tests
+pytest tests/ -v
 
-# Run with coverage
-make test-coverage
+# With coverage
+pytest tests/ --cov=scripts --cov-report=html
 
-# Pre-commit checks
-make pre-commit
+# Quick check
+pytest tests/ -v --tb=short
 ```
 
-**Features:**
-- 37+ unit and integration tests
-- Multi-OS testing (Linux, Windows, macOS)
-- Multi-Python testing (3.8-3.11)
-- GitHub Actions automation
-- Code quality checks (flake8, black, isort)
+### Code Quality
 
-👉 **[Full Testing Guide](docs/TESTING_GUIDE.md)**
+```bash
+# Format code
+python -m black scripts/ tests/ dashboard/ --line-length=100
 
-### 🔒 Git Integration
-Added comprehensive `.gitignore` to exclude:
-- Large CSV/YAML data files
-- Python cache files
-- Jupyter notebook checkpoints
-- System files
+# Check formatting
+python -m black --check scripts/ tests/ dashboard/ --line-length=100
+```
 
-Ready for GitHub push without bloat!
+### CI/CD
+
+GitHub Actions automatically runs:
+- ✅ Tests on Python 3.8, 3.9, 3.10, 3.11
+- ✅ Code formatting checks
+- ✅ Data processing validation
 
 ---
 
-## 💡 Future Enhancements
+## 🚢 Cloud Deployment
 
-### Phase 1: Advanced Analytics (In Progress)
-- [ ] Powerplay vs death overs analysis
-- [ ] Player form trends over time
-- [ ] Head-to-head player comparisons
-- [ ] Partnership analysis
+All dashboards are cloud-ready!
 
-### Phase 2: Predictive Modeling
-- [ ] Match outcome prediction model
+### Heroku
+```bash
+heroku create cricket-analytics
+heroku stack:set container
+git push heroku main
+heroku open
+```
+
+### Google Cloud Run
+```bash
+gcloud run deploy cricket-analytics \
+  --source . \
+  --platform managed \
+  --allow-unauthenticated
+```
+
+### Streamlit Cloud
+1. Push to GitHub
+2. Visit https://share.streamlit.io
+3. Connect repository
+4. Deploy!
+
+**E2E pipeline runs automatically on first deployment!**
+
+---
+
+## 📚 Documentation
+
+| File | Description |
+|------|-------------|
+| **[START_HERE.md](START_HERE.md)** | Quick start for beginners |
+| **[E2E_GUIDE.md](E2E_GUIDE.md)** | Complete E2E pipeline guide |
+| **[DASHBOARD_GUIDE.md](DASHBOARD_GUIDE.md)** | All 5 dashboards explained |
+| **[DATA_SOURCES.md](DATA_SOURCES.md)** | Data download troubleshooting |
+| **[DOCKER_GUIDE.md](DOCKER_GUIDE.md)** | Docker setup and usage |
+| **[PROJECT_COMPLETE.md](PROJECT_COMPLETE.md)** | Comprehensive project summary |
+
+---
+
+## 💡 Use Cases
+
+### For Analysts
+- Deep statistical analysis with Player Explorer
+- Match-by-match performance tracking
+- Head-to-head comparisons
+- Export data for custom analysis
+
+### For Presenters
+- Use Storytelling Dashboard for compelling narratives
+- Beautiful visualizations ready for slides
+- Export charts as images
+- Data-driven insights
+
+### For Cricket Fans
+- Replay matches with Match Viewer
+- See top performers
+- Understand match momentum
+- Explore historical data
+
+### For Developers
+- Study the E2E pipeline implementation
+- Learn Docker orchestration
+- Explore advanced analytics algorithms
+- Contribute new features
+
+---
+
+## 🎯 Project Achievements
+
+✅ **Fully Automated E2E Pipeline** - From data download to visualization
+✅ **5 Interactive Dashboards** - For different analytical needs
+✅ **Advanced Analytics Module** - Partnerships, phases, momentum
+✅ **Production-Ready** - Docker, testing, CI/CD, cloud deployment
+✅ **Beautiful Visualizations** - Storytelling-focused design
+✅ **Comprehensive Documentation** - Guides for every use case
+✅ **40,966+ Records Processed** - Complete T20 World Cup history
+✅ **Zero Configuration** - Works out of the box
+
+---
+
+## 🔮 Future Enhancements
+
+### Phase 1: More Analytics
+- [ ] Batting position analysis
+- [ ] Bowler type analysis (pace vs spin)
+- [ ] Venue impact analysis
+- [ ] Player consistency scoring
+
+### Phase 2: Machine Learning
+- [ ] Match outcome prediction
 - [ ] Player performance forecasting
 - [ ] Team strength ratings
 - [ ] Win probability calculator
 
-### Phase 3: Interactive Dashboard
-- [ ] Streamlit/Dash web application
-- [ ] Real-time statistics lookup
-- [ ] Interactive visualizations
-- [ ] Player comparison tool
+### Phase 3: Real-time Features
+- [ ] Live match tracking
+- [ ] Auto-refresh dashboards
+- [ ] Real-time notifications
+- [ ] API endpoints
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **[Cricsheet](https://cricsheet.org/)** - For providing comprehensive cricket data in YAML format
-- **ICC** - For organizing the T20 World Cup tournaments
-- **cricpy** - Custom Python package for cricket data processing (developed for this project)
+- **[Cricsheet.org](https://cricsheet.org/)** - For comprehensive cricket data
+- **ICC** - For organizing T20 World Cup tournaments
+- **Streamlit** - For the amazing dashboard framework
+- **Plotly** - For interactive visualizations
 
 ---
 
 ## 📝 License
 
-This project is for educational and analytical purposes. Data sourced from Cricsheet under their terms of use.
+This project is for educational and analytical purposes. Data sourced from Cricsheet.org under their [terms of use](https://cricsheet.org/about/).
 
 ---
 
 ## 👨‍💻 Author
 
 **Aalap Desai**
-- Email: aalapdesai0604@gmail.com
-- Project: T20 World Cup Analytics
+- Email: adesai@altsportsdata.com
+- Project: Cricket Analytics Platform
+- Status: Production Ready ✅
 
 ---
 
-## 📌 Project Status
+## 📌 Quick Reference
 
-**Current Status**: ✅ **Core Analysis Complete**
+### One-Line Commands
 
-- ✅ Data processing pipeline (100% complete)
-- ✅ Batting analysis notebook (Complete)
-- ✅ Bowling analysis notebook (Complete)
-- ✅ Match insights notebook (Complete)
-- 🔄 Advanced analytics (In progress)
-- 📅 Predictive modeling (Planned)
+```bash
+# Just start everything
+docker-compose up --build
+
+# All dashboards
+docker-compose --profile full up --build
+
+# Run tests
+pytest tests/ -v
+
+# Format code
+python -m black scripts/ dashboard/ --line-length=100
+
+# Process data manually
+python scripts/init_pipeline.py
+
+# Launch specific dashboard
+streamlit run dashboard/storytelling_app.py
+```
+
+### Ports Reference
+
+- **8501** - Home Dashboard
+- **8502** - Storytelling Dashboard
+- **8503** - Player Explorer
+- **8504** - Match Viewer
+- **8505** - Classic Dashboard
+- **8888** - Jupyter Notebooks (dev profile)
 
 ---
 
-**Last Updated**: January 2026
+**Last Updated:** January 2026 | **Status:** ✅ Production Ready | **Version:** 2.0
+
+**From manual downloads to automated storytelling - a complete transformation!** 🎉
