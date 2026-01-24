@@ -40,20 +40,16 @@ COPY --from=builder /usr/local/lib/python3.10/site-packages /usr/local/lib/pytho
 COPY --from=builder /usr/local/bin /usr/local/bin
 
 # Create necessary directories
-RUN mkdir -p data/external data/processed data/raw notebooks scripts tests
+RUN mkdir -p data/external data/processed data/raw notebooks scripts
 
-# Copy application code
+# Copy application code (only what's needed for production)
 COPY scripts/ ./scripts/
 COPY notebooks/ ./notebooks/
-COPY tests/ ./tests/
-COPY *.py ./
-COPY *.md ./
-COPY Makefile ./
-COPY pyproject.toml ./
-COPY pytest.ini ./
-
-# Copy dashboard
 COPY dashboard/ ./dashboard/
+
+# Copy configuration files (only essential ones)
+# Note: .dockerignore excludes tests/, .github/, and most .md files
+COPY requirements.txt ./
 
 # Set environment variables
 ENV PYTHONUNBUFFERED=1

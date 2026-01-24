@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   # End-to-End Pipeline Initializer
   # This service runs once to download and process data
@@ -10,6 +8,7 @@ services:
       - ./data:/app/data
     working_dir: /app/scripts
     command: python init_pipeline.py
+    restart: "no"  # Don't restart - manual one-time run
     profiles: ["init"]  # Only run with --profile init
 
   # Home Dashboard (Main Entry Point) - Runs E2E Pipeline
@@ -25,10 +24,11 @@ services:
     environment:
       - PYTHONUNBUFFERED=1
     # Run init pipeline before starting home dashboard
+    # Exit immediately on error to prevent restart loops
     command: >
-      sh -c "python scripts/init_pipeline.py &&
+      sh -c "python scripts/init_pipeline.py || exit 1;
              streamlit run dashboard/home.py --server.port=8501 --server.address=0.0.0.0"
-    restart: unless-stopped
+    restart: "no"  # Don't restart on failure - prevents infinite error loops
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
       interval: 30s
@@ -49,7 +49,7 @@ services:
     environment:
       - PYTHONUNBUFFERED=1
     command: streamlit run dashboard/storytelling_app.py --server.port=8501 --server.address=0.0.0.0
-    restart: unless-stopped
+    restart: "no"  # Don't auto-restart to prevent loops
     profiles: ["full"]  # Only start with --profile full
 
   # Player Explorer Dashboard
@@ -65,7 +65,7 @@ services:
     environment:
       - PYTHONUNBUFFERED=1
     command: streamlit run dashboard/player_explorer.py --server.port=8501 --server.address=0.0.0.0
-    restart: unless-stopped
+    restart: "no"  # Don't auto-restart to prevent loops
     profiles: ["full"]  # Only start with --profile full
 
   # Match Viewer Dashboard
@@ -81,7 +81,7 @@ services:
     environment:
       - PYTHONUNBUFFERED=1
     command: streamlit run dashboard/match_viewer.py --server.port=8501 --server.address=0.0.0.0
-    restart: unless-stopped
+    restart: "no"  # Don't auto-restart to prevent loops
     profiles: ["full"]  # Only start with --profile full
 
   # Classic Dashboard (Original)
@@ -97,7 +97,7 @@ services:
     environment:
       - PYTHONUNBUFFERED=1
     command: streamlit run dashboard/app.py --server.port=8501 --server.address=0.0.0.0
-    restart: unless-stopped
+    restart: "no"  # Don't auto-restart to prevent loops
     profiles: ["full"]  # Only start with --profile full
 
   # Jupyter Notebooks (optional)
@@ -113,7 +113,7 @@ services:
     environment:
       - JUPYTER_ENABLE_LAB=yes
     command: jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root --NotebookApp.token='' --NotebookApp.password=''
-    restart: unless-stopped
+    restart: "no"  # Don't auto-restart to prevent loops
     profiles: ["dev"]  # Only start with --profile dev
 
   # Data Processor (manual one-time run)
@@ -123,6 +123,7 @@ services:
     volumes:
       - ./data:/app/data
     command: python scripts/process_all_matches.py
+    restart: "no"  # Don't restart - manual one-time run
     profiles: ["process"]  # Only run with --profile process
 
 volumes:

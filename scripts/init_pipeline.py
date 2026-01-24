@@ -79,16 +79,22 @@ def process_data():
     print("   This will create player stats, match summaries, and ball-by-ball data.\n")
 
     try:
-        # Import and run the processing script
-        import process_all_matches
+        # Run the processing script using subprocess
+        import subprocess
+        import sys
 
-        success = process_all_matches.main()
-        if success:
+        result = subprocess.run(
+            [sys.executable, "scripts/process_all_matches.py"],
+            capture_output=False,
+            text=True,
+        )
+
+        if result.returncode == 0:
             print("\n✅ Data processing completed successfully")
             return True
         else:
             print("\n⚠️  Data processing completed with warnings")
-            return True
+            return False
     except Exception as e:
         print(f"\n❌ Processing failed: {e}")
         import traceback
@@ -108,8 +114,8 @@ def validate_outputs(data_dir: Path):
     required_files = {
         "player_batting_stats.csv": "Player batting statistics",
         "player_bowling_stats.csv": "Player bowling statistics",
-        "match_summary.csv": "Match summaries",
-        "ball_by_ball.csv": "Ball-by-ball data",
+        "match_summaries.csv": "Match summaries",
+        "all_deliveries.csv": "Ball-by-ball data",
     }
 
     print("\n📋 Checking output files...\n")

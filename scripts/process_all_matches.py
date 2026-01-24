@@ -194,7 +194,15 @@ print(f"Unique Batsmen: {deliveries_df['batsman'].nunique()}")
 print(f"Unique Bowlers: {deliveries_df['bowler'].nunique()}")
 print(f"Total Runs Scored: {deliveries_df['runs_total'].sum():,}")
 print(f"Total Wickets: {deliveries_df['dismissal'].notna().sum()}")
-print(f"\nDate Range: {summaries_df['match_date'].min()} to {summaries_df['match_date'].max()}")
+
+# Try to show date range, handle mixed types
+try:
+    # Convert to string to handle mixed date types
+    date_str = summaries_df["match_date"].astype(str)
+    print(f"\nDate Range: {date_str.min()} to {date_str.max()}")
+except Exception:
+    print(f"\nDate Range: Available in match_summaries.csv")
+
 print(f"Venues: {summaries_df['venue'].nunique()} unique venues")
 print(f"Teams: {len(set([t for teams in summaries_df['teams'] for t in teams]))} teams")
 
