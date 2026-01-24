@@ -135,8 +135,7 @@ def render_batsman_profile(player_name, batting, deliveries, analytics):
                 y=[
                     player_data["fours"] * 4,
                     player_data["sixes"] * 6,
-                    player_data["runs"]
-                    - (player_data["fours"] * 4 + player_data["sixes"] * 6),
+                    player_data["runs"] - (player_data["fours"] * 4 + player_data["sixes"] * 6),
                 ],
                 marker_color=["#22c55e", "#ef4444", "#3b82f6"],
             )
@@ -243,9 +242,7 @@ def render_batsman_profile(player_name, batting, deliveries, analytics):
         fig.update_yaxes(title_text="Runs", secondary_y=False)
         fig.update_yaxes(title_text="Strike Rate", secondary_y=True)
 
-        fig.update_layout(
-            title="Performance Across Matches", template="plotly_white", height=400
-        )
+        fig.update_layout(title="Performance Across Matches", template="plotly_white", height=400)
 
         st.plotly_chart(fig, use_container_width=True)
 

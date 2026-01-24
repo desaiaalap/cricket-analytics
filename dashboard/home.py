@@ -315,37 +315,31 @@ def render_features():
     col1, col2, col3 = st.columns(3)
 
     with col1:
-        st.markdown(
-            """
+        st.markdown("""
             ### 📊 Advanced Analytics
             - Phase-wise analysis (Powerplay, Middle, Death)
             - Partnership tracking
             - Player form trends
             - Match momentum calculation
-            """
-        )
+            """)
 
     with col2:
-        st.markdown(
-            """
+        st.markdown("""
             ### 📈 Interactive Visualizations
             - Plotly-powered charts
             - Real-time filtering
             - Multi-dimensional comparisons
             - Responsive design
-            """
-        )
+            """)
 
     with col3:
-        st.markdown(
-            """
+        st.markdown("""
             ### 🚀 Production Ready
             - Automated data pipeline
             - Docker containerization
             - 37+ automated tests
             - CI/CD with GitHub Actions
-            """
-        )
+            """)
 
 
 def main():
@@ -354,8 +348,7 @@ def main():
     batting, bowling, deliveries, matches = load_data()
 
     if batting is None:
-        st.error(
-            """
+        st.error("""
             ❌ **No data found!**
 
             Please run the E2E pipeline first:
@@ -367,8 +360,7 @@ def main():
             ```
             python scripts/init_pipeline.py
             ```
-            """
-        )
+            """)
         return
 
     # Render sections

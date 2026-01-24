@@ -53,9 +53,7 @@ class AdvancedAnalytics:
                                     "inning": inning,
                                     "runs": current_partnership["runs"],
                                     "balls": current_partnership["balls"],
-                                    "batsmen": ", ".join(
-                                        sorted(current_partnership["batsmen"])
-                                    ),
+                                    "batsmen": ", ".join(sorted(current_partnership["batsmen"])),
                                     "run_rate": (
                                         current_partnership["runs"]
                                         / current_partnership["balls"]
@@ -106,11 +104,7 @@ class AdvancedAnalytics:
                                     phase_balls["runs_total"].sum() / len(phase_balls) * 6
                                 ),
                                 "boundary_pct": (
-                                    len(
-                                        phase_balls[
-                                            phase_balls["runs_batter"].isin([4, 6])
-                                        ]
-                                    )
+                                    len(phase_balls[phase_balls["runs_batter"].isin([4, 6])])
                                     / len(phase_balls)
                                     * 100
                                 ),
@@ -238,12 +232,12 @@ class AdvancedAnalytics:
                         "over": over,
                         "runs": over_balls["runs_total"].sum(),
                         "wickets": over_balls["wicket_kind"].notna().sum(),
-                        "cumulative_runs": inning_balls[
-                            inning_balls["over"] <= over
-                        ]["runs_total"].sum(),
-                        "cumulative_wickets": inning_balls[
-                            inning_balls["over"] <= over
-                        ]["wicket_kind"]
+                        "cumulative_runs": inning_balls[inning_balls["over"] <= over][
+                            "runs_total"
+                        ].sum(),
+                        "cumulative_wickets": inning_balls[inning_balls["over"] <= over][
+                            "wicket_kind"
+                        ]
                         .notna()
                         .sum(),
                         "run_rate": over_balls["runs_total"].sum(),
@@ -271,13 +265,9 @@ class AdvancedAnalytics:
             "player2": {"name": player2, **p2_stats},
             "winner": {
                 "runs": player1 if p1_stats["runs"] > p2_stats["runs"] else player2,
-                "average": (
-                    player1 if p1_stats["average"] > p2_stats["average"] else player2
-                ),
+                "average": (player1 if p1_stats["average"] > p2_stats["average"] else player2),
                 "strike_rate": (
-                    player1
-                    if p1_stats["strike_rate"] > p2_stats["strike_rate"]
-                    else player2
+                    player1 if p1_stats["strike_rate"] > p2_stats["strike_rate"] else player2
                 ),
                 "boundaries": (
                     player1

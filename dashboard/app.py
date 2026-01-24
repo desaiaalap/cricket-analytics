@@ -304,8 +304,7 @@ def main():
         batting, bowling, deliveries, matches = load_data()
 
     if batting is None:
-        st.error(
-            """
+        st.error("""
             ⚠️ **Data not found!**
 
             Please run the data processing first:
@@ -317,8 +316,7 @@ def main():
             ```
             docker-compose --profile process up processor
             ```
-            """
-        )
+            """)
         st.stop()
 
     # Sidebar navigation
@@ -352,15 +350,13 @@ def main():
 
     # Footer
     st.sidebar.markdown("---")
-    st.sidebar.info(
-        """
+    st.sidebar.info("""
         **Cricket Analytics Dashboard**
 
         Data Source: [Cricsheet.org](https://cricsheet.org/)
 
         Built with Streamlit & Plotly
-        """
-    )
+        """)
 
 
 if __name__ == "__main__":

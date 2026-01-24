@@ -121,9 +121,7 @@ def render_momentum_chart(match_id, deliveries, matches):
     fig.update_yaxes(title_text="Runs", row=1, col=1)
     fig.update_yaxes(title_text="Wickets", row=2, col=1)
 
-    fig.update_layout(
-        height=700, template="plotly_white", showlegend=True, hovermode="x unified"
-    )
+    fig.update_layout(height=700, template="plotly_white", showlegend=True, hovermode="x unified")
 
     return fig
 
@@ -138,9 +136,7 @@ def render_manhattan_chart(match_id, deliveries):
     for inning in sorted(match_balls["inning"].unique()):
         inning_balls = match_balls[match_balls["inning"] == inning]
 
-        over_runs = (
-            inning_balls.groupby("over")["runs_total"].sum().reset_index()
-        )
+        over_runs = inning_balls.groupby("over")["runs_total"].sum().reset_index()
 
         innings_data.append(
             {
@@ -331,9 +327,7 @@ def render_key_moments(match_id, deliveries):
     with col2:
         st.markdown("### 🎯 Key Wickets")
         if len(wickets) > 0:
-            wicket_summary = (
-                wickets.groupby("bowler").size().sort_values(ascending=False).head(5)
-            )
+            wicket_summary = wickets.groupby("bowler").size().sort_values(ascending=False).head(5)
 
             for player, count in wicket_summary.items():
                 st.markdown(f"- **{player}**: {count} wickets")
@@ -408,9 +402,7 @@ def main():
         st.markdown("---")
 
         # Tabs for different views
-        tab1, tab2, tab3, tab4 = st.tabs(
-            ["📊 Momentum", "📈 Manhattan", "🐛 Worm", "🎯 Analysis"]
-        )
+        tab1, tab2, tab3, tab4 = st.tabs(["📊 Momentum", "📈 Manhattan", "🐛 Worm", "🎯 Analysis"])
 
         with tab1:
             st.plotly_chart(

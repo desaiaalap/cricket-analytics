@@ -226,12 +226,10 @@ def story_chapter_2(batting, bowling, deliveries, matches, analytics):
     """Chapter 2: Legends of the Game"""
     st.markdown('<div class="chapter-divider"></div>', unsafe_allow_html=True)
 
-    st.markdown(
-        """
+    st.markdown("""
         ## Chapter 2: The Legends
         ### Players Who Defined an Era
-        """
-    )
+        """)
 
     # Top batsmen
     top_batsmen = batting.nlargest(10, "runs")
@@ -312,12 +310,10 @@ def story_chapter_3(batting, bowling, deliveries, matches, analytics):
     """Chapter 3: The Battle: Bat vs Ball"""
     st.markdown('<div class="chapter-divider"></div>', unsafe_allow_html=True)
 
-    st.markdown(
-        """
+    st.markdown("""
         ## Chapter 3: The Eternal Battle
         ### Bat vs Ball: Who Wins in T20?
-        """
-    )
+        """)
 
     # Get phase analysis
     phase_stats = analytics.analyze_match_phases()
@@ -421,12 +417,10 @@ def story_chapter_4(batting, bowling, deliveries, matches, analytics):
     """Chapter 4: Partnerships That Made History"""
     st.markdown('<div class="chapter-divider"></div>', unsafe_allow_html=True)
 
-    st.markdown(
-        """
+    st.markdown("""
         ## Chapter 4: Partnerships
         ### When Two Become Greater Than the Sum
-        """
-    )
+        """)
 
     # Get partnerships
     partnerships = analytics.analyze_partnerships(min_runs=40)
@@ -494,18 +488,14 @@ def story_chapter_5(batting, bowling, deliveries, matches, analytics):
     """Chapter 5: The Deciding Factors"""
     st.markdown('<div class="chapter-divider"></div>', unsafe_allow_html=True)
 
-    st.markdown(
-        """
+    st.markdown("""
         ## Chapter 5: What Wins Matches?
         ### Dissecting the Anatomy of Victory
-        """
-    )
+        """)
 
     # Toss analysis
     matches_clean = matches[matches["outcome_winner"].notna()]
-    toss_wins = matches_clean[
-        matches_clean["toss_winner"] == matches_clean["outcome_winner"]
-    ]
+    toss_wins = matches_clean[matches_clean["toss_winner"] == matches_clean["outcome_winner"]]
     toss_pct = len(toss_wins) / len(matches_clean) * 100
 
     col1, col2, col3 = st.columns(3)
@@ -515,17 +505,13 @@ def story_chapter_5(batting, bowling, deliveries, matches, analytics):
 
     with col2:
         bat_first = matches_clean[matches_clean["toss_decision"] == "bat"]
-        bat_first_wins = bat_first[
-            bat_first["toss_winner"] == bat_first["outcome_winner"]
-        ]
+        bat_first_wins = bat_first[bat_first["toss_winner"] == bat_first["outcome_winner"]]
         bat_first_pct = len(bat_first_wins) / len(bat_first) * 100 if len(bat_first) > 0 else 0
         render_insight_card(f"{bat_first_pct:.1f}%", "Bat First Win %", "🏏")
 
     with col3:
         field_first = matches_clean[matches_clean["toss_decision"] == "field"]
-        field_first_wins = field_first[
-            field_first["toss_winner"] == field_first["outcome_winner"]
-        ]
+        field_first_wins = field_first[field_first["toss_winner"] == field_first["outcome_winner"]]
         field_first_pct = (
             len(field_first_wins) / len(field_first) * 100 if len(field_first) > 0 else 0
         )
@@ -574,8 +560,7 @@ def main():
     batting, bowling, deliveries, matches = load_data()
 
     if batting is None:
-        st.error(
-            """
+        st.error("""
             ❌ **No data found!**
 
             Please run the E2E pipeline first:
@@ -587,8 +572,7 @@ def main():
             ```
             python scripts/init_pipeline.py
             ```
-            """
-        )
+            """)
         return
 
     # Create analytics
