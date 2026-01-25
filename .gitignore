@@ -25,6 +25,7 @@ data/processed/*.parquet
 *.tar.gz
 *.tar
 data/downloads/
+*.json
 
 # ============================================================================
 # Python
@@ -289,3 +290,4 @@ docs/_templates/
 # Keep configuration files (but not in data directories)
 !.gitignore
 !.gitattributes
+data/external/t20s_male_json/README.txt

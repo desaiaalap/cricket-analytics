@@ -11,13 +11,14 @@ Usage:
     downloader.download_tournament('icc_mens_t20_world_cup_male', 'data/external')
 """
 
-import requests
-import zipfile
-import os
-from pathlib import Path
-from typing import List, Dict, Optional
 import json
+import os
+import zipfile
+from pathlib import Path
+from typing import Dict, List, Optional
 from urllib.parse import urljoin
+
+import requests
 
 
 class CricsheetDownloader:
@@ -31,28 +32,33 @@ class CricsheetDownloader:
     BASE_URL = "https://cricsheet.org/downloads/"
 
     # Available tournaments and their download URLs
+    # NOTE: Cricsheet changed to JSON format. YAML files may be deprecated.
+    # Updated URLs based on Cricsheet.org documentation (2026)
     TOURNAMENTS = {
-        # T20 International
-        "icc_mens_t20_world_cup": "t20s_male_yaml.zip",
-        "icc_womens_t20_world_cup": "t20s_female_yaml.zip",
-        "t20_internationals_male": "t20s_male_yaml.zip",
-        "t20_internationals_female": "t20s_female_yaml.zip",
-        # T20 Leagues
-        "ipl": "ipl_male_yaml.zip",
-        "bbl": "bbl_male_yaml.zip",
-        "cpl": "cpl_male_yaml.zip",
-        "psl": "psl_male_yaml.zip",
-        "blast": "blast_male_yaml.zip",
-        "hundred": "hundred_male_yaml.zip",
-        "super_smash": "super_smash_male_yaml.zip",
-        # ODI
-        "odi_male": "odis_male_yaml.zip",
-        "odi_female": "odis_female_yaml.zip",
-        # Test
-        "test_male": "tests_male_yaml.zip",
-        "test_female": "tests_female_yaml.zip",
-        # Other formats
-        "all_matches": "all_yaml.zip",
+        # T20 International (JSON format - current)
+        "t20_internationals_male": "t20s_male_json.zip",
+        "t20_internationals_female": "t20s_female_json.zip",
+        "icc_mens_t20_world_cup": "t20s_male_json.zip",
+        "icc_womens_t20_world_cup": "t20s_female_json.zip",
+        # T20 Leagues (JSON format)
+        "ipl": "ipl_male_json.zip",
+        "bbl": "bbl_male_json.zip",
+        "cpl": "cpl_male_json.zip",
+        "psl": "psl_male_json.zip",
+        "blast": "blast_male_json.zip",
+        "hundred": "hundred_male_json.zip",
+        "super_smash": "super_smash_male_json.zip",
+        # ODI (JSON format)
+        "odi_male": "odis_male_json.zip",
+        "odi_female": "odis_female_json.zip",
+        # Test (JSON format)
+        "test_male": "tests_male_json.zip",
+        "test_female": "tests_female_json.zip",
+        # All matches (JSON format)
+        "all_matches": "all_json.zip",
+        # Legacy YAML format (fallback)
+        "t20_internationals_male_yaml": "t20s_male_yaml.zip",
+        "t20_internationals_female_yaml": "t20s_female_yaml.zip",
     }
 
     def __init__(self, base_url: Optional[str] = None):
@@ -130,9 +136,9 @@ class CricsheetDownloader:
         print(f"   URL: {url}")
         print(f"   Destination: {zip_path}")
 
-        # Download the file
+        # Download the file with retry/fallback logic
         try:
-            response = requests.get(url, stream=True)
+            response = requests.get(url, stream=True, timeout=30)
             response.raise_for_status()
 
             # Get file size
@@ -157,6 +163,28 @@ class CricsheetDownloader:
 
         except requests.exceptions.RequestException as e:
             print(f"❌ Download failed: {e}")
+
+            # Try fallback to YAML if JSON failed
+            if "_json.zip" in filename and "_yaml" not in tournament:
+                print(f"   Trying YAML format as fallback...")
+                yaml_tournament = tournament + "_yaml"
+                if yaml_tournament in self.TOURNAMENTS:
+                    try:
+                        return self.download_tournament(
+                            yaml_tournament, output_dir, extract, cleanup_zip
+                        )
+                    except Exception:
+                        pass
+
+            # If all else fails, provide helpful error
+            print("\n" + "=" * 70)
+            print("⚠️  DOWNLOAD TROUBLESHOOTING:")
+            print("=" * 70)
+            print(f"1. Check internet connection")
+            print(f"2. Verify Cricsheet.org is accessible: https://cricsheet.org")
+            print(f"3. Try manually downloading from: {url}")
+            print(f"4. If using existing data, you can skip this step")
+            print("=" * 70)
             raise
 
         # Extract if requested
@@ -168,9 +196,17 @@ class CricsheetDownloader:
                 with zipfile.ZipFile(zip_path, "r") as zip_ref:
                     zip_ref.extractall(extract_dir)
 
-                # Count extracted files
+                # Count extracted files (both JSON and YAML)
                 yaml_files = list(extract_dir.glob("**/*.yaml"))
-                print(f"✅ Extracted {len(yaml_files)} YAML files")
+                json_files = list(extract_dir.glob("**/*.json"))
+                total_files = len(yaml_files) + len(json_files)
+
+                if json_files:
+                    print(f"✅ Extracted {len(json_files)} JSON files")
+                if yaml_files:
+                    print(f"✅ Extracted {len(yaml_files)} YAML files")
+                if total_files == 0:
+                    print(f"⚠️  No JSON or YAML files found in archive")
 
                 # Cleanup ZIP if requested
                 if cleanup_zip:

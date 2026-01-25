@@ -4,17 +4,18 @@ Unit tests for Cricpy Loader
 Tests the YAML loading and parsing functionality
 """
 
-import unittest
-import sys
 import os
+import sys
+import unittest
 from pathlib import Path
+
 import pandas as pd
 import yaml
 
 # Add scripts directory to path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))
 
-from cricpy_loader import load_yaml, parse_match_info, parse_match
+from cricpy_loader import load_yaml, parse_match, parse_match_info
 
 
 class TestLoadYaml(unittest.TestCase):
