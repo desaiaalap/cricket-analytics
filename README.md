@@ -27,7 +27,7 @@ docker-compose up --build
 
 **No configuration. No manual steps. Just works!** 🚀
 
-👉 **Having download issues?** See [DATA_SOURCES.md](DATA_SOURCES.md) for troubleshooting
+👉 **Having download issues?** See [DATA_SOURCES.md](docs/phase1/DATA_SOURCES.md) for troubleshooting
 
 ---
 
@@ -48,7 +48,7 @@ docker-compose up --build
 docker-compose --profile full up --build
 ```
 
-👉 **[Complete Dashboard Guide](DASHBOARD_GUIDE.md)**
+👉 **[Complete Dashboard Guide](docs/phase1/DASHBOARD_GUIDE.md)**
 
 ### 🔬 Advanced Analytics
 
@@ -294,11 +294,11 @@ Cricsheet migrated from YAML to JSON format:
 **If you see download errors (404, 403):**
 
 1. **Check internet connection**
-2. **See detailed guide:** [DATA_SOURCES.md](DATA_SOURCES.md)
+2. **See detailed guide:** [DATA_SOURCES.md](docs/phase1/DATA_SOURCES.md)
 3. **Manual download option available**
 4. **Alternative data sources provided**
 
-👉 **[Complete Data Sources Guide](DATA_SOURCES.md)**
+👉 **[Complete Data Sources Guide](docs/phase1/DATA_SOURCES.md)**
 
 ---
 
@@ -370,12 +370,12 @@ gcloud run deploy cricket-analytics \
 
 | File | Description |
 |------|-------------|
-| **[START_HERE.md](START_HERE.md)** | Quick start for beginners |
-| **[E2E_GUIDE.md](E2E_GUIDE.md)** | Complete E2E pipeline guide |
-| **[DASHBOARD_GUIDE.md](DASHBOARD_GUIDE.md)** | All 5 dashboards explained |
-| **[DATA_SOURCES.md](DATA_SOURCES.md)** | Data download troubleshooting |
-| **[DOCKER_GUIDE.md](DOCKER_GUIDE.md)** | Docker setup and usage |
-| **[PROJECT_COMPLETE.md](PROJECT_COMPLETE.md)** | Comprehensive project summary |
+| **[docs/README.md](docs/README.md)** | Complete documentation index |
+| **[QUICKSTART.md](docs/phase1/QUICKSTART.md)** | Quick start for beginners |
+| **[E2E_GUIDE.md](docs/phase1/E2E_GUIDE.md)** | Complete E2E pipeline guide |
+| **[DASHBOARD_GUIDE.md](docs/phase1/DASHBOARD_GUIDE.md)** | All 5 dashboards explained |
+| **[DATA_SOURCES.md](docs/phase1/DATA_SOURCES.md)** | Data download troubleshooting |
+| **[DOCKER_GUIDE.md](docs/phase1/DOCKER_GUIDE.md)** | Docker setup and usage |
 
 ---
 
