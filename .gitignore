@@ -3,6 +3,8 @@ data/processed/*.csv
 data/processed/*.parquet
 data/external/
 data/raw/
+*.csv
+*.pkl
 
 # Model files (binary - regenerate locally)
 scripts/ml/models/*.pkl
