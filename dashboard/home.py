@@ -258,6 +258,21 @@ def render_dashboard_links():
 
         st.markdown("**Run:** `streamlit run dashboard/app.py`")
 
+        st.markdown(
+            """
+            <div class="dashboard-card">
+                <div class="card-title">🔮 ML Predictions</div>
+                <div class="card-description">
+                    Predict what happens on the very next delivery! Use machine learning
+                    to forecast wickets, runs, boundaries with 70-99% accuracy.
+                </div>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+
+        st.markdown("**Run:** `streamlit run dashboard/ml_predictions.py`")
+
 
 def render_top_performers(batting, bowling):
     """Render top performers section"""
